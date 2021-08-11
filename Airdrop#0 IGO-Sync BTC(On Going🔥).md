@@ -4,7 +4,7 @@
 
 ##### Address Type: BSC
 
-##### Schedule: 2021.8.8~2021.8.11(On Going🔥) http://app.dnft.world/igo
+##### Last Update: 2021.8.11(On Going🔥) http://app.dnft.world/igo
 
 ##### Winner List
 
