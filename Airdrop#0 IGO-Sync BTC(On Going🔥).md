@@ -1,10 +1,10 @@
-##### Theme: IGO-Olympic BTC Synthesis Game
+##### Theme: IGO-Olympic BTC Synthesis Game(On Going🔥) http://app.dnft.world/igo
 
 ##### Activity Link: https://medium.com/dnft-protocol/olympic-btc-synthesis-game-is-alive-on-dnft-now-293eee08b665
 
 ##### Address Type: BSC
 
-##### Last Update: 2021.8.11(On Going🔥) http://app.dnft.world/igo
+##### Last Update: 2021.8.11
 
 ##### Winner List
 
