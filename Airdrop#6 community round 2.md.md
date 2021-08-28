@@ -2008,3 +2008,4 @@
 | https://www.twitter.com/yourusername                         | 0xF174b942E5eE54bB747CDD4DEE788478a92DBDDa                   | 10    | 0         | 10         |         |
 | https://twitter.com/Aksh90923342/status/1425382595391414279?s=19 | 0xF8594f328d6C15aA1d19E130160316A49207f855                   | 10    | 0         | 10         |         |
 | https://twitter.com/n_ngoclien                               | 0x8C1B69acc3b26Fa7344b4eE73C4e6652740a271f                   | 10    | 0         | 10         |         |
+| @tegarputrajaya_                                             | 0x7a2b787057d42463F466D621344730317c3c32FB                   | 10    | 0         | 10         |         |
