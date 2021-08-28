@@ -4,7 +4,7 @@
 
 ##### Address Type: BSC
 
-##### Last Update: 2021.8.11
+##### Last Update: 2021.8.28
 
 ##### Winner List
 
