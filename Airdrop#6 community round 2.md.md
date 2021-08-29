@@ -1,4 +1,4 @@
-##### Theme: DNFT community Airdrop (2st Round)
+##### Theme: DNFT community Airdrop (2nd Round)
 
 ##### Activity Link: https://twitter.com/DNFTProtocol/status/1425435343558373376
 
