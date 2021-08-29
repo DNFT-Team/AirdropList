@@ -6,2006 +6,2006 @@
 
 ##### Winner List
 
-| Twitter                                                      | Address                                                      | Basic | Ref_Bouns | DNF Amount | Status  |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ----- | --------- | ---------- | ------- |
-| https://twitter.com/MdEmam11122?s=09                         | 0x0330f34F13b1EfFB8Bf22a37B566D1d919205cCF                   | 10    | 2         | 12         |         |
-| https://mobile.twitter.com/Manasaiatau5                      | 0x04529565C34CEEe0c304103c632A0d8c14686f7d                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/abubaka03154540                      | 0x7e579FB16B182FFEA360aB3767D61CdF473B1f44                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/NgocDzai/status/1425458037133770753 | 0x6Bb1C7Eec0b7247f0069A3fc9F9D9e2a6d5D10f6                   | 10    | 0         | 10         |         |
-| https://twitter.com/Lifestreal                               | 0x5a47666BD56F706079A12d757566c484ccC7C13b                   | 10    | 12        | 22         |         |
-| https://twitter.com/HewageSasindu                            | 0x752e388CCA6dfDD23213B882A10C8a4EdF4c719e                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/ArbikZulkifli                        | 0x5d556aAfA1FF897dBee5C3f703beF88abF94F7d7                   | 10    | 0         | 10         |         |
-| https://twitter.com/ElainaP33941850                          | 0xDdC6aC167990d4aeb2e1f60dFfBDeee6ca858859                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/SHAMSUD49177866                      | 0x4D87B220695aDCd6F1068361A45Ae4656C1b6B39                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/engageub                             | 0x80d823D37EdAC70c2b72bd6fCbEd8061d20f05d3                   | 10    | 2         | 12         |         |
-| https://www.twitter.com/Gusion1                              | 0xA0a6d391c54D763d978e8fCaa80b0bc4EE8909d3                   | 10    | 0         | 10         |         |
-| https://twitter.com/EricWang666666                           | 0x83b0e55779a61C3A4D5f2d22a23656Ebd2fE44eD                   | 10    | 0         | 10         |         |
-| https://twitter.com/sophia                                   | 0x5D98a75aB23374740C04F074DadF80cCc4539DFE                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/syahiddipo                           | 0x68EC63bF3A6da2006644c932a7675f0eF975A90f                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/dhyohow1                             | 0x5843eFd113e79482A963AdC4b9336C3735249057                   | 10    | 34        | 44         |         |
-| https://twitter.com/AliyuAbulmalik1?s=09                     | 0x9f1053d89574F61DB6c7bB8Fa2245680972fC81F                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/mohamad58831613                      | 0xC4a62D49C1EE8FFD16933B0e39850823C992979C                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Silviap14772632                      | 0x0434A3B71dbD6a1a2C0274fAf77D01f360Eb265e                   | 10    | 0         | 10         |         |
-| https://twitter.com/Bleach435210                             | 0x1154dbae0ec3166398ea446672dbe633ad3d9c6d                   | 10    | 0         | 10         |         |
-| https://twitter.com/DeniDiharjo                              | 0x40248767c8864C9C014B1105218b4f7c8216250e                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Rhizal_Antonio9                      | 0x5d8417F086d3c2EDdFc4E7B5df0c75Beecd67F98                   | 10    | 0         | 10         |         |
-| @Ashish79857                                                 | 0x3647D42096D4a433940d646F4d5dACa49Fb3eb93                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/NaziurRahaman14                      | 0x6988728De7aD75781276550F3630d354F787BB50                   | 10    | 2         | 12         |         |
-| https://twitter.com/manis_caitlyn                            | 0x4A8Fe39190BBe77f73F14B7AACA094C0a29eEfF5                   | 10    | 0         | 10         |         |
-| https://twitter.com/jobyda_khan?s=09                         | 0xe8a4b1c7179cC7525E77297034d3F15f1FCa73E1                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/@Rockypatra14                        | 0xd03A57B485D994825F0a1372C42928C098a724Bb                   | 10    | 4         | 14         |         |
-| https://www.twitter.com/LuizFer11180177                      | 0x42a7E5bc904F915DBd325c5660d83323DcA9F665                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/MdIbrah16113189                      | 0xB2C187B7d72C652097dA2606133d3F62BD8b1cD5                   | 10    | 0         | 10         |         |
-| https://twitter.com/Khoanguyen0509                           | 0xCBe51a05803aEDADc7F3c637a9221aEe51570C84                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/rose_shantia                         | 0xfC30939b64d22018f09608B5bD13CE346D99d87f                   | 10    | 2         | 12         |         |
-| https://twitter.com/Sharon95453156                           | 0x30Ee48BFa20275Ef90eA9e55929cF75Ef29eb3E3                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/etybrianii                           | 0xC179C4EBa333fe0a3ea679D87433eb795871210d                   | 10    | 12        | 22         |         |
-| https://www.twitter.com/sarjapoeclub                         | 0x5350EA4Ca1191F0254C2Ec5fE72b44aeFb94f9D6                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/5zrWn1tl6xfRJF2                   | 0x08d1619170d71e2c77b3084c9dd5fdc58858f2df                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/MdAkter39955976                   | 0xe9DE4153451e8dbf21DEd4B40A2DF30809E02A09                   | 10    | 0         | 10         |         |
-| Thomasbasem1231                                              | 0xc1e5D45e4F5a7c7664D52678Beef2Bc076dA085D                   | 10    | 0         | 10         |         |
-| https://twitter.com/joker95029290                            | 0xbc01Da3145AAB2c815e50F8d77A479e1Da7dE58e                   | 10    | 0         | 10         |         |
-| https://twitter.com/iiSpeak2                                 | 0x806598ebc9f45adAf8a20f98c47E8ebb20529407                   | 10    | 0         | 10         |         |
-| https://twitter.com/Optimus31067033                          | 0x31Cf2A732476b778CB5932337908Fc1b1EC5a5f3                   | 10    | 0         | 10         |         |
-| https://twitter.com/Jayaboards                               | 0x9EEeE17D26133f8A0F70d7F06A9848e6ED6412CF                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/pkboss131                            | 0x3A6Da148F241a25038613E852fDfABc7f0f49b5c                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/salsa0016                            | 0xAd722889eD71a2dd4D71D3F3842D6d22a8E858fC                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/AbdulAl44507928                   | 0x810E833a3Dee853Dd1E1f663bE713F3072Cd2d44                   | 10    | 4         | 14         |         |
-| https://www.twitter.com/SDekawan                             | 0x81e57cc02174F299329Fb248A4a2f37Ac1f43fBA                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/MdJahid77971530                   | 0xa1F9de40AeD6DaE234367fd5ECE2721E99C9Bf50                   | 10    | 0         | 10         |         |
-| https://twitter.com/Mahmoodkhosrav8                          | 0x18E055889255b19B59E69CEB031323AD1312B943                   | 10    | 2         | 12         |         |
-| https://twitter.com/Anjas_000                                | 0xdF841ba9B6e0e267CF31862A34Ff5F8E498F7d44                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/NialGens                             | 0xD8E49d9a1eAFf33D18A6b802863c2d292103A4Ad                   | 10    | 0         | 10         |         |
-| https://twitter.com/Johny90896893?s=09                       | 0x8625982f26AA9f60Ee7eB3FFFfC318A06B7DdD38                   | 10    | 0         | 10         |         |
-| @Antim745023821                                              | 0x7dfeB5297aDa0a1d21a04dd3E45e6429668B2D5e                   | 10    | 0         | 10         |         |
-| https://twitter.com/Akshayaade01                             | 0x9Caa3Ac8e9BE8dB009F2ce27307dca10DcB3b223                   | 10    | 0         | 10         |         |
-| https://twitter.com/Ahsan2075?s=09                           | 0xC62487398f98831886541841F7Ad986035Dff72E                   | 10    | 0         | 10         |         |
-| https://twitter.com/bengfupggy                               | 0xDa0fdDB00133152c68bC4ec056814bbbBea16a89                   | 10    | 0         | 10         |         |
-| https://twitter.com/i56dpTNJYb4FMpf                          | 0x9e4E69Bc0C0C67732ec16848117C380C5740CcBc                   | 10    | 0         | 10         |         |
-| https://twitter.com/AyanMai83898882                          | 0x2E38247A409F156Eb2dd87eF56A92C84e115D79B                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/ADMalik78429083                   | 0x777c783b55239cf8234e8caC933966561AB54EB7                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/MonisAl12729918                      | 0xE79c0e5CaF00D46A37f1897d9eB08a86eFaA3812                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Andrei16184128                       | 0x1cc74EAf1d8e868ECC720cFFf00AcF7f0979C448                   | 10    | 0         | 10         |         |
-| https://twitter.com/Bakkuul                                  | 0x1d82b9cf319803F7F7433Ae79FD7ebeAE1e0018E                   | 10    | 0         | 10         |         |
-| https://twitter.com/hosain0337?t=BTolYOlpV1qNPTEBXcaLeA&s=09 | 0x73d57224a8d88a6830dDEFA05A4a4e7496FA3F91                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/ZaenudinKiki                      | 0xE5a939ddf05A4777037AC0397b17B1C1B39E1D3e                   | 10    | 12        | 22         |         |
-| https://www.twitter.com/Sanjeet02023326                      | 0xC881E47416dbb770E50600df9230Ff6FA3D33347                   | 10    | 0         | 10         |         |
-| https://twitter.com/Jaber93800763?s=09                       | 0x32Adf5B11C065efc894242773732679a93306e8c                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Golfermom1a2                         | 0x50aA81eBA66C02241731CFE4D425e3ee3E5987e4                   | 10    | 0         | 10         |         |
-| https://twitter.com/REDWAN51410041                           | 0x54245D97056f47e0715C1224802Dc68Eb11b8Da6                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/yourusername                         | 0xFaE7d8dEF510914BDc7da90864bc25C090BE05FB                   | 10    | 0         | 10         |         |
-| https://twitter.com/tadeekaahotmail                          | 0x06D39744815849240A769da68316ef893Cd3896D                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/tron_jesus                           | 0xf0E205B2db046d85eF055d233b2072e799F5A96B                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Brayen_r28                        | 0xc26552eC46c65903b4bD425C93B9F12cbA3F7268                   | 10    | 34        | 44         |         |
-| https://twitter.com/LTinHi9                                  | 0xfFaFBf98C218DCD460f4Dbc019D6A8E00f2FC729                   | 10    | 0         | 10         |         |
-| https://twitter.com/joseph21735579/status/1425533935082168325?s=20 | 0xcCBCd2b06a24CD5973D31461224fE811DeA54bde                   | 10    | 0         | 10         |         |
-| https://twitter.com/loreelynn01                              | 0xd865Ee9F876b1Db1902AAFC59d22DC39859Ec73c                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/AshikIs84477188                      | 0xe1445e3e6D5B4d5385e12144ADd5956231b6BbBd                   | 10    | 0         | 10         |         |
-| https://twitter.com/PremBista143                             | 0x402843F720b040130625631D9Ade485c0FDE6b18                   | 10    | 0         | 10         |         |
-| https://twitter.com/Chancha57834533?s=09                     | 0x1E7D12b5ACab4181d2b7283B08D2856e5fC4C7fB                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/yapeo_yaps                           | 0x91eF4B1685927a5Ad1C63d3565754B4fE78c316C                   | 10    | 40        | 50         |         |
-| https://twitter.com/DesignCube2                              | 0xFC20abf531d8696328ec4b53d7B5DfAC54b1d401                   | 10    | 0         | 10         |         |
-| https://twitter.com/quangdungvpa                             | 0x4F12501F9D580205C17b296c26e413090EfBd1f1                   | 10    | 0         | 10         |         |
-| https://twitter.com/EmrahCa12360251                          | 0x2f94C945d62E9B387A714AE81f0a71701Ed71E81                   | 10    | 0         | 10         |         |
-| https://twitter.com/Adit75860841?s=08                        | 0x51793240D69a3dDBc2911BEBb9169c89806F1895                   | 10    | 0         | 10         |         |
-| https://twitter.com/roksana0072                              | 0xBE2c187bF38322A660c2589E576631EED71a1600                   | 10    | 0         | 10         |         |
-| @singhatapan                                                 | 0xF122F207b433639AA2DA29A0d1b6E51Bf8DE2CE9                   | 10    | 0         | 10         |         |
-| https://twitter.com/baek3040                                 | 0xb5A3eaDeb82Ac179175E901fBE6A0a37Ee62761c                   | 10    | 0         | 10         |         |
-| https://twitter.com/Noman78121797                            | 0xef42d66791B39D1fFcCf1468307d4c524886cABa                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/@Katrok027                           | 0x882649ec8910e98c427e36c19F0DB492733E5A03                   | 10    | 0         | 10         |         |
-| www.twitter.com/jakaria1joy                                  | 0xC7Ac40a7767ca5aDd01829c5507Ec1f272EC9BC4                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/vishalb12Nov                         | 0xd710751eE38E6c4e09b5A37E2A106d20A10D7ed8                   | 10    | 2         | 12         |         |
-| https://www.twitter.com/peshtivan                            | 0x14cFB7403e96B9e5f425f22Ca2390B7F5867Dd36                   | 10    | 0         | 10         |         |
-| https://twitter.com/drakeboy281198                           | 0x28806FFCf059Be1357529a5669Eda6F6eB693a3E                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/MDSWAPNO2                         | 0xda8Ab459b10a43004Baa7eb03BC7650e908F8772                   | 10    | 0         | 10         |         |
-| https://twitter.com/mikayilvlzd                              | 0x317f47f29E7cBA29BF2D9E7Ed24CEbdA2e6aA5Bf                   | 10    | 0         | 10         |         |
-| Lihat anto (@antoradhit): https://twitter.com/antoradhit?s=09 | 0x67C64796b18509CFE41B7eBc984796b6E5081598                   | 10    | 0         | 10         |         |
-| https://twitter.com/PhillipsOluwad1/status/1423985681148297216?s=19 | 0xb2d384672EED30122AA541D8C4DcB6166c50D123                   | 10    | 0         | 10         |         |
-| https://twitter.com/batt_musharaf                            | 0x3DF0Ee6515A79914EeaEaC7869DF49326da9a4CA                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/sasan2320                            | 0x9E0010c004986D3Cc167aF1AcF9c3c0670e6bbA0                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Azhar53926569                     | 0xF4a933fd7C643efa5483Cf47E8e5464371bd5aAB                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/gvkmohan5                            | 0x2d5be26cA81D8d877f4590A8397C45Ae1E372D52                   | 10    | 0         | 10         |         |
-| https://twitter.com/AchmadTeysan                             | 0x84E98E81C108551dE33c705740AEe87cd797714a                   | 10    | 0         | 10         |         |
-| https://twitter.com/DNFTProtocol/status/1424345335078428682?s=19 | 0x1Bf2510b9cD74630d20d58c2789072a7db1bDf55                   | 10    | 0         | 10         |         |
-| https://twitter.com/DNFTProtocol/status/1424345335078428682?s=19 | 0x54028E90a52CCEc162e92D6888a188FC7B943f4d                   | 10    | 0         | 10         |         |
-| https://twitter.com/Rupesh206007?s=09                        | 0x348590995CCF14664e498eEa432ED737bBa62D03                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/normlazykid                          | 0xF9691891e2d9cc9f436939f3b88BCAF8b37C9eF4                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/raflinur423                       | 0x6a72738BE767c64D9A84AAd597923bC024522Ca0                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/priadi1602                           | 0x812B0B80cF5dE608cba3F2A91a12176E1457B25d                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/MdSohel59199487                   | 0xfF1A27076197db5Eb487B3b6f937F9E35330ad2e                   | 10    | 4         | 14         |         |
-| https://mobile.twitter.com/Nirajku39925622                   | 0x191124Ed5262342D0F1bDE68c12529a3Cb46145B                   | 10    | 0         | 10         |         |
-| https://twitter.com/Sirajul01714018?s=09                     | 0x29945De523A96A3e06E5bb67Cffe70FB0EA06D7B                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/shaon01194361                        | 0xdD0DF419f9e508d17Cd938AD51F37E2f63cdc75f                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/TruongT74572193                      | 0xb4C013Ab212358cCe8E1B83FeC00fE4514dC0790                   | 10    | 0         | 10         |         |
-| https://twitter.com/AriRusdianawati?s=09                     | 0x3555F16150aF28De45ACdBcdeF586A88B3Ab187F                   | 10    | 0         | 10         |         |
-| https://.twitter.com/Tanjuma112                              | 0x351D192222B388b12B292B49B8C763b23537b46f                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/VeteranCryptoB                       | 0xe32423963c8824E5b529262406467d3D8B241345                   | 10    | 0         | 10         |         |
-| https://twitter.com/Rakibul0792?s=09                         | 0x4259293ecc722A96b588DF9c568c4e000d0D3EBF                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/SureshK08464915                   | 0x92877EE69C9Bf3a73d26053D9BaAe0aa7923aB48                   | 10    | 0         | 10         |         |
-| https://twitter.com/Memory54088                              | 0xBDDdc6bAcEcC345C69CEE7389D67D8df61FD6cf7                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/NikhilK21277479                      | 0x1ff492f32EDB42f5E927C3Ba25b6C49cD6FB13eA                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/checo1319                            | 0x0F1C10526cE73415D42130b0939e7b898A23d74E                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/purno789                          | 0xD811927d5dc495140ab314Bd0Dd06171f001c61B                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Akash1269222652                      | 0x0F8ece876c840Da69aA36f6a3e6F37E7D6f0F633                   | 10    | 16        | 26         |         |
-| https://www.twitter.com/TungTiger4                           | 0x28E98b65c0136672de9662464ebb58e6d67288EA                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/dranhvu                              | 0x65557C63993F81d5a90587c95A57D437589AaC39                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/rohamronagh                          | 0x45874819F940f559Fdaf9912cc2B15b7a70D84C9                   | 10    | 0         | 10         |         |
-| https://twitter.com/rishav40930455                           | 0x57064C502Da41696dad78884F9aE223e8386cb6B                   | 10    | 0         | 10         |         |
-| https://twitter.com/Yldrmak44490694                          | 0x828be76EBf121E4CfC29EE9160A4626b3719ab3A                   | 10    | 0         | 10         |         |
-| https://twitter.com/khalid_target?s=08                       | 0x45E03CD67635AF694447bf6403889bBb9472DAee                   | 10    | 0         | 10         |         |
-| https://twitter.com/Eyzhaa1?s=09                             | 0xD5033fc7092A767dACbF0d7CEeF67b4a63cf1de0                   | 10    | 0         | 10         |         |
-| https://twitter.com/hentyanderson1                           | 0xE5dE1f3649FCf2884dc64308b2fE6339fa724Caa                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Mr_AhmedFahmy                        | 0x4fD07A3F12e7c846B30A81aBAb1fB237Ca19C3Cd                   | 10    | 0         | 10         |         |
-| https://twitter.com/Jibon78504425                            | 0xf6f2F14A47A6a1a842C32bf5e0708201E2237213                   | 10    | 0         | 10         |         |
-| https://twitter.com/Ferncalixto                              | 0x06CA516069F526bF5fB844183dc4D39fb482ED25                   | 10    | 0         | 10         |         |
-| https://twitter.com/AntorAhammed9?s=09                       | 0x0aC88771040a5cD2E399787158CEb6A753c83e77                   | 10    | 0         | 10         |         |
-| https://twitter.com/mdmaidulislamm2?s=09                     | 0xAA4c6902f8491D72567fe78c594c169C04a9e0Dd                   | 10    | 0         | 10         |         |
-| https://twitter.com/HossainShipat?s=09                       | 0x787706cd1b80f918545AEA67ae07502600978dd1                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/mani45999044                      | 0x8fE540f9FF57FCFa7E4cACE72325512993d48EcC                   | 10    | 0         | 10         |         |
-| https://twitter.com/BhartiyeGaurav                           | 0xBF83f7aAA55C009dcBBB188Da60d7b18D3171e50                   | 10    | 0         | 10         |         |
-| https://twitter.com/shayantta                                | 0x4f02E90BC7A4bc590CD3F66755e501064f24954A                   | 10    | 0         | 10         |         |
-| https://twitter.com/KriptoTrader11                           | 0x3a36B6C8eD8c7953b6E48838f1bF79466cDD9c9C                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/W67189038                            | 0xa23382895eCbC2E84FF0eB4e694A2F0c9eFa24F0                   | 10    | 0         | 10         |         |
-| https://twitter.com/JoyGuru525?s=09                          | 0x5C96104C9becA36DeE5B48b1Dd82Ed8BDDB118E2                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/aiidrop                              | 0x6Dd9D1e0acE2bc5802e13D1BCCA2016C8161f219                   | 10    | 6         | 16         |         |
-| https://mobile.twitter.com/Asimek3                           | 0xdC57FEe48235d589D82F639D035e922021d8FA42                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/buikhoi85                            | 0x425F39ca0aB8DcEBA6DE582c557aecB331d8C5d5                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/dinhngocson247                       | 0xb7f3c6BAF83D4BC1C8E97f3c437BD058c1b948dE                   | 10    | 0         | 10         |         |
-| https://twitter.com/PedroLo54725006                          | 0xf4B445F3d5909Bb9E24Ab16c2223887FCDC7f910                   | 10    | 0         | 10         |         |
-| https://twitter.com/SeptiSeptithea                           | 0x24174fD426a8BeeE90b78169A4B00D1A2D3E571C                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/@Rizkystyle05                        | 0xCA8DF00673F5018abFb989Fd988657f29D4b1adC                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/fayisptkoppam                        | 0xBa8859c628ea0f4baaDdf278117a05Ef672dE093                   | 10    | 0         | 10         |         |
-| https://twitter.com/selinajannat27?s=09                      | 0x086232310b4d262bA88d68907D684E56a8b3EAf4                   | 10    | 0         | 10         |         |
-| https://twitter.com/noranordrop                              | 0x087aB332f9425a09a2f004f74A97FAA02626BB38                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/dkkillertrader                       | 0xea1e40244Bf262171e5Ac8fD53f69D8132a9632f                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/ShankarKujur4                     | 0x0Ac4dAbf3080AF7fD06dF3870926daE357d9F1eA                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Ahmad20894052                     | 0x9903873b610D5d3283795b0853fa41a1ee9165A5                   | 10    | 4         | 14         |         |
-| https://twitter.com/Alex07347873                             | 0x8a87EdCF06f2E03Cf6F413be85012d7CfDDF6d5c                   | 10    | 0         | 10         |         |
-| https://twitter.com/BechieAri/status/1425396427350552576?s=20 | 0x2c08e33A142B16A6755634847218Ff400C3a3A3f                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/janakjoahi                           | 0xDa40Cb1032B14fce7565ce0f67e11DEceCA11e6D                   | 10    | 0         | 10         |         |
-| https://twitter.com/Fahrulr29600414                          | 0xeeBa5DF13a547e835F644e287C17cB0b7D17d0F7                   | 10    | 0         | 10         |         |
-| https://twitter.com/RDuel87                                  | 0x66D9F0CF26D95d1Ba4a74dF9b49ef8630eB0DF3d                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/venkata_jai                          | 0x0973842cC65BD8F319cFDA268203D0c9E8319818                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Fandy62649008                        | 0xF4Ca5868f4c22620c5dd610E6d097327CF895690                   | 10    | 0         | 10         |         |
-| https://twitter.com/notreallyenvy                            | 0x8a710cD442F1449b11275F64E83a10A441169c99                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/fajargenk_                           | 0x414Df8D7E4217D809f67408BBB304Fa867da8836                   | 10    | 0         | 10         |         |
-| https://twitter.com/phatdthihi1                              | 0xA2911d62f3Eefa30070F7D2093EDDaBFf11d221f                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/@NayanDa14066037                     | 0x7Feb380ae3C24772945c5d46D1C30e15749a0f53                   | 10    | 0         | 10         |         |
-| https://twitter.com/ACybernauts                              | 0x5A37a6470312cC35ccD16a2b125048bb2eC699f7                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/tannguyen6986                     | 0xcC7a918A4389B37165005b392Ce7EF9B5Ad5Fb12                   | 10    | 0         | 10         |         |
-| https://twitter.com/Stephan79860962                          | 0xeBB05bf7a46ee6e5DA66f9920a49C22443340670                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Phyokya33554748                      | 0x3A4d4d5c7c12daF6D48719732d7F59447dEF3841                   | 10    | 0         | 10         |         |
-| https://twitter.com/bepmoi1                                  | 0x31cbDCE85E716a929a915D67c006f20430c8c063                   | 10    | 0         | 10         |         |
-| https://twitter.com/BrouardTamara                            | 0x76D5D2069E179847205eDC269e5ce376d95a6B38                   | 10    | 0         | 10         |         |
-| https://twitter.com/ShaeerUI                                 | 0x9c70888aa854090E5F4b2Db7b0117aC7247FB3DC                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/ArslanAtilla73                       | 0xD885101dd6e26C52deF5d8a9C1cB0154BC14279F                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/nasir2802                            | 0x1adB4a3A8DfB5AEC0b09CF790471f4c853Df8c05                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Airmoore2                            | 0xb900CC570d37e7Ad8c092F0A20c5dA115FD06257                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/RobinHa46248492                   | 0x93B2D8f03a1AA522DA6961A1432c77F118114543                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/olayemiiyanu                         | 0x9D92319196d8aF753a69387A9A052E40f5BaeE34                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/mrsmiraaj                            | 0x57a6A22D494665244b24e2d847D965F622C6777A                   | 10    | 0         | 10         |         |
-| https://twitter.com/MariaFo42354956                          | 0x48bd3A759231C9e304d7a4ed4787891cd3593b1a                   | 10    | 0         | 10         |         |
-| https://twitter.com/Rifat51434547?s=09                       | 0x7e8C35F96Cd4DCa689Ce49cC003C34d429c681ba                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/shree2020                            | 0x2640422f4553f1161441d263FD72eE51B5847B12                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/shompa64405849                       | 0x88B24795f8145c84E0123ed55DA64Dad0b5d2F86                   | 10    | 0         | 10         |         |
-| https://twitter.com/DoTrongCuong6/status/1427447950175739913?s=19 | 0xdC857CC217B49FF2B6e2365BF7e4F26A22E47F42                   | 10    | 2         | 12         |         |
-| https://twitter.com/ksarat780?s=09                           | 0x5c25fe116a5A07FD1739E4cAfAd4966f7fab4c8a                   | 10    | 6         | 16         |         |
-| https://www.twitter.com/Sad66933956                          | 0x2a323056631094DeE4b56656E83046b073C2E46C                   | 10    | 0         | 10         |         |
-| https://twitter.com/chathura5558                             | 0xB84bCb751B2762c98e7BF38087ADb54619D96DDF                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/fucking76                            | 0xF99421CE46F52620CDC5477DF0DE80302A074886                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/gberdrop                             | 0x12153FcB085FEDd7075B6a81a65A8A5Be8Aa5314                   | 10    | 0         | 10         |         |
-| https://twitter.com/johnstrick10                             | 0x9136f642E1C6AC1e82791F0922917116d9A0F7dE                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/SuryanaPatah9                        | 0x9A31F835D9dbca1D9b75037d80a51D1B38ED6E01                   | 10    | 0         | 10         |         |
-| https://twitter.com/KevinPatrickBo8                          | 0x8c7d227c7585224eBd7AD2FCF2cfC52abECCE506                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/mtxcnn                               | 0x7e2bA08Ab35FD0C59dF092aDC25689928623f0bC                   | 10    | 0         | 10         |         |
-| https://twitter.com/AriyanA85121100?s=09                     | 0x0Bc20843c4452C6fAcAf7E1b757a00c0F79D6268                   | 10    | 0         | 10         |         |
-| https://twitter.com/MstsoniaKhatun7?s=09                     | 0xC39c40144bd63dB5A18070968C7ac2b16D248A09                   | 10    | 0         | 10         |         |
-| https://twitter.com/SANSPATEL5?s=08                          | 0xD48e55e02C0b21589396c7BC86d5F2a2EE066519                   | 10    | 4         | 14         |         |
-| https://mobile.twitter.com/HackerInsonesia                   | 0x6C5E4058B3a28b496Cc37F59c1a9B41866e6C831                   | 10    | 0         | 10         |         |
-| https://twitter.com/emkmonguno2?s=08                         | 0xeeB8b74468BC740138c0A70A1C20963AB70da6B7                   | 10    | 0         | 10         |         |
-| https://twitter.com/Mouhame41672981                          | 0xB770e8AFF0529941eca1D08B02a38A936Cec5bB3                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/nick79785917                         | 0x0fcE5851322fC05B1850C451C163e3869bB0c65D                   | 10    | 0         | 10         |         |
-| https://twitter.com/skksree                                  | 0x2a951769e6a7e759888CE0885753681749e5Fd8c                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/kuridna                              | 0xC5854c4E7C5D0Af62e7BC0BB5038Bc1DdF972F6A                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/toprazmb                             | 0xF7346E55C0641df08A06060289f3C5FF356C334b                   | 10    | 0         | 10         |         |
-| https://twitter.com/qDaM5ihfjDqpfPi                          | 0x62Edd8EcD241450dd3D291ec12167aD0621651D1                   | 10    | 0         | 10         |         |
-| https://twitter.com/Sweeney2007                              | 0x9ca76CCf489756647A4B95dee5b27F97E3E97d64                   | 10    | 0         | 10         |         |
-| https://twitter.com/DNFTProtocol/status/1430149029573238785?s=19 | 0xD54aeCF9Cdb9fE81298674683De735c0C7A7931d                   | 10    | 2         | 12         |         |
-| https://twitter.com/LakruwanThemal                           | 0x3F1b52311e838AC859bd5C7B829597849aECe3aC                   | 10    | 0         | 10         |         |
-| https://twitter.com/friyonlenzc?s=09                         | 0xd6E283f91eDC5e7b51dEc009b24f50C2eb48C924                   | 10    | 2         | 12         |         |
-| https://twitter.com/rivalslalumnant                          | 0x6eF6869845AAd28a7187A45D8dC94FA84334DBB0                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Yeqiu71                              | 0xA94D775492CfBDBc08a6Aa100A334117d792D232                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/kachhawa_tanuja                   | 0xE67Ce6d57b65B645FBF7328B9F23ef7f10CD7087                   | 10    | 8         | 18         |         |
-| https://www.twitter.com/Tamawahyu6                           | 0x26B06753025Cd5ac4Ab399DC47b03327959551F2                   | 10    | 0         | 10         |         |
-| https://twitter.com/songram471                               | 0x338a42FCE63aeC95c6A390d5a8d0dE162540c453                   | 10    | 0         | 10         |         |
-| https://twitter.com/Ridwan54276618?s=09                      | 0xaCf1f58D1bcB366228481b9F7484427A33bC1a92                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Danyousee                            | https://www.twitter.com/yourusername                         | 10    | 0         | 10         | Invalid |
-| https://twitter.com/Hiep_Polycom                             | 0x1Ad1326Ae5caD3c912D7899649286AFBcf908925                   | 10    | 18        | 28         |         |
-| https://www.twitter.com/VINAY48188825                        | 0xE77A69c273f0ba1aec9BAEE2154c4d3175463c9B                   | 10    | 0         | 10         |         |
-| https://twitter.com/MDRipon71?s=09                           | 0xC61385893B47E5040E747415F8b0A0887Ac5F57a                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/GamageShanuma                        | 0x06CBc33998F3a89beB15967535014f3d36F04E7e                   | 10    | 0         | 10         |         |
-| https://twitter.com/RezaGha83960637                          | 0x84746dC44ffc333b9F334B83818DDb4acD9B1473                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/RaihanK31048084                   | 0x3d780F6A615a48e840eD1335EBaF1c861cc5F253                   | 10    | 0         | 10         |         |
-| https://twitter.com/willow77484978                           | 0x2C966c42A66ed3ba7De7d39F7dcDfF77da7D6904                   | 10    | 0         | 10         |         |
-| https://twitter.com/abhishektr9                              | 0xDfFD89eE18D28402aFEc521c3C65C8Ab8d9c5879                   | 10    | 0         | 10         |         |
-| https://twitter.com/TrentHadley1                             | 0x70571d75EBf05F4B620996AE0F5778dd12Ba3F84                   | 10    | 0         | 10         |         |
-| @VeersinghMahour                                             | 0x487Cfc19183eb4A1C0b75FD60f618c04464D0Eb3                   | 10    | 2         | 12         |         |
-| https://twitter.com/sopna_akter25/                           | 0x7F4f66E366D49D612dD9C681C0c45396318838E5                   | 10    | 0         | 10         |         |
-| https://twitter.com/MkMknguyen12                             | 0x7CF91cdaE3F73b08fF78bA6ED04D62AEE73F0720                   | 10    | 0         | 10         |         |
-| https://twitter.com/LSusu14                                  | 0x5bECCe337976cC35726a2C6296A58115E076B08b                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/KotaMadhu13                       | 0xe86228EA75DE0231CC6A155410687057EBDF4f7e                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/masjaenk                          | 0x57935cc92E654742B7404B19b2d768F6C431438C                   | 10    | 0         | 10         |         |
-| @ZawAung04342130                                             | 0xF3b4A207172730Cba96dC012CBdf5078C9EEA8bE                   | 10    | 0         | 10         |         |
-| https://twitter.com/am_shafiur?s=09                          | 0x8Df604f3d873b7d8218a4167230e541CD773c3Bd                   | 10    | 0         | 10         |         |
-| https://twitter.com/Ddmilty5469                              | 0x89F79E16c3F981328e1E0c236A161FDC64A8A2B0                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Biplob961                         | 0x76185624786be49c85735156C01c6ddD6717d438                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/krmpara                              | 0x2b1b90D6e31090a3C209C30387D99dc8feC27fFd                   | 10    | 0         | 10         |         |
-| https://twitter.com/Lori51766321                             | 0xbf48380eE4DCe5a37706827C776Cf53a1EA2F52a                   | 10    | 0         | 10         |         |
-| https://twitter.com/HredoyRedoan?s=09                        | 0x888F1d63F505a4140eC654FE281A6a16fc6A6A96                   | 10    | 0         | 10         |         |
-| https://twitter.com/SabbirH71438069?s=09                     | 0xB11F103c6115Abf72bfF94Fa94c8BA2B95eC8DC6                   | 10    | 2         | 12         |         |
-| https://twitter.com/SgtPepper1985                            | 0x5bcADe8386d12be06B53E3E8303C9d89a7B6B635                   | 10    | 0         | 10         |         |
-| https://twitter.com/Kausar84875084?s=09                      | 0xfCd0b800d292D42c232d418b7C494584118a9f29                   | 10    | 40        | 50         |         |
-| https://www.twitter.com/abbas96878263                        | 0x06389A366C636CD41ad452FB25EAD17751531f4A                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Boss34744951                      | 0x9eDa4DcBEb3fC38E74eA186BE0937F78b0f224C4                   | 10    | 0         | 10         |         |
-| https://twitter.com/MarnaPhelps18                            | 0x67DDeb1EE71ccb029E6dcD93270684aF08f3b0D3                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/patra_sudeepto                       | 0xC9866D8C41C34B7f9bF7E68cD725cF779Aa035B9                   | 10    | 0         | 10         |         |
-| https://twitter.com/CryptoLover9821                          | 0x2AAcE5ab503CE73c42E058e2f9f7f5b7Fe85937B                   | 10    | 40        | 50         |         |
-| https://twitter.com/Matjolor1?s=08                           | 0x95aBFF2E43d374494c211bC7aC5cE0a154b85630                   | 10    | 0         | 10         |         |
-| https://twitter.com/luyao9036                                | 0x2109c3b725C9E548814D4b49b635c610E0d7246f                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/thufaila_                            | 0xc32822bd074808186bd586dd4cf628b588bd7f9d                   | 10    | 0         | 10         |         |
-| https://twitter.com/Genius3274?s=09                          | 0x184d3234Be743903C7271361DE75447e223c1BD9                   | 10    | 0         | 10         |         |
-| https://twitter.com/Aristoc07552049                          | 0x9B25aDea63207A638b6a3aE6fCc45c9a42d3f1C1                   | 10    | 0         | 10         |         |
-| https://twitter.com/Sam42409481/                             | 0xDb58DdA544bF1260d2e48340A4BeaEA2040A0BF2                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/doilavolam                           | 0x9aee32db3464eEBC60611A65303900f45aD9D1EA                   | 10    | 0         | 10         |         |
-| https://twitter.com/hLJz5UPOYtrKuxl                          | 0x52b24BB40b16067975aF2B02040E5bc541CC7BAB                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Dhruva56103870                       | 0x6C3BDb0750F17811978d466cbe54a396811b2df8                   | 10    | 0         | 10         |         |
-| https://twitter.com/silverswan54458                          | 0xadff756a4427d7cd5e9bbc1ef1431b66af18e4f8                   | 10    | 0         | 10         |         |
-| https://twitter.com/joshi0938201                             | 0x2792B4D4471095926b6F6f771CC7AbD677481950                   | 10    | 0         | 10         |         |
-| https://twitter.com/blackbutterfly10831                      | 0xadff756a4427d7cd5e9bbc1ef1431b66af18e4f8                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Apip01313810                         | 0x259be9AD4e671711584fD2A537a4fEf0Ed4E79a9                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/RaziArain                            | 0xd9f274Cab23cC8937352d57c0E85fe063152a08b                   | 10    | 0         | 10         |         |
-| https://twitter.com/Iqbal7650?s=01                           | 0xB7b1b99513A37D8EA4C667676F457ceDe88C3beB                   | 10    | 0         | 10         |         |
-| https://twitter.com/Aminnah10021                             | 0xe7452d84480a81018c430072bd797053abb661f9                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/arda_airdrop                         | 0xb891be753eABDF031A377BAbb046366424B05657                   | 10    | 2         | 12         |         |
-| https://twitter.com/ily_beby?s=09                            | 0x50f9D78E643c78122EB17424f0be3D63cFDBc703                   | 10    | 0         | 10         |         |
-| https://twitter.com/H_A030                                   | 0xe1Fed679a1A1AD1a1313acAc3255e5bA12622709                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/SahuShubham786                       | 0xbe98aA57816F74eB44612ca9338080530E4032a0                   | 10    | 0         | 10         |         |
-| https://twitter.com/william65928503                          | 0x1D9ED980c84773C2c8649BC3C1F47822C69553C0                   | 10    | 0         | 10         |         |
-| https://twitter.com/vudinhthai2                              | 0x7De2227711DEdD5eC5bE8cB31b346b0Ca253E276                   | 10    | 0         | 10         |         |
-| https://twitter.com/JULIATU79791450                          | 0xe3663f8A17e9C519C8fe6503E7E8a15B51921f28                   | 10    | 0         | 10         |         |
-| Https://mobile.twitter.com/mdmirajahmed16                    | 0x58D81b4d40C18780498779BDC87A28846cFDe03C                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Ankitpramanik11                      | 0x0A4C25Ad37F2CC3927f500213fbEeAd65B1f6239                   | 10    | 0         | 10         |         |
-| https://twitter.com/hilipo                                   | 0x83cfF3F9D0cB297ad02280C541d8df2b7b8ff6bA                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/hexapict                             | 0x35F44ac01c0e403F67A808195b0a65BfbFc6a6B8                   | 10    | 0         | 10         |         |
-| https://twitter.com/whiteelephant47969                       | 0xadff756a4427d7cd5e9bbc1ef1431b66af18e4f8                   | 10    | 0         | 10         |         |
-| https://twitter.com/RosemaryDiaz13                           | 0xFcAF2F6EAF61B73f1775e1acA9C11ae48Af334d7                   | 10    | 40        | 50         |         |
-| https://www.twitter.com/MDRAIHAN50337                        | 0xfda55Ba99e464Ce1fc1b110918975445E89995f3                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Tamal59510336                     | 0x6C52c87b83bbAD9d1c71545f62D52E398A5e5A9b                   | 10    | 0         | 10         |         |
-| https://twitter.com/DNFTProtocol/status/1424345335078428682?s=19 |                                                              | 10    | 0         | 10         | Invalid |
-| @Tutiaja11                                                   | 0xA236636F1559955C2D4b90e0CA4a610a5aAf67E1                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Alex8203133731                       | 0xad8A16E2aDd5Cf4E48FD07F64D1bD5B78D88f097                   | 10    | 0         | 10         |         |
-| https://twitter.com/FathurNuzul?s=09                         | 0xFFECbc8B02A0e3208588f3CE557c7858f9CC97c1                   | 10    | 0         | 10         |         |
-| https://twitter.com/HeyLittleGuy_                            | 0x9d0a452dF8aCD921f942D364C039e1c29272DC8A                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/ecvadau                              | 0x9B1CaA5b2Ab1Bdc1337286B90C82393df4B68505                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/toantits                             | 0xBD0EA3600A89449271017D00AdcF4543D4f253Fe                   | 10    | 2         | 12         |         |
-| https://twitter.com/fvckn_u                                  | 0x779E08fdfbD631cdA07F6108DC2aC012267a8F63                   | 10    | 12        | 22         |         |
-| https://www.twitter.com/sidan001                             | 0x19CcA37De478F2A0eBF1F52BAEaBeb2878CAB50c                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/DUONGTRUONG2110                      | 0x6323217EeA870A4B2CAFE9AbA5A2b3a8b035a387                   | 10    | 0         | 10         |         |
-| https://twitter.com/SanaullahSarwa6                          | 0x4680fbe581FAb90D72647E0468BFD57478FFB25a                   | 10    | 0         | 10         |         |
-| https://twitter.com/hng79252924                              | 0xE20De912cDBF98b277324B9057dc3d533b69797c                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/mayariv03046735                      | 0xEBA9DA3E5d1310B6980301787B519850656d68D2                   | 10    | 0         | 10         |         |
-| https://twitter.com/Edgar8176433735                          | 0xc81b33E622Fd979368D5B7B36683B4EBE8B9a37B                   | 10    | 0         | 10         |         |
-| https://twitter.com/Yanaginagi878120                         | 0xe02884ea5e51e65b98c1ac0a2cfbd14c0a5fb18b                   | 10    | 0         | 10         |         |
-| mobile.twitter.com/Chuchu38899050                            | 0x079FfBd8A3D0616E4a80da5831B683E536C0e159                   | 10    | 0         | 10         |         |
-| https://twitter.com/DNFTProtocol                             | 0x1b96dfad298141Da957BE304E25B86937dBe48ab                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/rshahriar144                         | 0x78b9D812289193cAcB9e69ddc787c7b58e3f8d8b                   | 10    | 2         | 12         |         |
-| https://twitter.com/Rakib13811138?s=09                       | 0x3C246fA3435529be56A8677feCBB8469d376e6FC                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/CRaseltm                          | 0x1611AEB2683489A2533A063Aa49bd71aD389441E                   | 10    | 14        | 24         |         |
-| https://twitter.com/Kekeyouluvme                             | 0x8C7b57FDFEf86C462744E5275324bcd8d26AddD2                   | 10    | 0         | 10         |         |
-| https://twitter.com/Taz29507989?s=09                         | 0xD8B0BE2b2Bd458d5DB1684767b809c48B2b1a5c5                   | 10    | 4         | 14         |         |
-| https://www.twitter.com/MintuKu21022970                      | 0xD8C9A673437CcE2EC0d419437F2aE8CcE0e728Ec                   | 10    | 0         | 10         |         |
-| https://twitter.com/ASIMSAHA13?s=07                          | 0x8031A67391Ac293aCa2Aba24C87d3444dC2C5CcA                   | 10    | 0         | 10         |         |
-| https://twitter.com/Niurys                                   | 0x2612AE202BcC9C60FBAC07Add31265Cf9A3744e1                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/pourahmadmahdi                       | 0xE070c9e290A1234969bff18333955952Da857D35                   | 10    | 0         | 10         |         |
-| https://twitter.com/besoklaya?s=09                           | 0x418FCCF8b0bBF545F15Fb9B54bE49977c202Bf17                   | 10    | 0         | 10         |         |
-| @rahulgedar3                                                 | 0xcB3E7805D0C56F04b0EBf917bf60CF2A4E4aed33                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/indrama51947977                      | 0xcCC8698BbE2Cf89C628D163dc500e3D24e99F905                   | 10    | 0         | 10         |         |
-| https://twitter.com/Evertoncrypto2?s=09                      | 0xBcebdEb8c6F1196b6F4E43eB64f7A578338A62fC                   | 10    | 0         | 10         |         |
-| https://twitter.com/DuceLourino                              | 0x12bd2BF982AF2285512213e62544e79190699b4E                   | 10    | 0         | 10         |         |
-| https://twitter.com/sushil7421                               | 0xF6f12e247EBc52191e135d8b13f1A860DedDDB03                   | 10    | 0         | 10         |         |
-| https://twitter.com/grahaindrawan                            | 0x331049471525aE6C40F467AC722604EC1f26e00f                   | 10    | 0         | 10         |         |
-| https://twitter.com/Shawonbabu0161?s=09                      | 0x6d43079e1edd4C63e4697490459591cCA13fde9e                   | 10    | 0         | 10         |         |
-| https://twitter.com/MdMatia08993624?s=09                     | 0x2DEE070c649fE206cC26B6D542d9879D018206F7                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/trng28893629                         | 0x6F204e9D2807Dcfcd8aa2EC719e8E90aef17c614                   | 10    | 2         | 12         |         |
-| https://www.twitter.com/ridwy1                               | 0x51aAD148488d9EC7ebeA8C4deec9bde15194106B                   | 10    | 0         | 10         |         |
-| https://twitter.com/pakraden_n                               | 0xeb8e909Ad1896544441e356216C46c3d3f569b7c                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/lucci2203                            | 0x0aF0Ba04834504e09CB16be96dB438723da187be                   | 10    | 0         | 10         |         |
-| https://twitter.com/Krissy27770007                           | 0x6a6b4671EB57D8d9757B5d0a3bd1649b207Af3BA                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/papapeskafa                          | 0xaE1A0c5E981767C4394d633308E50d52E9d7CFC0                   | 10    | 0         | 10         |         |
-| https://twitter.com/gumustekin6                              | 0x5e310FA896299101768A22b71f7BA2290675d4C1                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/SkSakib39084657                      | 0x93E8409b07721E2AC43792517F91c0D4Cdb16071                   | 10    | 2         | 12         |         |
-| https://www.twitter.com/roisrizalrabbit                      | 0x6346422D3De13bF8B259Ba8ddc0707D6C9F4DbA3                   | 10    | 2         | 12         |         |
-| https://www.twitter.com/@Arjungk9599                         | 0xD49203387c8daC7c58a70D2698A4De49917f7D29                   | 10    | 0         | 10         |         |
-| https://twitter.com/poorboy321                               | 0xE5f1a143DB471408dA80baA806d7E4aB076E5192                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/kenanganindeh                        | 0x05301B1545AD88552a5041B317f9cc7B58f73f4D                   | 10    | 0         | 10         |         |
-| https://twitter.com/yvette_hhha                              | 0xCAB5EA77a680A9FDD9E2d00638875F4D08726fCD                   | 10    | 0         | 10         |         |
-| https://twitter.com/JuwitaNasia                              | 0xD59B76E436170DDC0FE8c14582B72037D862b4E6                   | 10    | 0         | 10         |         |
-| https://twitter.com/linhnguyen69147                          | 0x19C8B3cCf4145fF22fa6EFa6b815a76a19409f69                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/BoraBamzi                            | 0x3600eaF70d6A47D52c32E95bEFf22Db8040dDA1C                   | 10    | 0         | 10         |         |
-| https://twitter.com/Dwarkas73998961?s=09                     | 0x7B39DA33A1A98cd12d8D092040dbA4161461e832                   | 10    | 0         | 10         |         |
-| https://twitter.com/Mosharrofkhan7?s=07                      | 0x6a45613AF61915D7462FfD2da3e5e901F06Ff8e2                   | 10    | 0         | 10         |         |
-| https://twitter.com/DNFTProtocol/status/1425435343558373376?s=20 | 0x582e8377F50363D509172Be18145D44848A47389                   | 10    | 0         | 10         |         |
-| https://twitter.com/shuvogit530                              | 0xeb61C8b955eAbFea79A7e33bA7Aa15f82d351A20                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/TanvirA62036738                      | 0x771aB3d47ca01dd954f4c637F353d9bfb6209728                   | 10    | 0         | 10         |         |
-| https://twitter.com/JonyHembrom6                             | 0x720F281668aa1942a447489B76f197D76bd3d18c                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/ryanmorta5                           | 0x1FC2f01f1BD9027a8753b113a5b79BEBE24e994a                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/RayanOvineJim                     | 0xca09d87D3d56c29efF5db2BE764B3E1E3670C0ad                   | 10    | 0         | 10         |         |
-| https://twitter.com/akshatchodvdiya                          | 0x54dFfdf79d673d70A27cF90850c554f75f505D2D                   | 10    | 0         | 10         |         |
-| https://twitter.com/kseniiagolube14                          | 0x9F669f7312eADd822Fa76fc6708F09175353ba68                   | 10    | 0         | 10         |         |
-| https://twitter.com/duckman4321                              | 0xE7C0764270C9e3e00D48ec15B83734f2ed3273aD                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Phuocthientu                         | 0x4D16cfd12abcAC6E00f677922B1b7b508DfA61cf                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/maulikpatel2971                      | 0x185dbC0C0074049BE30263c6c3aA58dE7B6DE685                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/mohammad54256128                     | 0x2e6e81b5c66F2709E1c6550a60699615a4bF3Ab3                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/SyafiqRohman5                     | 0xa9d42A9B7a8E377A3437343CAB6D0fc0967429cD                   | 10    | 0         | 10         |         |
-| https://twitter.com/Moore47976425                            | 0x1E96EBEDD49cC0114c8A88c6886e073856B80727                   | 10    | 0         | 10         |         |
-| Lihat Sofyan supriatna (@SupriatnaSofyan): https://twitter.com/SupriatnaSofyan?s=09 | 0x16FCD6a2cBE6f6f2E315aC32b45380b5A862eDcc                   | 10    | 0         | 10         |         |
-| https://twitter.com/stullr_josha_                            | 0xe41Abfc7d923f725482F00aD772E2F0Eb66D1CE6                   | 10    | 0         | 10         |         |
-| https://twitter.com/Aman43975931                             | 0x7fa3961d211Bd1ec3a90Cf133abd96606D3225C4                   | 10    | 0         | 10         |         |
-| https://twitter.com/dhinaviola                               | 0x5c885E51313d1cC87CeEdbebc1113D2f15C89CA3                   | 10    | 0         | 10         |         |
-| https://twitter.com/teppibk                                  | 0x4D25375FBed7794726AEF5E8E92Cc3583e26Df80                   | 10    | 0         | 10         |         |
-| https://twitter.com/zorobi201                                | 0xbbb434d16f6396f854bdefacf89ffd30e1743658                   | 10    | 0         | 10         |         |
-| https://twitter.com/PremPrakashBir2?s=09                     | 0xc0aE0c1D2B42E4BA2aa766D4115C84a5E01A3363                   | 10    | 2         | 12         |         |
-| https://twitter.com/mrwhate3                                 | 0x6FAEdC19c932b84c72A576dE113EEC93256d0B0c                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/RaihanTypo                        | 0x48158E4a8C77eB3067af9C43b6A6eC17E6432082                   | 10    | 0         | 10         |         |
-| www.twitter.com/crypto_Ad_                                   | 0x57738cb7877b2Dad404cfD1C2BcA15f7a136e13d                   | 10    | 0         | 10         |         |
-| https://twitter.com/Muhamma19308539                          | 0xB7Dc4473899BC89D115568C681454FcDb9f9Dc56                   | 10    | 0         | 10         |         |
-| https://twitter.com/cookmrice4442                            | 0x0d4bf28dB885a2f4a4EDE6D2EEc956042e29853a                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/UrSafetyOfficer                      | 0xcd3D81a51B6c4d0aeF877d0121B59b10311fc0db                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Gourav5006                           | 0x470F75E31e47Aae2496Be6B5C7e5965b088bF8c5                   | 10    | 0         | 10         |         |
-| https://twitter.com/Sabrina14815706?s=09                     | 0xc8422e39c7e6Cf5D6AE2989729840b00FD44b832                   | 10    | 2         | 12         |         |
-| https://www.twitter.com/Mohd_alsaad2010                      | 0x16A9FAE4dCe6B36B5Ce4388FE03d0F54030128d5                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Hassan85859172                    | 0x0578dC925b71a7007a5F025CF922C3C82Ad301C9                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Tusk45533352                         | 0xfB7f60a93b4EB050b2616067010F8B2DC8fb0E63                   | 10    | 0         | 10         |         |
-| https://twitter.com/MdAsadu32580908?s=07                     | 0xadB4EeDB22A942a9Af48FE491E66fb6D7Cd10Fe9                   | 10    | 0         | 10         |         |
-| https://twitter.com/salmanansaris01?s=09                     | 0xe0Ce6F3C427bbF676F7328Bd07202E6311ce8F60                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/GurPingin                            | 0x54852a6D9585266ADE94C46DA26417B31Eba4B11                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/TEK_B3                               | 0xD74D374e67f5c860B8d5b47F0f0Fa314D40F1a40                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/_maulana129                          | 0x8c75535614869B5a325C29A5C655a6cE07b7893e                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/liyatahamina                         | 0x5C902321B38a9c531F6eADB3B63a460ac4C576b7                   | 10    | 0         | 10         |         |
-| https://twitter.com/Jubawer7?s=08                            | 0xd31E30117dB05FA33eC3aa2b1E1B41293B809031                   | 10    | 0         | 10         |         |
-| https://twitter.com/NorthwestVipin?s=09                      | 0x9520154CDacFFF03683a400763E623470b2B26c9                   | 10    | 0         | 10         |         |
-| Check out Sohan das (@Sonu16364420): https://twitter.com/Sonu16364420?s=09 | 0x94bf4307BA227BfFa5C95Cb4fd7484529Bd964a4                   | 10    | 0         | 10         |         |
-| https://twitter.com/Aldi_Aditia1/status/1425436498539651072?s=20 | 0x3C54D2213D4108c10b24e541420A3Ba8bd4CB2F2                   | 10    | 0         | 10         |         |
-| https://twitter.com/Sachin7739?s=09                          | 0xEEe2C0e68a400A39Ab481401394Cada2df9FaF05                   | 10    | 0         | 10         |         |
-| https://twitter.com/Mehedi86771989?s=09                      | 0x7FD41bD5c4423f9dB527cB1cB3FF6661AEEC26B0                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Bijoyku48448318                   | 0x536985f430a9483CcCA67200DD06A8Ad1FfcE8de                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/hinami_mai                           | 0x70d33DEF99cE76E6369cE06435Ee5d53168D232c                   | 10    | 0         | 10         |         |
-| Lihat Akhmad Muhazir (@AkhmadMuhazir1): https://twitter.com/AkhmadMuhazir1?s=08 | 0xcd65B4e3664F4aa50519039059a9900277e99dAe                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/noro88703958                         | 0x609Ab408cB499eC098A4E2dFf716fbcC73091AD6                   | 10    | 0         | 10         |         |
-| https://twitter.com/Hasan31060628                            | 0x4702FC6F48026f06Dc4dE80aAf54bDa3B3dcf9C7                   | 10    | 0         | 10         |         |
-| https://twitter.com/oZPRnVIpfxgeC57                          | 0xE46441D6fCA5601158D669954D12Cc8D06bDB173                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/kakabarca                            | 0xb1E8d73aEdb1C0A432e0fBeA0FAD0dCbBB63214d                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/mjupri176                            | 0x9859A3dA85b9E7fcaf1b00344eE7b54C06908F01                   | 10    | 0         | 10         |         |
-| https://twitter.com/ElonMus90359112?s=09                     | 0xa6A53a907217a4965345f14A240948fc4E33017E                   | 10    | 0         | 10         |         |
-| https://twitter.com/Imran42406087?s=09                       | 0x65a3bB44d45d8A6e90e3E16813DC8f0700963557                   | 10    | 12        | 22         |         |
-| https://www.twitter.com/rayvanjoker                          | 0x60727A3f3362a425975fA8faeEE121CE97EBea8d                   | 10    | 28        | 38         |         |
-| https://twitter.com/thanh47861659                            | 0x829C6674082F146505A3c61aE352607B89148EEe                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/KhairulHusain16                      | 0x54277e0375da3D54325a45fA123A30b1BEC128a6                   | 10    | 4         | 14         |         |
-| https://www.twitter.com/somyoc7                              | 0x23F64DDBc2Ac442429f2460dd56c3Fc7a820bd33                   | 10    | 0         | 10         |         |
-| https://twitter.com/Somnatharmy/status/1425399474768138241?s=19 | 0xaE3d035f25D1Eed51297B7e4F0fefd64a0eed0fc                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/NovriYatma                           | 0x5B97ec2700e8F65169798b503e57C3742b606722                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Jasmienciel                       | 0xeeE0cBD2366272ba089Fde58fb58cF7c3A125aeF                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Shuvo308218751                    | 0x593B181B7942B46aC5f6d60Ef37680433d6a21F8                   | 10    | 0         | 10         |         |
-| https://twitter.com/yingyu72382438                           | 0xF04D0E9359992b1384C354dD0D8DE088502a11Ca                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/charlisfrossard                      | 0xd5CD2341821b4321a6C110423940cB8dCCF6fc48                   | 10    | 0         | 10         |         |
-| https://twitter.com/SnTrn54460259                            | 0x1E475a1cfD523BE03A3246E5085D1f9a05c98D3C                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/timpacul                             | 0xf30aD7f2DaCa7d0722e99AFff1b6F6C182086512                   | 10    | 0         | 10         |         |
-| https://twitter.com/H_Tasan                                  | 0x71B0F3A66B12b47F2cbEE6cd6FF4FfBE71A1c5e6                   | 10    | 32        | 42         |         |
-| https://twitter.com/lucky30859480                            | 0x79E2fec150CA470401A9e79e05135C5a6E44444A                   | 10    | 0         | 10         |         |
-| https://twitter.com/SuyogAdhikari42                          | 0xe6ca0cd98140251bA154946e6a23000c47953503                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/PirateKaan                           | 0x90Bd8a9F7B8b187FCc6C00e7A027684AA08bf38C                   | 10    | 0         | 10         |         |
-| https://twitter.com/Huong36262262                            | 0x6c12fC4FD7DaCfC2A5A15ba6A6dEB2158066501f                   | 10    | 0         | 10         |         |
-| https://twitter.com/lakai_dominick                           | 0x027c8C9fc39B06510a865948303Bcf87784eB043                   | 10    | 0         | 10         |         |
-| https://twitter.com/Ruhimat01289715/status/1425438910088241155?s=19 | 0x571B633cDB0f56262ab3d8be2Aea3De74ef2e351                   | 10    | 0         | 10         |         |
-| https://twitter.com/AmitMis88231181?s=09                     | 0x395aA2A05b282028c40A2ea61A3e79cdd7f1347D                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Azer_a_bilov                         | 0x9c3e231992D04dF85866Fa44644c47cf78FeA3A7                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/tritymipo                         | 0xE81ed5c6B1d1C0E4E8d1A619994BD577F4808370                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/AnamulJamiul                         | 0xa43a991596E9d8a8FD407A48d226914c952ac283                   | 10    | 0         | 10         |         |
-| https://twitter.com/conmeomeo34                              | 0xee83bAc578A32cFaC32253f7AE0f986Fe5a7F1A7                   | 10    | 0         | 10         |         |
-| https://twitter.com/lepigary                                 | 0x5d267f6c05B1e8906390218aF3e390a10a9897D7                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/OfSensor                             | 0x85063Ebadb2EC868a97F63c15222C45836142a89                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/yourusername                         | 0x71fac5e747Bba512edE8f0F4ce2E88CA060bE8A1                   | 10    | 0         | 10         |         |
-| @thaingo2011                                                 | https://www.twitter.com/thaingo2011                          | 10    | 0         | 10         | Invalid |
-| https://www.twitter.com/cryptoloote                          | 0xE7f0A9B92f8fDBfA38427b2865CD650dF8C20aFa                   | 10    | 20        | 30         |         |
-| https://twitter.com/RioPerm35723181                          | 0xd5FbC119516F5680Df498d22ff535bE69205EBfd                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Ahdiyar3                             | 0xb213531CDcF495875399dfda802d63632BbC01cD                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/ojolsquad4                           | 0xBAAC4304795b86524Ff985e878C5F60e751b68e9                   | 10    | 0         | 10         |         |
-| https://twitter.com/YeasinA87014318?s=09                     | 0x9e23BC00534568fE4cdC011dCc7497d248076554                   | 10    | 0         | 10         |         |
-| https://twitter.com/lpder1                                   | 0x102E87BFc9401FEEA5Eb71E776d16bBF15cfDe0b                   | 10    | 0         | 10         |         |
-| https://twitter.com/sbdprinting363                           | 0x68D9ffc927E19Eae04972F5B296274bAd51D053e                   | 10    | 0         | 10         |         |
-| https://twitter.com/breannnicole03                           | 0x3e069c2331f429d76eb2cA8193785AcF08C9b0Ea                   | 10    | 0         | 10         |         |
-| @Moshi53653587                                               | 0x3051523AA664b50Cd7034F9F33De5A79Db789Bd2                   | 10    | 0         | 10         |         |
-| https://twitter.com/jotejo1029201                            | 0x299A5001F4cD06683EA8c04e4090482F9aD16531                   | 10    | 0         | 10         |         |
-| https://twitter.com/AmyMorr94609784                          | 0x13cA1E45562fe8467cB92e3EFe9130618AA8094a                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/misuu50                           | 0x42B478146c8cf57422DFbEd0512e394556121037                   | 10    | 2         | 12         |         |
-| https://twitter.com/matiullahmafton                          | 0x756085eD787A0E54AD13F956B2C1120754E27fe2                   | 10    | 0         | 10         |         |
-| https://twitter.com/Ela83252237?s=09                         | 0x449cc9C3Be1098Ab690E865234fE8803584C9a13                   | 10    | 0         | 10         |         |
-| https://twitter.com/pulok_hossain                            | 0xeC2D5288C280b22c9423f4E56ec376c3E8cCF541                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/MdNayee89395481                   | 0x798967f2121301f70a753318c25421644D03d782                   | 10    | 0         | 10         |         |
-| https://twitter.com/MdHassanMahmu20                          | 0x26E2A5f203A4E40b9BCfA879891eaF2d8727Bb8B                   | 10    | 0         | 10         |         |
-| https://www.Twitter.com/@kacel_ahmed                         | 0x8D7E15F92345186e62Cc2b074DBF1768FF19db3e                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/muhamadramdan                        | 0xBc251C63Af3D1df2f5Fa6Ab86A190de88030668a                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/RifatSa10349699                      | 0x2c3795E5CD8ac42fE83A90e07fEdcAD1097a31dA                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/roy_natha                            | 0x572560Ea2dED8959d6ea9Ff2B61664cA60aF1E3A                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/thuchoan19901                        | 0xB6f3777B9eD7a736CF42cE1a8AAcD3DD27Fdb6aC                   | 10    | 0         | 10         |         |
-| https://twitter.com/VJshohan55                               | 0xa395FbD9e75B3b563717513E81db6dD0e69C6466                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/ThridipR                          | 0x84F670aD053BD9f22227366898E22E9aCF07c242                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/sudhir_daware                     | 0x14170a25Dc52D79710cB82eAFF647DC7fEa87e79                   | 10    | 4         | 14         |         |
-| https://www.twitter.com/zoliminator100                       | 0xf5E1618723387476535Cfb18FF90044BeEA95B68                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/trquph                               | 0xE18dc7fC0a1d0E54E659227793cA3AE6A3219427                   | 10    | 4         | 14         |         |
-| https://www.twitter.com/ngocquy_adv                          | 0xf3A06674a851834229528fCE73b8F3013cc3De50                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/dcrypto211                           | 0x9BA4F5DD70005a17Bd2D49876c7305ab3b0e1cAe                   | 10    | 28        | 38         |         |
-| https://www.twitter.com/felonett                             | 0x15F4209FC7E57e213B34c71E61e479048D295179                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Memed2021                            | 0x52F0a94bF08AC149492256f03295b6cAEEEf156a                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/linh55591712                         | 0x84b2A95A16459d1_5F3DF3E83D758b4bf8b5DB8                    | 10    | 0         | 10         | Invalid |
-| https://twitter.com/zaraalifa39                              | 0xC572ADD8dfC7aAFa24C2B13D92e3352733a547cB                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Makemon04335179                   | 0xE222B0f3276D32d6f724e3C1563Fc93B62176eFf                   | 10    | 0         | 10         |         |
-| https://twitter.com/cerdachristian2                          | 0xcD51267B9FCc14Dc14F7C777FC5CE28609eFCf86                   | 10    | 0         | 10         |         |
-| https://twitter.com/Liwenxiao6                               | 0xf0C167AF75BF2e714D49818Ab731bD847a2d64F1                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/compose/tweet                     | 0xB15bA738135152166C619D97E9c353Ae6b4Cbfe9                   | 10    | 0         | 10         |         |
-| https://twitter.com/sifo28786037?s=09                        | 0xb0d585098D0cF79303454F3eFF6349083E2BB3FC                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Kytul2                            | 0xe404e2Fe81Aa536f99408eDBA2b6809263703744                   | 10    | 0         | 10         |         |
-| https://twitter.com/delphin22067380                          | 0x1ABC74E52361a77F7F5f705563610B82A3E51cE2                   | 10    | 0         | 10         |         |
-| https://twitter.com/Abdindalem                               | 0x3a9b368f3dad5063ac468ec0abb6b60f02f6e46e                   | 10    | 0         | 10         |         |
-| https://twitter.com/Milagro03244825                          | 0x4Bc2730FbCff242003fbfeF7778637a61bC80eeb                   | 10    | 0         | 10         |         |
-| https://twitter.com/Rashedu94772355?s=09                     | 0x8a203Ec6bd78E8A9C7dD25c9519842cB00a48175                   | 10    | 0         | 10         |         |
-| @Jayveer1756                                                 | @hada_jayveer                                                | 10    | 0         | 10         | Invalid |
-| https://www.twitter.com/SudebPa50657973                      | 0x5228B47e5FB4fF1E2Fd7CCd2fA19610a2fE18b05                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/nicdarmawan                          | 0x69067307D24a35Fec1ba9F2D68E7A3A8afBC3929                   | 10    | 0         | 10         |         |
-| https://twitter.com/Irman_wantogia                           | 0xfb6f7952986D3E592CF0B2C9C6Ca2C22CFc733eD                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/vijayva49691310                      | 0x97685b3a8642ecc1BC4ad497885c37964FE5476a                   | 10    | 2         | 12         |         |
-| https://twitter.com/MinhLe2693                               | 0xD39950e502F2764f2E0757431d3461703C3D6E60                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Rasel434                             | 0x5f53e1D720dDAd3AaCa558466cf75B7Dacbae816                   | 10    | 0         | 10         |         |
-| https://twitter.com/dedegem27642636                          | 0x128B0168024DB77b6670401982Fe0f8C05BD1C49                   | 10    | 0         | 10         |         |
-| https://twitter.com/behnam163                                | 0x34CB1F18a698b5213eFC05c101Ae3117d055AAbd                   | 10    | 0         | 10         |         |
-| https://twitter.com/MdBakibillahHo3?s=09                     | 0xf5156435184F7311969359cA7a4C1c17cbdcba20                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/ashvani_07                           | 0xa7DC468234aEc3064577A91726dBd483f2B9b57f                   | 10    | 0         | 10         |         |
-| https://twitter.com/ShereeM60271806                          | 0x2fceDeA83A8D87BD8cd0253dCa7D917ED14fF8E0                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/OlehSol02864819                      | 0xce5c6d9bDAC3f08c295bEfEe13f727Bf0F09Eeca                   | 10    | 0         | 10         |         |
-| https://twitter.com/DubeIshika                               | 0xaC74C7a1669e8AbA944603C5eBe514D57F2D69B0                   | 10    | 4         | 14         |         |
-| https://twitter.com/sagazo20                                 | 0x01B6D01AEa98d68587935f3F850D5d319939cbE4                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/NtTvphu                              | 0xd5A793d6deF9d1eF9E9AcfcF7DC4ce4B2d2A927c                   | 10    | 2         | 12         |         |
-| https://twitter.com/Abdel_finance                            | 0x48C3D5679cf36641E02FA409F61d436Cb25987DF                   | 10    | 0         | 10         |         |
-| https://twitter.com/a_Aoniells?s=09                          | 0x9eAA732B7a9b8dCf3f3FD82a809C17aBaa32cf88                   | 10    | 0         | 10         |         |
-| https://twitter.com/hazi803                                  | 0x26B9Fdd81d65E9f94d5e0C8372129f94E9048e31                   | 10    | 2         | 12         |         |
-| https://twitter.com/Playboy0190893                           | 0x6AD671e62Aa4D26f798cf7a6981e22AE6A865B9D                   | 10    | 0         | 10         |         |
-| https://twitter.com/ewl0001                                  | 0x0F4C75abCEe4A063fA88aF804A23D6Ee7F58d06C                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/AchmadSyaefud15                      | 0x908801765996391094AA318c3139245339B714dA                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Moumita86995096                   | 0x42a8Edb93CE96024eddc114F787ca4C1E255f6Ef                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Roshanb18974676                   | 0xeFCBe462FCf307F9Bab8D45854812243441465E2                   | 10    | 0         | 10         |         |
-| https://twitter.com/Memoona17046229?s=08                     | 0x1A64fF01b25cBC78AC4930B1538A7d0Ce17D080A                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/lukepumps                            | 0x4FEd79509A293193064b923B8E386726B6625D78                   | 10    | 2         | 12         |         |
-| https://twitter.com/MdAbidH75222086?s=09                     | 0x844B6a918233832a0579F4d2972aa8115B14Ce38                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/muhamme00429270                   | 0x8284c7d259171B9831A4E1435FC2d1375f557B0B                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Shujaya1                             | 0x7F36505d3Fb83a7573E309CEc56e2F549f209d27                   | 10    | 0         | 10         |         |
-| https://twitter.com/Ha73809055                               | 0xdDFbEB0EbC67A0fEB1f6FcffB77f84BC8cF88052                   | 10    | 0         | 10         |         |
-| https://twitter.com/anlana16                                 | 0xC55F9Fd817C744100276c6Cf49DDD43c11A66733                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/AyushSi90239709                      | 0x7476a316AC159d2937929412D50Aa9303751dab8                   | 10    | 0         | 10         |         |
-| https://twitter.com/SindhuAnimesh?s=09                       | 0x73a9e69C1F2B78C72676309445B7502B1a766763                   | 10    | 0         | 10         |         |
-| https://twitter.com/E4GzPq0BABovGEH                          | 0xEFb618961cF519D4d65bC85E02b89b72C4463D23                   | 10    | 0         | 10         |         |
-| https://twitter.com/KhoshrooAmir?s=09                        | 0xd1eA8351eD856b64048791B9C0a545C6B4b65314                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/882499120                            | 0x3f12dD2ba014299cabf9357ACF89E3eAfAbbC6BE                   | 10    | 0         | 10         |         |
-| https://twitter.com/EO2M0I9JcfGcBRR                          | 0x613958DD926D5A0ee87bEca0Aae8dE0798657594                   | 10    | 40        | 50         |         |
-| https://twitter.com/apenasnuno                               | 0x42750C5Ad44bF2c6596a242a6584E0E1Fb0c2E5a                   | 10    | 0         | 10         |         |
-| https://twitter.com/JasonLa74499889                          | 0xc65c5848EafaE0FeC06055b88c2f16C270ED0ed6                   | 10    | 0         | 10         |         |
-| https://twitter.com/Sagor450?s=09                            | 0x5669cd5325c453c92E5864163730fc58AE71a8EC                   | 10    | 0         | 10         |         |
-| https://twitter.com/amir61236                                | 0x499b6E8DFEF3C72cCF842a9eA1e58707783554ea                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Sojun84652971                        | 0x584d8965BC2Cb623F91B87bd4E94CDDC3F874C16                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/ZuberUddin18                      | 0x593bDe09C3BEb5F35E896830579512b167279e69                   | 10    | 0         | 10         |         |
-| @ayeonkbae                                                   | https://www.twitter.com/ayeonkbae                            | 10    | 0         | 10         | Invalid |
-| https://mobile.twitter.com/ChaOktaviani56                    | 0x18B42b4653aa03691eB72dd09aF4e4421C50eF37                   | 10    | 0         | 10         |         |
-| https://twitter.com/DNFTProtocol/status/1425435343558373376?s=20 | 0x535d2A6C3445516e5F3c662D2df02Df1c697cC99                   | 10    | 0         | 10         |         |
-| https://twitter.com/Jakariya41                               | 0x00c3B3930cD9252faF0c81EBD7D73fe287e06A36                   | 10    | 0         | 10         |         |
-| https://twitter.com/Guddoo92?s=09                            | 0xbE3751e991058dBFe0CB15C9bFaa681c3f92ec60                   | 10    | 0         | 10         |         |
-| https://twitter.com/monirul801?s=09                          | 0x393Cb7FB1bDbB9ae8b5e18a334889e6bcf128539                   | 10    | 0         | 10         |         |
-| https://twitter.com/Abdulla54599094?s=08                     | 0x93690c93E0Ccbc41EBbE1FBAf5BC5CE226Feca4d                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/@Ojoige5                             | 0xFB117a88E72D6980241C93D1341562336155e5bf                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Jinb27                               | 0x5364030b7E8b2276fC04b97beB71bD699A71C419                   | 10    | 0         | 10         |         |
-| https://twitter.com/Rrebeky                                  | 0x4A308F325cF894d860Ca1f63B693DdD0Ec5039C6                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/nakashabbasi10                       | 0xcDA63Dc0Ac9D736ED82b887C7E1061Fd6F6A1C89                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/yogadirga6                           | 0x129bC6416314d78b810E045FC1C0Db5C1310Eea9                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Hossein27108652                      | 0xdAff08468Cb6390Baa65A206B6D865c3BA680Ad3                   | 10    | 0         | 10         |         |
-| https://twitter.com/Vothanhcong1991                          | 0xc6471ba3da19c1A08add3d13E4B588575f36E498                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Rakib36694185                        | 0x1bF1fe947381309c95f581cf8Bb942ca494520D7                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/AriPrasetya1683                      | 0x57BE292AfCc92c102e7425dE9B374C83952017d9                   | 10    | 0         | 10         |         |
-| https://twitter.com/ShamimA76867332                          | 0xEf07B16F1A925EC2AFf2d6a47d6e901644DE0D4f                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/musa                                 | 0xdF257139A0eB4fedfd9d2C6217B4F5Bc4AbBe470                   | 10    | 0         | 10         |         |
-| https://twitter.com/BrandonSelf                              | 0x201f3B8b17B30d9E184134D7b6a0d05d64C931B6                   | 10    | 0         | 10         |         |
-| https://twitter.com/ANDIGIN60132500?s=09                     | 0x243B4A4666EF8F46D0ae58EBCe6A21D8e4e8e9Ae                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/sidan61                              | 0x735E737fcD0BB05d5A9CBD0479F010E0afd20957                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/ofix94435599                         | 0x548DD1842afb30a7a52A8130640DfcF6e6c96540                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/ElBarto94250393                      | 0xb8c33023D7ebf4d091746D3487bF79eBf00f043D                   | 10    | 0         | 10         |         |
-| https://twitter.com/aasev759210                              | 0xfede39ddd8f0fee8404c1c9c1bedd0a1130ef7e1                   | 10    | 0         | 10         |         |
-| https://twitter.com/TitanwaCS                                | 0x947442C399b2a2Cd27Dec01911ca425131B56503                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/wahyusumardan                        | 0xbD75c0743a1c9787C0eCC30459503Da7994C3C73                   | 10    | 2         | 12         |         |
-| https://www.twitter.com/erfan__safaee                        | 0x4e30edc35BB07521505979AC3f11654c788fe424                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/DUONGTRUONG2110                      | 0x13FadbC81cc8dfc08468fC50BcB195783cE976B1                   | 10    | 0         | 10         |         |
-| https://twitter.com/thanpuiirasaily                          | 0x88233045781425bCF485227199153C26e8Dd4d1f                   | 10    | 0         | 10         |         |
-| https://twitter.com/mark_mike220                             | 0x0238bd882641e0c9A63382Ac586922D41e219716                   | 10    | 0         | 10         |         |
-| @bake_nima                                                   | 0xeCBDF7E93E332e47CD6b16225421289464C8B1b8                   | 10    | 0         | 10         |         |
-| https://twitter.com/_hndk23                                  | 0x90D7BE87115AeA0524865c1f9f0C54334A3b3992                   | 10    | 0         | 10         |         |
-| https://twitter.com/Catnow892                                | 0x6821618046b629e949e6A401eB16ACeB8Fa8eD35                   | 10    | 0         | 10         |         |
-| https://twitter.com/duocmx                                   | 0x2dC9b4F61F4bCa02E6C5479B1bB596A5CC4eFD3F                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/@MohitPa93582737                     | 0xbf190824ec7749Dd162F789370c33Bc8026b14eF                   | 10    | 0         | 10         |         |
-| https://twitter.com/BabluMa69978128?s=09                     | 0x580Cea8a2060689E67E19dfe202923045e72Dc07                   | 10    | 0         | 10         |         |
-| https://twitter.com/hodlerxjoker?s=09                        | 0xDA5b94b6062c408F52d35559C1F8B985a0c8E638                   | 10    | 0         | 10         |         |
-| https://twitter.com/HarryBateman                             | 0x10069F5D54C2A4A7f314ED228bE1E6EB928d6e60                   | 10    | 0         | 10         |         |
-| https://twitter.com/putra191017                              | 0x3934D8C2b94f82a2874EcCC85eeA92B47e713cea                   | 10    | 34        | 44         |         |
-| https://twitter.com/apusarkar62                              | 0xF98738d2078e781E4d4907cc43762572019452FA                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/temvkatk                             | 0x32A93C358D0Df3349308bAd3d6393a0e51270920                   | 10    | 0         | 10         |         |
-| https://twitter.com/fmer09                                   | 0x35F218135753eD0573F8f558d75a56ca7eb71fa5                   | 10    | 0         | 10         |         |
-| https://twitter.com/laoxao0812                               | 0x4D3a5f5346a847E0D8aBdD664c328e0b4ac36a31                   | 10    | 0         | 10         |         |
-| https://twitter.com/@Nilsan42478762                          | 0x21Fa0D65904798a6a534F6c3476e2809a43B45ce                   | 10    | 0         | 10         |         |
-| https://twitter.com/188867282                                | 0xa5c6cb378e8f30d707e68b0a4c3f2ab9b24237de                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Gaiun1                               | 0xe002f7219F80f6ec61F96743115A511c758155B8                   | 10    | 0         | 10         |         |
-| https://twitter.com/MdMunna36572263?s=07                     | 0xE80E80904a7737cd7d2e16ee081b38db38E2C6d6                   | 10    | 0         | 10         |         |
-| https://twitter.com/YourUsername?s=09                        | 0x3c63ede3DCce949E712A7609DFC9aa98e0647A37                   | 10    | 0         | 10         |         |
-| https://twitter.com/Staynoob2                                | 0xca7fbc21c44da80cFbCA5B616D42b9DB6D33c2f4                   | 10    | 12        | 22         |         |
-| https://mobile.twitter.com/GorengTukang                      | 0x314A9F8d561EEc6a68daE358b051AE7721d548E9                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/@milad76195501                       | 0x0c9260aF3dB1b5eBdfe444B9C45713F85F1C1a22                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/onfire30                             | 0x09906B8F03eA2Cb25a6C81C237C45F62007D3448                   | 10    | 0         | 10         |         |
-| https://twitter.com/boboblock1                               | 0xecc293947104720Ef4B2B15722b039A0Ab90BbfE                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/NGUYENPHUNGNGH1                      | 0x65A6CAb023ed9dd5d160e32825D45Bfa864aab65                   | 10    | 2         | 12         |         |
-| https://twitter.com/mystoreimportad                          | 0x295187F4AaB3d59383D73fC4fF6517C7E9Fd03Df                   | 10    | 40        | 50         |         |
-| Take a look at Mehedi Hasan (@MehediH50498711): https://twitter.com/MehediH50498711?s=07 | 0xc636F9A0fb3b6f016A89ddd0BD120C6ee58A47E6                   | 10    | 2         | 12         |         |
-| https://twitter.com/HARMEET59853113/status/1425494020772433926?s=19 | 0x3c367e034237d7d661Bf5E2b9ECcacAB33381B64                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/fandehai                          | 0xA9d3Ddd203dd3cA13E261fE5e0Df43d1A014f59B                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/ShoaibTurki1                         | 0xeB060e494945c8020983765a4AFe3B7e450B972E                   | 10    | 0         | 10         |         |
-| https://twitter.com/GkhanAl63703844                          | 0xc4195F4b1E7AA54DE8F536585F6b9eabbC23Ad9b                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/0111Jewel                            | 0x669BfA34E2d4D3350fc2a6C4ffc27848bAF4153B                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/adew_tom                             | 0x9cc875C5e382a3b8c07ff89B3001687Be53a5A73                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/sipemburummk                         | 0x700bD88d6DAF37407039FAb71353DF51B9E1D4e0                   | 10    | 0         | 10         |         |
-| https://twitter.com/Jannatu57215240/status/1429421891761033218?s=19 | 0x5A9E9F97c4196D0c6A608EA213844595632D0037                   | 10    | 0         | 10         |         |
-| https://twitter.com/BasedCrypto99/status/1425454574123454465?s=19 | 0xb66daE7408EAf8A6E5844C2284A00732205bf419                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/sellypu48954790                   | 0x51D4B3A9f78bcE44628b4536E2C1c7c0De9Ba8ef                   | 10    | 0         | 10         |         |
-| https://twitter.com/9AuCDyDJi5iFk0b                          | 0xD657Ba2F39EC1b9679ecC652b3dB4c33D858e453                   | 10    | 0         | 10         |         |
-| https://twitter.com/quangteogod                              | 0x40FFfDaeE1C76B1a13D6fB802AfDb324cfce380E                   | 10    | 14        | 24         |         |
-| https://www.twitter.com/DanielTufour                         | 0xB2305bbdf10Fbf12c4c57C99b36De28cE79Bce5C                   | 10    | 0         | 10         |         |
-| https://twitter.com/IBoqsgwJJIMN0Mb                          | 0x1A9246Ef07129D3a03A3f7340bb9bC4b6Cd42a1E                   | 10    | 0         | 10         |         |
-| https://twitter.com/ervin91455723/status/1425422784675655689?s=20 | 0x7f8bbe8E8Ff4BCaA97c015774B2FfE56Ae4c3D19                   | 10    | 2         | 12         |         |
-| https://twitter.com/Aborigenus1                              | 0xafea74C8E316fd3C5B2b02Bf6186ef05D7361cC2                   | 10    | 0         | 10         |         |
-| https://twitter.com/Sonita211?s=09                           | 0x965Cd12376E3cC17E894f0651DA8c9c4aFE0c60a                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/BammyICT                             | 0xDDD67Ee8e730f930aBd68dBF290F744fc76cdeC9                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/AshokKu41843355                      | 0x2Ba243EF5Cff72eA821e9109D68286AddDFe0279                   | 10    | 6         | 16         |         |
-| https://twitter.com/ice585858                                | 0x5a4d40b3D652bAb0B03bCFFd34A36144f2804Eb9                   | 10    | 8         | 18         |         |
-| https://twitter.com/hafizur2023?s=09                         | 0x62C9552810c8F7357670e46F49006EeCC1c1A67C                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/mGiaLun1                             | 0xb9aeFB0Fd159A733c8d8cD9D989cfb245396712F                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/elgusereborn                         | 0x1D6960de71d6dAa1F8CeAd092d6CC040461F2d75                   | 10    | 2         | 12         |         |
-| https://www.twitter.com/CoachCotti                           | 0x549E150e0953C15420b92cA3ed9B292000A1c110                   | 10    | 0         | 10         |         |
-| https://twitter.com/HASIB04269672?s=09                       | 0x29CAb754aC8497f1a91f1cfE8A50560B06e0C4E8                   | 10    | 0         | 10         |         |
-| https://twitter.com/jr85621892                               | 0x0535f5D91F1F485072607f9aDEAeCFda99A6f9bD                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/vijay10100                           | 0xa31a515dE43710cadADf65146956d4A8250F1C51                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Msalar70320657                    | 0x74a0a22917a6434043F6FBE5968EEC8a39c142d1                   | 10    | 2         | 12         |         |
-| https://mobile.twitter.com/RROMAN40256917                    | 0x69c93573c657bddB1Fc1B26Ffd6822BA93735A08                   | 10    | 0         | 10         |         |
-| https://twitter.com/V7Vk1barrRJubZj                          | 0xd876F74E1f6D8372801e7b7b32bdeb891503a42a                   | 10    | 0         | 10         |         |
-| https://twitter.com/HThLinh15                                | 0xeb3f8E615859c68Ece06EF87cFA6c46439Ace009                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/ProtapBala2                       | 0xf0d4dfd0e116440F6665d6Da4008a66cfccdba45                   | 10    | 0         | 10         |         |
-| https://twitter.com/Andrey2709A?s=09                         | 0x96C281B011Ae206cCb61ac4c56A445D0aaf9b6dF                   | 10    | 0         | 10         |         |
-| https://twitter.com/RKMUNNA17                                | 0x281778f8fcD98F95C3E47C9426dceE860E5B949B                   | 10    | 28        | 38         |         |
-| https://www.twitter.com/bulao82999311                        | 0x9D85545ddF3Bb631b1103e4Fe993c51a8B57f8BC                   | 10    | 0         | 10         |         |
-| https://twitter.com/SaraPhan18                               | 0xb4be7b6550744fbfe088e326ce22cae13c894044                   | 10    | 18        | 28         |         |
-| https://www.twitter.com/MenowaraMst                          | 0x33968fd222ca83bb7a78D0B65B66E45C9754550e                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Oisutv1                              | 0x9D2F582938d49a184b6c4743D13bAE1A6d6c20B8                   | 10    | 0         | 10         |         |
-| https://twitter.com/MdRidoy77222423?s=07                     | 0x15d3101639797708B0f121795d5d50c0b6ed5d21                   | 10    | 0         | 10         |         |
-| https://twitter.com/Cynthia66338201                          | 0x1e3C2E8B3B96005ad8E5028401059E8621431B54                   | 10    | 0         | 10         |         |
-| https://twitter.com/Jessica79095957                          | 0x746016396eb5eA72cAf18b2771A11827b02f6038                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/pahing123                            | 0xE314eaeeaFba764b7A7687035dDDF7A54FcEBE91                   | 10    | 2         | 12         |         |
-| https://www.twitter.com/Noorudd85734255                      | 0x7b329102fc8443d010c1653E956CE45F9a38EF11                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Noso112                              | 0x88E211e9E2604219E6C2267f17ACFC4466c3c89D                   | 10    | 0         | 10         |         |
-| https://twitter.com/DNFTProtocol/status/1425435343558373376?s=19 | 0x6969619560F57A328D5e90B9ca4A16894d4025cE                   | 10    | 0         | 10         |         |
-| https://twitter.com/KhemCha11886001?s=09                     | 0xdC08C8e4c5F7e80164d5dAD17e324d31179C57a7                   | 10    | 2         | 12         |         |
-| https://twitter.com/Shanti99395262                           | 0x3a2D2Ea4A182dA4b90D42b39A3e65ab6E42E9188                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Fahimeh99980521                      | 0x1072828400bde8e6797d75EDC9Dc2edaE58018bB                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Wizard200111                         | 0xcBbF0141A3AB4bD08bDE229bebD971a0B7123C4A                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Bhupi26540891                     | 0x74ef14097eE0BBD8e5E20D7cc42EdD4b8AD588ee                   | 10    | 0         | 10         |         |
-| https://twitter.com/Michael95046793                          | 0x8437011e10d3E4198caEa5Ec4aBf4fa13d3C7F63                   | 10    | 0         | 10         |         |
-| https://twitter.com/Deepanshu199726                          | 0xE868aE109454bfA3843ab3cf73eB8219bE132486                   | 10    | 2         | 12         |         |
-| https://twitter.com/Ramavalse?s=09                           | 0xbE58124422Ab75fff68f3c56d95970202BF046A4                   | 10    | 6         | 16         |         |
-| https://www.twitter.com/Farzana84                            | 0x4831cc656be772d6da90c8497c9ff469e81cb986                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/SanskarLunawat2                      | 0x03e7725Cdc108c9711eeD6A4e8750A0ee00e9fDE                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/samehabdelmaks4                      | 0x6dB81Bf9833753acf86fF1950b83632c59b6bac5                   | 10    | 0         | 10         |         |
-| https://twitter.com/Muhamma98317302                          | 0x15323AE74796A3343117E76b8fCA8b77fDBa9763                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/TanvirEhsanul                        | 0x4244DA50dCABA16caC30574b9B0274e1D1323cf1                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/HairilA45632940                      | 0x0E87477cd589C406a59C175b52c4Bcc6cD444296                   | 10    | 0         | 10         |         |
-| https://twitter.com/duybaotnq                                | 0xbCF392Ae120f4C4f43490178A979A11f69641eEe                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/ge_prstyo                            | 0x5A0B3D68D136d3E215c885aB6bDe4E9D6CEb0A26                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/ismanto_asep/                     | 0x6A575dD512b229ac3C8efaca6B06529f94450199                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Crypto02168219                       | 0xC272F976E3343f8b75d111321795cFE7812Dd37E                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/ekrami75758270                       | 0x9A941eedcf92872B004243a5aDD6477d494dACD3                   | 10    | 2         | 12         |         |
-| https://twitter.com/youbeh8                                  | 0x38CDA50557499B0B2B5ae21229098C3939d3c795                   | 10    | 0         | 10         |         |
-| https://twitter.com/stevelee301                              | 0xa42610c5a85feEd6b655f348ce2c421E3fCC5438                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/i___6ari8                            | 0x2d7E498cEA246Db9a0881C6980cea47bDA0a419d                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Ramrupmahato20                       | 0xe24538dA1783ca5BFaEAb312019fBa464A0c4521                   | 10    | 0         | 10         |         |
-| https://twitter.com/Duudw_?s=09                              | 0x5b652A50E2a54566d39624D746CdE2e5C31c855f                   | 10    | 2         | 12         |         |
-| https://twitter.com/Duy_Nguyen2001                           | 0xe9C1ef171B80877902f694F9488087946302db2f                   | 10    | 40        | 50         |         |
-| https://www.twitter.com/delaram95513118                      | 0xB57f4e02FFBb0B455DE728167a3307D895Ce3c95                   | 10    | 6         | 16         |         |
-| https://twitter.com/Kalilinux00193201                        | 0x937b45fe83267f073530486b892a17251f940fa4                   | 10    | 0         | 10         |         |
-| https://twitter.com/edcript1                                 | 0xb56E807339c89D5ABf17cb5Cd1F9f391b8F3a436                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/9uJCpPqiy605wJd                      | 0x6c159bE2468920aeb92f9655b330D1c61eEbaf09                   | 10    | 0         | 10         |         |
-| https://twitter.com/ElomdaNoor1?s=09                         | 0x6f3f711d14Da941E8180C00cb811D917c7906e34                   | 10    | 2         | 12         |         |
-| https://www.twitter.com/Platinumm2112                        | 0x346da4ea6B7044F70A5673fe8732f2bAE984313d                   | 10    | 0         | 10         |         |
-| https://twitter.com/romx121?s=09                             | 0x1982a38E87d72A8B5e96799D46cEE436650cEBbC                   | 10    | 0         | 10         |         |
-| Check out Jue Moni (@moni_jue): https://twitter.com/moni_jue?s=07 | 0x2A15F6d02E06566FD638fB567496c3AA6Fa71630                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/JakeHoman5                           | 0x0a1e6eb33ccd95f9c093Eb95D28F745076fB2915                   | 10    | 0         | 10         |         |
-| Lihat bayu rhmtp (@BRhmtp): https://twitter.com/BRhmtp?s=09  | 0x31B00f3DCcd491Bd91fCa1EA7F60b374cc130e13                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Ayushag0987                          | 0x6b8133E6b308e6Ca72C30527EF3a521e22FA3504                   | 10    | 0         | 10         |         |
-| https://twitter.com/HammadiSabrine                           | 0x6ad8B197ff6697eAE2048995c53f0495DA0D3730                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/soniami72915126                      | 0xdDAb35Fc4d84763D6C98182155380D7bb0C4E1fE                   | 10    | 0         | 10         |         |
-| https://twitter.com/ran80612384                              | 0x311075E48254F6cb19B7d7eAc74389e7Fa11553f                   | 10    | 0         | 10         |         |
-| https://twitter.com/DKudrayvcev                              | 0x9ae898CFDB121d21A28ca680e9b61b777358d6bD                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Vikki53859842                        | 0x56de1b20bd0D7F342629F987870829aA0FaFCec3                   | 10    | 0         | 10         |         |
-| https://twitter.com/MOHITTANK343                             | 0x3dff99705C03D9894D015b81751B781bfdF4257f                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/shakil9m                             | 0x34C65460e5371E0C8fe694D98F7aCFdC35f9A39d                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/erikcoiner                           | 0x21375798273aCab782624B14e7E45503987E121D                   | 10    | 0         | 10         |         |
-| https://twitter.com/capabilitybegi1                          | 0xf923c16A65CF38e57eFEB3a426bF0717A3F18066                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/phuongchid1                          | 0xc456B77C10Bf40ca4443A279017d55fd29e236C1                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Chikni000                            | 0x58c56Fe35A647542cA097EBF5A06F056059616fa                   | 10    | 0         | 10         |         |
-| https://twitter.com/MinshuV                                  | 0xf07D7aA80780EB4EAF7F15307A60Ba7921DBDB6e                   | 10    | 0         | 10         |         |
-| https://twitter.com/sevenzo20                                | 0x0ed5219f8B421408b5141d23ed573be4a9a04308                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/nongsf                               | 0x671BB85CBF47861Ac90dD7fdE38a601F08e40026                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/DandiFaturohman                      | 0x3dFC0144762575bCCC4C77fDC4859428cEa09EC7                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/rumman102                            | 0xD0594BE4697d9c58563277Db4c297B071E2E9199                   | 10    | 2         | 12         |         |
-| https://mobile.twitter.com/FizaTengku                        | 0xCB558a281A0a400bbe32298e17Fff94324f6fA61                   | 10    | 2         | 12         |         |
-| https://www.twitter.com/MFiroz0                              | 0x2c65874325051A43Ed2a1cb1D040C989CDcFc002                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Vishalkumarx9                        | 0x653ab2269F4C05Ff6D333b450Cdc3Ba179870E01                   | 10    | 0         | 10         |         |
-| https://twitter.com/whyprtontwt                              | 0x2478235336956e9522052f358E16fA9b3d94f1e7                   | 10    | 0         | 10         |         |
-| https://twitter.com/pepero00413251                           | 0x4e293A8539C8D35ba06565a39b115c1B45Cb31F2                   | 10    | 2         | 12         |         |
-| https://twitter.com/tinylion44977                            | 0xadff756a4427d7cd5e9bbc1ef1431b66af18e4f8                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/@k018613                             | 0x157e34Ab69E3d9681274102a3497126136063437                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/aqst1c                               | 0x4fe84f42BC427A6a5619074CBb02A9ACBE6164F9                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/@irfan71864614                       | 0x17Ca4Eb422B95df82d11dAc7e487f0549b1C6E0f                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/deepak57711349                       | 0x0625cF3f6cAD9894002e5ca70a2CbCFD689439C9                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/mofassel94                           | 0xD20F2017D5DF1C48cA43a4EBe44c991fc0828468                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/simran65688                          | 0xDcc44917F7B5767a968fb330e475Dd5ee7e6B721                   | 10    | 0         | 10         |         |
-| https://twitter.com/MdSagor42058847?s=07                     | 0x049dCc79492e221bB1de166C3B2A1c213B300B30                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/adryyan64830310                      | 0xc345c7CC149Cf4d685c7eF2B20a681d7C847468E                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/GodfreyEternite                      | 0x229770cC0b742D692553f9A37730BbdbaAe53DE2                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/weedwyor                             | 0x93E6C829626DCd73f5f79b39b104e15381C907cA                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Bino91296846                      | 0x558d6AA68218A7fA756612491847c4b08530B602                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/meothers1                            | 0x12398db9bDd9f21dd033181D40b766E596Fe6874                   | 10    | 0         | 10         |         |
-| https://twitter.com/1Tasum                                   | 0xC651eAfEE8461f929656908389A642C6eD0e6432                   | 10    | 0         | 10         |         |
-| https://twitter.com/ToyeaburRahaman?s=09                     | 0xa24472F913c90f5D55adf5c71B40D5b2BDd31C8c                   | 10    | 0         | 10         |         |
-| https://twitter.com/jlk1005                                  | 0xD646175d7728B1f0e7bB712F3670534b4Da67a69                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/SunilGu40530673                   | 0x1336dE4771B7D6b6e98D4eC8C8FbFc69d5a91Bf0                   | 10    | 0         | 10         |         |
-| https://twitter.com/PakRw00379511                            | 0x162FfE5866c92cD90306828EADC535BE5639b507                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/@AshisChakrobor1                     | 0x97a6EA1AA9059547EE478146061F9547d769EE39                   | 10    | 0         | 10         |         |
-| https://twitter.com/Arunesh02420915?s=09                     | 0x281b200e58a64CB679B1d5C7F22aC6662eEE7CFb                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/jitsurandy                           | 0x74ECa9AFA8460ac36E98Fe3A20839C554d03EC4E                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/susantokusumo54                      | 0xfFaCd8629ABD085b1E4f8f401B5572407A1c4506                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Saurabh_Mahadi                       | 0xfa418D5c65317fa289C22f0B6B2DA673A190992e                   | 10    | 0         | 10         |         |
-| https://twitter.com/HERIKus41919981                          | 0x1f0c5A563a4E4FfFf82F696870b9bC8DD08d3D02                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/rurisyhptr                           | 0x6F3e84bb906b2aCC4A4107cfB5Ce60F65D65ed3F                   | 10    | 2         | 12         |         |
-| https://twitter.com/Riduwan85653380?s=09                     | 0x79Ec121f99C401a2606f5bedDb27d09C1204c1b2                   | 10    | 2         | 12         |         |
-| https://twitter.com/nethsuka                                 | 0xC02b7f0F7411DDFF02a7719035bbeB38177027d6                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/CafeCapital3                         | 0xE0DAD52C8244D441dE1c651544D91339bE03Ff12                   | 10    | 0         | 10         |         |
-| https://twitter.com/ZMC___01?s=08                            | 0x4c30B3b3e931012d88BD6a69307e75b04c3cCbf7                   | 10    | 0         | 10         |         |
-| Take a look at Shahabaz Shaikh (@_shahabaz_): https://twitter.com/_shahabaz_?s=09 |                                                              | 10    | 0         | 10         | Invalid |
-| https://www.twitter.com/Sabana_Lencir                        | 0x186B3fe6f5b2253E84276285033b1B7307b564f1                   | 10    | 20        | 30         |         |
-| https://twitter.com/Coin_Wala                                | 0x308A27d213A0f65f1C587b8e1d54E8a1b02C880F                   | 10    | 0         | 10         |         |
-| https://twitter.com/Surjho2                                  | 0x9d2eE25D260a0011739E0f62fd546B2b488A550f                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/yasinTw                              | 0xFa9f85644F49dE84fE91183E182d6E7D97EC1799                   | 10    | 0         | 10         |         |
-| https://twitter.com/DNFTProtocol/status/1425435343558373376?s=19 | 0x8213543c2cA2Cf4f6553cA06f596135b30a5B7d9                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/septiadi_pani                     | 0x179dD775A64aa3b273e75e6Cd0afF474299CbAC4                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/happyall50                        | 0x555a0987Cc150dE530fEa1ade7f14BC57d64E3A1                   | 10    | 2         | 12         |         |
-| https://twitter.com/carter22_susan                           | 0xaEA5C5A4320979d9411B6c4e3ed37704d820D5Fa                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/YoBoi5598                            | 0x8c39aCd36D1d3AC29Ee65d1545b13C0e0254A570                   | 10    | 0         | 10         |         |
-| https://twitter.com/Mushfik39066764                          | 0xAB4B7b5F35C582Ca6CCA6C806FdCafe3D1219308                   | 10    | 0         | 10         |         |
-| https://twitter.com/Rhy_kerendz123                           | 0xFBf78f03722c4a889c7a98ab138F9258eb29a67f                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/atozcworld                           | 0xc2A3271a812EA6F2ce987fED149AC02359E077F2                   | 10    | 0         | 10         |         |
-| https://twitter.com/UNzkh155t8XUhmt                          | 0x49BaFB1945802Eb14b227e139960060Db964756A                   | 10    | 0         | 10         |         |
-| Https://www.twitter.com/dendiPpeeo                           | 0x82037d3C2aacd0e17E4140c2dEca6f9597ED981E                   | 10    | 0         | 10         |         |
-| @alfi761879                                                  | 0x003cd6d401F7136c409C885C6E61A21a2Fb95150                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Litonsk16520014                   | 0x19A9eaDa3a90c36934BdBD024Bf0b60EcddB702d                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/2amDiaries                           | 0x649084d896EA917D5c67dB38291a941268DE9740                   | 10    | 0         | 10         |         |
-| https://twitter.com/TunAnhL42884855                          | 0xD1eAfbB419C319AA7BCfe6DFa05F5AD4777D867b                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/MdZahid50495620                   | 0x34Fa85432fAfACe856e14384287c61A91F6D6d91                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/kmusully                             | 0x7dF263b76f67262444952c0bd44F5259e4672642                   | 10    | 0         | 10         |         |
-| https://twitter.com/MDEmrul36416016?s=09                     | 0x100892B9428aFf2a60c52a5353217D80B39cb196                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/NitishG03156853                      | 0xa4e9b98D68a7533Db0764404144Db6A553197ca7                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Arman79146241                        | 0xa51B16eeBd09105217a0522AE4c183F576D55C80                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Shanto551                            | 0x44439012D56bb40e4e969201ACae5117220Cbd0d                   | 10    | 0         | 10         |         |
-| https://twitter.com/Michael76644644                          | 0xd0fcB5bFD88df3CeCEABE18d99139182B4491492                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/SakibAh9                          | 0xfC7bca67aa60836C54a0Ffa64E8cd1Ce1eb8aD83                   | 10    | 0         | 10         |         |
-| https://twitter.com/Ashikul17588878                          | 0xEAC052c40e16731345Af53DFb7c941CDB07Fe6E7                   | 10    | 0         | 10         |         |
-| https://twitter.com/Majlan46239887?s=09                      | 0x4dF4Bf3049387C1eF920F01060364E0ae3E66FdB                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/LeThiHuyen082                        | 0x10431675e53493A8C2909f842EF9bdaa8C4978Aa                   | 10    | 0         | 10         |         |
-| https://twitter.com/Anita85568521?s=09                       | 0x8a6E2D81A7398a43181fcca6424B948b1c895E28                   | 10    | 2         | 12         |         |
-| https://www.twitter.com/miryasir2                            | 0xc3FAEBBA4056D8723E7F15d194c31208e729404B                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Taha48115464                         | 0xAE84533Bf81DE80003ba3Ef5F4aCedbDD97DadDF                   | 10    | 0         | 10         |         |
-| twitter.com/JackieH94775722                                  | 0x15Cd8Cda3Acc6B23761eB8e36827Eff3AA708068                   | 10    | 0         | 10         |         |
-| https://twitter.com/SanmenX                                  | 0xe135990E7E1FAcc042F03e9aA2116c81b5A3FE5e                   | 10    | 0         | 10         |         |
-| https://twitter.com/lamczech                                 | 0x34949df7676bc46F6230A0aa221B24D111b5A7E9                   | 10    | 0         | 10         |         |
-| https://twitter.com/idartku?s=09                             | 0xde658A284Ad2567a5f7608C6CB7129f44FBd6cD0                   | 10    | 0         | 10         |         |
-| https://twitter.com/factz_master                             | 0x8071692B1C5eFc41a75f8A9536BF2DDF7f09bb3b                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/farhadrad6                           | 0xC858cf443E2E384597040f81a3D72985C7328769                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/rivahein                             | 0x6f67925E349905C52b54f510af404f9E5b38da3b                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/58941hasan                           | 0x9DeD8781A1D153e593F205462078455f8Ce9556f                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/jhonkeok                             | 0xAdd81eeC7364416DBA87342A4503Ab1D42347a83                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Adam_Smith_ota                       | 0xD0d4AEFe5961D3956edaFf2334E2af52833e102D                   | 10    | 0         | 10         |         |
-| https://twitter.com/juhara28                                 | 0x7AD5399626cF8f799C32A1ef54268e5b630A51a8                   | 10    | 0         | 10         |         |
-| https://twitter.com/huydiet0901                              | 0xEdB172f111f854040bACC89F5947698a835FccEa                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/@Amir16241                           | 0xf96C21bbe77640A51B3E2a489bCE4ff08d54B501                   | 10    | 2         | 12         |         |
-| https://twitter.com/nebulardragon                            | 0x2dB34Be86d6fEd4Fbf590d5750F653EF30f6dED0                   | 10    | 6         | 16         |         |
-| https://twitter.com/AndinetBzani                             | 0x4008cE029a4002fD105Cb221A2453F530B94078a                   | 10    | 0         | 10         |         |
-| https://twitter.com/husseinaljoma?s=08                       | 0xA0f874a6D3b94Eb76885B0232B6439243BeF1B90                   | 10    | 0         | 10         |         |
-| https://twitter.com/TirthaPaul19                             | 0x0A5481A3b982a759335d993C98920A1F660f65AD                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/@lovely34593                         | 0x9731FD7c96423E2089E5844139237a0FF552B110                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/InBureaucrat                         | 0x141c72F4316cB8cc01A9eeF16e21F9665e37CE2c                   | 10    | 0         | 10         |         |
-| https://twitter.com/kenmisa5                                 | 0xb77FBba5efBaAD547c7B0201aCF4656dAD578CA5                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/hunghung6789                         | 0x21f3Ffb6178420A7A3115A0A83f730215410454F                   | 10    | 18        | 28         |         |
-| https://twitter.com/wareaglefan2                             | 0xAcaA8a7e3A4f3f9F6A573E04A25D2fF0278052e8                   | 10    | 0         | 10         |         |
-| https://twitter.com/Veveric                                  | 0x09abF9432dC98788Fd9f59E5CD84FcB5DC0b7Dc2                   | 10    | 0         | 10         |         |
-| 0xf9fbCfe2ffDCe9a36f58df8bff6D6dCAD0a0412D                   | 0xf9fbCfe2ffDCe9a36f58df8bff6D6dCAD0a0412D                   | 10    | 0         | 10         |         |
-| https://twitter.com/jp_talking                               | 0x4449fF98A71aF29198B6Aba55908b0d8bc09a7BD                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Mochamm91151047                   | 0xF10f0337d769bfc9c3fC729F8c3C1BEEBcc37ecc                   | 10    | 0         | 10         |         |
-| https://twitter.com/AlexHoa35249665?s=09                     | 0x0B6075F16ef37A00905E17afeCbce7d091D928F7                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/amanmj55                             | 0x0bC51a02d359883d3A94e5860b7F3d5f47cd29a3                   | 10    | 4         | 14         |         |
-| https://twitter.com/memmuri102                               | 0x876377485ad559487ae089c7d25eaeacbdc369ab                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/leetayoke                            | 0xe00249Cf0bDf55E43096B0c5F646521105d55e42                   | 10    | 4         | 14         |         |
-| https://twitter.com/Misbah972                                | 0xa58DB7D9E9C3D371Bb109295253879da90E33Fc6                   | 10    | 2         | 12         |         |
-| https://www.twitter.com/KParagadapu                          | 0x6466552758d539541879E2dbfA106AdFDA3f04bf                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Vol12341                             | 0x83A8F4E7f2C97d9Cd45D23Db221b1EA3EF4aae22                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/RkOLIVAN                             | 0x94E125eF3524BCab017fa527e5C63038448e926C                   | 10    | 4         | 14         |         |
-| https://twitter.com/ceritagpol                               | 0xDEf9a570Ae771fb7F0C1C120Ad648C785E57Cf8b                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/acedaveee                            | 0x702AE691523a468147a561240a3A6781D6d33527                   | 10    | 8         | 18         |         |
-| https://twitter.com/CARLARI74956689                          | 0xa4F68DaF2fa5008b65C748C890fe5D39018C412C                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/shi_quest                            | 0xCFC047607104edb81E6dA67F8B102fa9C919DCDA                   | 10    | 0         | 10         |         |
-| https://twitter.com/Latanya12200919                          | 0x7bcB2C5031b8a860F681B93bc124269b7703b858                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/IBlanquitoo                          | 0xdC5880B92AF5bDb34694B3e88527aE4fC6904Cc7                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Sinem_OzdmrFrkn                      | 0xfbD6b5e458236051cF8EF8b041768Fd8031Ac777                   | 10    | 0         | 10         |         |
-| https://twitter.com/Amritbogati17                            | 0xE70c5efC2cC506aA3B7ffb96Db0a50D5B92b1118                   | 10    | 0         | 10         |         |
-| https://twitter.com/MdAbdul258?s=09                          | 0x7694086dd10469c791ECc5dbF7B67B13C83f54DD                   | 10    | 0         | 10         |         |
-| https://twitter.com/38HBd2C9iiwo8X0                          | 0x01e112B7a98012C7A729823A102cb2F7C8248086                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/navid57548645                        | 0xc74cEE2F782Bc257d197AC212082593757F22A6a                   | 10    | 0         | 10         |         |
-| https://twitter.com/rony_shoaeb?s=07                         | 0x30CB6d101c8C18e58b807460f9d181706DC2dE1c                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Sanjitk26196920                   | 0xBe8A133d380d50743A39B7FA09Aa407a4439A992                   | 10    | 0         | 10         |         |
-| https://twitter.com/Opah230210                               | 0x6527f2ffd19e17f4197bd5bdb4964d6e6a09818e                   | 10    | 0         | 10         |         |
-| @KikiHer87703973                                             | 0xAb43D9F856e2B1f87A20238B56cdce91D9455BD3                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/home                              | 0x884c94376622cB59BD35bF50A634B99BB1D9A511                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/sandra_san24                         | 0xa2Eb48663f5e59B3A40Cda2B4a0255E59D34a81E                   | 10    | 0         | 10         |         |
-| https://twitter.com/IFTYVai2?s=09                            | 0x27ED5266Fd7aa5F48F0a02c1dE43cf2ba48Bb529                   | 10    | 18        | 28         |         |
-| https://mobile.twitter.com/Mizanur31759617                   | 0xB1fdE0127BA3F09340da14D86D3c1573fD568d38                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/khodayaaar                           | 0xD90E2b692daeD62618a359985732F869C7Dcb16B                   | 10    | 4         | 14         |         |
-| https://twitter.com/THAIKHACSY1                              | 0x735b02F22A3dfa89666ca36D7104bd488Db96713                   | 10    | 0         | 10         |         |
-| https://twitter.com/HongTranThi3                             | 0x029cc45b8ba7073fF0314570DCF1a9229363900a                   | 10    | 0         | 10         |         |
-| https://twitter.com/SujunBD880?s=09                          | 0x41290899bfe7e12de55a59B0966f1Fa0F48C52dc                   | 10    | 2         | 12         |         |
-| https://www.twitter.com/Lohengramm8                          | 0xd3f90069556d3ce3b8FAE6E071D91caE9AdfFC78                   | 10    | 0         | 10         |         |
-| @bd_tiga                                                     | 0xe13869dFA2cb2f81e6B863C1790E78aBe927cf50                   | 10    | 0         | 10         |         |
-| https://twitter.com/nabil34052681                            | 0x6E06B9C5841FE58Ed098d7f2ccE49eE03eB241f7                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/nam75569884                          | 0x58cB654325278633618e31A7B9DB9B4c5d6062fD                   | 10    | 0         | 10         |         |
-| https://twitter.com/MeliusCindy                              | 0x4059D8139Bd06E3147925b72838Ec5104C89AF79                   | 10    | 0         | 10         |         |
-| Https://www.twitter.com/@birendre14                          | 0x4Cb4095D4D7626320080ba169C4084Ea5755eD8F                   | 10    | 0         | 10         |         |
-| https://twitter.com/rbp_dy                                   | 0xd78A30F70D6E208E12033B3bAC5c15dcB3b1f999                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Panji41                              | 0x977f3abf787075bb3d332d7034fa58362cfb50e0                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/mahdi_ftu                            | 0xD27E19E5e4423Ee951b96C99b408f3483F67B605                   | 10    | 0         | 10         |         |
-| https://twitter.com/Yarosla14529254                          | 0x7C5797f0595FAE1d7AEA831651Cfd395DD1Ae033                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/luckzou22                            | 0x31E2bFCf84Ea11f3871594f7BA1a02BfEc229bc9                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Fenix0541                            | 0xf88FA01ab5a62f6aaf58227e44eBda36897B1eE7                   | 10    | 0         | 10         |         |
-| https://twitter.com/Leighan01879937                          | 0x7b872Af81cfBa1feb4Da018496e865354FF8a24D                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Shaheen59490070                      | 0xe3c1Bb2b358DDcb89a88152136f9aB38e989c70D                   | 10    | 6         | 16         |         |
-| https://twitter.com/weedologist710                           | 0x7F2A0b1511660A0D9a613B5Df1eBC6a95d429F77                   | 10    | 0         | 10         |         |
-| Check out Adarsh Chandra Pati (@AdarshChandraP1): https://twitter.com/AdarshChandraP1?s=09 | 0x80708017658465ea06DDEE0b6d6AeB168763aE06                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/shirinflso35                         | 0x233673cac6241d6A7AdDA93e03d6a00965466e64                   | 10    | 0         | 10         |         |
-| https://twitter.com/minhtd22                                 | 0xaDaC3590E1573243Ba2db50176174B7Ab37297CB                   | 10    | 0         | 10         |         |
-| @Mizan78940854                                               | 0x8AfD3014AC818957fF2058603148c28d1556848b                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Armando58328070                      | 0x2c9b8F7C457Cf931208311A6B06406CD2Df9DA11                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/slaisaoktav                          | 0xdEBBEd32F2f99033b19fb07481D91b4b24F9565B                   | 10    | 0         | 10         |         |
-| https://twitter.com/KristinHan15                             | 0xD9F893d15D035e70B81C64b9B660B3EE948bE31D                   | 10    | 0         | 10         |         |
-| https://twitter.com/Faramis855201                            | 0x8a1f11478e4609aa81abff3fa22fcd0ff877da1c                   | 10    | 0         | 10         |         |
-| https://twitter.com/SiamHridoy1?s=09                         | 0xb11B5860213646439A3e177aAB361d5AFE03D09D                   | 10    | 4         | 14         |         |
-| https://twitter.com/hattdhs573                               | 0xfc3370aC9Af0B78891dd3bd316d61c2A2A4C69AC                   | 10    | 0         | 10         |         |
-| https://twitter.com/CuongNg86840415/status/1425424309846085643?s=19 | 0x9d6404Bce1234a013c6084C49E87e37669100E67                   | 10    | 0         | 10         |         |
-| https://twitter.com/Skyeemiti                                | 0x9E7B04997Db025C488aAF63bF22Aba39dEFc070b                   | 10    | 4         | 14         |         |
-| https://mobile.twitter.com/nutrevity99                       | 0x4907f72927953C7F4bDcc859C3623888140843a8                   | 10    | 0         | 10         |         |
-| https://twitter.com/DeetDeef2?s=07                           | 0x653BfF4f8F3Fd4dFad3Ce6eCCb17CbbcBa674d73                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/krozetgame                           | 0x40027d9Bb1B805fd18030Fd30C86C5B61F4DEFf3                   | 10    | 0         | 10         |         |
-| https://twitter.com/HenryDj9060?s=09                         | 0x2920846Ff534c4936A565189AFc922E19D8E3142                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Manik60341193                     | 0xaB8BB4061602dF7892c59A27A38b34ac460fcECb                   | 10    | 0         | 10         |         |
-| Https://twitter.com/tiyyanggraini                            | 0xdBE6F401DA75C36cF76b4983FA388C84eC3B3f20                   | 10    | 0         | 10         |         |
-| Check out Winnie Crypto (@WinnieCrypto1): https://twitter.com/WinnieCrypto1?s=09 | 0xe6bD0F17ABb8BA8e44e5f4ed32Ed3177E621B459                   | 10    | 0         | 10         |         |
-| https://twitter.com/Sanjida90278033                          | 0x73232E52E072cA928b9514760C18FD328579a4b3                   | 10    | 0         | 10         |         |
-| https://twitter.com/ManicMechanik                            | 0xBaa154D50602518c6164FD1c2056184E7CF989cc                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/cryptcoinchaser                      | 0x63349C3EF262953E2Ac6F913cDDD948AFf91F44C                   | 10    | 0         | 10         |         |
-| https://twitter.com/tareq_rabby?s=09                         | 0x28743c80D4CEa085c21435c0161118049B96FEbA                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Ashvin47318932                       | 0xe65425563d42c7CF34851D0f576F4B8084Bb072A                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Rasooo18                          | 0xaed0b8c44e39843b532860D73099832F7627CBf8                   | 10    | 6         | 16         |         |
-| https://twitter.com/mphomatlou15                             | 0x1FFbD50cc2079a4A183F4053619B4803a93873c2                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/rendif29                             | 0xe4f1a77dC14b8EB1b9034816c745de8877dcF2B5                   | 10    | 0         | 10         |         |
-| https://twitter.com/AkashDa69742914?s=09                     | 0x13BF65b6AC9D28B37837e0c2B1b6B0f35A7b10ea                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Priyans16396734                      | 0x9c0Dbc4cb75312B25A3469DbA0d453a81f030180                   | 10    | 0         | 10         |         |
-| https://twitter.com/bardiya_63                               | 0x502A9864c2a8CC5438C5a57719870344Ef4C50c8                   | 10    | 0         | 10         |         |
-| https://twitter.com/NguyenD32452745                          | 0xf15D88c0F340eaD3683fBE311C8107D313d077C5                   | 10    | 0         | 10         |         |
-| https://twitter.com/MARYCAM78367413                          | 0x0dE363101B1B37409438CF41692Ace39eA3c8522                   | 10    | 0         | 10         |         |
-| Take a look at Susant Thapa (@Susant_Thapa_07): https://twitter.com/Susant_Thapa_07?s=09 | 0xd00a1881B7444802944c7FD2b64FCA7b3845e904                   | 10    | 0         | 10         |         |
-| https://twitter.com/perry                                    | 0xfcD1EcaCC8A553d199BAF7AB0eCb7Df5B8F9C722                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/pringgaK                             | 0x2deD508695a35B0bE6391A2499Cf6943AD62C5C4                   | 10    | 2         | 12         |         |
-| https://twitter.com/sukhon_ahmed?s=09                        | 0x6ff1D320f868969c8b51eaf00C658e0F3562c695                   | 10    | 0         | 10         |         |
-| https://twitter.com/ShinTha00683227                          | 0xFc483a19aaf42723c959Fa738767c3E8C44530E3                   | 10    | 0         | 10         |         |
-| https://twitter.com/DayComedy1                               | 0x5eA0F683621bA9D4b8f09Ff376E33847192922f0                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Turkey70532531                    | 0xba4eF19fB18a054731d22f412c28d57B6f95032F                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/awalludin377                      | 0x3cC0c773d1698e59af59fca2381e3d2DFb11ec1b                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Maststurnus                          | 0x0d24Dd5E041c3527bb059Dcf508A87E7E6aC4D64                   | 10    | 0         | 10         |         |
-| https://twitter.com/AndrewDziak1                             | 0x58B3b9405AE5e2030b7BDf940363F13610D44eE2                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/reeemaar1                            | 0x716C183906248f4507a8791040Ea138F091b9Eb6                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/8oYYoYZfA2kl7kz                      | 0x36fCc9fEf1Bf90B74aeF419a334CdC8B8F9bFb10                   | 10    | 0         | 10         |         |
-| https://twitter.com/Kopi927201                               | 0xb981d622c0f2e50fc3eac6b73c07f37a3671e8fe                   | 10    | 0         | 10         |         |
-| https://twitter.com/Imtiazsultan17                           | 0x4a43c8cdc029efB1934ee6BdA9F692658cB8Fe38                   | 10    | 0         | 10         |         |
-| https://twitter.com/saddog89862                              | 0xadff756a4427d7cd5e9bbc1ef1431b66af18e4f8                   | 10    | 0         | 10         |         |
-| https://twitter.com/MdMunta03207597?s=09                     | 0x1C45E0E90E3d98A2B366e2bffEC300f088B20Cb0                   | 10    | 2         | 12         |         |
-| https://mobile.twitter.com/rkimranhassan1                    | 0x6880F95b1ceEf4E8358968E23ce87EeE4f00e42e                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Rizqi19106497                     | 0x54d2872639CDf6b781CF891B3F1507C4802cB44b                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/andidwipranata1                      | 0x45eE9e89A7faE2C20C2B9274895855f293DeFB28                   | 10    | 0         | 10         |         |
-| https://twitter.com/king84529?s=09                           | 0x76edf7407fC9635192b983eF0a1548eDC8315Af5                   | 10    | 0         | 10         |         |
-| https://twitter.com/LourdesFarinas                           | 0xA0BF6E01EeBD2277dD7F0B01bA1C3018820E550C                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/WahidMuradNoma2                      | 0xf89fBea9272EEcAA8Eab66e7eA9d5d2c6E7889f5                   | 10    | 0         | 10         |         |
-| https://twitter.com/erramdan1593                             | 0xc6Eba3D73f74E68ebeed4d30D5e2651AF65F6a26                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/nomaewa4                             | 0x48778b33672a5eBC75627450c4914F4e1005B8c4                   | 10    | 0         | 10         |         |
-| https://twitter.com/milonmilon200                            | 0x4595dAD5a57039721d4b11288C231A8ea1470ebF                   | 10    | 0         | 10         |         |
-| https://twitter.com/Crazyyyyy21                              | 0x857D0727C905Bb19AD071718d1c203F7632508Bb                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/den_6877                             | 0xAb41dB9470464C10ceD92C4653627e901111e8b3                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/42nata2                           | 0x106b839fcd9d5eAF1a7540428Df948970bce1ef0                   | 10    | 2         | 12         |         |
-| https://www.twitter.com/pradeep62363595                      | 0x433acAE899E0844A533725FD27634B01521Ec42e                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/RopiBae1                             | 0x9AadDA26C541bD9d70eDC861A151227E22cB3063                   | 10    | 0         | 10         |         |
-| https://twitter.com/misbristy                                | 0xe3e28E90e49058aC2Bb8087d27D17f8B9Abec021                   | 10    | 0         | 10         |         |
-| https://twitter.com/dnftprotocol/status/1425435343558373376?s=21 | 0x2EB33867E10470325DC83aDb0288947A24bB9E44                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/xadness00                            | 0xcE327E1065450BC80f9EBE68C883BB782DC16Dfe                   | 10    | 0         | 10         |         |
-| https://twitter.com/Hidayat54738258?s=09                     | 0x6880d0b84138269C2912e50d9F5d784442F297F4                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/THOMAS21508143                       | 0x416C1df0998AaE55C7Fd1bdC83182A8697ff5098                   | 10    | 0         | 10         |         |
-| https://twitter.com/diswanth_alla                            | 0xdCf096750e591d54c959De1C010aA7aa78693CB9                   | 10    | 0         | 10         |         |
-| https://twitter.com/Emon94612579?s=07                        | 0x620146106CBEEa7Eb060191D9c973Ecff9A6af42                   | 10    | 2         | 12         |         |
-| https://twitter.com/ViviAndiyani                             | 0x2318415F0bD2d8844605e81afdd043b54AB0e7e7                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/minhnhat20171                        | 0xa1634541a6Cdc5cE6d7D8EFa81FCca27211767E3                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/noval64921728                        | 0x6027Ce6EA661Be27647EaAE28eba3ce7Df119a50                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Emon2054                             | 0x462797e039e4f36911f92C1e592ec9d407a9E4e6                   | 10    | 0         | 10         |         |
-| https://twitter.com/karthic48388602?s=09                     | 0x3a8f5FEe039CC8E74E586afac881Bb8fa78B56B2                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Mohdhasnain12                        | 0x8fcA6b4af1f28a8acF92998352079B55Cd34e442                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Tafsirul555                          | 0xa0123723D5697731E02C74a0069D99BD32186eCB                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/vish3472                             | 0x4675fb9525DB345cC17808A2AFa77C6E77AA5DcD                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Tamimhossain488                      | 0x61cCDCd55A5eDfd4138472a8a3acC9DdbAfB399d                   | 10    | 0         | 10         |         |
-| https://twitter.com/vananh9k1                                | 0xCeC29930ac20027c63e004365Bb3E64df7ec7cF2                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/ShafayetJiad                         | 0xE5f6aE11932B80132fD937493cBEEba51Db74525                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/yonkdhavi                         | 0x38e2e7A742CBF2b4Bbcf56Cf8c2Fd8E319DCb2ed                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/NobinHo28600107                      | 0x160e6D5D9a32C98Ddb266fccdf3DFf86e73aE3B7                   | 10    | 0         | 10         |         |
-| https://twitter.com/congkoy2                                 | 0x8BeB6718Ccee3Bb73CB4Dee40A22EdA33AD3a654                   | 10    | 0         | 10         |         |
-| https://twitter.com/SatyamC75288540?s=09                     | 0xF30A6900f9586aBd800f929FBC637D5115B2f03E                   | 10    | 0         | 10         |         |
-| https://twitter.com/Porsha96039240                           | 0xC3320970a8634aEf26373E7D67879a40646c41D2                   | 10    | 0         | 10         |         |
-| https://twitter.com/masbirin123/status/1425434329178537988?s=20 | 0x61deF0746e8a4C379c7e577D73450De0953cc7Ce                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/SabbirSabbirraj                   | 0x323b140222cdEa8E9d5fF8b55404005eF1050eEd                   | 10    | 0         | 10         |         |
-| https://twitter.com/@Sujoysa33490209                         | 0xFeDaFa9A994e235B46cF3d4ab2B144Aa378b0C26                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/ardaloon                             | 0x135d2c9b2F058CFb6Fd4693D059D3a3Fc8D178Da                   | 10    | 0         | 10         |         |
-| https://twitter.com/MPoNy9OGKuCccNs                          | 0x802DCFC2dF0cF38A6D75F6C1ABb2b48aeF696b72                   | 10    | 0         | 10         |         |
-| https://twitter.com/account/access                           | 0x1F1BbEB49920722685D032ef7346f5D700c9E1B7                   | 10    | 0         | 10         |         |
-| https://twitter.com/aminl_md?s=09@                           | 0x02815b3C48c67f8C11259eaf69a0f45750141d0d                   | 10    | 0         | 10         |         |
-| https://twitter.com/davehallelujah                           | 0x91a9f2d02Beb5F8cCFeEd13794477f0915C670C8                   | 10    | 2         | 12         |         |
-| https://mobile.twitter.com/Asadull53081344                   | 0x3A03c75d5Ce482e9F95CA07B57895dbDB810cf6F                   | 10    | 4         | 14         |         |
-| https://twitter.com/JatindraSingh17?s=09                     | 0x93bCF054f8a784bfFa0813A175353493Fd4A484B                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/echezona0852                         | 0xCeeAb8516d7A48Bf94c61387bECB7aa6F83955B6                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Ulak_0                               | 0xc49F51AA9A5fe53A35154dFc6e02811fa010495c                   | 10    | 0         | 10         |         |
-| https://www.twitter.comHiwjfj1                               | 0x19763A1Bd960046aCE1DBe0c320E4BDc21A01A3f                   | 10    | 0         | 10         |         |
-| https://twitter.com/NPhuong1989?s=09                         | 0x091A9bdA053F05c0bbf1fFC6f930C69282B93cBE                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/ManzoMax1                            | 0xfa0082c9f453D46A17AE304586aEe019e9B8Df8f                   | 10    | 0         | 10         |         |
-| @brahim30974776                                              | 0xA9Dc085e796f0Bcb0991AA01574116A746c4a5c9                   | 10    | 0         | 10         |         |
-| https://twitter.com/SubhrajitBanga1?s=09                     | 0x3e7517a5E079b2A685ebb5eE47A645578B4D4472                   | 10    | 0         | 10         |         |
-| @Pradeep79721407                                             | 195594232                                                    | 10    | 0         | 10         | Invalid |
-| https://www.twitter.com/GaryWil27880359                      | 0xD779C31917cd687A07d13e6f7a25C78ee8590027                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/AnasArifal                        | 0x4BBA6a377b83EebFc25EE33d2e2A7481997566D1                   | 10    | 0         | 10         |         |
-| https://twitter.com/AloneLo55085369?s=08                     | 0xf55d5a3d4C00E3E0FF8e9Cce38AFc471e912D8C6                   | 10    | 0         | 10         |         |
-| https://twitter.com/SumonCh77352683                          | 0x0f3F64223385e11813b32E76e6D7d797d111956f                   | 10    | 0         | 10         |         |
-| https://twitter.com/arih12286469                             | 0xf844d9083b5a77901e2ea72ed24dBB20e469DC40                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/jomirhstu                            | 0x93650a6b28c1aB4F77e5F4dbF938B4B36AB8556E                   | 10    | 4         | 14         |         |
-| https://twitter.com/139577879                                | 0xA4c9F5d05BBAb8104996d79B1af824b84f4C7553                   | 10    | 0         | 10         |         |
-| https://twitter.com/bimalavanya                              | 0x6e3ab33Fcb4585711883F5a5Fd0B8FaF11c0dd1b                   | 10    | 0         | 10         |         |
-| https://twitter.com/TechnicalPlane4?s=09                     | 0xe34Fe498c4074eAcA067FDE9c8fa5708Da6C9fc5                   | 10    | 0         | 10         |         |
-| https://twitter.com/paterne_d                                | 0xd5C4c41c6d1e40A1E2C1C2B70FF54f9d239d39d5                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/kaysarahmed123                       | 0xa3B84B37c77dB47833Faff00B8Af513172F45f62                   | 10    | 0         | 10         |         |
-| https://twitter.com/truongkha631751                          | 0x09c71effCe549513acc63E0F698281Ae7AEF896D                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/NKhozin                              | 0x656e6A28433FA8c512f87379aAa95c0Afa8B06Bd                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/@aditto91                            | 0x2EF26B40991ab18bD8DdE57B680633c4040BBa89                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/sedar_46                             | 0x3b4325CFb484E6c7361889A5Dc14B9779a6671A6                   | 10    | 6         | 16         |         |
-| https://mobile.twitter.com/perumal27272502                   | 0x5D3c9091Ec3b96C652f4F4E5f0fa539AA2E82a66                   | 10    | 0         | 10         |         |
-| Check out Swarup Kar (@SwarupK76): https://twitter.com/SwarupK76?s=09 | 0xf4ea25D719D90A5eb1C56101Ba947Ba09eA2eD36                   | 10    | 0         | 10         |         |
-| https://twitter.com/MdJamilIslamJo2?s=09                     | 0xE1F36e16EC84F8C2763E1070e53FAb1eAA1aDF49                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/j11880069                            | 0xd90551Dc7B6fB8Cc48ee46bc3B95Eaa80ED0Cc38                   | 10    | 0         | 10         |         |
-| @robiul_saiful                                               | 0x43AbA6743574B1bf0f6DebE15C040f1b89E0e979                   | 10    | 0         | 10         |         |
-| https://twitter.com/Abdulhmzh201                             | 0x8d7717dbd76d3206a321e03327fbe015531c126a                   | 10    | 0         | 10         |         |
-| https://twitter.com/AlexJon43848169                          | 0xBEfbfc96592A4644f28F3A72FBE02A93Aa45A1A8                   | 10    | 0         | 10         |         |
-| https://twitter.com/Caoduc99                                 | 0x39F234A6Ef150346E887a036C4Ea1642E26e87ec                   | 10    | 4         | 14         |         |
-| https://twitter.com/urain103?s=09                            | 0x7390d7484f6Dd081393bf27891052Ef46236052a                   | 10    | 0         | 10         |         |
-| https://twitter.com/TrngXunHng6                              | 0x76Cac956D368D51318243B81C8FF12317FEDe966                   | 10    | 0         | 10         |         |
-| https://twitter.com/GaaYuLueng                               | 0xa6b8dF9d210414c268DaEc0977A4Ca94d75f3301                   | 10    | 0         | 10         |         |
-| https://twitter.com/Void36077146/status/1425396694062047238?s=20 | 0x0d448498bbF3Cd4c8deC95ea114276dbBB656458                   | 10    | 0         | 10         |         |
-| https://twitter.com/RAYHANK90930170                          | 0x534564F38B92EfB274d0D1C9C6a070F0c04B9C53                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/BLASTR11081060                    | 0xA3a61Da6e80C19B1Ca162c85A27700935F88c682                   | 10    | 0         | 10         |         |
-| https://twitter.com/TTNGUYET4                                | 0x508F1F583F3158094C3f491417279b5685972e5d                   | 10    | 0         | 10         |         |
-| https://twitter.com/hardikcrypto3?s=09                       | 0x63Eebb35243BE42a0Ac86c4D7e2a83cA7F83F02d                   | 10    | 0         | 10         |         |
-| https://twitter.com/ParthaS20121992?s=09                     | 0x17722e59B50e890e4AaDf12EdF4D38f30c96D4F3                   | 10    | 0         | 10         |         |
-| https://twitter.com/mamenscott                               | 0x158C104c9891E2D1f6CE85cDD665424E2f9b927F                   | 10    | 2         | 12         |         |
-| https://www.twitter.com/phreewilling                         | 0x8629c99aD4F66D59D6Fe4106b030Df95aDb85fB8                   | 10    | 0         | 10         |         |
-| https://twitter.com/Vishal53315199                           | 0x30125584bF9862d8B1C5f69e068FD25f906BcedC                   | 10    | 4         | 14         |         |
-| https://twitter.com/jinenae1                                 | 0x3AbD91CfFe9DEb0a50b0557AD7b97dF207943365                   | 10    | 0         | 10         |         |
-| https://twitter.com/NGUYENT79565539                          | 0xa2b2d646e8ED11CabDaeD612f26c91cB68D706a3                   | 10    | 0         | 10         |         |
-| https://twitter.com/CarlosMarbun2?s=09                       | 0x6ea838a76443351A1C9Ba9C01E4183E88d414037                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/KaylaTuban                           | 0x53B7c98105ad4ba171500beAec3fcb5fEa00067f                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/dimitrivxavon                        | 0xfCFa2E804A9fb18B0EA554dC6aA98E21E19dB54d                   | 10    | 0         | 10         |         |
-| https://twitter.com/Rahmanhaq2                               | 0x6D17aD6d608E14b84BA9B370759820AFAe7BaB14                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/hiu79920961                          | 0x44E9A67f1B00Abc21a0711b1257DD02353daCD2D                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/jeredenn1                            | 0x749492Df7A86f0dA735CcDa1e3DDB31286863D3d                   | 10    | 0         | 10         |         |
-| https://twitter.com/RayJone14216721                          | 0xD2dc1C7EcDB2784ce4fAC0A88a5fe983994ec7da                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Valerii90747224                      | 0x6361c4F100f1C99e736bb4EF06eb728b2c7D90b2                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Mhmmtsvnc                            | 0xa16c604966D47a627e48b6D1c87d5748E7f26Db9                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/RuhulAM95569798                   | 0xf480E70ead7BB407dFF83EB8Ea7c1B197e6DAaB2                   | 10    | 0         | 10         |         |
-| https://twitter.com/Sanduna3                                 | 0x9832Da7f9Ee944fc8910dA28B384Abd7e85C93B4                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/lx9649                               | 0x4B15Ea4f3BC7dFCFC62FBb374a445AAe1887CbE3                   | 10    | 0         | 10         |         |
-| https://twitter.com/twaha1234                                | 0x54cDD18ece44f7EF82b44b239989bfb0FD684966                   | 10    | 0         | 10         |         |
-| https://twitter.com/hallo_esa                                | 0x68E52a57E5CdE24EC83B871508a758f05392993a                   | 10    | 0         | 10         |         |
-| https://twitter.com/dyqdyqdyqdyq                             | 0x8a890d3da3baa1F47c7bfb133985D67C711Be93a                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/jgnaturakuy                          | 0x8915E0990Ba399A0D9Db90C610676A6c220041A4                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/cryptoking992                     | 0xebb4638d41BC7D8EA6F1a1bE89aE8d1427266d32                   | 10    | 0         | 10         |         |
-| https://twitter.com/STEPHAN59024301                          | 0x7999282cE01C97328e5C5584c508348720e70eDb                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Airdrop66190570                   | 0x8d45F5FC4611eF78A124244407a6DC1BCdD87faF                   | 10    | 0         | 10         |         |
-| https://twitter.com/NihadProdhan                             | 0x3F1dd979E1C6B07e7A9d60A5BAa31C355Ce48Fb6                   | 10    | 0         | 10         |         |
-| https://twitter.com/DanielHock19                             | 0xfBDcaAb21B3dA7afF53Ba9e2ab20c878BdAF0729                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/M_Kerving                            | 0xacD40cCAED033d984C85590DA0d240Ac4cDE68f4                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/safbah-                              | 0x3DCa991a6E817D3C5246e8Ae75b9351B9c5E724E                   | 10    | 40        | 50         |         |
-| https://twitter.com/SabbirJohir?s=09                         | 0x440F4425797a81c8A9bA3885Be10e17a1d22E659                   | 10    | 0         | 10         |         |
-| https://twitter.com/haiakulerrr/                             | 0x6Cb4c5F6Ea9927Dc43cD0EE8E1DfED3618D23DdD                   | 10    | 0         | 10         |         |
-| https://twitter.com/ImranTamim46                             | 0x5F9028B0cC0D244579206A5f91B35DD8A352FFe0                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/fahrull97                            | 0x4f64b3A8635Ba63De3Daea4eFf8A9Cc79462E311                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Sanjay61842441                       | 0x89832FA1d623eC73FbFa8c3cE9aeE9ceB5Fe31e2                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/NaumMahmud                           | 0x6b7b0Ff933429f1B8871356FAC8Ace30c3441685                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/mdahanafabid                         | 0x8726A79153391b817C8f6c97d6b8E325e12aB867                   | 10    | 0         | 10         |         |
-| https://twitter.com/thanhuc779                               | 0x7446c3D1b2d55Bb961C1458faeFbeD71ED105b43                   | 10    | 0         | 10         |         |
-| https://twitter.com/mahan1375?s=09                           | 0x2d220f1Fe17eA08E642A21F39Ad050B88196FA2B                   | 10    | 0         | 10         |         |
-| https://twitter.com/soeinto?s=09                             | 0xCB66a36f5847f0f1B21aC0e39779172159b0e8fE                   | 10    | 0         | 10         |         |
-| Ender (@Ender71372564) adl璋 ki_iye g鏋歾 at: https://twitter.com/Ender71372564?s=09 | 0x7cF6d8cc1a37E6bA6Dc22165b5C5655f99559fd4                   | 10    | 0         | 10         |         |
-| https://twitter.com/Usuf69061401                             | 0x53aB39d3fCe0d4bdc31B8031a36Fae911c8Dc801                   | 10    | 0         | 10         |         |
-| https://twitter.com/jiggyjigfun                              | 0xBa86557892003a3Ec972A6aFaFAFa5EAad518FC1                   | 10    | 8         | 18         |         |
-| https://www.twitter.com/Faribor75384999                      | 0x84681a8D75E8081B9C586dE960ac8854e9eC19ff                   | 10    | 0         | 10         |         |
-| https://twitter.com/RizkyyRamadhan3                          | 0xcA9D458674F319Bdc6B9F9A0f358cd92Ccf5e96F                   | 10    | 0         | 10         |         |
-| https://twitter.com/DuyennVoo                                | 0xFe269c3Ca640D21998bfbD66Ad35bBF3402A8a93                   | 10    | 0         | 10         |         |
-| https://twitter.com/walshdox8514                             | 0xccf67c07Ef76c523f295eB1a59b38aBe9cF52036                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/nikopan3388                          | 0x3528C3C2955c30CBC5ec4D15C1fa377EF5D2f562                   | 10    | 0         | 10         |         |
-| https://twitter.com/Bangnhi020                               | 0x1863e428962bbDFF3a4C6d491B06d4284F04BbC2                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/aby_prasetyo2                        | 0x5998283c92828846f8ceC670AAC77D4Fa1b65A70                   | 10    | 0         | 10         |         |
-| https://twitter.com/Sungsung90?s=09                          | 0xAcCC112e79B00c088CD45c3f2bA9e53a5E05C950                   | 10    | 0         | 10         |         |
-| https://twitter.com/molledoll120                             | 0x168Cdd9a4890be822810C6da5C94aCbE351Ae89c                   | 10    | 0         | 10         |         |
-| https://twitter.com/bjfy528                                  | 0x87C7475E80fE021554EB89f7feCA919541eDaADc                   | 10    | 0         | 10         |         |
-| https://twitter.com/doll_jaiswal?s=09                        | 0xfe6129D12977e6038eE01250Eb6683aC833DAbaD                   | 10    | 0         | 10         |         |
-| https://twitter.com/leroyswanson35                           | 0xdb908773b01a934E216C4A6cFF8ad6615Af6Ea51                   | 10    | 0         | 10         |         |
-| https://twitter.com/VishalR73198880?s=09                     | 0x6E93e3330633965715fB4E4e8e8A674cF479e3D9                   | 10    | 0         | 10         |         |
-| https://twitter.com/Densur14                                 | 0xD58A34a63Aff1193D7B8F6A9eC31Ad74A20F8ACB                   | 10    | 6         | 16         |         |
-| https://twitter.com/JahidHa19995065?s=09                     | 0x66903CC3e4Dc3E8F370FA13aE77CDc164f973033                   | 10    | 0         | 10         |         |
-| https://twitter.com/HiyanPaice                               | 0xB25242D6dCb6Ea90D46037749119147B4c059DBd                   | 10    | 0         | 10         |         |
-| https://twitter.com/Fahim7788?s=09                           | 0xbc84d47b8B205A318079c3CD511e1EB25E1956b9                   | 10    | 6         | 16         |         |
-| https://twitter.com/HungDuo25296104                          | 0x0fEc28E5416fC3D6A21452600bAC46db3Cfbdb03                   | 10    | 0         | 10         |         |
-| https://twitter.com/Aruna270819                              | 0x8aA33cBEcCa410d1bd07414797A60295942a97bb                   | 10    | 0         | 10         |         |
-| https://twitter.com/Letrinhchanh                             | 0x5176Ba5050D0cafC74218a15Ed7771E1e7D03Cad                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/@Shahed875                           | 0x24fBeA704952Ea8989B6ba98419c7E8E81077321                   | 10    | 0         | 10         |         |
-| https://twitter.com/crazymouse89425                          | 0xadff756a4427d7cd5e9bbc1ef1431b66af18e4f8                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/BJoes99                              | 0x468FeF8aa13a721DeD560558D3789ae5C1b04124                   | 10    | 6         | 16         |         |
-| https://twitter.com/inwolfewetrust                           | 0x34345Eaaa6b7dcC3cd7bf433156a343e89C93a53                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/husaini59443570                   | 0xab4F61Cb330e83dA1fDBb4Fa42031aED1b5665E7                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/kamrul20001                          | 0x0fe64c512d0240D082D15d6B3b2c43A6669C868D                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/DeetDeef2                            | 0xA2f19114C6120E0A90c499019ed72F4a12FaD3aD                   | 10    | 0         | 10         |         |
-| https://twitter.com/Duy31882630                              | https://twitter.com/Duy31882630                              | 10    | 0         | 10         | Invalid |
-| https://twitter.com/Farhan87919542?s=09                      | 0x389C1A4867dB45B0bdaAaF8c5f31755ad9773Ec8                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Chau894                              | 0x2b9d0c299d41b21c83A6eB057808Bc053038ed25                   | 10    | 0         | 10         |         |
-| https://twitter.com/Khirod78382204?s=09                      | 0x4f214d0d3eA48b8B9CfcAF4F009f0c275400423e                   | 10    | 0         | 10         |         |
-| https://twitter.com/rodrigo97605230                          | 0x064c4f1D8B5aEc73d5b9C3d1B83aE6B1e70B91f5                   | 10    | 0         | 10         |         |
-| https://twitter.com/SadabHasan12                             | 0x0F595Bf5dE1F3b556B3dFb925CCe54C20CdB0a79                   | 10    | 0         | 10         |         |
-| https://twitter.com/Amit99274512                             | 0x71B311FdA5949647B403554b107fE7D31F3fFA30                   | 10    | 0         | 10         |         |
-| https://twitter.com/Project705                               | 0x43E0F2654058a56A9Ba41B0D129ad2D0c294b8eC                   | 10    | 0         | 10         |         |
-| https://twitter.com/rahsuf1505                               | 0x94bf625A16e696cBb6aC776d498435782b37AF88                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Ahm9Caspar                           | 0x8D8223f42359bfed9b9c9a0E156e2BfaAFDFdd69                   | 10    | 0         | 10         |         |
-| https://twitter.com/JimSr85397092J                           | 0x9c61063CE9C6148f6725Ef780206C56CC4aafcd0                   | 10    | 0         | 10         |         |
-| https://twitter.com/KryptoShan                               | 0xd1bf1B2c3d033ba004FdCbD3a634105e18e3A34C                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Aniketbaliyan99                   | 0x4e8Db7eeA79Dc151c78b47254f00E04D14842515                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/bounty_hntr                          | 0xBf5AB7C23aFBC8d7f7A17aE16b3e0B76c5AC264E                   | 10    | 0         | 10         |         |
-| https://twitter.com/DimasIs02662080?s=09                     | 0x7de28B55fD0f11812087e48D33e6B13c3Ec82DBa                   | 10    | 0         | 10         |         |
-| https://twitter.com/CryptoJakmania                           | 0x47c2261c843cA8b21947a0FD41FC0B20e4B899e5                   | 10    | 0         | 10         |         |
-| @CngManh7                                                    | 0x3B349568c930f338621CccC2Fc952f975498aAa8                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/@Vishnu63887923                      | 0x297C75abE93F2271e26A2Df9cF5Fd50667946ce8                   | 10    | 40        | 50         |         |
-| https://twitter.com/DNFTProtocol/status/1424345335078428682?s=20 | 0x71E7665ef14264678FEA3A1FCD9f0947C922B399                   | 10    | 0         | 10         |         |
-| @sathosikim2                                                 | 0xC4592B723158210451DEf4609530fED6828Fe20C                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/@haneefarain                         | 0x23501d6a8bDF46a986fd5CE50e06923D6c74d653                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/RestuAfan                            | 0x99f8c0B566F17E70b73603eB993110227F3b321E                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/minerjas222                          | 0x522ed1ac9cFA63fc8b26743d11a43B8Eb5490d53                   | 10    | 0         | 10         |         |
-| https://twitter.com/TonyAnd87152882                          | 0xef37107C5f288fe098D23267918f1Ac504f62Bfb                   | 10    | 0         | 10         |         |
-| https://twitter.com/Najmeh57317487?s=09                      | 0x2fE5F217F9Ba3CaF99Ca1d81707f2c8FdB262D44                   | 10    | 0         | 10         |         |
-| https://twitter.com/byyy87                                   | 0x7A5b1fE5F6384fB3F8fC6aeb21Cb30f8EFb715c1                   | 10    | 0         | 10         |         |
-| https://twitter.com/MeiMei155201                             | 0x25b2046de7d2f50d9ce1ed74f744a6c049904dfa                   | 10    | 0         | 10         |         |
-| https://twitter.com/tanhabb67                                | 0x75bBFD503B810EB3BDF30527EC6b0AE973ca5CD4                   | 10    | 0         | 10         |         |
-| https://twitter.com/kingroot4501?s=09                        | 0xD322593a77FC8B0fC956747F71A024D76C980484                   | 10    | 0         | 10         |         |
-| https://twitter.com/beautifulkoala66087                      | 0xadff756a4427d7cd5e9bbc1ef1431b66af18e4f8                   | 10    | 0         | 10         |         |
-| https://twitter.com/Hussain20185597?s=09                     | 0x9Eb324418d47D685EceE180bd829700f8E892AcB                   | 10    | 0         | 10         |         |
-| https://twitter.com/Jewel34771?s=09                          | 0xD6fB3FD271C3b87768d52B45983456bc962126ce                   | 10    | 2         | 12         |         |
-| https://mobile.twitter.com/Arjun9534343487                   | 0x052207D847DB4f5DC691D773d5871E59202f218D                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/gpkpTWJ7RXi48vO                      | 0xB8e5E0DF2300667189e2348cF4832CeCC6e4D2BC                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/royk4979                             | 0x2391baD61B3F055dbBaEbeA8112A4B9FF2F19F89                   | 10    | 0         | 10         |         |
-| https://twitter.com/josefine_i                               | 0x221109517f80Edf28Cee7e31034A9D6bc56134B9                   | 10    | 0         | 10         |         |
-| https://twitter.com/towfikulislam13?s=07                     | 0xed0843836e639e2016b2abf872b0f0178c55745f                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/sarkar71498807                       | 0x9A4b36B647D2Bc57a3e74db3EDEe071af1261339                   | 10    | 2         | 12         |         |
-| https://twitter.com/jahedul8571                              | 0x863377d696aD0454d5291E567B248EcfE6b69921                   | 10    | 0         | 10         |         |
-| https://twitter.com/NaifNirob                                | 0x5D25357984634536676627017f3E00C7EbB7101b                   | 10    | 0         | 10         |         |
-| https://twitter.com/lpjohirul7                               | 0x4D779580155c2e16abF0F541043e28156914B113                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/HngHong93477394                      | 0xbaAaAa1CB60fDBEE87abEE512e594eD286caFD21                   | 10    | 0         | 10         |         |
-| https://twitter.com/NawazAl19864473                          | 0x9301937c42DE72351B9A505c0f789Cc2B51C17da                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/tampanzeh                            | 0xc117De1260481698da8aFEcC23E4ef57f07305Ca                   | 10    | 0         | 10         |         |
-| https://twitter.com/prajapatimausa1                          | 0x5ea63FB22D7f886f459d5892980fAe66E34C1b53                   | 10    | 0         | 10         |         |
-| https://twitter.com/ha971tu                                  | 0x9A8C45f61D966e7b7024Be735Ce24113490EBB38                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/abdullahilarif3                      | 0x6CC2FEC4Ed850b1B6f836EF72a1a566B0fBc92F8                   | 10    | 0         | 10         |         |
-| https://twitter.com/haiakulerrr/                             | 0x630C9c0c19B19BDE1250c77351d66BBE2FDC70d5                   | 10    | 40        | 50         |         |
-| https://twitter.com/GloriaEbere/                             | 0x560b55B651D4E650574C1e17Cc37E9A99DE28cF4                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/NaniDayu                             | 0x11ae84D3AEDB080665060AF3021535021b9b1CCC                   | 10    | 8         | 18         |         |
-| Lihat SeeLeet (@SeeLeet2): https://twitter.com/SeeLeet2?s=09 | 0xA657F26cF393e61f76f49940a41595Cee45420Ce                   | 10    | 0         | 10         |         |
-| https://twitter.com/MdEmran3399?s=09                         | 0xfb580ECe85B5Df2b1489B0BC862b370caa8A14a2                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/tambui115                            | 0x05E4AF735500Ae7Eea10f77f0da6a331309B3eD1                   | 10    | 0         | 10         |         |
-| https://twitter.com/tiuv06032878?s=09                        | 0xD478064e0FAf68AA3a40A4a48546DA2268E28367                   | 10    | 0         | 10         |         |
-| https://twitter.com/Riyadul82649167                          | 0xb092E726DB40AA6046ad03236473706898d211c2                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/HridoyK62218961                   | 0xFF5186E1857889004dC45ccbFdd4888d58e66D41                   | 10    | 10        | 20         |         |
-| https://twitter.com/smokey_mary                              | 0x94F9DaE66951C9E584BED62aA9dFe617F3EDFD56                   | 10    | 0         | 10         |         |
-| https://twitter.com/Joybanik0                                | 0xbA4d6189Cac69E146A0151A4ab72433F8b63B34C                   | 10    | 2         | 12         |         |
-| https://twitter.com/baophuong0811                            | 0xe3c6147f077884337c356035ea3fb28296661eb5                   | 10    | 0         | 10         |         |
-| @Alliall64685857                                             |                                                              | 10    | 0         | 10         | Invalid |
-| https://twitter.com/ht_ahsan?s=09                            | 0x60702e0C64900f02D59Dc0d5C32BcE7A42203ba5                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/rianokam                             | 0x6c3Bb0d081Ad3Ad841283C71C02d6acc9b1994ba                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/ZopaaT                               | 0x0e3737547D6E8f2890670Ae50632671034362653                   | 10    | 0         | 10         |         |
-| https://twitter.com/Mohit825181?s=09                         | 0x694e40fD84FCcC513C13bA7E9E83d3Dc8E87D1ad                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Lavagirl52                        | 0x10bf77a12Acf7c70702FFA177D9D0B52E940c57C                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/HabibOfficial30                      | 0xC40e81EdA5E256530C760a7A83EE430a3Acd67AA                   | 10    | 0         | 10         |         |
-| https://twitter.com/YourUsername?s=09                        | 0x880Fbd880CC56cf06f618523397b01c557e4aFe7                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/abraham43771189                      | 0xA13637316e84a8e59f167F5b7B48476741D20057                   | 10    | 0         | 10         |         |
-| https://twitter.com/Naxan201                                 | 0x5a2fE48c96C490078757Bc11a159b64F13d89321                   | 10    | 0         | 10         |         |
-| https://twitter.com/Hin32921959                              | 0xCaDc5a856C3B75780662c7fDb98bCaDCbd187a1F                   | 10    | 6         | 16         |         |
-| https://mobile.twitter.com/s2mle1033557106                   | 0xE2DB5e3A04e7EFc21afaF7212F9EdCa94bDc9957                   | 10    | 0         | 10         |         |
-| https://twitter.com/MCLNeethling                             | 0x532b8D4A7Aae3848C184bebd963Ad267EAe7E31f                   | 10    | 0         | 10         |         |
-| https://twitter.com/niubi55856215                            | 0x26B328B647a64b4BE5cA8739Ba334BC962E6632B                   | 10    | 0         | 10         |         |
-| https://twitter.com/ShahriyarSalma1?s=09                     | 0x13E798d536269Fb0995745e079BE8aA7082623a0                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/aksusaat24                           | 0x635Ff4320c81c1ce0b46c4fE6154e8A4f4E45f5e                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/meisam13951                       | 0x0fB086947065bef474050FAF756e20e1f0d79D80                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/davoodshi                            | 0x0a610d80532474830F0De708aE1cDAB8F3813341                   | 10    | 18        | 28         |         |
-| https://www.twitter.com/Sahil78131409                        | 0x7Fd438b22a2Df43C7d8bFfd94AE590d3346EC972                   | 10    | 0         | 10         |         |
-| https://twitter.com/arexsa694                                | 0xB9e4478DdaF2175eA407Ca0068c5ba8161f43eB2                   | 10    | 2         | 12         |         |
-| https://twitter.com/ladikelRX021                             | 0xa200411355f33218f37bb123525c1880de83c944                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/JosimUd62947909                   | 0x467017704911420DEE3C6fAff105b6F634168362                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/RoverTuhin                           | 0x290eC028c95bf11d5805Da35f345C00dE3ebc869                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/RakibLifestyle                       | 0x21082FbE66781b9c416dB83e216d6799481a4e28                   | 10    | 0         | 10         |         |
-| https://twitter.com/Mohammedfaiqsh1/                         | 0x81A2b6B079a54Af3601eEa2a0040d8331C948b12                   | 10    | 0         | 10         |         |
-| https://twitter.com/AshokSi54891085?s=09                     | 0x80a8dED52D4aB6f2362Ea8EE52663e9841d315de                   | 10    | 0         | 10         |         |
-| https://twitter.com/Ramu00575192?s=09                        | 0x3aC70dFE157dAA93dA83091f1f741F0943119a85                   | 10    | 0         | 10         |         |
-| Check out Music.katta (@Music_katta): https://twitter.com/Music_katta?s=09 | 0x8335714365be415FDe7Cd2Ac429570C200332405                   | 10    | 0         | 10         |         |
-| https://twitter.com/Sopno2021                                | 0x75d21d8971d84Dd23Da5D723A3B46a3c770b70a2                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/NewRX8                               | 0x4388E96071A70283C23895D8B17572626722134B                   | 10    | 2         | 12         |         |
-| https://www.twitter.com/Md_Nasir_U                           | 0x13E7a1315E963ae6F7dfB38501aC347AC759E7FA                   | 10    | 0         | 10         |         |
-| https://twitter.com/mvembul                                  | 0x0BAdD73A099E215374F90bfAf0C4Fae6C400F290                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/SaniaHaque4                       | 0x98020a33D40AE1D9521C1BB7f95A14a9AD41e717                   | 10    | 0         | 10         |         |
-| https://twitter.com/hanggagiri1?s=09                         | 0x31119205474E1EAe547c48710F9ef71624eB34f2                   | 10    | 8         | 18         |         |
-| https://twitter.com/rabby3214                                | 0x2EeDaF8fA71016f0e78dF95b467f887c9DA04C4a                   | 10    | 10        | 20         |         |
-| https://twitter.com/Priya99791181?s=09                       | 0x747425fd4f7002c5Cb515614C196C6a30157ab53                   | 10    | 0         | 10         |         |
-| https://twitter.com/Sausttaarr?s=08                          | 0x75AE2004289283C470b4b39b295408a357d32eE9                   | 10    | 0         | 10         | Invalid |
-| https://twitter.com/Cloverr_16                               | 0x388A01cfF5623A5bA2C145C16E9Cf611Ca75BcB2                   | 10    | 0         | 10         |         |
-| https://twitter.com/GogaliyaShiva?s=09                       | 0x1c6Fb668149b064638D81988B0Ece31CAd50E3c6                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/eyangupik                            | 0x632Fe2d60Fe33Fba113096F8580f9f199e7Ee700                   | 10    | 0         | 10         |         |
-| Check out Shaharul (@Shaharu35869676): https://twitter.com/Shaharu35869676?s=09 | 0x50c1bFf72540ECBFfa9C55754CF7727F1e2CC27E                   | 10    | 2         | 12         |         |
-| https://www.twitter.com/eriyanafutri                         | 0xa83333B3D2d595a7B85a0280C538012f927bE837                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Alex91070181                         | 0xA6db602bC30d16F9A67eaD2Ef490796fd0bF306f                   | 10    | 0         | 10         |         |
-| https://twitter.com/lbwnbaa33                                | 0xB84f72016F8a7b5558d8Eb92da3033432f1e0fe3                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Alexand45389037                      | 0xc75259f12f5a263b7bbde23514f232cdccdfa42a                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Bimmo09175235                        | 0xF9d2d6cB8859C420dCcd2A5631e39FA8B510d8cC                   | 10    | 0         | 10         |         |
-| https://twitter.com/r0mbeng210                               | 0x63369A7686fa9ab7B93e8ABb020C02606A396581                   | 10    | 0         | 10         |         |
-| https://twitter.com/kasra46215321                            | 0xE2C4Ce6960B7951bE81886C5d0f148b869B54F93                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/BaloramAdhikar3                   | 0x5d08dB0b923CA243D87a99cA5097186d8310956D                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/hana13940                            | 0xedc41E0d9424e86Bef2EB4c146308A404861e1Eb                   | 10    | 0         | 10         |         |
-| https://twitter.com/yukinon_69                               | 0xf7f02067336c40152Cd1C5c17b7F4e7274f40b4B                   | 10    | 0         | 10         |         |
-| _ Submit Details                                             | @rajamahesa4                                                 | 10    | 0         | 10         | Invalid |
-| https://twitter.com/jengput03                                | 0xf0b295c01b7223369aD0665e5FaE176A5C6Aa699                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Bijoy24845332                     | 0xd837d225a8e0C14292DAbBAE1A56d08B4DEEAA42                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Sourav88638150                    | 0xEE4Eb7d8A0d0216daF2c7269A0410eF88dEbd4bC                   | 10    | 10        | 20         |         |
-| https://www.twitter.com/fischlsan                            | 0x99Ea56b627e2eda6F40C1D3459ED552558351c1A                   | 10    | 0         | 10         |         |
-| https://twitter.com/NicoleElmer4                             | 0x72DE1B382b4b6D05128C7960963D645b9F4d6228                   | 10    | 2         | 12         |         |
-| https://twitter.com/mohsenshirmard1                          | 0xEe690a6C844e9A945Fbe057be679A8245B3f0Fdb                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Demon55146960                        | 0x69fCe03c07d3b3C5e547cabEb2a781c979bbc8Da                   | 10    | 0         | 10         |         |
-| https://twitter.com/MrdjGohar                                | 0x04db547c0e8fa092B5aaAD96D9BD01346efF05f8                   | 10    | 0         | 10         |         |
-| https://twitter.com/Mei49210757                              | 0xF7214be4b867592F9B1bdc4607dA4512c1208CcC                   | 10    | 0         | 10         |         |
-| https://twitter.com/rohitgang91                              | 0xe316A4e8247f77Ae7e75E4810603DEb8d6d4215b                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/lucci2200                            | 0xdeBb3AD56Bd328008cb497CD03425394B2748190                   | 10    | 20        | 30         |         |
-| https://www.twitter.com/RasooL64390249                       | 0x5403F4Fd481DdaDcE9F7B6585c228CD0236Fe1E3                   | 10    | 0         | 10         |         |
-| https://twitter.com/aljunayed2?s=09                          | 0x3525Ae71a084b426E71AdB7CC9C6c60958015EC4                   | 10    | 2         | 12         |         |
-| https://twitter.com/Ojo_Diwoco                               | https://twitter.com/Ojo_Diwoco/status/1425502524715388929?s=20 | 10    | 0         | 10         | Invalid |
-| https://www.twitter.com/flame_hotter10                       | 0x85aC0646d31d238dB7C22abE7adBCBc0CD2Ea458                   | 10    | 2         | 12         |         |
-| https://twitter.com/ShakilIrani                              | 0xFbdD5e05500EF4C1fDCf1f5460496CacA55c4Fb8                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/tai_azim                             | 0xf745Cffa730C1Ca398059a5cdD37F10db2d096CA                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/nasir19116276                        | 0x3C4aaA9EF97C8FA2C6823257D28A242bb6E67C27                   | 10    | 0         | 10         |         |
-| https://twitter.com/rafly88027116                            | 0x1e2Ddf3ef94eC08c000d154Bf96f59B44b625Ed1                   | 10    | 0         | 10         |         |
-| https://twitter.com/mhs7268                                  | 0xA774B92751674d56A9d8d5a15fCA4338beAab03e                   | 10    | 0         | 10         |         |
-| https://twitter.com/parker09412397                           | 0xcE9caff81c2bb26f040EC934585408C5f293E7E9                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Saba38553807                         | 0x26012bc21b82a874Fc917e0Ba40400b3644C62d7                   | 10    | 0         | 10         |         |
-| https://twitter.com/aaa33848289                              | 0x407CA2e442C6b54F3d434fD9e0B954c81e862577                   | 10    | 0         | 10         |         |
-| Https://twitter.com/SamChi888999                             | 0x43492175Af94C7FB5C35848F341Cb27D08eF5146                   | 10    | 0         | 10         |         |
-| https://twitter.com/HorMovie                                 | 0xC6e4E5440B037C4012d9A2000ea1cD02c962dA61                   | 10    | 0         | 10         |         |
-| HTTPS://www.Twitter.com/matt902420                           | 0xBB21D7E54925652E3250b225cc66DE2D42A5f0C4                   | 10    | 0         | 10         |         |
-| https://twitter.com/arifshagor91?s=09                        | 0x451ca742d900d1A9702D71B3b65f6425E8EffF7E                   | 10    | 4         | 14         |         |
-| https://twitter.com/Taslima83220?s=09                        | 0x2bdDb47d4298f59E48B9A018B1Bc2ce0534Bae6E                   | 10    | 12        | 22         |         |
-| https://twitter.com/VikashK13264876                          | 0x7E69C48a8A411f2C21a80fe3617AD95C46A47F6C                   | 10    | 4         | 14         |         |
-| https://twitter.com/NazbinNesa                               | 0x5eb4673330E8Fa18Aa721349c05767A313D97e25                   | 10    | 0         | 10         |         |
-| https://twitter.com/matbiec_girl                             | 0x7bbE934aA18f73fA3227436D87635478E997Aa2c                   | 10    | 0         | 10         |         |
-| https://twitter.com/MistaTroseph312                          | 0x57a3b086445d49f555553251B2d7F0C88b4B8168                   | 10    | 0         | 10         |         |
-| https://twitter.com/Abirhas88468017?s=07                     | 0x0D11CAf4E99C39ccD2eDca01dACD5DD17115536e                   | 10    | 0         | 10         |         |
-| https://twitter.com/DNFTProtocol/status/1425435343558373376?s=19 | 0x17Df844332fcd94223e9E7AfA79176F3bc843136                   | 10    | 0         | 10         |         |
-| https://twitter.com/kininarimas120                           | 0x8bbfc4ab10ce0f5fa2ab4ee1526e1aa2c6c12fff                   | 10    | 0         | 10         |         |
-| https://twitter.com/sebengali8                               | 0x2De98Eb49630Af49E9b78Ae6A21A86baA84c48a7                   | 10    | 4         | 14         |         |
-| https://www.twitter.com/BeritaMahasisw1                      | 0x61edBB3fe3d835b48a770fCBDedC1F988Dd53F82                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Kakashii_777                         | 0x0f57bD6C47b4E47bf581e7476ccB9C51abbA41Bc                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/akashsingh903                     | 0xA05d24792Ad553a8d1A16c1D9978aBFaE92d86ad                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/hridoya320                        | 0xA3B9A540629beC564E736915204A0EABFA15BD53                   | 10    | 2         | 12         |         |
-| https://www.twitter.com/mian_tamur666                        | 0xbB7C8908F120FdD524033acEBCBf745eC69a1240                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/rabbi_1997                           | 0x86D3E50DB9BC9e7477E8cdbeA3eED69936DD6d1a                   | 10    | 0         | 10         |         |
-| https://twitter.com/Ali_Ebrahim95?s=09                       | 0xA654610E63dbd330BfEbd513111e433206278571                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/hannaf1010                        | 0x147386beFF209c12ff917c329795E485b3b45F04                   | 10    | 2         | 12         |         |
-| https://mobile.twitter.com/adinda5050                        | 0x57d5a24Cc8B0CC2840b9B87eF3325c7B42218acb                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/@MdJubaet                            | 0x57f954327c4027879893CBDd0c5B57Ba13FdaDbD                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/yourusername                         | 0x0E1cC0Daa5B23f563800f43A9f0fA2954156c01E                   | 10    | 2         | 12         |         |
-| https://twitter.com/DHSgov                                   | 0x0c9aC323a5C72DF1F438bF2F4F7FC889A33eFa7B                   | 10    | 40        | 50         |         |
-| https://www.twitter.com/bemusculine                          | 0xB09165D0EE2e4e5CaA222FF38fd42f6Fb1C4776b                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/VishalK47267928                      | 0x973171ea6FE13d8a54F643A3CeCD116125c8BD0C                   | 10    | 0         | 10         |         |
-| https://twitter.com/MMaterhorn?s=09                          | 0x4551CfC0f77cd488B9910Fb4620B38480f2CBD20                   | 10    | 2         | 12         |         |
-| https://www.twitter.com/alhasannn1                           | 0xB5BbbD06ee592b74cD02Fe5e9B2530f19B96bd66                   | 10    | 8         | 18         |         |
-| https://twitter.com/onguodai                                 | 0xd6425cF70ca7283b8660B31F566f8F17b3e0B06C                   | 10    | 0         | 10         |         |
-| https://twitter.com/MdJonyH71013870?s=09                     | 0x2aBDAF43F8daBe835f640d534677241d6A46c944                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/abazar_17                            | 0xD3fc54980574130b3D8e2A0A88E7B4d716C4562d                   | 10    | 0         | 10         |         |
-| @HABIBUR61369640                                             | 0xB37d38e6F886438528C854Deaabb11f9abEC3681                   | 10    | 8         | 18         |         |
-| https://twitter.com/uwestelu                                 | 0x431cb2420d1b3eBA3E495503A81b60179cc37bab                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/musfiku25784684                      | 0x99f695BC4874488EfE24eD92C43136917723a3d8                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/eftunbengisu                         | 0x3c48Fb0db0306aE3Dc6960530553FeB13A60eC0d                   | 10    | 0         | 10         |         |
-| https://twitter.com/crypto52441156                           | 0x474F36F1E0beE6cB19F58eC148E9061E9351653C                   | 10    | 0         | 10         |         |
-| https://twitter.com/izmiwnt                                  | 0x038Fb7d2f36DfF239eA1D543c3c4cd43FbC79dC9                   | 10    | 0         | 10         |         |
-| https://twitter.com/Saishiv17                                | 0x75C835a2d0070bCA5397ac9BFb9CFBc7305dB0D8                   | 10    | 0         | 10         |         |
-| https://twitter.com/Piyal25219942                            | 0xFAe44B153CD6dC949473c5FD1d177A07D84e6DfC                   | 10    | 0         | 10         |         |
-| https://twitter.com/wiburach1612                             | 0x52218fFaf1f69611c7dA711d03cf4f3A64fD7eab                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/SerdarAlmaz                          | 0x32b5109a02fd97E6F0761699C61286c4B80901E6                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Bipul2021                            | 0x35be9d2078f69b48ddb80E3186183c06c6f2612a                   | 10    | 0         | 10         |         |
-| https://twitter.com/UtshobRay1?s=09                          | 0xe9496B2EB4FdCDD924bD10113d20Be036E77475D                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/khobayeb_ahmed                    | 0x31Bc770F24a19BF0608bc60d119ed465769FCD0F                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/AirdopKing99                      | 0x59480d6C34BE74FE21e30f3e7DCE0e2312858A2B                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/aassu17                              | 0xB52252481E809e911D807E3abC7451cb0Fa015c7                   | 10    | 0         | 10         |         |
-| https://twitter.com/szgninanc                                | 0x44E04c5946179907d2020F27499fD83E828F4481                   | 10    | 2         | 12         |         |
-| https://www.twitter.com/adilaziz07                           | 0x10F6800d7870C0d609Cf96a645f900D55E0A31c5                   | 10    | 0         | 10         |         |
-| https://twitter.com/Putra0402485983?s=09                     | 0x8D2c486ebD160D3Ff49c9E808E273BA2F1568Cf4                   | 10    | 2         | 12         |         |
-| https://twitter.com/EzatMR7                                  | 0xa097D488277148ce9105ec8B538786312742d043                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/zywih                                | 0x234b20151752F33247f4B026790E5841dc2B9E90                   | 10    | 0         | 10         |         |
-| https://twitter.com/GonimSun                                 | 0xf15c6F6A66e778b441989E5da8b9675f78dD89d2                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/_Poorya021_                          | 0x53a8a4e083c18F2d5F96BE160FDa17402AA8D23e                   | 10    | 0         | 10         |         |
-| https://twitter.com/Purnama34793274                          | 0xd31594289d7781e88491811aA114E4dBC753b2C5                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/DoluiMoni                         | 0xf6c8D2A9F98c4B78d6626D50a08E99BEd91B5c1b                   | 10    | 0         | 10         |         |
-| https://twitter.com/Yuko10433954                             | 0x0E3Bc1310dF584846DdA3Bd3A09621ba87E712Ea                   | 10    | 0         | 10         |         |
-| https://twitter.com/catry_alpan                              | 0xF21cF0cb9C05A6A4E2cC742B088d25CB957C58E5                   | 10    | 10        | 20         |         |
-| https://mobile.twitter.com/MdMeraj420                        | 0xF0080f0e2902bAE8A9cB47a0b9cD74e8566FEfdC                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/IrawanSutiadi                        | 0x971d48dBbCF7337C285CfcDDbD9430aD2c266196                   | 10    | 0         | 10         |         |
-| Lihat AdyWirapranata (@AWrprnt): https://twitter.com/AWrprnt?s=09 | 0xC2E173FA87f8B1c4d47Ba743e6cDb6313fE693AA                   | 10    | 2         | 12         |         |
-| @Nhanalexus                                                  | https://twitter.com/Stella96998988                           | 10    | 24        | 34         | Invalid |
-| https://twitter.com/minh36420534                             | 0x8B7270AA38C7453bA0DEabb672e5A366404123C2                   | 10    | 0         | 10         |         |
-| https://twitter.com/shishir33546485                          | 0x946f48c7310fA71531F189A4C120dd030928cC12                   | 10    | 0         | 10         |         |
-| https://twitter.com/Baokute112                               | 0xE716BD7687C7417Ca60Ca2D64a98f49356C4119d                   | 10    | 0         | 10         |         |
-| https://twitter.com/DNFTProtocol/status/1425435343558373376?s=19 | 0xDA7448FFa98A7A65A7051B30f9eD9bac02E8cc71                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Ibna49861933                         | 0xB06881bA4Fe2F30B56f1714496328772bD548329                   | 10    | 0         | 10         |         |
-| https://twitter.com/IslamTasfir                              | 0x4bd3697A2A6EC8B4Dc5D0D394017767471e4238A                   | 10    | 0         | 10         |         |
-| https://twitter.com/KhanAmi11221411?s=08                     | 0x202e5090673433601878beF4DFf0c6B393C39Ccf                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/kangmus2020                          | 0x230943b4769709EFD710c29a9dDA887e492d753E                   | 10    | 0         | 10         |         |
-| https://twitter.com/daviesmurphy561                          | 0x15A67b71B2764e7C6D8ca3f12faC345cC3e0Cea0                   | 10    | 0         | 10         |         |
-| https://twitter.com/ErlaNazia                                | 0x54EBbe98960e2e30DC26be8D4279002d27ab1f96                   | 10    | 0         | 10         |         |
-| https://twitter.com/MdAriyan777?s=09                         | 0x62c90d2c07b3eb6a3089C40E63444791d4Af22A1                   | 10    | 18        | 28         |         |
-| https://mobile.twitter.com/TofiqulB                          | 0x66773F240e6da22611c020D5994640D99B844A74                   | 10    | 0         | 10         |         |
-| https://twitter.com/shingOng4                                | 0x9E880A6C1e50e49005eA3f2Efac39faf1818805B                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/lang12111                            | 0x0fa28fB2b768Ecf3Ebed2d4e10625492D8468043                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/AnjosJorginho                        | 0x5A87Fb22B1e5ce9c33f40EbbD90321c0dD06D0ca                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/yourusername                         | 0x97aF5d4E524DE439314eB7fcf2C76fa79Fd3cc41                   | 10    | 0         | 10         |         |
-| https://twitter.com/DNFTProtocol/status/1424345335078428682?s=19 | 0x9E84FCa0D95c2d182e0f66DECB356d174974C118                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/MkhaleeqAwan1                        | 0x1C77a87D7E5DD37F8EE9bB17d11D58E25abe22a1                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/@ayis_jeyek                          | 0x8c499Cc1fEb516c30028C107ABF902cAc8DF8ada                   | 10    | 0         | 10         |         |
-| https://twitter.com/kriptoberna?s=09                         | 0x6c6a96C4404b7B5BFB8868F6b16A5A3e48647912                   | 10    | 18        | 28         |         |
-| https://twitter.com/MDSAYED5955?s=09                         | 0xf286c619EfB4d41336dFF19779fB5840B9C164Cb                   | 10    | 0         | 10         |         |
-| @4evq53ZZGo94YMU                                             | 0xFd5f4cd82168a97C80fF7D7cb818F312777C3ac2                   | 10    | 0         | 10         |         |
-| https://twitter.com/saraarmonu/status/1425421693678493696?s=20 | 0x046bd4c95687DBB28045BAb21d777735B519D40F                   | 10    | 2         | 12         |         |
-| https://twitter.com/Sanzida05407194?s=09                     | 0xB17E4CA8216192575c3eB9b89A85c28c7DcBecC5                   | 10    | 6         | 16         |         |
-| https://twitter.com/adp2108                                  | 0x13D0e6c8D7F9cbdAd4A0021D4f5bd976c9e4EeAE                   | 10    | 2         | 12         |         |
-| https://twitter.com/PandorePradyumn?s=09                     | 0x6b25FA27e93a2C4165B337CBf08CdE1CbC1157Ec                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/force_dekit                          | 0xdD572E542c96B710f2752B630FE408cC1df658A5                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/airdropan2                           | 0x832217D025A7b9116DecF4b1eAcF0557346819c4                   | 10    | 0         | 10         |         |
-| https://twitter.com/LamaWiley25                              | 0xadff756a4427d7cd5e9bbc1ef1431b66af18e4f8                   | 10    | 0         | 10         |         |
-| https://twitter.com/Ochu81966884                             | 0x3d652c4ef3733C1289Ec7c3F25Aa1a5Bc5606c39                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Dicky311097                          | 0x98db5B21c79F29fF02E61b4d58d42872Bb755aA6                   | 10    | 0         | 10         |         |
-| https://twitter.com/8c2dd2367566424                          | 0x3D52F553f9DC84d9733ea2AD1422f03fa6Cdc0b1                   | 10    | 0         | 10         |         |
-| https://twitter.com/AjayNice113                              | 0x42d7471bE82f9729a2E6A452B3E013193731Cf87                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/AlifA48089129                     | 0x5ed3a66318CB258f0fD6f7203F0d7885e3767a8E                   | 10    | 0         | 10         |         |
-| https://twitter.com/this_is_nitesh?s=09                      | 0xe99F30f67ddD1bb73A2b9C5Ba67D17EC096e4aCf                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/mili_fl                              | 0x8932e50cd4EDb8002478296560aFF1afba7e9a0d                   | 10    | 0         | 10         |         |
-| https://twitter.com/Laura202112                              | 0xdb3a5A54dE19bad66905f927219b153F4992A358                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/AlbySaji5                            | 0xa1B1C2378039567f57d4Ee6CFb25513A69295674                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/bajilak90                            | 0x20D34e56938e8823d03a23c25e7F096d7a1db0f4                   | 10    | 0         | 10         |         |
-| https://twitter.com/acacia511                                | 0x7a7e5FC69250483f34Ffb8888981fa793ec3b2dB                   | 10    | 0         | 10         |         |
-| https://twitter.com/luanphan0504?s=09                        | 0x1eaee8915e29b0E617B059Fa3bdFa0c13241ae9D                   | 10    | 32        | 42         |         |
-| https://www.twitter.com/VaTho8                               | 0xd304B329C6091f555259EBcDa3Ab6516D3001F1c                   | 10    | 0         | 10         |         |
-| https://twitter.com/mvu66691                                 | 0x969e16E9b40FA082798F923a4B344c4Ec1b88cEd                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/hoangtuannippon                      | 0xC963662126B72FA84906851f2240faD4efeF7c9f                   | 10    | 0         | 10         |         |
-| https://twitter.com/tegarputrajaya_                          | 0xA4a11713e8C11e19DedA5b395F548762F890011A                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/TnTime_Bks                           | 0x84026F904133bf541a0c2A9Fb697d74D7F21EcFc                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Mb46675244                        | 0xc211861afDa1898D781f71fadabF4965D93B00ED                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/@desy                                | 0x49c0DC5231fd998CD71764adE4cE5DDDcCce6E10                   | 10    | 0         | 10         |         |
-| https://twitter.com/DipakKu69970928?s=08                     | 0xb98d19CD5AaA3852da3Ab32AD5C35Db284D01170                   | 10    | 0         | 10         |         |
-| Take a look at Sumon boiddo (@BoiddoSumon): https://twitter.com/BoiddoSumon?s=09 | 0x891384a04ba4C907b7C68A5754cdad17d5E0252B                   | 10    | 0         | 10         |         |
-| https://twitter.com/lyxu73                                   | 0x7BAeA78A993bB25Df727682cd9C781D9EAba524f                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Shunham91436751                   | 0x4079a933Ee3cc2426800d18C265A974fcE20a45b                   | 10    | 0         | 10         |         |
-| https://twitter.com/Lolita764120                             | 0xfb982189d3d48f221f6215ae38330478e9303e70                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/sayaji09                             | 0xb848b343915842868Fe6056493a55C0a8444eEd5                   | 10    | 0         | 10         |         |
-| https://twitter.com/taj260620?s=09                           | 0x88961fdF63C21c71292ABd7F9f8623fD6c479158                   | 10    | 4         | 14         |         |
-| https://www.twitter.com/rzkyprtamaa                          | 0x493ff01D089b138e6fb1C485413dce32aA84B0b7                   | 10    | 0         | 10         |         |
-| https://twitter.com/zakariyaIslam9                           | 0x7DC05E641A8f848A5D8dA2D7861b7e856e2E1e1b                   | 10    | 0         | 10         |         |
-| https://twitter.com/Muhamad48251164                          | 0x6Db66e2C3069eb11351cbEC0473aBB17724273d6                   | 10    | 0         | 10         |         |
-| https://twitter.com/Logan079981911                           | 0x13ff2c1bBeeD17578a09583C2CBC06E982Cacc11                   | 10    | 0         | 10         |         |
-| https://twitter.com/kiemtydola                               | 0xF606c0d2B37b9d052BCC61A05c08cfB489bD930c                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/s_farherman19                        | 0x6A862376F8ACd94C03eAB26aB6d4cFc4Aa05432a                   | 10    | 0         | 10         |         |
-| https://twitter.com/hung1313505111                           | 0xef50CaC44129b56272D4DF731c02D8985D53A247                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Sam42409481                          | 0x6b16554cAA2ba1618744166154bf2ecCF767113a                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/@muhamad_yayang                      | 0xca1dAbdfC706A4F6DE528FE99B624c2aeC787E9A                   | 10    | 0         | 10         |         |
-| https://twitter.com/ANGELAA98908388                          | 0x62e9e09B47B1e5341f1BFb2F4f318ad6FaBfdE56                   | 10    | 0         | 10         |         |
-| https://twitter.com/Yunita62565350                           | 0xFE3712e6DA19B379addee9D93177e0E67eEb7D66                   | 10    | 0         | 10         |         |
-| https://twitter.com/DNFTProtocol?s=09                        | 0xA5fDBE99251B4d39B5f4b75154dd1eb434aAB52b                   | 10    | 0         | 10         |         |
-| https://twitter.com/NusratProva1                             | 0x109C2c106C57151c36e162bd9c43967b34d2f8Ee                   | 10    | 0         | 10         |         |
-| https://twitter.com/khanh_royal                              | 0xE21Acc118AF2A65B55A3c30DA9020A582C867d3F                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/annasardianaf                        | 0xC1307e901565A2E40423179CE9eE26239ee269Ff                   | 10    | 0         | 10         |         |
-| https://twitter.com/DinujayaRoxx                             | 0xC3CAa17abf2526a64Dead8436f82f9CB13580409                   | 10    | 10        | 20         |         |
-| Https://www.twitter.com/ultraman212                          | 0x79A1BD0aBc3dDF18b4BA5eFCDd13a119D89379Fd                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/@INoorrahman                         | 0x64154bbB9798Ed75B005c73998fA0A23b5ea8DbA                   | 10    | 0         | 10         |         |
-| https://twitter.com/gamaa2000                                | 0x52EA8Bef45D0d8e8B083fBDeFDd6214Fd69839B2                   | 10    | 0         | 10         |         |
-| https://twitter.com/UZakiayah/status/1425735193776689164?s=19 | 0x4AF048A4A29Eb77c320b7c88C171D87C47fF2e7A                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/rahmat_jie80                         | 0x1d075cB2C720fff6265de8F07f82301664C6A67B                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Nile_Grup                            | 0x0e640EB45aadF0604ffb5561359C621f4D8F0947                   | 10    | 0         | 10         |         |
-| https://twitter.com/Khanhkutep123                            | 0xca8B8823Bfc87F16C511A1BC89df3C2afB6f31ED                   | 10    | 4         | 14         |         |
-| https://twitter.com/kuzekonani                               | 0x26256b63F8F823690A56dBCE5b531f1B88c03447                   | 10    | 0         | 10         |         |
-| https://twitter.com/Sazon03657521                            | 0xF111Fa86A5E010e9a68726dA52429ea7d53C6D45                   | 10    | 0         | 10         |         |
-| https://twitter.com/athoill00152054                          | 0x0D071bb825dA3919D7454f67E5f17472c0f647Ca                   | 10    | 0         | 10         |         |
-| https://twitter.com/MdSoaibHasan4?s=09                       | 0xB0d2bC8d13d20F7b6B23D937D2640d141Ca35dD1                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/CzSenhor                             | 0x2e60a7e805fC44663Da70c0E4690C4386aB98F36                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/dolardoink                           | 0x3467d240F5FFbcB6f4389CeF6a9ce18a7C99D331                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/SoCalStrtHockey                      | 0xD0B9013C429E4113CB88cd3c70152C1ec75fbee5                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/haitran66783083                      | 0xf2a8B8a1189FD57a9EF1079bE05EAe4A59Fd9C33                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Nhattan00683082                      | 0xc3A5151D8e9c6044847677bFa2890dE452dC5A64                   | 10    | 0         | 10         |         |
-| https://twitter.com/ahmedtalib4455?s=08                      | 0xD15e43b3A06c42958a5b98DA82Eaefa3bd97D6EF                   | 10    | 0         | 10         |         |
-| https://twitter.com/Lisama83213280                           | 0xc673CCFe4110B58a212707001bC967a45e99E171                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Skanika184                        | 0xEF02298606599a9dC603A905ac07c7eEEc437e70                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/altbtc1                              | 0x94E8E48FFd76971bE7907cfE2b44E768243e42a6                   | 10    | 0         | 10         |         |
-| https://twitter.com/PasinduCrypto7?s=09                      | 0xCeA08F7377Ace4Fff145c4380e856D49a6f93A85                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Mostopa75                         | 0x31285B04082de3427813651A05DAe14cF25FB259                   | 10    | 0         | 10         |         |
-| https://twitter.com/ZulFikar201178?s=08                      | 0xdAa01df47b0D8112682431FaA3DB4a7359d04DB4                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/ultimatecash9                        | 0x25b44E85Dc605C6e3E1beEbD5c43E8DCC7Feef5D                   | 10    | 0         | 10         |         |
-| https://twitter.com/Rioiraww1                                | 0x3C382f71AcE68BFeD13BF8cBAC1Bb6ECf0834e4d                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/kriptolarnerde                    | 0x36818cee4251A6ace5e4D3176dd408b2eFb31d38                   | 10    | 0         | 10         |         |
-| https://twitter.com/MinhQuangAD1                             | 0xe0069253a84D9D5d4a33C9c6014c0A055f503B8f                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/itz_elkabeer                         | 0xC539A94F7eb460dC7B962E5E4cEc436b173f1B19                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/mrizalf____                          | 0x8EbdD4EA538fc5a219425D641D7EEeA2d3aF836D                   | 10    | 2         | 12         |         |
-| https://www.twitter.com/kamranahmmed786                      | 0x5E5FAfe50317d6D0c9e4F9fAA6B47dbd01f89670                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/blokgoblog                           | 0x09eaDf04856530b0293dA7109CEBc92ebf8D7Cb2                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/EarningAlert                         | 0x7BC02C2e04BAE6b205b5937Ee95dd0a3DE6ee6a3                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Chinuda59969473                   | 0xD977E0B34106e678104Fa76dc97e53eEd1BA5F74                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/dsyopendi                            | 0x6ceb42b644837c2cD3F840532266201C3542a900                   | 10    | 0         | 10         |         |
-| https://twitter.com/vel_teo                                  | 0x472DE30321bAB6c2E8f8d0F0A0B349B650576D04                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/AsbabunNuzul                         | 0xB18f9bC7A60EC441704E4680C62aBf32b61949fd                   | 10    | 0         | 10         |         |
-| https://twitter.com/tanviranzum25                            | 0xD5F4583311dC47e3d5e63BC3316Eb16355B687fA                   | 10    | 0         | 10         |         |
-| https://twitter.com/dirtyshittygod                           | 0x140e4007AC2Fae75E6828F14C3891bdA423f69B5                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/@DDuc190                             | 0x2Ad2700DBF79Bc4524A3B098050E7E21B9a48e94                   | 10    | 0         | 10         |         |
-| https://twitter.com/Sonitha96169971                          | 0x1D3DC784Edea64C05c447B0CeCbD87CF28603a50                   | 10    | 0         | 10         |         |
-| https://twitter.com/Sukay41768780                            | 0x8F98B5A4a95a6d134536F1968539Bc1C226Da2E9                   | 10    | 0         | 10         |         |
-| https://twitter.com/Thng59463028                             | 0xf947A9e39f978FF00e0aF3723C9Df09Bee66816C                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/GopalMi87990176                      | 0xAEb9F18Cf6468df643832b2632b2f75B7B3B2D28                   | 10    | 0         | 10         |         |
-| https://twitter.com/SmallFi80937191                          | https://twitter.com/SmallFi80937191                          | 10    | 0         | 10         | Invalid |
-| https://twitter.com/urfavlilboi?s=09                         | 0x131ca046fCD45d289d99d211DD7C9E3C09F98455                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/rerere12311                          | 0x30a3b4AC10a63C1A36e804fe45Ecef9D8b8755E6                   | 10    | 0         | 10         |         |
-| Https://mobile.twitter.com/shamim6672                        | 0x451A5Abfb9Ac993fA54e1c727Ae7D011196d82Cb                   | 10    | 2         | 12         |         |
-| https://www.twitter.com/jackowen271                          | 0xE847ae4560cee68dC6c58Ed7F9f85f4EB8153B10                   | 10    | 0         | 10         |         |
-| https://twitter.com/igiwarti                                 | 0x165b2F880a8A3dc50a1Ffcb56e70c01B81e2FC5E                   | 10    | 0         | 10         |         |
-| https://twitter.com/uripaku120                               | 0x2327937B930818b157dD51D20eEa5C5450173170                   | 10    | 0         | 10         |         |
-| https://twitter.com/ThuThng63968859                          | 0xEFfedBF8FF4E13E079B5b3a3E5DD8B6bFD17760d                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/abirsarker100                        | 0xA18c5076858357c8b96aCa0F473d8B00AbC588C3                   | 10    | 0         | 10         |         |
-| https://twitter.com/23Dolna                                  | 0x48248a1b91c272B1Ee45c22Cf7bf99a390695398                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Saravan83890339                      | 0x3E64322AC7b5583E6a9736175Bb6f63B6a42318E                   | 10    | 0         | 10         |         |
-| https://twitter.com/YorokaK                                  | 0x1d6B3225A6996d693EEC61CdCea8B1a0229bcC22                   | 10    | 0         | 10         |         |
-| https://twitter.com/0necrypt0                                | 0x440DE8b4E2ae9C63cB1C22C9eDD32Db11De86113                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/leolexy1                             | 0xBA4FaEeA7Ee39f34753638360893925730B0a441                   | 10    | 0         | 10         |         |
-| https://twitter.com/huutt14                                  | 0x201793c91A0ac7b0F23664009F1A96d1B382E71E                   | 10    | 0         | 10         |         |
-| @doniyadon2                                                  | 0x9049457EdD2AB8c2Ad424E2b50ED48756d2eEE7c                   | 10    | 0         | 10         |         |
-| https://twitter.com/Rzqlh1?s=09                              | 0x5AFed8dCaC7AB414D821624F2764f5D98792b3f6                   | 10    | 0         | 10         |         |
-| https://twitter.com/Babangoye00?s=09                         | 0x37295BB051427377046F1aF61226E62dC4E4A2DA                   | 10    | 0         | 10         |         |
-| https://twitter.com/CryptoAirdrop78                          | 0x98E139271AB5a981314406961ed5093902309743                   | 10    | 40        | 50         |         |
-| https://twitter.com/ThuanNg85526696                          | 0xCfF11F9B64e3d0B2eBDE481D57B57733F5112e27                   | 10    | 2         | 12         |         |
-| https://twitter.com/FayeGerman?s=09                          | 0x88C368696E86250b5D6D0fb61050D6Bb82554aBe                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/ParthaN28207893                   | 0x9cf7d6D2F8436a7Ec2C673726f551C5528c00333                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/indrojid                          | 0x38a4d578a2fe6aB8e7f96d989c0e0238B155A7ba                   | 10    | 0         | 10         |         |
-| https://twitter.com/atyobitch88                              | 0xe0eB1eA82F44f4c84161a586D24110a082B84806                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Pujjo21                           | 0x347b37a49e88667a3E72EfcCf65B921BC2a5335d                   | 10    | 4         | 14         |         |
-| https://www.twitter.com/akash93892149                        | 0x54dA93e938A019c457d81AE13C39291cFD95BED9                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/rezaforouhar34                       | 0x856f67E2D7032661B6a0983a4747038FbF08ec14                   | 10    | 2         | 12         |         |
-| Take a look at Abu Sufian Musa (@AbuSufianMusa1): https://twitter.com/AbuSufianMusa1?s=09 | 0xeb8dEC99221D45b101904a616fdd00e94aC40a7f                   | 10    | 0         | 10         |         |
-| https://twitter.com/sarunganwae                              | 0xa13b6D9c76279a873EA8d6C10113708669d1ec0F                   | 10    | 0         | 10         |         |
-| https://twitter.com/nguyenphuc1092                           | 0xa6e42406CbF336688D5261F766bd54d3652e5DAe                   | 10    | 0         | 10         |         |
-| https://twitter.com/dnftprotocol/status/1428338156751917059?s=21 | 0xEdAc58e337914A496fDF7321C9Eba29C8Cc61B15                   | 10    | 12        | 22         |         |
-| https://www.twitter.com/VishalK04510154                      | 0x121a74721f51805676035B56ACBF5d6A955C29Ff                   | 10    | 0         | 10         |         |
-| https://twitter.com/CryptoTownEU/status/1425375953430192128?s=19 | 0x9A4a387aD1C18aF0655d1bE003E9Ca910183F500                   | 10    | 0         | 10         |         |
-| https://twitter.com/Angger_Muni9                             | 0xdF9926524962441381cdbd18051B7D0803E8A4F6                   | 10    | 0         | 10         |         |
-| https://twitter.com/Nguyent59414806/status/1425402542142283778?s=20 | 0x342569b986136C540834B217B0361F6666425B47                   | 10    | 2         | 12         |         |
-| https://twitter.com/Elit24702267                             | 0x7aEd382d6F5A9F69D1aE2513139296eE52Da9438                   | 10    | 0         | 10         |         |
-| https://twitter.com/elmerckd                                 | 0xa5DfFae6a43F0d661B69fdC35B2CDB8777878735                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/@SdPiyas                             | 0xc6Fc9075E719CbA71037d56d354E2dB62bFca7fe                   | 10    | 0         | 10         |         |
-| https://twitter.com/Tanjil0810?s=08                          | 0x6CC653797Ee7D8B222398B06108b472ccE1eD496                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Farrukh19862                         | 0xf560a066f587374fDb9Fafda83315E863A1803d5                   | 10    | 0         | 10         |         |
-| https://twitter.com/laura_isaleo                             | 0x2cA74FE9587AAB04D0f9fbdDE6D9C581ac3a5F9a                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Reduan48843846                       | 0xC1C88c4b8031193663E24c8436588cC8285053bA                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/fajar_crypto                      | 0x70723a76ad8Ca6F88200B255F3E249bd937ed6E3                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/inhTunA62157114                      | 0xC486737e2EE896d5F2e99d97485139B21Bf1F8b4                   | 10    | 0         | 10         |         |
-| https://twitter.com/Ahsanra69505462                          | 0x327f2b01223f9E55079C898Dd148330aA802B8c3                   | 10    | 0         | 10         |         |
-| https://twitter.com/BayuuNusantara                           | 0xEbE030e494B45289641Ca468Ffa391E3070c571b                   | 10    | 0         | 10         |         |
-| https://twitter.com/Manik60341193                            | 0x9bebD3FE2F9fB4955716DBC2B5b3d1CfAf13b876                   | 10    | 0         | 10         |         |
-| https://twitter.com/Dorie35524174                            | 0xa898ABe978F2DEd3224Fe3421ca995a0ba1235d9                   | 10    | 0         | 10         |         |
-| https://twitter.com/Etherea1573                              | 0xfbFa0c8f8A9A16B0cE2f8Ce218C3Eda3496e9020                   | 10    | 0         | 10         |         |
-| https://twitter.com/Shadow9634?s=09                          | 0x3e0e5d4255D4137ca4913A8A3048748cB8775922                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/manohara_versha                      | 0x9A30e26deE409D181CfA062cc8EfA66309d7ACeb                   | 10    | 0         | 10         |         |
-| Https://www.twitter.com/mohamma85728616                      | 0xd7249b40e368402eb86bd6Eb30F77d44Cd496564                   | 10    | 0         | 10         |         |
-| @MdNahid29233700                                             | 0x58FA767B74feA4c75AE68dFC59e36778746AaD2A                   | 10    | 0         | 10         |         |
-| https://twitter.com/DangTho92440285                          | 0x48B2779E7915Fdba7757F636C5f8f3B170D28d06                   | 10    | 0         | 10         |         |
-| https://twitter.com/AnjasBaby?s=01                           | 0x6B593F330D179EDC0a4f940037D13c35bD5871be                   | 10    | 2         | 12         |         |
-| https://twitter.com/aadrsh_sharma?s=09                       | 0x79f0E5f7AC4D0b4b0ef092c2744E4aDdD05dcC6C                   | 10    | 0         | 10         |         |
-| https://twitter.com/kio                                      | 0x5950cb38333EbA5E394B6c551B344C27A7472573                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/muhammadmusa777                      | 0xF257274C2F3D50a697F9989219C43C2f7f5aB858                   | 10    | 0         | 10         |         |
-| https://twitter.com/Adrian88902509                           | 0x9e44f4Bc13bB3E7047b9ddF91b685b84Fcdc42e7                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/malesdahlan                          | 0x4Bb350A4D5EC3FeC4C0c95355BcBCB342E8B294E                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Fahim27688786                     | 0x41b2DDf9dA45458E1967619E468A367092041D01                   | 10    | 0         | 10         |         |
-| https://twitter.com/Sagor990?s=09                            | 0xfD9f8f64020873BC29FC8B71154f3FBc19082748                   | 10    | 6         | 16         |         |
-| https://mobile.twitter.com/naba_mutaqin                      | 0x704C4f54164b1714Af46b5Bc5A274C852d6A1a52                   | 10    | 0         | 10         |         |
-| https://twitter.com/EzHassn                                  | 0x551098Db16652Db2E1Fd719AcC00A0D1BDe657F7                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Hridoy68301393                    | 0x26f2e5F85a74F6e554EAeECd95F3eb2227a296C3                   | 10    | 2         | 12         |         |
-| https://twitter.com/Samina27374779?s=08                      | 0xD5a5945bCa0f3521eF620Ea4C8a26B8b0ffe17c3                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/asty077                              | 0xa0f69be167bA26b625f73F1E7Ed66aEAC4617223                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/minyonkes                            | 0xf1cEb6bD617150a4c29Dea0d575A5a010D6A4c9F                   | 10    | 0         | 10         |         |
-| https://twitter.com/NahidHasan241?s=09                       | 0x89D3c42Bf4d9Dee85ab96C185f9412DDa44ED94c                   | 10    | 2         | 12         |         |
-| https://www.twitter.com/alexMount20                          | 0x78662bec600d791392adeD86458835aA0ABc58C1                   | 10    | 0         | 10         |         |
-| https://twitter.com/NghiHo76791117                           | 0x47da9435f9a3cDbBedC53CC56E2c97A1ED4faF61                   | 10    | 0         | 10         |         |
-| https://twitter.com/Nelsona09967048                          | 0xbF0bBbeD38554498C1e84cfe34C2e9B9c191a75a                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Joydipdey705                         | 0x438c2B52D45D91C08633FD9a8bD6C332D03778f3                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Rayhan96150                       | 0xAC805ece0c3571Eb793D3B5256c4744cef87BcE2                   | 10    | 14        | 24         |         |
-| https://www.twitter.com/Kokopeti2                            | 0x370b28B66FEa4A4C929754aCf36EF855366c450E                   | 10    | 16        | 26         |         |
-| https://mobile.twitter.com/okaa1010                          | 0x2cD3384494B8F1bC4f6330983d9302D90701915a                   | 10    | 2         | 12         |         |
-| https://twitter.com/ArafatPalok?s=09                         | 0x0d7e959B5934e37952C8464Ac44Ad0614F3dA4E2                   | 10    | 2         | 12         |         |
-| https://twitter.com/gadgethub7/status/1429828993532973057?s=21 | 0x18a6F531a4B3fee8f0ea63f8DE8aef265f498e2e                   | 10    | 0         | 10         |         |
-| @sajib5824848                                                | 0x957e63Bed54d7956C378BeE97228aAc1a12B81ff                   | 10    | 0         | 10         |         |
-| https://twitter.com/Shadab792?s=09                           | 0x8dD7A121d85152f10DB3829Cc99116BD8ba07a2b                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/mostafa5691                       | 0x97ACd50c29b87553ec81eE5Cd0F76e3FE1bf0915                   | 10    | 4         | 14         |         |
-| twitter.com/maheshbhattoff1                                  | 0xDE04b562CBD39109935691eBde2f18D2729cCD0a                   | 10    | 0         | 10         |         |
-| @davoodkhlili461                                             | 0x017345A6bbb720FD1609b02DA47393b112561471                   | 10    | 2         | 12         |         |
-| https://twitter.com/SohailA41078352                          | 0x3B9A342fF5FfDb25e3bA247F5c1B0B64D71a94f2                   | 10    | 0         | 10         |         |
-| https://twitter.com/jojiisjoke98                             | 0xe3dF123Df3A8156574BeDC24Da44930030760240                   | 10    | 0         | 10         |         |
-| https://twitter.com/sarcasticstein?s=09                      | 0x495fD7F6020dE6aE903B33ab451ACfbC7c1e8090                   | 10    | 2         | 12         |         |
-| https://www.twitter.com/jadilangit                           | 0xF30B9daea92e7C6782521ab4dA2C01728c9E9144                   | 10    | 0         | 10         |         |
-| https://twitter.com/manik8877                                | 0x62A7e08ad1be6282e37d663c7079005787c07Ed9                   | 10    | 0         | 10         |         |
-| https://twitter.com/Hhhe4m                                   | 0x07F888d19d0fa04847C226666dAD1A79AEc2Ae39                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/nghiale65507033                      | 0x16eabeA154987fe9F33060ca3Fdeb083B024ee07                   | 10    | 0         | 10         |         |
-| https://twitter.com/Mayank46558634?s=09                      | 0x9491B1D0c56764d3376Ba16aaa5b81b07BB07494                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/abdhedar1                            | 0x2c09b668076Eb0a65f1aF09Ef00A0503e492bA96                   | 10    | 0         | 10         |         |
-| https://twitter.com/Rambo90574683?s=09                       | 0xaAa4A6B225C56b57bd1C89A412909CaFdEe5549E                   | 10    | 4         | 14         |         |
-| https://www.twitter.com/ronal7naga1                          | 0x1051f5c41dD9D124744B0AE197f5fFc899B7aCcB                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/AjoyBar75677005                   | 0x166Fc24e83C5f9440eFaa64Df82290824Bb09998                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/sohel_riaz                           | 0xCF7dC28D838F05ED3ca12b0cF289972E72f2aC6E                   | 10    | 0         | 10         |         |
-| https://twitter.com/B_Auker17                                | 0xd5a92E969AB29FAf691D42474DA1618D05F731D1                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/sethucivil1985                       | 0xaf7D06f62639D039915d491788551eC3b99002fE                   | 10    | 0         | 10         |         |
-| https://twitter.com/abdulgofur2796                           | 0x435b66c40ee364a0E9910Cd8281Ae2Ce398187e4                   | 10    | 0         | 10         |         |
-| twitter.com/Heather86376476                                  | 0x15Cd8Cda3Acc6B23761eB8e36827Eff3AA708068                   | 10    | 0         | 10         |         |
-| https://twitter.com/dchinhbairop                             | 0xD19327541B4dCbEDFc852d0f70e0C8d6de9Ff486                   | 10    | 0         | 10         |         |
-| https://twitter.com/Shant47441424?s=09                       | 0x6dC2CD55a5D0A320ee1eD4D3CD586e37dC724654                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/phuongdoan93                         | 0xE1c71d8CF3d4ebFcD02569B6D30244C39c7568a8                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/senyor0698                           | 0xA81F7AA5026AcA780d63Bb46DA71CA1f394C5c6F                   | 10    | 0         | 10         |         |
-| https://twitter.com/ShahabuddinHo14?s=09                     | 0xbdd09E851190deF3C36eBE966C737AeEe7Cb690d                   | 10    | 0         | 10         |         |
-| @Sayed07793351                                               | 0x0dfe64033088043dA242A949AD86c6bb34fB8dAB                   | 10    | 0         | 10         |         |
-| https://twitter.com/MhetarTushar?s=09                        | 0xFcB6f9D0fde06860c0346FF09f3D51F612823b01                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/gggg44558701                         | 0xCA5ADC1778655A9A2D79A6e8d882C0621825aA88                   | 10    | 0         | 10         |         |
-| https://twitter.com/HongTrngng6                              | 0xcD82411ebb63E04BeeB7F1915eB47796B2Fea900                   | 10    | 0         | 10         |         |
-| https://twitter.com/dnftprotocol/status/1430731761365831681?s=21 | 0x0938b18340cB402268e5B2C102A7aE197c0D9217                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/ashraful7899                         | 0x431827599784A8A8DaB85C5c29d2aBF93676C06c                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/fadlymnz                             | 0x9B1032B588681c990F1fc08015e17f0620f033a2                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/SabbirR48256694                   | 0xDBd485C800143bE9bF67E199C576432D16c44d9D                   | 10    | 0         | 10         |         |
-| https://twitter.com/Rakibul67272980/status/1429823109297696772?s=19 | 0xCeC4527C42E0916eE80Ec82e69aCf39c29fF06b0                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/JohnWickAF                           | 0xd47f59Ed8d4E889363A79a56fEDf64223609E29f                   | 10    | 40        | 50         |         |
-| https://www.twitter.com/showravhossen10                      | 0x8F52c839b18eC92C9f367272030632aDe53897C2                   | 10    | 8         | 18         |         |
-| https://www.twitter.com/93w9FGHHNGFjH29                      | 0x2DDd4441C95f38415e7cBB23E89CB686177Cb6BF                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/3Abuabdou                            | 0x3FCe5a6370bc3380eCF811df560fce577B496550                   | 10    | 0         | 10         |         |
-| https://twitter.com/Joincaster2                              | 0x1eB59f720858353899138Ceb523276DAe8B929CE                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/mahindra5800                      | 0x6e3300835f731A887909C444ee25BCdBD1525110                   | 10    | 0         | 10         |         |
-| https://twitter.com/NEILTRAN12                               | 0x1b94E1C952446f22bae20DC1e96F5927735cF8b7                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/arashse11                            | 0x5108484244913BDd6e8Ae51219D23f21cfbb099f                   | 10    | 0         | 10         |         |
-| https://twitter.com/AbdulLa98658790?s=09                     | 0x6aa1420E73c495F3529D8BD236b2856d11915144                   | 10    | 0         | 10         |         |
-| https://twitter.com/Casey26436275                            | 0xcdA3937451d3D028ad03C0b3600058F5608b4352                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/TahirMehmood_                        | 0x8D240E8a9ed78C74Fe2bb60A90607DE82EE6ef27                   | 10    | 0         | 10         |         |
-| https://twitter.com/Shakil2728khan?s=09                      | 0x1B1AA1813aA6AD943931B458297204075079Cf88                   | 10    | 2         | 12         |         |
-| https://twitter.com/fkurniawan2798                           | 0x449210871614fB1922Dd1e21D9331366EB2b9E23                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/LiaMarl27877517                      | 0x32519B04cC56f93ba9221732a55BD2B8acF5db45                   | 10    | 0         | 10         |         |
-| https://twitter.com/bramantiogst?s=08                        | 0xaA144A3b0911bF83418f067F6E5a497Bc212367D                   | 10    | 2         | 12         |         |
-| https://twitter.com/FajarMn13?s=09                           | 0x238cf91aEdDF67952AddB7ac54CdeAA73CC035E4                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/NADIA_HAZARD                         | 0xD598a2113a70aff191B4e71AFa56052a41c9b9dD                   | 10    | 16        | 26         |         |
-| https://www.twitter.com/sogandshi                            | 0x0643d288e6b6D929e68B7410F9E2fd84B776B515                   | 10    | 0         | 10         |         |
-| https://twitter.com/DrumGODum3662021                         | 0x04321f7112259e65309afcbb5387f20c350022ee                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Kepricrypto                          | 0xdf4a1A0D45Bd3c59e40587c6626CebAE2e588cBf                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/KumarPoshi                           | 0xc03dC9ac2f511EE966980b24f5b3D17a255550B4                   | 10    | 0         | 10         |         |
-| https://twitter.com/KieronCarelse                            | 0xC0b907bafC8e05c4Ad56942Df46d23B78BE49dae                   | 10    | 0         | 10         |         |
-| TweetID:https ://twitter.com/Rezauol1                        | 0x58b510D6Af7b6abb51225d103e89e166bB5Df544                   | 10    | 0         | 10         |         |
-| https://twitter.com/tranthanhan1121                          | 0x17EfB27E5d8814D44f70d3b50D166Ea345647328                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/AniketRam18                       | 0x0d7Ac1cfaC50e060976e0bdbC8db5aF7448b6F89                   | 10    | 8         | 18         |         |
-| https://www.twitter.com/WillyHo20                            | 0xc28D5FeD653705a766898356fe0c4fE303DCDACD                   | 10    | 4         | 14         |         |
-| https://twitter.com/jishu_sardar?s=09                        | 0x2fae2B3024F29cB05c4cAfBd7E7612493eac0002                   | 10    | 0         | 10         |         |
-| https://twitter.com/princess_kkt/status/1430001787667427333?s=19 | 0x23868bdF972ac9132cB84efe667Aa87B444D1708                   | 10    | 0         | 10         |         |
-| https://twitter.com/YudhaHernanda7                           | 0xEf11f63754A7Dad95FA4d4F4eCFF92e54600daAD                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/akmal_                               | 0x2cc29c17485516004cf5772895d8e9ec55b329fa                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/100aliyuz                            | 0x7Cae8B0119FA019aB99dDF96860CFa823335d11c                   | 10    | 0         | 10         |         |
-| https://twitter.com/Rizkyaryamulia_                          | 0xD88B0ffc8Ee1B75891F85021F611F9e4ca35C1eF                   | 10    | 4         | 14         |         |
-| https://www.twitter.com/ramesh10666485                       | 0x5f1c01904D5f39A6413dF0eEAd1Ea736F6A50DDA                   | 10    | 0         | 10         |         |
-| https://twitter.com/steveklbnf                               | 0x02f385146205D19f0Ef4f7a2742ae241b787BC8F                   | 10    | 40        | 50         |         |
-| https://www.twitter.com/FerryF2A                             | 0xB02306d71bfDe6F46D2DD293C1837379D06142aE                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Masud12S                          | 0x1433E4aD40C5520b4B950F35131Fa88043CcF532                   | 10    | 0         | 10         |         |
-| https://twitter.com/OcehanKangSurya                          | 0xa235054EeA31B2A303FE64a27772c42325451271                   | 10    | 0         | 10         |         |
-| https://twitter.com/zinpe129                                 | 0x644372D5Bdb5A24a1Ae4c9ec25b47f35bc9A5b36                   | 10    | 0         | 10         |         |
-| https://twitter.com/ManasiNanda4                             | 0xb74bC912ab16E5a0c53Bb57A5B0BEFf153Cf527f                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Rymandog1                            | 0x51fcf5fAA42968fF3de5c06103c5aFDe2e9BF690                   | 10    | 0         | 10         |         |
-| https://twitter.com/YourUsername?s=01                        | 0x3439c4e2cdc91aF2Ac1B95eb176023d77F51DDBD                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/felisia_                             | 0xc302f58cc7bbaffd753a5c9d526cb069e5cd4392                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/sikho_tech1                          | 0x6C4EFd19eA161e65af67e83871C06CF28027f29a                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/ahmed_ib_rahim                       | 0x99617328045f0362216a63ce7B0f90a74F6c2793                   | 10    | 0         | 10         |         |
-| https://twitter.com/Jennife24287108                          | 0x37F76F6C1454C213C3f4323316ADAeB4a80dC9A1                   | 10    | 0         | 10         |         |
-| https://twitter.com/Oonk932?s=09                             | 0xf3937B2e18136d2d2dE7f0Cc7ba1eb2ebbC19B01                   | 10    | 0         | 10         |         |
-| https://twitter.com/md_sayed2                                | 0x4525bb96D23Db01458aC529BE71b05b5523B88A0                   | 10    | 0         | 10         |         |
-| https://twitter.com/metz_granville                           | 0x992b6fd0462AbdD3a7bDb0CfC2d72A011A6c7082                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/kolm_ol                              | 0xBD371C5c50fFa2C9EA2F79745da0f3C23593D906                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/RushikP54771131                      | 0x58d3643CEd2C319bA32F6260Af97cFc7Ae5e1784                   | 10    | 2         | 12         |         |
-| https://www.twitter.com/Shehraz7861                          | 0xd761Aed6fD443a17A8Db8ea56Ab45ec14Aa43571                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Sarrrcasmo                           | 0x09514E0d3e91Cd55Cd182A7053A8c54AFc1085ad                   | 10    | 0         | 10         |         |
-| https://twitter.com/adjestchan                               | 0xe4E1F8Fd4a886094C51Ee2Ee138d1178E11e8AeF                   | 10    | 0         | 10         |         |
-| https://twitter.com/Aries26994581                            | 0xd7f434bEcE923e5032d203798686891cD2055e2F                   | 10    | 24        | 34         |         |
-| https://twitter.com/Ngntea1                                  | 0x4100eB7c1466d56768db0A26131944925aFEb15b                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/daniel_                              | 0x67d84a05727a391a80ed52dd074bac21d5331d2f                   | 10    | 0         | 10         |         |
-| https://twitter.com/AAhmed825?s=09                           | 0x401C13F61Bde515517cE0cbF0cAd8e73A8EaB55F                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/WhyNotMeHug                          | 0xcb7d6C5C1E1090343c5f004F088f5EE4BA548436                   | 10    | 0         | 10         |         |
-| https://twitter.com/hardtosay233                             | 0x0321Ae8b2189336EDc874bdBecBEA6f805B568D7                   | 10    | 0         | 10         |         |
-| https://twitter.com/abuhenarony164                           | 0xaB777273Dffbb6163AfBaD1219E550CFc561ef4e                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Puja96422324                      | 0xdf2939706CF04497D7b5bcB4448A5F5aFc863534                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/prasadcrypto                      | 0xE17a15b2790C2Ea33a588e81399eC56EcA266a31                   | 10    | 0         | 10         |         |
-| https://twitter.com/GyrlAmerican                             | 0x5D242cdf79a8724918f2E4C6312196b9e5C839c4                   | 10    | 0         | 10         |         |
-| https://twitter.com/_cingrrr                                 | 0xf7E925e1370C260aa12735A3b726a3F8ee749D08                   | 10    | 0         | 10         |         |
-| https://twitter.com/redswan56205                             | 0xadff756a4427d7cd5e9bbc1ef1431b66af18e4f8                   | 10    | 0         | 10         |         |
-| https://twitter.com/Mahin2183?s=09                           | 0x300b283139f049cc323200Fd0F011Be053705093                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/shaiksmd720                          | 0x39840876D527B3d474743AF0d8b5A3E0d7F741d3                   | 10    | 22        | 32         |         |
-| https://www.twitter.com/samratH85150397                      | 0x515691c872962D0CC779Fd4E336a1071e7c54292                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/mrbitcoin69                          | 0x02480670cBEa3e0a468F224598f36F52e1D560a7                   | 10    | 0         | 10         |         |
-| https://twitter.com/VishalK74279387                          | 0x8E73D23FB622982f25816a4474A50A6386536615                   | 10    | 0         | 10         |         |
-| https://twitter.com/ezcladoz                                 | 0x01521f06C55526a7fFf11236B9a4ea65986bc1b3                   | 10    | 4         | 14         |         |
-| https://twitter.com/vancarl2004                              | 0x6102D0c7423B53F47833E26A6511bD6BC1726b00                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/asunaayuu16                          | 0x7FeD88C0AFA49202f52A418d13Fe3237f412157E                   | 10    | 0         | 10         |         |
-| https://twitter.com/Mitsuya2704?s=08                         | 0x581523dE1ff9Aded2Da2447F36a98636f0F567B5                   | 10    | 2         | 12         |         |
-| https://twitter.com/karmenskeen                              | 0xfE8174c80F387048483b899F99aa37891dC80d58                   | 10    | 0         | 10         |         |
-| https://twitter.com/darknightpost                            | 0x3459A8582d6D46214B15BC97311bdc90Cf2888C1                   | 10    | 0         | 10         |         |
-| https://twitter.com/Jaforahmad144?s=01                       | 0xE9a970F851fead62801b358370C1d204E01b6dB7                   | 10    | 0         | 10         |         |
-| https://twitter.com/EricaDrop2499201                         | 0x3a45c6f19ad935b74c5d351b2dc6491ddcd318c5                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/shiro_gaze                           | 0xc3475400dc54e0BC6bfdc5FA269Fe9c8ECeb7E89                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Guinevere252                      | 0xb7940d48Bf4E767d1CCe23f862564a8799eDBb64                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Mahesh5010                        | 0x973676599DdA7D0D7cD515b95cBB79F2D7f2D615                   | 10    | 0         | 10         |         |
-| https://twitter.com/beehmar                                  | 0xBB73D5ad06F4169a52c42F1d3c647b870ec3612F                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/wicaksono350                         | 0xE5ca8f32feE6d75ABF1168f51c4cE66c44F79629                   | 10    | 0         | 10         |         |
-| https://twitter.com/ManishaRaviCha1?s=09                     | 0x1671eD8696f8475D9DCd25AF45E972b60F1Eb434                   | 10    | 16        | 26         |         |
-| https://twitter.com/Sakura3638102                            | 0x0e7ca745c97bc1eaedfaec216c66be6da2ca8a59                   | 10    | 0         | 10         |         |
-| https://twitter.com/Jonathan30P                              | 0xF445d442F737aCc979aEA02924A0DfBea660C146                   | 10    | 2         | 12         |         |
-| https://www.twitter.com/LoL_Land123                          | 0xC0F86AE66b33F7a30F7E981f0E9F75Ac60798853                   | 10    | 0         | 10         |         |
-| https://twitter.com/Palash187364511?s=09                     | 0x03c3649c90C1C0Bc7E402023f71e8e8523F2987F                   | 10    | 0         | 10         |         |
-| https://twitter.com/Abdulla87731177?s=09                     | 0xd0e4c5166cdba06F8850b8b979A442E23f0a11D0                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/alwynantony13                        | 0xb4EFD29796a6b5F040569fB2b2D981c96E9c4496                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Rona354354                        | 0x625157014F943DA8b8D08C2416DADdcA91795365                   | 10    | 2         | 12         |         |
-| https://twitter.com/Anshul06352658?s=09                      | 0xC59dB6bDce453fbd21e7B2Ab6669fe94A24F0985                   | 10    | 0         | 10         |         |
-| https://twitter.com/Pramod78940?s=09                         | 0xee08f48a5565442611EfE9f4bf8c50121aDDd577                   | 10    | 0         | 10         |         |
-| https://twitter.com/X8HcU99KHBwJgXX/status/1425945389639815170?s=20 | 0x7A7420466BCcA23B194933fD3191937Ca3559997                   | 10    | 0         | 10         |         |
-| https://twitter.com/Elh_Coins?s=09                           | 0x7629d90974571CA614569F82dE126f2D4752a69d                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/ChaturvediAdit5                      | 0x2CE2628fC24a1a3E2259045F5FF95C6097091e34                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Eggy97290496                         | 0x7Aa3E5E92f9a5b5816cE1902c80c4F562245f8e6                   | 10    | 0         | 10         |         |
-| https://twitter.com/ngoc88po                                 | 0xBe4eA4655aBD1181C7cC5868efA97aA3f6DEC194                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/nilufer6yyarar                       | 0x5fA75eF5AF6dB3Ae5D8b83c122C105500622442F                   | 10    | 0         | 10         |         |
-| https://twitter.com/Siam94356897                             | 0x838A4ed9A72CE04D1fAc9CA0Cf42eF9cD94228bf                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/narutok93268616                      | 0x7Eda10bbCfAbCA6A1f63e7D16b520cEc6C281b7C                   | 10    | 4         | 14         |         |
-| @sasans06200911                                              | 0xBEb5945917BF57d657373376439E4702564A1fA5                   | 10    | 4         | 14         |         |
-| https://twitter.com/Abir12345676                             | 0x72D30622d76ED19DE73a60EDBe7DA41f20B54fB3                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/saryo27                              | 0x9280b1738d73d6c2D455877ba237C67560f8a534                   | 10    | 0         | 10         |         |
-| https://twitter.com/Valene40466886                           | 0x979e5528B6BF7258491ac6f77eecA2F007677ff8                   | 10    | 0         | 10         |         |
-| https://twitter.com/indianstar16                             | 0x245e6E12637Adc7Ae7F2a294a8586F6F0FC37222                   | 10    | 0         | 10         |         |
-| https://twitter.com/a2VxUKP2G0BCFPK                          | 0x884b2629Ec25605Da3a447B96cC6bf15E3507D3a                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/zz_12_zz12                           | 0xc4d68346A6182D0a1473f4B2fefAfDa495047382                   | 10    | 2         | 12         |         |
-| https://twitter.com/T9fulNwFzKR4Xj3                          | 0x3106761Eff27B6b1A5F7706a2cF51ae04F273C20                   | 10    | 0         | 10         |         |
-| https://twitter.com/Zer0Cryptoz                              | 0x25E4b64795b47f4a10a8a1efD59f40944c64e772                   | 10    | 2         | 12         |         |
-| https://www.twitter.com/CryptoMagi                           | 0xB07a238b7e9D2BE79cc4770b22E895124C218d53                   | 10    | 0         | 10         |         |
-| https://twitter.com/MasudRa07911548?s=09                     | 0xB6286287795d244f1aae88f94dc56bBDbd813D74                   | 10    | 0         | 10         |         |
-| https://twitter.com/Dimas76932699                            | 0x1029335e454c27Ac18969292e2b807588A8d2a0f                   | 10    | 0         | 10         |         |
-| https://twitter.com/Arsan005                                 | 0x7860b2c6dde657146eB0815867e6e23891F23249                   | 10    | 0         | 10         |         |
-| https://twitter.com/lopeng0907012                            | 0xef320d764df018d6ed46d629969cfadf56850caa                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/mehmet67760020                       | 0x81BD63De441712d55feb1Cd448ea5A6F5FE87a61                   | 10    | 0         | 10         |         |
-| @Kodok_Rese                                                  | 0xAC657D4F4894F6272e2B96b73614BC68afFdA294                   | 10    | 0         | 10         |         |
-| https://twitter.com/Earning22Lc?s=09                         | 0x43d06a847Ae3257F7B0ad59e0B7D94e4D9550B34                   | 10    | 0         | 10         |         |
-| https://twitter.com/Kiwil213                                 | 0x0f32e27778668eD2a2D85BdF7cAceB2A13A10BEe                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/MDSaqui20492639                      | 0x63415b0d260267B9Dd76510c866aD00ff33ecbFC                   | 10    | 0         | 10         |         |
-| https://twitter.com/mrza888                                  | 0x9F9b671FBB56552b7AC219E0c5FC5539E581102E                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Sotej7                               | 0xAd13C84D436775B0B92DDdc8Bf2Bf5099F6caf11                   | 10    | 0         | 10         |         |
-| https://twitter.com/Abolii4                                  | 0x6808138032ddFbd9be87031E51b01C49d96EDD05                   | 10    | 0         | 10         |         |
-| https://twitter.com/ariaairdrop                              | 0x690Dad745bB698a6F37A4Ec8D4e99F95c44E5cc3                   | 10    | 12        | 22         |         |
-| https://twitter.com/cuongmika189                             | 0xb40A6276B1EE63c58F5DFDdaA74e9E21FEe14d66                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Pijush92165183                    | 0x62bCF5E33C4223Be052519Ed034AbaE9b3486109                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/@naryama15                           | 0x5c7325F882c257248c1815aB53F26DA7C39899a0                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/cah_cd                               | 0xeaa7fFF1d38DE3056482F20dB66748136EaBD410                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/BeheraGurujit                        | 0xe2F550EfCcee1987337EE4556cf6D7E4edEe257C                   | 10    | 0         | 10         |         |
-| https://twitter.com/Seven1801                                | 0x53e778FFb4dc49C59E10FD9Dc5BaD62224417BDF                   | 10    | 10        | 20         |         |
-| https://twitter.com/akaishuiii                               | 0xC87B02F063089EcDD4b7C172F42d43242474F1D4                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Neuno23                              | 0xd7256eC6E670F7E42088A1A0D4efAB82ffa86749                   | 10    | 0         | 10         |         |
-| https://twitter.com/Longhuynh05                              | 0x62FFD1Ca8A93DAAAB8E99B23a4869E41198A3D72                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Ahmer_k1                             | 0xfD0326ABdeA62d94d4936c826d6e6C0C81F6Dc16                   | 10    | 0         | 10         |         |
-| https://twitter.com/zoro65114910                             | 0xCEf8Ed853c39A2B7C801B025952948729d9A0176                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Move_withgrace                    | 0x8bfEb8175bd7c676e549e2BB618291e6123a885c                   | 10    | 0         | 10         |         |
-| www.twitter.com/@tamuno091                                   | 0xe7DAdEe0273E65cD470EAc42bd01859988428515                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/ridia11                              | 0x5AE947A0A481738fD74048F604d26B234D84Bc27                   | 10    | 0         | 10         |         |
-| https://twitter.com/akn34382175?s=09                         | 0x38E1f6C09951D5D1F31622aD647edA6B507BC4ba                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/juniorsuleiman1                      | 0x8375fe44276e8fdB965eC1d0162895c57617Ce11                   | 10    | 0         | 10         |         |
-| https://twitter.com/hariswibowo11                            | 0x5cE580427Bb9Ba0196A29A74D413372A0Ca93c04                   | 10    | 0         | 10         |         |
-| https://twitter.com/keensran50                               | 0x5b73100602B948AE21ba4Bf1A72aac15E468B72D                   | 10    | 0         | 10         |         |
-| https://twitter.com/hung13133                                | 0x6aC012B88036B1C70b48Af3c823065121Af2f943                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Sayem_AlMamun                        | 0x5Bf3656B09285314CB6dd30418e864a8fC1155cA                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/@MDKopilUddin16                      | 0x1d29F1116F0Be97F99e0Bdc18befc10cD1Cb8B8f                   | 10    | 0         | 10         |         |
-| https://twitter.com/VDefinina                                | 0xd47adBA198c5c76cef69c8D91cc2A7279bc79511                   | 10    | 10        | 20         |         |
-| https://www.twitter.com/Idilmukminin1                        | 0x1459aD75f3a1Bf7D424F0CD2577B2BEfc2EF2749                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/patih001                             | 0x21bb450C812A434c742Fc7DA0a99f8D622B02Bb1                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Jitendra950                          | 0xc35459C0De3858e963F8a193182BF852655f3366                   | 10    | 0         | 10         |         |
-| https://twitter.com/Hussein78960720                          | 0xED242dd0d2068F80Faea70aeefe93BD45fdd31CF                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/salmanfaaris14                       | 0x8764750A7F65C6Fcce3AE84fDdF27641A125a2FC                   | 10    | 0         | 10         |         |
-| https://twitter.com/Shinraap012                              | 0x50e5295fd3fa83459f5822e578449aeb04828c47                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Anthonyikram                         | 0x579458dc74afC6dF03F03CB4478f392F9E40F43b                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/checen21a                            | 0x435481cCa2d2E2828214A97E53468b66aD42A860                   | 10    | 0         | 10         |         |
-| https://twitter.com/chandradws4?s=09                         | 0xC911635e052D7b242C733E22Fe2e26cBc06aaeF4                   | 10    | 2         | 12         |         |
-| @alauddi68150720                                             | 0x74011890cBaf57D5eA0687a288b83ffcA3bAA8a1                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/anggi5_                              | 0x071aafBeDF4D19c2482321123C8c75CfbE86E81E                   | 10    | 2         | 12         |         |
-| https://twitter.com/ltk1804                                  | 0x52C84f86028aaA91fBDb3FCe58FFb906bba540ba                   | 10    | 0         | 10         |         |
-| https://twitter.com/yansky23                                 | 0x993028302684D9b6ED78caa717426267A40e763B                   | 10    | 0         | 10         |         |
-| https://twitter.com/binura88120068?s=09                      | 0xD228233eF28f3cF0e1ACd6Caa92F6DC0F1f7D536                   | 10    | 0         | 10         |         |
-| https://twitter.com/khnh92942490                             | 0xF9F4802D1Af52503C0AC6C82cD64D530aaE018F9                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/aliffauzi34                          | 0xf904d88D205665596ee6B4639fB58A0B8C0976Bc                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Aliqodri2                            | 0xd9cEcd2E0a26fB987dE6551c0B47aD09828d22F1                   | 10    | 0         | 10         |         |
-| https://twitter.com/maosuludin                               | 0x1CC6Caf59779148dFEf0bc4F664E1E6706F64A72                   | 10    | 0         | 10         |         |
-| https://twitter.com/Ankonchakma3?s=08                        | 0xda22BE20cb55e6445240FEBa4F99931fccC4a086                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/bummy9921                            | 0x440F4870948eA584927716eDEA7D53216dB6CD58                   | 10    | 0         | 10         |         |
-| https://twitter.com/DNFTProtocol/status/1425435343558373376?s=20 | 0x54DFEA698C4Ef3147F2b0d8C81c39808439DC0AC                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/@khadije25808239                     | 0xAEB22853336A13d388EC2d3A36AD944888920FE2                   | 10    | 0         | 10         |         |
-| https://twitter.com/cakiielz                                 | 0x45583EdB42F8D8d995d7171e3bf3261Cd5F91357                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/dtontfr                              | 0x22276A4C37b16c1Cda32f9282F403aeF263b28F7                   | 10    | 40        | 50         |         |
-| https://twitter.com/SultanA81758528                          | 0x531E35523f4C81B813c18279fc72799Eb26d0AD2                   | 10    | 2         | 12         |         |
-| https://twitter.com/Cr3amSod4                                | 0x90fd09177b91C4301AfAa77F0062c35d433ceE6f                   | 10    | 0         | 10         |         |
-| @Mehedi81267274                                              | 0xAE3630e6911edaB039061C766cd4114402A2AeCe                   | 10    | 0         | 10         |         |
-| https://twitter.com/Bharat98938003?s=08                      | 0x32e62884358E9650B2B0dd898840A83c91BF4B3B                   | 10    | 2         | 12         |         |
-| https://twitter.com/jessipinkmann2                           | 0x439762ad0a8A549303DAe3E30899405174ab59aA                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/UlwieM                               | 0xCB6EdA5d6A6d6ee08a7ed86aD1Bb3d244cbaA904                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/crypto_dunia                         | 0x2817abbAA611F0FEB0B51163713D0e2188CC8791                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/holford_luke                         | 0xeC0924a52CCBb2Df95980C832bCf8a56A666F715                   | 10    | 0         | 10         |         |
-| @AbhayTh84858427                                             | 0x7fC800a0D368d2cFDE08AFfBe33be62aB2A1649c                   | 10    | 0         | 10         |         |
-| https://twitter.com/YashwardhanBan6?s=09                     | 0x7A224cCf6b769e5654e91E084E8bb7c74dFb4Fde                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/congnghequanly                       | 0xA5eD80C26239bc05b146e5d0f92a4812aCda5802                   | 10    | 0         | 10         |         |
-| https://twitter.com/minhnc99                                 | 0xE1537c138dA21D52Ba153A5421ccfFd8c8368233                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/jamal4915                            | 0x417Fe0A2bFf53BA50C6DAB044F68Cff7c96b299D                   | 10    | 0         | 10         |         |
-| https://twitter.com/tran090linh                              | 0x40829e2c45a96c4bb5fF62C123A9FB5e4a48AAa3                   | 10    | 0         | 10         |         |
-| https://twitter.com/ANGREJS07865205?s=08                     | 0x1F7C49151f147e9Fa9182dECDeC0F9De59435B7a                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/DuyNguyen_94                         | 0xf71cB6e8A48B66e85151d64671F36D7B35F9337c                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/mamali722                            | 0xe4c3eEb3De4d3D57D912E9E150dFd1fE0BD487e7                   | 10    | 0         | 10         |         |
-| https://twitter.com/YASNGEZER1                               | 0x51D31DD19e638b12f754F0070889bca279BB06ee                   | 10    | 0         | 10         |         |
-| https://twitter.com/antopunya83/status/1425785570316361730?s=19 | 0xaAb24939f12E2c809e47B58636819ed335273234                   | 10    | 0         | 10         |         |
-| https://twitter.com/hawamm12                                 | 0x2825800FDc52f5FE88eF0350622cD4cD43F0C5e6                   | 10    | 0         | 10         |         |
-| https://twitter.com/BonnieW27094020                          | 0x8060B97F107307C764E1EA20ac895973B87b3a29                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/MdSadda32556576                      | 0x1C325Ad018d5b2FdF18Fd8b0a4cDecea5ADD594b                   | 10    | 0         | 10         |         |
-| https://twitter.com/Jahidul62123035?s=09                     | 0x8d7ad48ca92267F6221f467751224a91e67436e2                   | 10    | 2         | 12         |         |
-| https://mobile.twitter.com/Panky_1927                        | 0xeA7438F4030A898D77Bb5EbB6416572E205d47AF                   | 10    | 0         | 10         |         |
-| https://twitter.com/elhareb30                                | 0x31bCee7F85356d6B6245dAEb9F518AA337D6E111                   | 10    | 0         | 10         |         |
-| https://twitter.com/alcon_paul                               | 0xCfAa6460eeb34d4DEdCf35729CE2e8C5aaD85F51                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/@MdMafiul1                           | 0x439A6419c740457865De4207d23eD72BC11Fbe23                   | 10    | 0         | 10         |         |
-| Lihat Adrianan Kirana ramadhani (@AdriananKirana): https://twitter.com/AdriananKirana?s=09 | 0x3c22aE407414F424CBb9490D92e58DcF8Ef93b0C                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Telgetel2                         | 0x212712aDb8Ebf2a08ee3587cf311EaF7Aa0849eb                   | 10    | 0         | 10         |         |
-| https://twitter.com/AmirHos64144217                          | 0x4b5e19d9199B70B4d7EB574b8b292E3CEb8844DB                   | 10    | 0         | 10         |         |
-| https://twitter.com/Ali35974604?s=09                         | 0xB5696d5A7a42771a65130d03F7e48BFb0fa07ED9                   | 10    | 0         | 10         |         |
-| https://twitter.com/Sambruh17                                | 0x90C93b20951B75EEE79bae7b0E2d23d1A63248A3                   | 10    | 0         | 10         |         |
-| https://twitter.com/sacjim8                                  | 0x72BDDA95A1DB857f951E5701Af5d17d227e97A3C                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Realist47924191                      | 0x5Fb8aDb18e35f9F644366D260fB0BFcA317431A9                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/hensonhill13841                      | 0x064fEe5cb2aAe184a2674ef4230dD87948d07B7d                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/enggal_test                          | 0x5c59930d4c5863A6dede16Fa58646d50040f9666                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Skyshakib3                           | 0xb01e3c06920453f51F1c6404fc2dF2f69890fF0c                   | 10    | 0         | 10         |         |
-| https://twitter.com/LokiEsgard                               | 0x7841Be0ab2de7797A96816Ef068420A6f758d40e                   | 10    | 0         | 10         |         |
-| https://twitter.com/prater_maria54                           | 0x9D3b95174aC04931cAA96400D2997eb717A59004                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Arysonjaya4                       | 0xa3fAC33971A9694A6ca9Acb11055327658c019a7                   | 10    | 0         | 10         |         |
-| https://twitter.com/crypto_jtr                               | 0xDe1270F52Fb3FA24e15358391EFDb913B2B3C119                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/SubhashJadav19                       | 0x06a565C9EeFc675d93bbEF54494d9F8576285E5E                   | 10    | 0         | 10         |         |
-| https://twitter.com/Khawar30490325                           | 0x92f535d27a6f795aE5E7993dce7cd6eA2dE90D97                   | 10    | 0         | 10         |         |
-| https://twitter.com/WANITAYARBOROU2                          | 0x31dBD81baF79965A02F442405CAF56F22229048d                   | 10    | 0         | 10         |         |
-| https://twitter.com/mrkey1988                                | 0xcfF4b42ed0935C5e319fb1975E756683d7F809ac                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Uday4512                          | 0xFE2035858AdA413690007d988400F8D0ef672145                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/satriaaa2020                         | 0x4286235F118dE1552F9afd99DAF0D640c04cA140                   | 10    | 18        | 28         |         |
-| https://www.twitter.com/syaerulid                            | 0x85334259aA2209f9c32aBf949Ba71bD7E2a268A5                   | 10    | 0         | 10         |         |
-| https://twitter.com/Rohim333941                              | 0x0A9D0B5fb3B909d16406924dD4E0c4D2c4f2236A                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Idkanym83600636                      | 0xD7F61ab24a3d489D28FEDD72F44a7f54a1E4E07F                   | 10    | 0         | 10         |         |
-| https://twitter.com/ali39176203                              | 0x72Ad15527c64092961DdFCaB8f00E65Af7D141bB                   | 10    | 0         | 10         |         |
-| https://twitter.com/KpNatsoelay?s=09                         | 0xB557986Ca5E0f01E954A9Cef3cdbe02E66651183                   | 10    | 0         | 10         |         |
-| https://twitter.com/STEPHAN07170094                          | 0xc5A13BeA58b65878867AbE355106536F039eF4Ab                   | 10    | 0         | 10         |         |
-| https://twitter.com/thitquay34                               | 0x38461d53fe32b736B3016a6a0C18cB607d5fAD7D                   | 10    | 0         | 10         |         |
-| https://twitter.com/KaziNaimur_11                            | 0x06026e82c7e8b3896808219A2D41C12E4ca92691                   | 10    | 40        | 50         |         |
-| https://mobile.twitter.com/DebajitKro                        | 0xaf41bFf00CE8c65D565baFb3c13f75606cC4629e                   | 10    | 0         | 10         |         |
-| https://twitter.com/KhaiMou17604343                          | 0xa46a8cD9dA0f967365677A1f3F96ad9a583a7e14                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Mohamme96871718                   | 0xb3874b0CbbAfda98F0323c9300F70D492Ca1b9Bf                   | 10    | 0         | 10         |         |
-| https://twitter.com/NguyenA81310609                          | 0xf1dB761b80dEeeB574E53B3bfB54aadb1D004393                   | 10    | 0         | 10         |         |
-| https://twitter.com/tahsin294?s=09                           | 0x07e3170Ef935bf5C5D6a07f0C4722AfDb9e66895                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/windhoste                            | 0xa37e7099B216E142EA2138B53cA84aed9DA45985                   | 10    | 0         | 10         |         |
-| https://twitter.com/ShihabU37108336                          | 0xe40c89367808Dd56F557976761355d65A062d178                   | 10    | 0         | 10         |         |
-| https://twitter.com/ginanjaragin                             | 0x53AB47565B77B209b62710c7915139cA5f7A21Bf                   | 10    | 0         | 10         |         |
-| https://twitter.com/shakil1112?s=09                          | 0x00bf2d529bA18281b24C4B265042Ce7db8119863                   | 10    | 0         | 10         |         |
-| https://twitter.com/kawaihitosu210                           | 0x049cfe6d74c07381fe3e1c40c86a246962cc6e5d                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/SohailAsghar77                       | 0x693E6CA955d557Eab5D761EA62179911f85EeFb8                   | 10    | 0         | 10         |         |
-| https://twitter.com/TSAqueso                                 | 0x4D998Ed53a9A4BFEB5c825A480CBa9e52FB353D1                   | 10    | 0         | 10         |         |
-| https://twitter.com/RaviLovewansh18?s=09                     | 0x63A6E9c09a613659780293b7eCdA17A8703898eE                   | 10    | 0         | 10         |         |
-| Https://twitter.com/abid_khandokar?s=09                      | 0x9a05f913c027a3E4cc6d9b9Bc6dFC86C3e87b2F4                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/abonxaza_1                           | 0x0b919470E27C9d40059f0adea1B700F466A0bBC3                   | 10    | 0         | 10         |         |
-| https://twitter.com/Hongbo40318341                           | 0x5Ee8AEe3a75D371558F49ee10E64F6fEeADF7af7                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/mdmeherbadsha1                    | 0x6533691E60317ed14A83b9127d9cbda7E617d9B9                   | 10    | 0         | 10         |         |
-| https//:www.twitter.com/MuideenAleem                         | 0x7ba7A1a9306e207a7e4a06b033BD9bD9095E41af                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/prayagkamboj                         | 0x4B1EFE5D628eBd8ef94A7c41ca24295207a98444                   | 10    | 0         | 10         |         |
-| https://twitter.com/Linh12122012                             | 0x8c49A34F8fa8e2b5eBD748394b8685E0275e657d                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/zahid7889                            | 0x631c161AeD9902b102704e9c1a9f4c4E7CE886a3                   | 10    | 0         | 10         |         |
-| https://twitter.com/thaovy91271664                           | 0x34BD7837A989e2E07e4B575229fa0c732810707b                   | 10    | 0         | 10         |         |
-| Done                                                         | 0xC281D49ce08167c1789741BfF0DF73B0B0FA1F62                   | 10    | 0         | 10         |         |
-| https://twitter.com/haiakulerrr/                             | 0x80E3ea2791B38E891d5eF6E37AC1414a375eF166                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Gene891                              | 0xDBAf24BBCdcD8D64dCa486f87EfCC36AE0768854                   | 10    | 0         | 10         |         |
-| https://twitter.com/mikeyvo007                               | 0xb468A8f63c5BDbb7b97b62542bDeC60cB3bB1574                   | 10    | 0         | 10         |         |
-| https://twitter.com/FarhadAghdasi                            | 0x31498926197573d7Fe6Dd3c00d629D6808405775                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Mdsalamhowlader                   | 0x878e5F96BeB9C656b8b10A7DCF77DC4804efAac5                   | 10    | 10        | 20         |         |
-| https://twitter.com/m3bots                                   | 0x4EFe51a63ceb95B229c28B4517b5E172EFa44369                   | 10    | 0         | 10         |         |
-| https://twitter.com/trantien280715                           | 0xAAF09a849c1F749559Ef80622bC2507D7DdbB2Ec                   | 10    | 0         | 10         |         |
-| https://twitter.com/MDAbdur59646046/status/1428788540159062017?s=19 | 0x8ddFEB9DC6D598E68401B101c2Cf1531974BbA1d                   | 10    | 0         | 10         |         |
-| https://twitter.com/DNFTProtocol/status/1425435343558373376?s=20 | 0x0ab4b24E7fcEfD435CFC80B32220daA3C959DA09                   | 10    | 0         | 10         |         |
-| https://twitter.com/call_me_hamo                             | 0x76625fa2eC7E36A05cc028163d4C39CF796daa6c                   | 10    | 0         | 10         |         |
-| https://twitter.com/nguyentam2011                            | 0x613f9B92Ed6e17bd1f2B61A0Ad039A7C70e7c8fb                   | 10    | 0         | 10         |         |
-| @HatkareRahul                                                | 0xE636b44a0bbaCc7fB675ac8eBAA010Ff50cdF8f7                   | 10    | 0         | 10         |         |
-| https://twitter.com/Chairman20202                            | 0xAD795117Bdd70E9fa607B390b74bb6D9fc4Ef55D                   | 10    | 0         | 10         |         |
-| https://twitter.com/IvanHarland                              | 0x513d9b690e797bE9b19B9d1677feA1FF478B9654                   | 10    | 0         | 10         |         |
-| https://twitter.com/PrasanjitBarma                           | 0xEf8Ec01812A4F632FF9819152586BB1Cf62902dc                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/machinefatih                         | 0x0805503Bdc27368ea136Cb93F710511C5de7F5E9                   | 10    | 0         | 10         |         |
-| https://twitter.com/Forhad87483136                           | 0x2813C9d97e17E73a862c46438ab894C3e6c9576B                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/jusufwib                             | 0xd6dC3772CC7A339fBF22A6EF8530adC37edd9032                   | 10    | 4         | 14         |         |
-| https://mobile.twitter.com/seyedal29034811                   | 0xA36e16224b1c5f1538b4E3f279D86b712aF39bd2                   | 10    | 12        | 22         |         |
-| https://www.twitter.com/inaku_denis                          | 0x9C8c2ef6b83c2a6f241253589a415888899ff1f4                   | 10    | 2         | 12         |         |
-| https://www.twitter.com/DnKishan                             | 0xEe836ddc8544731Aaf441Fff126458F7c6DaE523                   | 10    | 0         | 10         |         |
-| https://twitter.com/MdSajon60201494?s=09                     | 0x88c846e8C51271390822aaD661F9fB33d9229783                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Beerkatt1                            | 0x5879E317b4B748686211e3973c19457Be7529345                   | 10    | 4         | 14         |         |
-| https://twitter.com/TrainerVaibhav                           | 0xE5B90370049076eC43E3CbC7dD73EC195018422c                   | 10    | 0         | 10         |         |
-| https://twitter.com/pi_kent                                  | 0xda372BcDAB016A8f0E57ACcb0d518BF5234E1A3F                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/joytech                              | 0x5bB724D6da1ACaA9B685019a881302aD2b52939b                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Danibeckham17                     | 0x205332Ff0d24ED9FE1c2C0794fc9FB7d12771937                   | 10    | 0         | 10         |         |
-| https://twitter.com/perryr992_                               | 0x6ccCD9e3d065a031dEFcCd79591e0aF6D4509712                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Mushfik39066764                      | 0xAB4B7b5F35C582Ca6CCA6C806FdCafe3D1219308                   | 10    | 2         | 12         |         |
-| https://www.twitter.com/RindaAhmad3                          | 0xf8E573861fDe5603F004726D4bb71943d69cac6A                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/shabestar91                          | 0x79bE17d16D579424cbDd490cf4Fe6CFA63625f6F                   | 10    | 8         | 18         |         |
-| https://twitter.com/levandu24484960                          | 0xe997ce17102ab8270Ff5E07A979BC98049EAaC2f                   | 10    | 8         | 18         |         |
-| https://www.twitter.com/Rezo74434460                         | 0xf36530140F033F2A9865b7057CC4FC8F31Dc1bDc                   | 10    | 2         | 12         |         |
-| https://twitter.com/nuralamaj                                | 0x6Ce501f34080f0CA3F41Fda0b9a7a8f15Bd6df4a                   | 10    | 0         | 10         |         |
-| https://twitter.com/jasminnaher08                            | 0x965Fe2C77FCaFee1af5bf48A1ab8297DCD040E32                   | 10    | 0         | 10         |         |
-| https://twitter.com/khue33163545                             | 0xb4145172dca2523b0FbA7E4288f92073A49727fd                   | 10    | 0         | 10         |         |
-| https://twitter.com/03Elon                                   | 0x611f6DE58994CE9a4420094b5a0Dc3ae38a5f247                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Bhushan74797694                      | 0xD8C052CdDA51F409f95fEf1E8923C4e68ebbd2eC                   | 10    | 0         | 10         |         |
-| https://twitter.com/stewartlood5017                          | 0x04A60C92c059ccCb75CD6DFaEA05639BD8D2540e                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/andriansyah0706                      | 0x8eD032eC172d57FD9F0739188876187b6A80a335                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/artdesign1972                        | 0x899B789676b745514C57604390CDcb9AB8C88e5f                   | 10    | 0         | 10         |         |
-| @masfaqul                                                    | 0x21B478433dcCa821D58123a67dBddCCfFDdb3223                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/BambangfitriaBw                   | 0x3025119B4aE3A9Ec9C386130316c2f7215182FF0                   | 10    | 0         | 10         |         |
-| https://twitter.com/raumuong17                               | 0x9fbd6e8a29B3C947B5B1dDB85620db878D37Cc0A                   | 10    | 0         | 10         |         |
-| https://twitter.com/NoahRob11759280                          | 0x6130b5a91e45eDe9B727913e594e42876999Ff87                   | 10    | 0         | 10         |         |
-| https://twitter.com/huykio9p                                 | 0x372AC60731A627D0513Fd826a2CB484F90132e1A                   | 10    | 0         | 10         |         |
-| https://twitter.com/tranhoangsy                              | 0xD1d5a30B75BEEc1BbA536F7774944507EACa5bE1                   | 10    | 0         | 10         |         |
-| https://twitter.com/Ho65783562                               | 0x2eB15f47f10A0CDbAae76F6b04E1020622762D11                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/eddyotnayus                       | 0x06bA0501EBC77fD28C0f62aF88f874eeF010511A                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/AthinkSanjaya                        | 0xDAbf9117ddaA993CfDa7FEC3bfEb02a2445327C3                   | 10    | 0         | 10         |         |
-| https://twitter.com/baiyun81962157                           | 0x92FCc25929aEF5B37828f73a09c60c4e13ec0dB4                   | 10    | 0         | 10         |         |
-| https://twitter.com/BillRobinsonRo1                          | 0x303C2B04E9d0D72C788c46Bd4404f15a16418F4E                   | 10    | 0         | 10         |         |
-| https://twitter.com/QQDD1521347                              | 0x6E5aF02458484260F1B6d47346f496236924D1af                   | 10    | 0         | 10         |         |
-| https://twitter.com/Hieu2kDng                                | 0x2E33f66920CD8257c373280d9d1C65C7dfAC5376                   | 10    | 0         | 10         |         |
-| https://twitter.com/ryandn88                                 | 0x00743411f3621dAc95B79bAEa1F42d4D5129683F                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Andik13599754                     | 0x7A4a8A6A100f50ECf81e23497159e8d0Df4dFd75                   | 10    | 0         | 10         |         |
-| https://twitter.com/Gobindo48876730                          | 0x282C3bD43511604773441B264d837462d23990E9                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/ThanhChat1                           | 0xCe3Ad6eb1507A103B3858d8c11544dB19345c19c                   | 10    | 2         | 12         |         |
-| https://www.twitter.com/akunehiki                            | 0x2C8acfAEd72c160AE32062E98d17B0a5B8605967                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Zihadul72974839                      | 0x595879e8d7E91878C2fDFaC7Fe8Ffa291Ba78d20                   | 10    | 6         | 16         |         |
-| https://twitter.com/TalhaZubayer17                           | 0x0C10154A4307bfFA2F5399716E5Ab9797d238ACf                   | 10    | 0         | 10         |         |
-| https://twitter.com/mitchell_zanna                           | 0xca85b972A4D6471C950ef4cFBD83A87Eb3a7dfdB                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/AnatoliyVlasyuk                      | 0xF763087D7360bbB0183f4560D4C0466e4D92422F                   | 10    | 0         | 10         |         |
-| https://twitter.com/Pritamk92982079?s=09                     | 0x22bF77941d50e42d8B24Bc4146c07aBfe6e81802                   | 10    | 0         | 10         |         |
-| https://twitter.com/insanpb82?s=09                           | 0x9e450B920151BA18D1cCEd9F3B91855bd7B628c0                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/askabcq                              | 0x1914D1Bba87EFAEc0d4Eb4dd794143E0eE086A8D                   | 10    | 0         | 10         |         |
-| https://twitter.com/tanu14849                                | 0xDE4Fb0a9A6550E076AbF934527ef067dc9e5C588                   | 10    | 2         | 12         |         |
-| https://twitter.com/HanaBetsi                                | 0x10b76cFc2aFf05Eac5950262322E737fD599F4C8                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/eci43871258                       | 0x8777591ecfc0fEFf39f476B19f1D94194E61E37A                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Konakmolla1                          | 0x333e8d8B8879820A8385bE5DcEF87a60B4af6839                   | 10    | 0         | 10         |         |
-| https://twitter.com/t49975856/with_replies                   | 0xEb15Dc19cDf544C6803cfdA0b80E0FC133AEcC54                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Hemaraj01803266                      | 0xa623D5B7C5A5C04135e493f87dE8D4B4d802f422                   | 10    | 0         | 10         |         |
-| https://twitter.com/Sithmin_sN_                              | 0x1650D10Dd93bBaF1b5DA8bFa898a84B1C70cB80D                   | 10    | 0         | 10         |         |
-| https://twitter.com/CryptoLeo11/status/1425628330431336449?s=19 | 0x374DD56428cf81EC85056a9a0a7D0C0a2478706A                   | 10    | 0         | 10         |         |
-| https://twitter.com/DNFTProtocol/status/1424345335078428682?s=19 | 0xaF984918fCDf6c1F29251c4C2b60820D4f9e4cCf                   | 10    | 0         | 10         |         |
-| https://twitter.com/NJKNVKJHVGUIJK1                          | 0x69287d2E91536d00B5082Bf9DD968F653bf5B9DC                   | 10    | 0         | 10         |         |
-| https://twitter.com/akmshanto5                               | 0xC3B899Fa3F8d90b92f4b07dF88ecd569BE2876EA                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/@Robbysamuel5                        | 0x4083c22Edd2814c9274985ac49158aB25DA16Fd5                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/ridozamazu                           | 0xE18bEbB76899fE1B1C12e48B95e7E36e929B4eD9                   | 10    | 0         | 10         |         |
-| https://twitter.com/azizah1356                               | 0x58d4983F41dc9FAEF440FDb1f049892B02Da1045                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/MHyeongon                            | 0x6B84Ed454800Eb0eA4bAfbdb1F4524Af1c7de38B                   | 10    | 0         | 10         |         |
-| https://twitter.com/Shadi22636255?s=09                       | 0x4fd568b1d7F931D06d4F3Cd4b6d2e5Fb925Ef55D                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/thesavusa1                           | 0x2e1Ff2E504c5c89e02b1e9568EFf630C5042c24E                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Adnansiam200013                      | 0x74A98679289cfF47E6D38d04E04EfeF7bDA293F7                   | 10    | 0         | 10         |         |
-| https://twitter.com/NgocKhang13                              | 0x334b81DE5795cb9D0c74F07e8FCFb1C55b34d227                   | 10    | 0         | 10         |         |
-| https://twitter.com/Sadbuy7?s=09                             | 0x881def7B2B35C7D3256Dc9541f1800D6ABDC10a7                   | 10    | 0         | 10         |         |
-| https://twitter.com/cacatuaua                                | 0x51E74845d8C5fF9F0e006b45e0D2dF6a41a7BC5E                   | 10    | 0         | 10         |         |
-| https://twitter.com/refugeesarequal                          | 0x3db9052E9eea89735038E24aAE47801e0CCaD663                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Muzammel519980                       | 0x6536b1250aECF6ce6FF89a10584d5370AE98Da64                   | 10    | 0         | 10         |         |
-| https://twitter.com/MyNameRizky19?s=09                       | 0xB6e5ED796F3D827c458fef8De6D0a2Cb708d09aD                   | 10    | 0         | 10         |         |
-| https://twitter.com/AhmadRohendi11/status/1425410440813694982?s=20 | 0x3C7B11f84F89b2Ef686478f71373BBB51dD55b7F                   | 10    | 0         | 10         |         |
-| https://twitter.com/saobuonno11995                           | 0x4385CBF4Df4dfc3c25a00bC1b0f0068939698633                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/robi69276864                      | 0x0bEB887AD0800b6f470bb07D96385899af4862E1                   | 10    | 0         | 10         |         |
-| https://twitter.com/lprwm118                                 | 0xF9e29Ae02e93B9f0A6fe3Dea2409433B4A935208                   | 10    | 0         | 10         |         |
-| https://twitter.com/ThePutinOfArg                            | 0xF2E7983513e0b5F8CEc1e6247Ce6B76b4ded1859                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/saikatcopy                           | 0xB6381D62f577bbcf8AFc88612daFeBC06b807AD6                   | 10    | 0         | 10         |         |
-| https://twitter.com/ChaterKarrie/status/1425622408518529025  |                                                              | 10    | 0         | 10         | Invalid |
-| https://www.twitter.com/thamdoan2803                         | 0x7F5c1d7b804a1Ea58D274e95e03AbE788DcAA926                   | 10    | 0         | 10         |         |
-| https://twitter.com/g2WR6ssQDoTFjLa                          | 0xc977A4aAfDa13FcCab269C4638adb66Ca16D2444                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/dimas_kurnia                         | 0xa2C1244E41ff8FCeE5410266878202F414d2aD24                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/@modjibibra                          | 0x798b19B9432aA22E155Ac8938D72899695Aa0B57                   | 10    | 0         | 10         |         |
-| https://twitter.com/damvinh1995                              | 0x6A3398EE0374115c37adC34AF538aD9F32Cb2a70                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Rahulku84545914                   | 0xd6E892F98CD167dA81cfBf1f8b8aE6b80f96742A                   | 10    | 0         | 10         |         |
-| https://twitter.com/olcanarslan7312                          | 0x7b9Dae2F3999eF5946994FefB6205d1B6b6a384F                   | 10    | 0         | 10         |         |
-| https://twitter.com/Bimbi4791                                | 0x9B857F2F25b6a91282aA78EdfC391A2486a6003B                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Kuzan75299948                     | 0x295573BE3d18BDd6c8E54B1484c43FBb6a60F975                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/KomalPa32154276                      | 0x9B8D4daF5C5A31F65868960E7Bc8CeF1360d40E6                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/OShooty                              | 0x87306992A511b383B4E42e21F25eC9b38F391AF6                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Smohapatrasuka1                      | 0xd64224A48B4A090A95187f321D85Aee05Ef78200                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/AsepSM0508                           | 0x171C76f3Ced7a233B5b99FEEf0E33c346d9A30F8                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/galelenient                          | 0xc80285d26e05dEf4A8d0afCA20BA7b17D43a1ED5                   | 10    | 2         | 12         |         |
-| https://twitter.com/DMaurya33                                | 0xF076317B19535696Fdc4aee79b12F5Ac30dfdA93                   | 10    | 40        | 50         |         |
-| Lihat Lula (@PenguinBandar): https://twitter.com/PenguinBandar?s=09 | 0x57C8e3c3B603417E9e807FaCdF7e62f4E3cc87cb                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Reza136479                           | 0x0c4B2EF0De46D5F263dA785E3cBEB986A82984CE                   | 10    | 0         | 10         |         |
-| https://twitter.com/goldentiger17865                         | 0xadff756a4427d7cd5e9bbc1ef1431b66af18e4f8                   | 10    | 0         | 10         |         |
-| https://twitter.com/tinybear10077                            | 0xadff756a4427d7cd5e9bbc1ef1431b66af18e4f8                   | 10    | 0         | 10         |         |
-| https://twitter.com/ThnhSuy4                                 | 0x3E143eE18BD7B89e7A2cAE1588b0338B13d2320d                   | 10    | 0         | 10         |         |
-| https://twitter.com/Ogiup1                                   | 0xc99Ca932C93C886769465adc016C7188622F59bF                   | 10    | 0         | 10         |         |
-| https://twitter.com/TokarKateryna                            | 0x634d53F1417D77fb7fe64DFD2f9F3D708924Ef53                   | 10    | 0         | 10         |         |
-| https://twitter.com/camilawalls28                            | 0x66d2C7f31a9be9A0c639c18a5C380A11F814DB9f                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/cryptonekox                          | 0x6bF32F05438a6E28fd7C11F6f9d8315AA234d4f3                   | 10    | 0         | 10         |         |
-| https://twitter.com/nime_sn?s=09                             | 0x415073D7d909596509e08dCE8ceF5642309384FD                   | 10    | 0         | 10         |         |
-| https://twitter.com/MDRipon45717154?s=07                     | 0xD9a083980C1BD9441f0931312Ff05cDeB60f0cf0                   | 10    | 0         | 10         |         |
-| https://twitter.com/cV0PhmFCtaVe4t5                          | 0xFAa1A78C03716Cad3dc729aeFC88f899F46a15be                   | 10    | 0         | 10         |         |
-| https://twitter.com/ayoub84716121                            | 0x217e1BFC4aE71d2469EbabdD8b80aaA0Ebbda211                   | 10    | 0         | 10         |         |
-| https://twitter.com/FolakemiBabatu1                          | 0x2Ae91000F3B51a78613646f5Ade1C74950769b1b                   | 10    | 0         | 10         |         |
-| https://twitter.com/alvigatot?s=09                           | 0x7473677d439ac82F2B33832EBd4ba0b612DA01B2                   | 10    | 0         | 10         |         |
-| https://twitter.com/HngTrng41672630                          | 0xa59616336CC5f4dcB3B3A14Ce75c01F4412372DB                   | 10    | 2         | 12         |         |
-| https://www.twitter.com/pellejnr4                            | 0xfea3CD996391A436189b7328caF00C0C08fe685C                   | 10    | 0         | 10         |         |
-| https://twitter.com/ricoceasar1301                           | 0xc8C58CF1B0FD4FE65c2f2052C27d224bc58A0BE3                   | 10    | 0         | 10         |         |
-| https://twitter.com/cryptolover43                            | 0xF217402efA536aC01B75bAc59BE0a393c808a932                   | 10    | 8         | 18         |         |
-| @shatharajuk                                                 | 0x2b383a841638bdD5F471AfDD5cf12C25e8aDe287                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/VivekNavadiya4                       | 0x24A78d8c1510bFbDD7aFA3E4df146BB21D26b2CF                   | 10    | 4         | 14         |         |
-| https://twitter.com/Virat29062000?s=09                       | 0xe555eDed11211494e9000cB0c901ae01AE4B151B                   | 10    | 0         | 10         |         |
-| https://twitter.com/anonymous290619                          | 0x8aB04dC1e96b8AFA1ef81C770cE6fD7276eA6C01                   | 10    | 0         | 10         |         |
-| https://twitter.com/blackbear60136                           | 0xadff756a4427d7cd5e9bbc1ef1431b66af18e4f8                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/EriickFaii                           | 0xF95DeA550B580bD24FbCb6bd3edA6f2219270d88                   | 10    | 0         | 10         |         |
-| https://twitter.com/Mohasin76326042?s=09                     | 0xBd148C89dDb0158143ECb2b1EeE59Df11444F646                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Fagalee09                            | 0x549b49DCEb62C4D0dD1f54a37Bff9d4B12A2d88e                   | 10    | 0         | 10         |         |
-| https://twitter.com/Rakib3456?s=09                           | 0x45Bd72588B416f202A00Ee29FaCB8e2059b27Ad2                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Pintu683                          | 0x85249B385834e4Fc3e0101e231f80Cad1dF8BC86                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Arie_25RR                            | 0x2468E4292d566Bdc8B7E854CbFF18d7516560294                   | 10    | 0         | 10         |         |
-| https://twitter.com/MinThuN34265338                          | 0x1ea865ACF307B568Cc253B078d697f750f20B110                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Rokiyatna3                           | 0x96e58C1570ab0EEC6e294BF215da17F57df7156d                   | 10    | 0         | 10         |         |
-| https://twitter.com/greenfish20897                           | 0xadff756a4427d7cd5e9bbc1ef1431b66af18e4f8                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Rafian22540384                    | 0x6B3eaf2B9356Bc68792Ae8Ff66ADC068F919a6D6                   | 10    | 4         | 14         |         |
-| https://mobile.twitter.com/Faysalptk99                       | 0x026aEa763B3852CE60ADB454565b908a7fBD1C00                   | 10    | 0         | 10         |         |
-| https://twitter.com/JojoUsako                                | 0x04e93B1FC4291f263F996D5DfC6461e6477767DF                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/ObbyZack                             | 0x4038aCcbC52C0fefBdfEBc6D9D62FD0af1F61954                   | 10    | 0         | 10         |         |
-| https://twitter.com/emredem15089127                          | 0xa131dd131cC223d662bC3403924689ACEE663773                   | 10    | 2         | 12         |         |
-| https://twitter.com/AbdurRa72217851?s=09                     | 0x2034C79de412eC7DbbCb12dba04523b297Ae28e2                   | 10    | 0         | 10         |         |
-| https://twitter.com/BoGia80323434                            | 0xdD8331dA8e74250516bAdbcB0aA47aA8a8E01cFB                   | 10    | 0         | 10         |         |
-| https://twitter.com/Arlanl7                                  | 0xd177B2aeC42D9fc25b5249e7dD7e6dA1c67ff566                   | 10    | 0         | 10         |         |
-| https://twitter.com/ninhtuan241                              | 0xBc4C4c99862Ad744E965d24EE76e60107d6Fb0b1                   | 10    | 0         | 10         |         |
-| https://twitter.com/mojtaba68655833                          | 0xc9B42F21eD990dF817CEC6a6A9126805B0C0295a                   | 10    | 0         | 10         |         |
-| https://twitter.com/hung66745872                             | 0x75B61111763E0e3790d616750E1556787507d03A                   | 10    | 0         | 10         |         |
-| https://twitter.com/Yasoo50702246?s=09                       | 0x1c7Ce5E886E401f106Fa92Ce68bFeF20B3ABe779                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/saleh30059279                        | 0x359873E96ce5641dB598b25A85675A5e329F4437                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Nirobsiddik2                      | 0xA22f5feaD7511AC800242c905649A09f293Ae2b6                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/hajiwawan6                           | 0x95c018fdCE4d7bD435d9Ec2136491bF40e3d8294                   | 10    | 0         | 10         |         |
-| https://twitter.com/yusufRa65400379?s=09                     | 0xB719b5f0cafFFb4609056B154DD34a03Fad5F813                   | 10    | 0         | 10         |         |
-| https://twitter.com/smasad938                                | 0x8507855cD4D27E8F17A7A4868BBD0D4F9CBF7068                   | 10    | 0         | 10         |         |
-| https://twitter.com/Jaiveer33124759?s=08                     | 0x8063F169BFEE2250Bb42Ffb0FCa97850b7989954                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/nayt_nya                             | 0x70242D809C3F1FF9bB750CCdDA6fFEe5358d89A8                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/SajibHossainn                        | 0x09FaF2874DECA727c4BCc539eE978022CAdE1685                   | 10    | 2         | 12         |         |
-| https://www.twitter.com/quadri46                             | 0x7f6A4c63230037f04FeB47385aA2a80DA588A939                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/MdRabbisheikh15                   | 0xac420e4a8999B2b6866CA8ABb870d6C658FeD8aD                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/John37113302                         | 0x4DAD31Cf251D7a2203E3A70EB915E7D83EbC9Ee3                   | 10    | 0         | 10         |         |
-| http://twitter.com/Kw3Hq8kMtzHU5v2                           | 0xd97688abA800dfd716Ed5DAbb56EeC051a79E573                   | 10    | 0         | 10         |         |
-| https://twitter.com/shuvosakibulha1?s=09                     | 0xD8770fa52e3d7d8b4077949ABcD2eD4a253D4c66                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/badhonbabu2                          | 0x117751C580180113DEBa2353f379BeCe6F62bE85                   | 10    | 0         | 10         |         |
-| https://twitter.com/Joachim25427316                          | 0xd5D4e0F4509a2Be660D7Cda4Ad4D34dBb2E3a7bb                   | 10    | 0         | 10         |         |
-| https://twitter.com/CoreyNapoleon14                          | 0xadff756a4427d7cd5e9bbc1ef1431b66af18e4f8                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/@Hun71143916                         | 0x7336AEd31748b4852f2a1a11d4EcF4558Fc49b3e                   | 10    | 0         | 10         |         |
-| https://twitter.com/MdNahid41194748?s=09                     | 0x0C8c18d4dDedD2EEF954aEd565B224167D2D5718                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Ratneswar45                          | 0xC35143490B1a98d235d8BDF09A3E92d0f46Effd4                   | 10    | 0         | 10         |         |
-| https://twitter.com/sangnguyen22641                          | 0x8B3382F3B8517F846f41b6A2d90900645b833A61                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Chanuth_S                            | 0x3ECd83bF4260aEcc1d42c90d07E3A179E6db608e                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/mogiii99                             | 0xE7418D91A6666a58D3D098698C21D191ba36ED2c                   | 10    | 0         | 10         |         |
-| https://twitter.com/quangmi74049548                          | 0x578884B9E3a5A6eDeEcd73Af87C77C8305DBeb01                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Mody67345601                      | 0xDeb159C61801071D22429594aAE3373F8a95DFF0                   | 10    | 0         | 10         |         |
-| https://twitter.com/SkSiddartha                              | 0x06D2349Fadaa89AA7B9760FB2E9c59b7DF67cEC6                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/rayhanrezaemon                       | 0xAa0B66a8564D82e9A40371fBe76E04e672506dFB                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/HafizHarvester                       | 0x82931170a147eF27Fa0654Df43FE3A4e8EE523Ff                   | 10    | 0         | 10         |         |
-| https://twitter.com/Agani007                                 | 0x96ef9932f97884cbB90E513654Aa9df80d2FaC0d                   | 10    | 10        | 20         |         |
-| Https://twitter.com/@Pecanduteajus_                          | 0x5F4cC3e779AbC09931aa66eF4c9Ed3DF0657182D                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/ga47b92sW1STPHQ                   | 0xD4D6133832911eE0E944B3D43e5455c5aCdABbea                   | 10    | 8         | 18         |         |
-| https://twitter.com/sagor31517701?s=09                       | 0x98Abe23290Ff8EaA2C4Fc320aB5bE0900a93AC9B                   | 10    | 0         | 10         |         |
-| https://twitter.com/serdarserin33?s=09                       | 0x782E62893F0579A80B3599d70d3981ce2737cDa6                   | 10    | 0         | 10         |         |
-| https://twitter.com/AriMulyadi027?s=09                       | 0x2C7ddfD8901350a015fbAEdb48adc2De86d82Fc0                   | 10    | 0         | 10         |         |
-| Yes                                                          | 0x345E23c32D378dcD3e9953acF27B62b5421ef671                   | 10    | 0         | 10         |         |
-| https://twitter.com/ahmad04826898?s=09                       | 0x9310Fc79eaf4193751Dd2892956b0aFf5789eE89                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Johnny_Be77777                       | 0xFC5DE2386378873BAFEB324EA6bD9A679f6f2295                   | 10    | 0         | 10         |         |
-| https://twitter.com/gokmenmur                                | 0xEB081698F4667278824af9F438D32C0A0CF066FC                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/marhaba43824732                      | 0xbCDb3A9D77b3C21b72690dc30cb5747c7c4a0C13                   | 10    | 0         | 10         |         |
-| https://twitter.com/Huy95536367                              | 0xd00809171438C6c2ac81B673b1496b7A1990F2dB                   | 10    | 0         | 10         |         |
-| https://twitter.com/SonnyDa86845636                          | 0x352c6cc138a69e0b23634d9058C9Fe6607575Fb0                   | 10    | 2         | 12         |         |
-| https://www.twitter.com/Zainkha70110750                      | 0x3C9E0D2fD03D0D05c91Fa9d5Eb5c6D57B62e47ae                   | 10    | 0         | 10         |         |
-| https://twitter.com/SamratAryal10                            | 0x95d5D4F2a77d46f2d746A1400d4E5df996760e45                   | 10    | 0         | 10         |         |
-| https://twitter.com/muhamma26402825                          | 0xcb66D3631CA8Ffc86Ad6b96Dd7Ce7F16391c1FC9                   | 10    | 0         | 10         |         |
-| https://twitter.com/peiming698                               | 0x5935b9e2009AB7C3300A2B7195f8eEE4DFA07dCD                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/evairo176                            | 0x8F86fEacC2849cE7206Efe4B8353B53cEb312a88                   | 10    | 0         | 10         |         |
-| https://twitter.com/mogahoki5                                | 0x356191Dc52a804dE27BC0Fc871dc032a1626Bab6                   | 10    | 0         | 10         |         |
-| https://twitter.com/Meftahul1122?s=09                        | 0x3e57116f7FbFecD80D9fcCCD3939Cc45abed7C32                   | 10    | 0         | 10         |         |
-| https://twitter.com/Rajitha_sandun?s=09                      | 0x4459eA4A5c8c71743Ab51bAfd54EA3992014c453                   | 10    | 0         | 10         |         |
-| https://twitter.com/Shubham51073134                          | 0xAd964c6689C53FDe3a05dA5C38C18eC4a9aA1D39                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/TEOnlineBD1                       | 0x9390cD24EA35D77b455D224E8c23Bd0241Fc9c37                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/ganankamrullah6                      | 0x426E5CF7803f1aeD2f9446c3FA3721954B98DC87                   | 10    | 4         | 14         |         |
-| https://www.twitter.com/naninzt4                             | 0xFf71c4edc3F6537d513e689A4Af5F90CbBbeB406                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/NithinM47197572                      | 0xcefd49D717cB1653F4E5c11Ba21d2ead344276b8                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Sanju16149193                        | 0x28694C3f37ea77f8b19de62F77CDa861f410dAC0                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/citcatcutcet                         | 0xb2856cf116564cB13f86780C235759BaFb399769                   | 10    | 0         | 10         |         |
-| https://twitter.com/zatyone                                  | 0xFf412C3aD1b95605885cc0eD9a0A393837a235BB                   | 10    | 2         | 12         |         |
-| https://twitter.com/BilkawaZ?s=09                            | 0x74c8E5201aaB5251f9222d22f5a7d14782A3f4d1                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Airdrop8844                          | 0x33f99915138143a1301A277c0E896AAE2959Ca7E                   | 10    | 0         | 10         |         |
-| https://twitter.com/rifath666                                | 0xB0D4ed09EAbf199f24D6b315338dfD874Ab5Ef6d                   | 10    | 0         | 10         |         |
-| https://twitter.com/satriamu7                                | 0x0Ced3C5D9ddD0a224848564e8cD9661Eaf3Ca685                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/jani122                              | 0x542485Da5E5D7793287176C6159a620d4E720952                   | 10    | 0         | 10         |         |
-| https://twitter.com/ahosan_nazmul?s=09                       | 0x4e73D0C374C21774D339477cA33658A24f57a8C9                   | 10    | 2         | 12         |         |
-| https://mobile.twitter.com/Vuvanthuc17                       | 0x8F20138497c9A97f5842e24a3beB0d23bFdf8e32                   | 10    | 8         | 18         |         |
-| https://mobile.twitter.com/shariar_aronno                    | 0xDbc89477486471128cDa29b9D936785eCA8F6404                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Sifat0079                         | 0xf990D30D32C29Bd67de690684255a71d24Ba68F1                   | 10    | 0         | 10         |         |
-| https://twitter.com/SimgeSoylu18                             | 0x871FDEeD0E1e951A22b436C8FCaBc132502604cc                   | 10    | 0         | 10         |         |
-| https://twitter.com/MdShoha90250665?s=09                     | 0x0e07e8DDa9aB550E2a1CB990Da31fD0470BCD6Aa                   | 10    | 0         | 10         |         |
-| https://twitter.com/chilinhle3                               | 0x3026aC78993862836790550232334dbC90a64BD7                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Aurel13088975                        | 0xB4e4B1ABe50Cc1d2CD776158063a060164598669                   | 10    | 2         | 12         |         |
-| https://twitter.com/sosamallorymm                            | 0x917319C29f9dBe3a4b4bD547049fE087416F9fD4                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Arshiya30884402                   | 0xE44919782289718464154DCb82e914219f4F3131                   | 10    | 0         | 10         |         |
-| https://twitter.com/Amisraim                                 | 0x8Ef69bac5D6779C187668Ac7DBDAD7E99Dc192b9                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/avanesianeric                        | 0x68dDf4DbdC3CeaE33DFaA5Adcc759b485C6D6a55                   | 10    | 0         | 10         |         |
-| https://twitter.com/AdebunmiAjibola?s=08                     | 0x22FeE89Fed6f3f3F5876c2F0dFC24c01D9eb85Ed                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/naaz_rafiq                           | 0x70AD3E4963C00650f093499249Fa7D9FFA1510Ee                   | 10    | 0         | 10         |         |
-| https://twitter.com/Marabel60316001                          | 0x5Af55cD85c38FE1E4D82FBC355971f51B33463b0                   | 10    | 0         | 10         |         |
-| https://twitter.com/NiazHaji4                                | 0xC62c0b92C2Bc20a4afB96C433fa73dE8dE004dd0                   | 10    | 0         | 10         |         |
-| https://twitter.com/Dawnwhm1                                 | 0xa741138710b212581E7C7F3c171Ff3A3F3dc9546                   | 10    | 0         | 10         |         |
-| https://twitter.com/hridoy_eyasin?s=09                       | 0xeEd71D7d1033bfd0E4614e45382541175c0CAb95                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/SyedTuhin12                          | 0x8A88f00B2D88f834E83D5c3564B7d1e88443e28F                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/MohdTazeemShah1                   | 0xe0363bE694fF8dba1022Ae8e9670C6d771C14Fb7                   | 10    | 0         | 10         |         |
-| https://twitter.com/AlaminH73117243                          | 0xdc535D00be4dA9Bb769a27d3597e9ab1a46F38ae                   | 10    | 0         | 10         |         |
-| https://twitter.com/BartyMorin                               | 0x76d18Ed8ECf957a58bd3A0f3f43F06199796B130                   | 10    | 0         | 10         |         |
-| https://twitter.com/MdJoshi51022244?s=09                     | 0x0540ED2d576504B70B88d4A9d4Bf96573b5087A7                   | 10    | 0         | 10         |         |
-| https://twitter.com/TIGERKING8881?s=08                       | 0x7d73ABe1bD1979B2dDB3a35817725331f31002ED                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/ganesh12                             | 0x1aDB0dA4bd3e604F5eF33577fbe649bD560448a1                   | 10    | 0         | 10         |         |
-| Lihat YourUsername (@YourUsername): https://twitter.com/YourUsername?s=09 | 0x432ce759a9Fd0D954484c141d6036E6F3F2B4F78                   | 10    | 0         | 10         |         |
-| https://twitter.com/MhbMaruf?s=09                            | 0x452De4ee8ee95e67D42e124AFBF56b1e4907b240                   | 10    | 0         | 10         |         |
-| https://twitter.com/Rifat44359673?s=09                       | 0xd70f1b1Da1ddE7b72c7bDF74929b49eDA887e0c2                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/kraken_700                           | 0xF5cbdE1A1ab1609A35Cd339f568e001896f6B03a                   | 10    | 0         | 10         |         |
-| https://twitter.com/Lavender2218                             | 0xCF5113E7E8a8BD2e75AFeb4d8525C5AF22745E42                   | 10    | 0         | 10         |         |
-| https://twitter.com/marcos34606802                           | 0x623A2D713b62348E93799939f1DDb91c2f981323                   | 10    | 0         | 10         |         |
-| https://twitter.com/KelliKWalker                             | 0x0b538E8C7DE2fD525F2457276EAA8420e9dd7906                   | 10    | 0         | 10         |         |
-| https://twitter.com/viki59894752                             | 0x81C70C1f3913cfE0dF06f9859fDD6Ca8dB646Cc8                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/NguyenT92314847                      | 0x0d02B0c1aD8Ca906b6F170278D54B2667b5C87cC                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/javad81919007                        | 0xCC129cA313646b200679cC200c1399C406391583                   | 10    | 0         | 10         |         |
-| https://twitter.com/shu7446                                  | 0xC03960606Ce365Ca5CEE24922dB661736fEF7765                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/JuelMahamud                       | 0x9b631813BB889F634603293bDCF0a66876b6E6dC                   | 10    | 2         | 12         |         |
-| https://twitter.com/Gurusin70931771                          | 0x062f3692004C77cF8cCC8ECe7d680eC505E8fc0B                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/daliang1215                          | 0x8A969DD891d9Fea45d8ffd3096BAE0f200F0F65D                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Shahnaw95095946                      | 0x12375f7658Ec0A3C94f272692a843956689AfA6e                   | 10    | 4         | 14         |         |
-| https://www.twitter.com/HShocco                              | 0xF8af70457103CD3e34e912d383Da22bdbb5d58B0                   | 10    | 0         | 10         |         |
-| https://twitter.com/c14855                                   | 0xA2e070A28834B7eF78a896EcCcC10ee3C86EfF31                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/svmmersvd                            | 0x45659420A9088501B48Ae13b040F297037CC650d                   | 10    | 0         | 10         |         |
-| https://twitter.com/SKHABIBKHAN10?s=09                       | 0xF0B18703F3d65aD5369e7ade15D86C75477794CA                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/fhendy_gograk                        | 0x5b4c3B493B5aFF540e8269BE8b31FaDfbd960855                   | 10    | 0         | 10         |         |
-| https://twitter.com/DNFTProtocol/status/1424345335078428682?s=20 | 0xA0e88db092cC46a77cc78dEDA45AcD563827eDfB                   | 10    | 0         | 10         |         |
-| @mrpiyushmahajan                                             | 0x5B4f08533aaFa7eb2E05F3BA434C180246F03397                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/lahiburuyand                         | 0xD6F43e394216aC9B82Bd99604Bd38D66d4C7DB57                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/@Shamim833                           | 0x0aFB25b4F4B888e8Ec6167695a133c9eaf5cb64e                   | 10    | 0         | 10         |         |
-| https://twitter.com/jan49014                                 | 0x0857b56535D7E79b2B4c875A36771812718179CB                   | 10    | 0         | 10         |         |
-| https://twitter.com/Tranminhhoai10                           | 0x0963c09Cb5d3cE06962F15930d86EBd424203fE5                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/MdHasib20931747                      | 0x238EB3933f59D785b0974089FDF059b750B5C00d                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/eshinch                              | 0x1BE4f920D61102082A1fc22DbCEaE0D4e732Ea16                   | 10    | 0         | 10         |         |
-| https://twitter.com/orangefish59264                          | 0xadff756a4427d7cd5e9bbc1ef1431b66af18e4f8                   | 10    | 0         | 10         |         |
-| https://twitter.com/dttyf789102                              | 0xb896d9bf28828c981ef2a83e2a9560cb692e7f0c                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/arefinsumon15                     | 0x5C7C424d716Bf2FBb24cAf7c6Ab0187CFb7B7865                   | 10    | 22        | 32         |         |
-| https://twitter.com/NguynVi45594610                          | 0xaa5F71A880421b47910ccA1D82704c50c7b1cF99                   | 10    | 0         | 10         |         |
-| https://twitter.com/arashsh34230269                          | 0x155d7010B8aB8001921a84b89d888b5b020bf052                   | 10    | 0         | 10         |         |
-| https://twitter.com/Arfan_Izl_Rony                           | 0xfEDC12D1Bfc0adBCAc9d3ADA136B7048bdb74D44                   | 10    | 0         | 10         |         |
-| https://twitter.com/AmongCuan                                | 0x867AC638a84C35B5962405a0e099cc7e8012D206                   | 10    | 0         | 10         |         |
-| https://twitter.com/MdFiruz14955156?s=                       | 0x2f0626d793138723C71532CB006111819012d920                   | 10    | 0         | 10         |         |
-| https://twitter.com/PopStars3656012                          | 0x04e304c5dc85e676318384165096d577b4b64c74                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/pencari_receh                        | 0x39A76f8EdbFcd828704A3C6BfB658408eFFd5c50                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Gambitz25                            | 0xc1a54A2D4276248CA981AD3E77c4Aa973ddbEdcb                   | 10    | 0         | 10         |         |
-| https://twitter.com/mrchanhsa0908                            | 0x31b61Ef0ae529a1b5a80Cb721b5D88F9b8E441c4                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Arjun89811144                     | 0x53951cE972e37AEDd1D053Ac9Bad363B98F35b76                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Mahmudsomnath                        | 0x6A998038F5854BdA2e9748c0CC3e729FE19E8C7c                   | 10    | 0         | 10         |         |
-| https://twitter.com/PenGuin51332261                          | 0x9b85a4E2A113c7d82eA387fFC55fE518b6FebDA1                   | 10    | 0         | 10         |         |
-| https://twitter.com/airdrop0005?s=09                         | 0x3C5Cf28E610b5AFb1688560E80cAf0233bf6688f                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/zeeking932                        | 0xFc1efaFFb81a0c3cc841d0833a45eB51417402a0                   | 10    | 0         | 10         |         |
-| https://twitter.com/leileitaba                               | 0xEF86FB69194E89004b87e6f0999A8e7003C66982                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/RaeSwagz                             | 0xa2260BdfA59084fD0c3bC921001BeaD3d6D83860                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/jakir98657963                     | 0x6f1a58A3d0CB89698E0aBeEFE09ae6A6a29Afef5                   | 10    | 0         | 10         |         |
-| Amollaebrahimi                                               | 0x1C56c343026a151B691877546a30e60d45820c90                   | 10    | 0         | 10         |         |
-| https://twitter.com/silverdog70314                           | 0xadff756a4427d7cd5e9bbc1ef1431b66af18e4f8                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/foreology                            | 0x6379f191C10B0433ffc831A6d64e774222A3829b                   | 10    | 40        | 50         |         |
-| https://twitter.com/TutulKh90927330?s=09                     | 0xa223B9dbA912155ba85AAa85F9507e8770E416B9                   | 10    | 0         | 10         |         |
-| https://twitter.com/Dhaka_1786?s=09                          | 0x00C0c43eaBF6CdecbF4F192495edB12A3E547378                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Biswaskuasha                         | 0x2309D77f49cD4c5D4E673246BB37E4A0921f174e                   | 10    | 2         | 12         |         |
-| https://twitter.com/Shakibh99265957                          | 0x90D5984a5983eD42005d48F0658eb678F7607DAC                   | 10    | 2         | 12         |         |
-| https://twitter.com/dungdo1933                               | 0xcA714338fe4512F27e183266c03B4034a9728483                   | 10    | 2         | 12         |         |
-| https://www.twitter.com/Rathind55691654                      | 0x3a2068D5C901915815643B759B868BAc383A4994                   | 10    | 0         | 10         |         |
-| https://twitter.com/SMahmud57?s=09                           | 0x2C259ACda18a925fB7879fcb71FdF77A37760aF4                   | 10    | 0         | 10         |         |
-| https://twitter.com/SOHAG036?s=09                            | 0x3B67eAFe88b5D56648AD0a67A9d0C34B0259788F                   | 10    | 0         | 10         |         |
-| https://twitter.com/Praveen91653814                          | 0x1A0466536136960638ab54599b9e9584fDd50cF6                   | 10    | 2         | 12         |         |
-| https://www.twitter.com/rafli180601                          | 0xA05eB0bc75FF6c084322eaf8D449DE71547a0E05                   | 10    | 0         | 10         |         |
-| https://twitter.com/Amitpal_01                               | 0x1eA13Be618C9a292518dB485b71EEdD655C164a4                   | 10    | 2         | 12         |         |
-| https://twitter.com/Mdalami96455555?s=09                     | 0x9502f612eE4C7490EC3D55C2621Ee62C25344f35                   | 10    | 6         | 16         |         |
-| https://twitter.com/vipulchandrava1                          | 0xCdA17939F611cF31A054d0E605c9b1742074Aa65                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/anuragguptaCS                        | 0x9083a2169eE8D671A8A6eDdb4c52C7e32b5D2FC5                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/ErrorCo49332188                      | 0x80d15863F37A239DFb6f29853a8Df0E83c73180F                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/DevKumar0141                      | 0xf7d41846485948AE7A5A0513F5E1009a114EdF89                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/mixmdma777                           | 0xd06479a8faaE36324A9b6Ee23C2FA7b52EA35dbE                   | 10    | 0         | 10         |         |
-| https://twitter.com/VidyxxP                                  | 0x47E0Ab3748328B0eE441A2E466962032be6fABa9                   | 10    | 8         | 18         |         |
-| https://twitter.com/Dwk4zV20SP1f8XH                          | 0xD1948715c47EC823ff6a798D78580059664E8AdF                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/MamoraIngkon                         | 0x0aA2eE4674980C8447f3f7190501d8A7e4137632                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Tanpana69887228                   | 0xf063442ecccc02b41bFF304E70052db07eF2fCbB                   | 10    | 0         | 10         |         |
-| https://twitter.com/SurajPa07390897                          | 0x2a86F334C4E1471aA32C8A1615469BfB14a0cA2a                   | 10    | 0         | 10         |         |
-| https://twitter.com/Toufik14290548?s=07                      | 0x979b145491A4D818913b56Fd07426e8090b26944                   | 10    | 0         | 10         |         |
-| https://twitter.com/David21594866                            | 0x89EA8Ab8b3868fAF7142b7ce44683DDA01fAd44C                   | 10    | 2         | 12         |         |
-| Djbscahgsjnd                                                 | 0xa8aEEbAf63C0DDaB439E5b1849b0a641Ff743938                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/goldanish                            | 0x96061D06D77Ff7eA362e7845A5e6f99929bc6550                   | 10    | 0         | 10         |         |
-| https://twitter.com/Ali94455655                              | 0x93987597C9bB5413afd526969a6FE0b28d16a27C                   | 10    | 2         | 12         |         |
-| https://twitter.com/Dinh41119313/status/1425485617576566791?s=19 | 0x046d000753a57AB99DF78ae0C4F7D7d9208fFc93                   | 10    | 0         | 10         |         |
-| https://twitter.com/henti387                                 | 0xA8D658D03af2f4eaDB7Ccec0bA9617b07A7cAd84                   | 10    | 0         | 10         |         |
-| https://twitter.com/Shobhit89864194                          | 0x341718f9D9a9f7b6A870CA8150C11C38C9A6Eab0                   | 10    | 0         | 10         |         |
-| https://twitter.com/linhlacry                                | 0xCf7c5a631343bA2a8B072bFb2614D5e3581c01b2                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/Mfikri17590669                       | 0x517Ec7fB89cFCd6F361982385d4d6065331bc689                   | 10    | 0         | 10         |         |
-| https://twitter.com/AdvokatBS                                | 0xd46e5431adE1bA417d356E165f44Df7C1209Bf4e                   | 10    | 0         | 10         |         |
-| https://twitter.com/fahim40718854?s=09                       | 0xE209fa40B79cf4386412c04B1B2A8552297D7C55                   | 10    | 0         | 10         |         |
-| https://twitter.com/Vahid03331467?s=09                       | 0x185C90Da9771725D76aa79FaB17cC504fdd18b47                   | 10    | 0         | 10         |         |
-| https://twitter.com/_uma_imperfeita                          | 0x8a9b3ED2467d3F6B607D224e64E757A28c0eaDd8                   | 10    | 0         | 10         |         |
-| https://twitter.com/Latifkarim17                             | 0xe94B93cb0726EDA3207a0A46BC34EB7C34D1eDCe                   | 10    | 0         | 10         |         |
-| https://twitter.com/AhmeadTwsif?t=W6yQeUaNZLejFPBSgci3ew&s=09 | 0x78e387730c63879DFc527b97818CB1BEC7b06e2C                   | 10    | 0         | 10         |         |
-| https://twitter.com/AnhNghi14                                | 0xcE8e0E0f5f40AF2de954ECFE2cbf0C38e30E0E73                   | 10    | 0         | 10         |         |
-| https://mobile.twitter.com/Amarlovetips                      | 0x22F6E173EE638eAC5Ef235A750990e049b9Cc62A                   | 10    | 40        | 50         |         |
-| https://www.twitter.com/promisesang3                         | 0x2a1a65b74821592E3c23e06e74Ff03588Ea1262c                   | 10    | 0         | 10         |         |
-| https://twitter.com/Imran992266?s=08                         | 0x1398665aAb8027320344bF1563C8aE684F82346b                   | 10    | 0         | 10         |         |
-| https://www.twitter.com/yourusername                         | 0xF174b942E5eE54bB747CDD4DEE788478a92DBDDa                   | 10    | 0         | 10         |         |
-| https://twitter.com/Aksh90923342/status/1425382595391414279?s=19 | 0xF8594f328d6C15aA1d19E130160316A49207f855                   | 10    | 0         | 10         |         |
-| https://twitter.com/n_ngoclien                               | 0x8C1B69acc3b26Fa7344b4eE73C4e6652740a271f                   | 10    | 0         | 10         |         |
-| @tegarputrajaya_                                             | 0x7a2b787057d42463F466D621344730317c3c32FB                   | 10    | 0         | 10         |         |
+| Address                                                      | Basic | Ref_Bouns | DNF Amount | Status  |
+| ------------------------------------------------------------ | ----- | --------- | ---------- | ------- |
+| 0x0330f34F13b1EfFB8Bf22a37B566D1d919205cCF                   | 10    | 2         | 12         |         |
+| 0x04529565C34CEEe0c304103c632A0d8c14686f7d                   | 10    | 0         | 10         |         |
+| 0x7e579FB16B182FFEA360aB3767D61CdF473B1f44                   | 10    | 0         | 10         |         |
+| 0x6Bb1C7Eec0b7247f0069A3fc9F9D9e2a6d5D10f6                   | 10    | 0         | 10         |         |
+| 0x5a47666BD56F706079A12d757566c484ccC7C13b                   | 10    | 12        | 22         |         |
+| 0x752e388CCA6dfDD23213B882A10C8a4EdF4c719e                   | 10    | 0         | 10         |         |
+| 0x5d556aAfA1FF897dBee5C3f703beF88abF94F7d7                   | 10    | 0         | 10         |         |
+| 0xDdC6aC167990d4aeb2e1f60dFfBDeee6ca858859                   | 10    | 0         | 10         |         |
+| 0x4D87B220695aDCd6F1068361A45Ae4656C1b6B39                   | 10    | 0         | 10         |         |
+| 0x80d823D37EdAC70c2b72bd6fCbEd8061d20f05d3                   | 10    | 2         | 12         |         |
+| 0xA0a6d391c54D763d978e8fCaa80b0bc4EE8909d3                   | 10    | 0         | 10         |         |
+| 0x83b0e55779a61C3A4D5f2d22a23656Ebd2fE44eD                   | 10    | 0         | 10         |         |
+| 0x5D98a75aB23374740C04F074DadF80cCc4539DFE                   | 10    | 0         | 10         |         |
+| 0x68EC63bF3A6da2006644c932a7675f0eF975A90f                   | 10    | 0         | 10         |         |
+| 0x5843eFd113e79482A963AdC4b9336C3735249057                   | 10    | 34        | 44         |         |
+| 0x9f1053d89574F61DB6c7bB8Fa2245680972fC81F                   | 10    | 0         | 10         |         |
+| 0xC4a62D49C1EE8FFD16933B0e39850823C992979C                   | 10    | 0         | 10         |         |
+| 0x0434A3B71dbD6a1a2C0274fAf77D01f360Eb265e                   | 10    | 0         | 10         |         |
+| 0x1154dbae0ec3166398ea446672dbe633ad3d9c6d                   | 10    | 0         | 10         |         |
+| 0x40248767c8864C9C014B1105218b4f7c8216250e                   | 10    | 0         | 10         |         |
+| 0x5d8417F086d3c2EDdFc4E7B5df0c75Beecd67F98                   | 10    | 0         | 10         |         |
+| 0x3647D42096D4a433940d646F4d5dACa49Fb3eb93                   | 10    | 0         | 10         |         |
+| 0x6988728De7aD75781276550F3630d354F787BB50                   | 10    | 2         | 12         |         |
+| 0x4A8Fe39190BBe77f73F14B7AACA094C0a29eEfF5                   | 10    | 0         | 10         |         |
+| 0xe8a4b1c7179cC7525E77297034d3F15f1FCa73E1                   | 10    | 0         | 10         |         |
+| 0xd03A57B485D994825F0a1372C42928C098a724Bb                   | 10    | 4         | 14         |         |
+| 0x42a7E5bc904F915DBd325c5660d83323DcA9F665                   | 10    | 0         | 10         |         |
+| 0xB2C187B7d72C652097dA2606133d3F62BD8b1cD5                   | 10    | 0         | 10         |         |
+| 0xCBe51a05803aEDADc7F3c637a9221aEe51570C84                   | 10    | 0         | 10         |         |
+| 0xfC30939b64d22018f09608B5bD13CE346D99d87f                   | 10    | 2         | 12         |         |
+| 0x30Ee48BFa20275Ef90eA9e55929cF75Ef29eb3E3                   | 10    | 0         | 10         |         |
+| 0xC179C4EBa333fe0a3ea679D87433eb795871210d                   | 10    | 12        | 22         |         |
+| 0x5350EA4Ca1191F0254C2Ec5fE72b44aeFb94f9D6                   | 10    | 0         | 10         |         |
+| 0x08d1619170d71e2c77b3084c9dd5fdc58858f2df                   | 10    | 0         | 10         |         |
+| 0xe9DE4153451e8dbf21DEd4B40A2DF30809E02A09                   | 10    | 0         | 10         |         |
+| 0xc1e5D45e4F5a7c7664D52678Beef2Bc076dA085D                   | 10    | 0         | 10         |         |
+| 0xbc01Da3145AAB2c815e50F8d77A479e1Da7dE58e                   | 10    | 0         | 10         |         |
+| 0x806598ebc9f45adAf8a20f98c47E8ebb20529407                   | 10    | 0         | 10         |         |
+| 0x31Cf2A732476b778CB5932337908Fc1b1EC5a5f3                   | 10    | 0         | 10         |         |
+| 0x9EEeE17D26133f8A0F70d7F06A9848e6ED6412CF                   | 10    | 0         | 10         |         |
+| 0x3A6Da148F241a25038613E852fDfABc7f0f49b5c                   | 10    | 0         | 10         |         |
+| 0xAd722889eD71a2dd4D71D3F3842D6d22a8E858fC                   | 10    | 0         | 10         |         |
+| 0x810E833a3Dee853Dd1E1f663bE713F3072Cd2d44                   | 10    | 4         | 14         |         |
+| 0x81e57cc02174F299329Fb248A4a2f37Ac1f43fBA                   | 10    | 0         | 10         |         |
+| 0xa1F9de40AeD6DaE234367fd5ECE2721E99C9Bf50                   | 10    | 0         | 10         |         |
+| 0x18E055889255b19B59E69CEB031323AD1312B943                   | 10    | 2         | 12         |         |
+| 0xdF841ba9B6e0e267CF31862A34Ff5F8E498F7d44                   | 10    | 0         | 10         |         |
+| 0xD8E49d9a1eAFf33D18A6b802863c2d292103A4Ad                   | 10    | 0         | 10         |         |
+| 0x8625982f26AA9f60Ee7eB3FFFfC318A06B7DdD38                   | 10    | 0         | 10         |         |
+| 0x7dfeB5297aDa0a1d21a04dd3E45e6429668B2D5e                   | 10    | 0         | 10         |         |
+| 0x9Caa3Ac8e9BE8dB009F2ce27307dca10DcB3b223                   | 10    | 0         | 10         |         |
+| 0xC62487398f98831886541841F7Ad986035Dff72E                   | 10    | 0         | 10         |         |
+| 0xDa0fdDB00133152c68bC4ec056814bbbBea16a89                   | 10    | 0         | 10         |         |
+| 0x9e4E69Bc0C0C67732ec16848117C380C5740CcBc                   | 10    | 0         | 10         |         |
+| 0x2E38247A409F156Eb2dd87eF56A92C84e115D79B                   | 10    | 0         | 10         |         |
+| 0x777c783b55239cf8234e8caC933966561AB54EB7                   | 10    | 0         | 10         |         |
+| 0xE79c0e5CaF00D46A37f1897d9eB08a86eFaA3812                   | 10    | 0         | 10         |         |
+| 0x1cc74EAf1d8e868ECC720cFFf00AcF7f0979C448                   | 10    | 0         | 10         |         |
+| 0x1d82b9cf319803F7F7433Ae79FD7ebeAE1e0018E                   | 10    | 0         | 10         |         |
+| 0x73d57224a8d88a6830dDEFA05A4a4e7496FA3F91                   | 10    | 0         | 10         |         |
+| 0xE5a939ddf05A4777037AC0397b17B1C1B39E1D3e                   | 10    | 12        | 22         |         |
+| 0xC881E47416dbb770E50600df9230Ff6FA3D33347                   | 10    | 0         | 10         |         |
+| 0x32Adf5B11C065efc894242773732679a93306e8c                   | 10    | 0         | 10         |         |
+| 0x50aA81eBA66C02241731CFE4D425e3ee3E5987e4                   | 10    | 0         | 10         |         |
+| 0x54245D97056f47e0715C1224802Dc68Eb11b8Da6                   | 10    | 0         | 10         |         |
+| 0xFaE7d8dEF510914BDc7da90864bc25C090BE05FB                   | 10    | 0         | 10         |         |
+| 0x06D39744815849240A769da68316ef893Cd3896D                   | 10    | 0         | 10         |         |
+| 0xf0E205B2db046d85eF055d233b2072e799F5A96B                   | 10    | 0         | 10         |         |
+| 0xc26552eC46c65903b4bD425C93B9F12cbA3F7268                   | 10    | 34        | 44         |         |
+| 0xfFaFBf98C218DCD460f4Dbc019D6A8E00f2FC729                   | 10    | 0         | 10         |         |
+| 0xcCBCd2b06a24CD5973D31461224fE811DeA54bde                   | 10    | 0         | 10         |         |
+| 0xd865Ee9F876b1Db1902AAFC59d22DC39859Ec73c                   | 10    | 0         | 10         |         |
+| 0xe1445e3e6D5B4d5385e12144ADd5956231b6BbBd                   | 10    | 0         | 10         |         |
+| 0x402843F720b040130625631D9Ade485c0FDE6b18                   | 10    | 0         | 10         |         |
+| 0x1E7D12b5ACab4181d2b7283B08D2856e5fC4C7fB                   | 10    | 0         | 10         |         |
+| 0x91eF4B1685927a5Ad1C63d3565754B4fE78c316C                   | 10    | 40        | 50         |         |
+| 0xFC20abf531d8696328ec4b53d7B5DfAC54b1d401                   | 10    | 0         | 10         |         |
+| 0x4F12501F9D580205C17b296c26e413090EfBd1f1                   | 10    | 0         | 10         |         |
+| 0x2f94C945d62E9B387A714AE81f0a71701Ed71E81                   | 10    | 0         | 10         |         |
+| 0x51793240D69a3dDBc2911BEBb9169c89806F1895                   | 10    | 0         | 10         |         |
+| 0xBE2c187bF38322A660c2589E576631EED71a1600                   | 10    | 0         | 10         |         |
+| 0xF122F207b433639AA2DA29A0d1b6E51Bf8DE2CE9                   | 10    | 0         | 10         |         |
+| 0xb5A3eaDeb82Ac179175E901fBE6A0a37Ee62761c                   | 10    | 0         | 10         |         |
+| 0xef42d66791B39D1fFcCf1468307d4c524886cABa                   | 10    | 0         | 10         |         |
+| 0x882649ec8910e98c427e36c19F0DB492733E5A03                   | 10    | 0         | 10         |         |
+| 0xC7Ac40a7767ca5aDd01829c5507Ec1f272EC9BC4                   | 10    | 0         | 10         |         |
+| 0xd710751eE38E6c4e09b5A37E2A106d20A10D7ed8                   | 10    | 2         | 12         |         |
+| 0x14cFB7403e96B9e5f425f22Ca2390B7F5867Dd36                   | 10    | 0         | 10         |         |
+| 0x28806FFCf059Be1357529a5669Eda6F6eB693a3E                   | 10    | 0         | 10         |         |
+| 0xda8Ab459b10a43004Baa7eb03BC7650e908F8772                   | 10    | 0         | 10         |         |
+| 0x317f47f29E7cBA29BF2D9E7Ed24CEbdA2e6aA5Bf                   | 10    | 0         | 10         |         |
+| 0x67C64796b18509CFE41B7eBc984796b6E5081598                   | 10    | 0         | 10         |         |
+| 0xb2d384672EED30122AA541D8C4DcB6166c50D123                   | 10    | 0         | 10         |         |
+| 0x3DF0Ee6515A79914EeaEaC7869DF49326da9a4CA                   | 10    | 0         | 10         |         |
+| 0x9E0010c004986D3Cc167aF1AcF9c3c0670e6bbA0                   | 10    | 0         | 10         |         |
+| 0xF4a933fd7C643efa5483Cf47E8e5464371bd5aAB                   | 10    | 0         | 10         |         |
+| 0x2d5be26cA81D8d877f4590A8397C45Ae1E372D52                   | 10    | 0         | 10         |         |
+| 0x84E98E81C108551dE33c705740AEe87cd797714a                   | 10    | 0         | 10         |         |
+| 0x1Bf2510b9cD74630d20d58c2789072a7db1bDf55                   | 10    | 0         | 10         |         |
+| 0x54028E90a52CCEc162e92D6888a188FC7B943f4d                   | 10    | 0         | 10         |         |
+| 0x348590995CCF14664e498eEa432ED737bBa62D03                   | 10    | 0         | 10         |         |
+| 0xF9691891e2d9cc9f436939f3b88BCAF8b37C9eF4                   | 10    | 0         | 10         |         |
+| 0x6a72738BE767c64D9A84AAd597923bC024522Ca0                   | 10    | 0         | 10         |         |
+| 0x812B0B80cF5dE608cba3F2A91a12176E1457B25d                   | 10    | 0         | 10         |         |
+| 0xfF1A27076197db5Eb487B3b6f937F9E35330ad2e                   | 10    | 4         | 14         |         |
+| 0x191124Ed5262342D0F1bDE68c12529a3Cb46145B                   | 10    | 0         | 10         |         |
+| 0x29945De523A96A3e06E5bb67Cffe70FB0EA06D7B                   | 10    | 0         | 10         |         |
+| 0xdD0DF419f9e508d17Cd938AD51F37E2f63cdc75f                   | 10    | 0         | 10         |         |
+| 0xb4C013Ab212358cCe8E1B83FeC00fE4514dC0790                   | 10    | 0         | 10         |         |
+| 0x3555F16150aF28De45ACdBcdeF586A88B3Ab187F                   | 10    | 0         | 10         |         |
+| 0x351D192222B388b12B292B49B8C763b23537b46f                   | 10    | 0         | 10         |         |
+| 0xe32423963c8824E5b529262406467d3D8B241345                   | 10    | 0         | 10         |         |
+| 0x4259293ecc722A96b588DF9c568c4e000d0D3EBF                   | 10    | 0         | 10         |         |
+| 0x92877EE69C9Bf3a73d26053D9BaAe0aa7923aB48                   | 10    | 0         | 10         |         |
+| 0xBDDdc6bAcEcC345C69CEE7389D67D8df61FD6cf7                   | 10    | 0         | 10         |         |
+| 0x1ff492f32EDB42f5E927C3Ba25b6C49cD6FB13eA                   | 10    | 0         | 10         |         |
+| 0x0F1C10526cE73415D42130b0939e7b898A23d74E                   | 10    | 0         | 10         |         |
+| 0xD811927d5dc495140ab314Bd0Dd06171f001c61B                   | 10    | 0         | 10         |         |
+| 0x0F8ece876c840Da69aA36f6a3e6F37E7D6f0F633                   | 10    | 16        | 26         |         |
+| 0x28E98b65c0136672de9662464ebb58e6d67288EA                   | 10    | 0         | 10         |         |
+| 0x65557C63993F81d5a90587c95A57D437589AaC39                   | 10    | 0         | 10         |         |
+| 0x45874819F940f559Fdaf9912cc2B15b7a70D84C9                   | 10    | 0         | 10         |         |
+| 0x57064C502Da41696dad78884F9aE223e8386cb6B                   | 10    | 0         | 10         |         |
+| 0x828be76EBf121E4CfC29EE9160A4626b3719ab3A                   | 10    | 0         | 10         |         |
+| 0x45E03CD67635AF694447bf6403889bBb9472DAee                   | 10    | 0         | 10         |         |
+| 0xD5033fc7092A767dACbF0d7CEeF67b4a63cf1de0                   | 10    | 0         | 10         |         |
+| 0xE5dE1f3649FCf2884dc64308b2fE6339fa724Caa                   | 10    | 0         | 10         |         |
+| 0x4fD07A3F12e7c846B30A81aBAb1fB237Ca19C3Cd                   | 10    | 0         | 10         |         |
+| 0xf6f2F14A47A6a1a842C32bf5e0708201E2237213                   | 10    | 0         | 10         |         |
+| 0x06CA516069F526bF5fB844183dc4D39fb482ED25                   | 10    | 0         | 10         |         |
+| 0x0aC88771040a5cD2E399787158CEb6A753c83e77                   | 10    | 0         | 10         |         |
+| 0xAA4c6902f8491D72567fe78c594c169C04a9e0Dd                   | 10    | 0         | 10         |         |
+| 0x787706cd1b80f918545AEA67ae07502600978dd1                   | 10    | 0         | 10         |         |
+| 0x8fE540f9FF57FCFa7E4cACE72325512993d48EcC                   | 10    | 0         | 10         |         |
+| 0xBF83f7aAA55C009dcBBB188Da60d7b18D3171e50                   | 10    | 0         | 10         |         |
+| 0x4f02E90BC7A4bc590CD3F66755e501064f24954A                   | 10    | 0         | 10         |         |
+| 0x3a36B6C8eD8c7953b6E48838f1bF79466cDD9c9C                   | 10    | 0         | 10         |         |
+| 0xa23382895eCbC2E84FF0eB4e694A2F0c9eFa24F0                   | 10    | 0         | 10         |         |
+| 0x5C96104C9becA36DeE5B48b1Dd82Ed8BDDB118E2                   | 10    | 0         | 10         |         |
+| 0x6Dd9D1e0acE2bc5802e13D1BCCA2016C8161f219                   | 10    | 6         | 16         |         |
+| 0xdC57FEe48235d589D82F639D035e922021d8FA42                   | 10    | 0         | 10         |         |
+| 0x425F39ca0aB8DcEBA6DE582c557aecB331d8C5d5                   | 10    | 0         | 10         |         |
+| 0xb7f3c6BAF83D4BC1C8E97f3c437BD058c1b948dE                   | 10    | 0         | 10         |         |
+| 0xf4B445F3d5909Bb9E24Ab16c2223887FCDC7f910                   | 10    | 0         | 10         |         |
+| 0x24174fD426a8BeeE90b78169A4B00D1A2D3E571C                   | 10    | 0         | 10         |         |
+| 0xCA8DF00673F5018abFb989Fd988657f29D4b1adC                   | 10    | 0         | 10         |         |
+| 0xBa8859c628ea0f4baaDdf278117a05Ef672dE093                   | 10    | 0         | 10         |         |
+| 0x086232310b4d262bA88d68907D684E56a8b3EAf4                   | 10    | 0         | 10         |         |
+| 0x087aB332f9425a09a2f004f74A97FAA02626BB38                   | 10    | 0         | 10         |         |
+| 0xea1e40244Bf262171e5Ac8fD53f69D8132a9632f                   | 10    | 0         | 10         |         |
+| 0x0Ac4dAbf3080AF7fD06dF3870926daE357d9F1eA                   | 10    | 0         | 10         |         |
+| 0x9903873b610D5d3283795b0853fa41a1ee9165A5                   | 10    | 4         | 14         |         |
+| 0x8a87EdCF06f2E03Cf6F413be85012d7CfDDF6d5c                   | 10    | 0         | 10         |         |
+| 0x2c08e33A142B16A6755634847218Ff400C3a3A3f                   | 10    | 0         | 10         |         |
+| 0xDa40Cb1032B14fce7565ce0f67e11DEceCA11e6D                   | 10    | 0         | 10         |         |
+| 0xeeBa5DF13a547e835F644e287C17cB0b7D17d0F7                   | 10    | 0         | 10         |         |
+| 0x66D9F0CF26D95d1Ba4a74dF9b49ef8630eB0DF3d                   | 10    | 0         | 10         |         |
+| 0x0973842cC65BD8F319cFDA268203D0c9E8319818                   | 10    | 0         | 10         |         |
+| 0xF4Ca5868f4c22620c5dd610E6d097327CF895690                   | 10    | 0         | 10         |         |
+| 0x8a710cD442F1449b11275F64E83a10A441169c99                   | 10    | 0         | 10         |         |
+| 0x414Df8D7E4217D809f67408BBB304Fa867da8836                   | 10    | 0         | 10         |         |
+| 0xA2911d62f3Eefa30070F7D2093EDDaBFf11d221f                   | 10    | 0         | 10         |         |
+| 0x7Feb380ae3C24772945c5d46D1C30e15749a0f53                   | 10    | 0         | 10         |         |
+| 0x5A37a6470312cC35ccD16a2b125048bb2eC699f7                   | 10    | 0         | 10         |         |
+| 0xcC7a918A4389B37165005b392Ce7EF9B5Ad5Fb12                   | 10    | 0         | 10         |         |
+| 0xeBB05bf7a46ee6e5DA66f9920a49C22443340670                   | 10    | 0         | 10         |         |
+| 0x3A4d4d5c7c12daF6D48719732d7F59447dEF3841                   | 10    | 0         | 10         |         |
+| 0x31cbDCE85E716a929a915D67c006f20430c8c063                   | 10    | 0         | 10         |         |
+| 0x76D5D2069E179847205eDC269e5ce376d95a6B38                   | 10    | 0         | 10         |         |
+| 0x9c70888aa854090E5F4b2Db7b0117aC7247FB3DC                   | 10    | 0         | 10         |         |
+| 0xD885101dd6e26C52deF5d8a9C1cB0154BC14279F                   | 10    | 0         | 10         |         |
+| 0x1adB4a3A8DfB5AEC0b09CF790471f4c853Df8c05                   | 10    | 0         | 10         |         |
+| 0xb900CC570d37e7Ad8c092F0A20c5dA115FD06257                   | 10    | 0         | 10         |         |
+| 0x93B2D8f03a1AA522DA6961A1432c77F118114543                   | 10    | 0         | 10         |         |
+| 0x9D92319196d8aF753a69387A9A052E40f5BaeE34                   | 10    | 0         | 10         |         |
+| 0x57a6A22D494665244b24e2d847D965F622C6777A                   | 10    | 0         | 10         |         |
+| 0x48bd3A759231C9e304d7a4ed4787891cd3593b1a                   | 10    | 0         | 10         |         |
+| 0x7e8C35F96Cd4DCa689Ce49cC003C34d429c681ba                   | 10    | 0         | 10         |         |
+| 0x2640422f4553f1161441d263FD72eE51B5847B12                   | 10    | 0         | 10         |         |
+| 0x88B24795f8145c84E0123ed55DA64Dad0b5d2F86                   | 10    | 0         | 10         |         |
+| 0xdC857CC217B49FF2B6e2365BF7e4F26A22E47F42                   | 10    | 2         | 12         |         |
+| 0x5c25fe116a5A07FD1739E4cAfAd4966f7fab4c8a                   | 10    | 6         | 16         |         |
+| 0x2a323056631094DeE4b56656E83046b073C2E46C                   | 10    | 0         | 10         |         |
+| 0xB84bCb751B2762c98e7BF38087ADb54619D96DDF                   | 10    | 0         | 10         |         |
+| 0xF99421CE46F52620CDC5477DF0DE80302A074886                   | 10    | 0         | 10         |         |
+| 0x12153FcB085FEDd7075B6a81a65A8A5Be8Aa5314                   | 10    | 0         | 10         |         |
+| 0x9136f642E1C6AC1e82791F0922917116d9A0F7dE                   | 10    | 0         | 10         |         |
+| 0x9A31F835D9dbca1D9b75037d80a51D1B38ED6E01                   | 10    | 0         | 10         |         |
+| 0x8c7d227c7585224eBd7AD2FCF2cfC52abECCE506                   | 10    | 0         | 10         |         |
+| 0x7e2bA08Ab35FD0C59dF092aDC25689928623f0bC                   | 10    | 0         | 10         |         |
+| 0x0Bc20843c4452C6fAcAf7E1b757a00c0F79D6268                   | 10    | 0         | 10         |         |
+| 0xC39c40144bd63dB5A18070968C7ac2b16D248A09                   | 10    | 0         | 10         |         |
+| 0xD48e55e02C0b21589396c7BC86d5F2a2EE066519                   | 10    | 4         | 14         |         |
+| 0x6C5E4058B3a28b496Cc37F59c1a9B41866e6C831                   | 10    | 0         | 10         |         |
+| 0xeeB8b74468BC740138c0A70A1C20963AB70da6B7                   | 10    | 0         | 10         |         |
+| 0xB770e8AFF0529941eca1D08B02a38A936Cec5bB3                   | 10    | 0         | 10         |         |
+| 0x0fcE5851322fC05B1850C451C163e3869bB0c65D                   | 10    | 0         | 10         |         |
+| 0x2a951769e6a7e759888CE0885753681749e5Fd8c                   | 10    | 0         | 10         |         |
+| 0xC5854c4E7C5D0Af62e7BC0BB5038Bc1DdF972F6A                   | 10    | 0         | 10         |         |
+| 0xF7346E55C0641df08A06060289f3C5FF356C334b                   | 10    | 0         | 10         |         |
+| 0x62Edd8EcD241450dd3D291ec12167aD0621651D1                   | 10    | 0         | 10         |         |
+| 0x9ca76CCf489756647A4B95dee5b27F97E3E97d64                   | 10    | 0         | 10         |         |
+| 0xD54aeCF9Cdb9fE81298674683De735c0C7A7931d                   | 10    | 2         | 12         |         |
+| 0x3F1b52311e838AC859bd5C7B829597849aECe3aC                   | 10    | 0         | 10         |         |
+| 0xd6E283f91eDC5e7b51dEc009b24f50C2eb48C924                   | 10    | 2         | 12         |         |
+| 0x6eF6869845AAd28a7187A45D8dC94FA84334DBB0                   | 10    | 0         | 10         |         |
+| 0xA94D775492CfBDBc08a6Aa100A334117d792D232                   | 10    | 0         | 10         |         |
+| 0xE67Ce6d57b65B645FBF7328B9F23ef7f10CD7087                   | 10    | 8         | 18         |         |
+| 0x26B06753025Cd5ac4Ab399DC47b03327959551F2                   | 10    | 0         | 10         |         |
+| 0x338a42FCE63aeC95c6A390d5a8d0dE162540c453                   | 10    | 0         | 10         |         |
+| 0xaCf1f58D1bcB366228481b9F7484427A33bC1a92                   | 10    | 0         | 10         |         |
+| https://www.twitter.com/yourusername                         | 10    | 0         | 10         | Invalid |
+| 0x1Ad1326Ae5caD3c912D7899649286AFBcf908925                   | 10    | 18        | 28         |         |
+| 0xE77A69c273f0ba1aec9BAEE2154c4d3175463c9B                   | 10    | 0         | 10         |         |
+| 0xC61385893B47E5040E747415F8b0A0887Ac5F57a                   | 10    | 0         | 10         |         |
+| 0x06CBc33998F3a89beB15967535014f3d36F04E7e                   | 10    | 0         | 10         |         |
+| 0x84746dC44ffc333b9F334B83818DDb4acD9B1473                   | 10    | 0         | 10         |         |
+| 0x3d780F6A615a48e840eD1335EBaF1c861cc5F253                   | 10    | 0         | 10         |         |
+| 0x2C966c42A66ed3ba7De7d39F7dcDfF77da7D6904                   | 10    | 0         | 10         |         |
+| 0xDfFD89eE18D28402aFEc521c3C65C8Ab8d9c5879                   | 10    | 0         | 10         |         |
+| 0x70571d75EBf05F4B620996AE0F5778dd12Ba3F84                   | 10    | 0         | 10         |         |
+| 0x487Cfc19183eb4A1C0b75FD60f618c04464D0Eb3                   | 10    | 2         | 12         |         |
+| 0x7F4f66E366D49D612dD9C681C0c45396318838E5                   | 10    | 0         | 10         |         |
+| 0x7CF91cdaE3F73b08fF78bA6ED04D62AEE73F0720                   | 10    | 0         | 10         |         |
+| 0x5bECCe337976cC35726a2C6296A58115E076B08b                   | 10    | 0         | 10         |         |
+| 0xe86228EA75DE0231CC6A155410687057EBDF4f7e                   | 10    | 0         | 10         |         |
+| 0x57935cc92E654742B7404B19b2d768F6C431438C                   | 10    | 0         | 10         |         |
+| 0xF3b4A207172730Cba96dC012CBdf5078C9EEA8bE                   | 10    | 0         | 10         |         |
+| 0x8Df604f3d873b7d8218a4167230e541CD773c3Bd                   | 10    | 0         | 10         |         |
+| 0x89F79E16c3F981328e1E0c236A161FDC64A8A2B0                   | 10    | 0         | 10         |         |
+| 0x76185624786be49c85735156C01c6ddD6717d438                   | 10    | 0         | 10         |         |
+| 0x2b1b90D6e31090a3C209C30387D99dc8feC27fFd                   | 10    | 0         | 10         |         |
+| 0xbf48380eE4DCe5a37706827C776Cf53a1EA2F52a                   | 10    | 0         | 10         |         |
+| 0x888F1d63F505a4140eC654FE281A6a16fc6A6A96                   | 10    | 0         | 10         |         |
+| 0xB11F103c6115Abf72bfF94Fa94c8BA2B95eC8DC6                   | 10    | 2         | 12         |         |
+| 0x5bcADe8386d12be06B53E3E8303C9d89a7B6B635                   | 10    | 0         | 10         |         |
+| 0xfCd0b800d292D42c232d418b7C494584118a9f29                   | 10    | 40        | 50         |         |
+| 0x06389A366C636CD41ad452FB25EAD17751531f4A                   | 10    | 0         | 10         |         |
+| 0x9eDa4DcBEb3fC38E74eA186BE0937F78b0f224C4                   | 10    | 0         | 10         |         |
+| 0x67DDeb1EE71ccb029E6dcD93270684aF08f3b0D3                   | 10    | 0         | 10         |         |
+| 0xC9866D8C41C34B7f9bF7E68cD725cF779Aa035B9                   | 10    | 0         | 10         |         |
+| 0x2AAcE5ab503CE73c42E058e2f9f7f5b7Fe85937B                   | 10    | 40        | 50         |         |
+| 0x95aBFF2E43d374494c211bC7aC5cE0a154b85630                   | 10    | 0         | 10         |         |
+| 0x2109c3b725C9E548814D4b49b635c610E0d7246f                   | 10    | 0         | 10         |         |
+| 0xc32822bd074808186bd586dd4cf628b588bd7f9d                   | 10    | 0         | 10         |         |
+| 0x184d3234Be743903C7271361DE75447e223c1BD9                   | 10    | 0         | 10         |         |
+| 0x9B25aDea63207A638b6a3aE6fCc45c9a42d3f1C1                   | 10    | 0         | 10         |         |
+| 0xDb58DdA544bF1260d2e48340A4BeaEA2040A0BF2                   | 10    | 0         | 10         |         |
+| 0x9aee32db3464eEBC60611A65303900f45aD9D1EA                   | 10    | 0         | 10         |         |
+| 0x52b24BB40b16067975aF2B02040E5bc541CC7BAB                   | 10    | 0         | 10         |         |
+| 0x6C3BDb0750F17811978d466cbe54a396811b2df8                   | 10    | 0         | 10         |         |
+| 0xadff756a4427d7cd5e9bbc1ef1431b66af18e4f8                   | 10    | 0         | 10         |         |
+| 0x2792B4D4471095926b6F6f771CC7AbD677481950                   | 10    | 0         | 10         |         |
+| 0xadff756a4427d7cd5e9bbc1ef1431b66af18e4f8                   | 10    | 0         | 10         |         |
+| 0x259be9AD4e671711584fD2A537a4fEf0Ed4E79a9                   | 10    | 0         | 10         |         |
+| 0xd9f274Cab23cC8937352d57c0E85fe063152a08b                   | 10    | 0         | 10         |         |
+| 0xB7b1b99513A37D8EA4C667676F457ceDe88C3beB                   | 10    | 0         | 10         |         |
+| 0xe7452d84480a81018c430072bd797053abb661f9                   | 10    | 0         | 10         |         |
+| 0xb891be753eABDF031A377BAbb046366424B05657                   | 10    | 2         | 12         |         |
+| 0x50f9D78E643c78122EB17424f0be3D63cFDBc703                   | 10    | 0         | 10         |         |
+| 0xe1Fed679a1A1AD1a1313acAc3255e5bA12622709                   | 10    | 0         | 10         |         |
+| 0xbe98aA57816F74eB44612ca9338080530E4032a0                   | 10    | 0         | 10         |         |
+| 0x1D9ED980c84773C2c8649BC3C1F47822C69553C0                   | 10    | 0         | 10         |         |
+| 0x7De2227711DEdD5eC5bE8cB31b346b0Ca253E276                   | 10    | 0         | 10         |         |
+| 0xe3663f8A17e9C519C8fe6503E7E8a15B51921f28                   | 10    | 0         | 10         |         |
+| 0x58D81b4d40C18780498779BDC87A28846cFDe03C                   | 10    | 0         | 10         |         |
+| 0x0A4C25Ad37F2CC3927f500213fbEeAd65B1f6239                   | 10    | 0         | 10         |         |
+| 0x83cfF3F9D0cB297ad02280C541d8df2b7b8ff6bA                   | 10    | 0         | 10         |         |
+| 0x35F44ac01c0e403F67A808195b0a65BfbFc6a6B8                   | 10    | 0         | 10         |         |
+| 0xadff756a4427d7cd5e9bbc1ef1431b66af18e4f8                   | 10    | 0         | 10         |         |
+| 0xFcAF2F6EAF61B73f1775e1acA9C11ae48Af334d7                   | 10    | 40        | 50         |         |
+| 0xfda55Ba99e464Ce1fc1b110918975445E89995f3                   | 10    | 0         | 10         |         |
+| 0x6C52c87b83bbAD9d1c71545f62D52E398A5e5A9b                   | 10    | 0         | 10         |         |
+|                                                              | 10    | 0         | 10         | Invalid |
+| 0xA236636F1559955C2D4b90e0CA4a610a5aAf67E1                   | 10    | 0         | 10         |         |
+| 0xad8A16E2aDd5Cf4E48FD07F64D1bD5B78D88f097                   | 10    | 0         | 10         |         |
+| 0xFFECbc8B02A0e3208588f3CE557c7858f9CC97c1                   | 10    | 0         | 10         |         |
+| 0x9d0a452dF8aCD921f942D364C039e1c29272DC8A                   | 10    | 0         | 10         |         |
+| 0x9B1CaA5b2Ab1Bdc1337286B90C82393df4B68505                   | 10    | 0         | 10         |         |
+| 0xBD0EA3600A89449271017D00AdcF4543D4f253Fe                   | 10    | 2         | 12         |         |
+| 0x779E08fdfbD631cdA07F6108DC2aC012267a8F63                   | 10    | 12        | 22         |         |
+| 0x19CcA37De478F2A0eBF1F52BAEaBeb2878CAB50c                   | 10    | 0         | 10         |         |
+| 0x6323217EeA870A4B2CAFE9AbA5A2b3a8b035a387                   | 10    | 0         | 10         |         |
+| 0x4680fbe581FAb90D72647E0468BFD57478FFB25a                   | 10    | 0         | 10         |         |
+| 0xE20De912cDBF98b277324B9057dc3d533b69797c                   | 10    | 0         | 10         |         |
+| 0xEBA9DA3E5d1310B6980301787B519850656d68D2                   | 10    | 0         | 10         |         |
+| 0xc81b33E622Fd979368D5B7B36683B4EBE8B9a37B                   | 10    | 0         | 10         |         |
+| 0xe02884ea5e51e65b98c1ac0a2cfbd14c0a5fb18b                   | 10    | 0         | 10         |         |
+| 0x079FfBd8A3D0616E4a80da5831B683E536C0e159                   | 10    | 0         | 10         |         |
+| 0x1b96dfad298141Da957BE304E25B86937dBe48ab                   | 10    | 0         | 10         |         |
+| 0x78b9D812289193cAcB9e69ddc787c7b58e3f8d8b                   | 10    | 2         | 12         |         |
+| 0x3C246fA3435529be56A8677feCBB8469d376e6FC                   | 10    | 0         | 10         |         |
+| 0x1611AEB2683489A2533A063Aa49bd71aD389441E                   | 10    | 14        | 24         |         |
+| 0x8C7b57FDFEf86C462744E5275324bcd8d26AddD2                   | 10    | 0         | 10         |         |
+| 0xD8B0BE2b2Bd458d5DB1684767b809c48B2b1a5c5                   | 10    | 4         | 14         |         |
+| 0xD8C9A673437CcE2EC0d419437F2aE8CcE0e728Ec                   | 10    | 0         | 10         |         |
+| 0x8031A67391Ac293aCa2Aba24C87d3444dC2C5CcA                   | 10    | 0         | 10         |         |
+| 0x2612AE202BcC9C60FBAC07Add31265Cf9A3744e1                   | 10    | 0         | 10         |         |
+| 0xE070c9e290A1234969bff18333955952Da857D35                   | 10    | 0         | 10         |         |
+| 0x418FCCF8b0bBF545F15Fb9B54bE49977c202Bf17                   | 10    | 0         | 10         |         |
+| 0xcB3E7805D0C56F04b0EBf917bf60CF2A4E4aed33                   | 10    | 0         | 10         |         |
+| 0xcCC8698BbE2Cf89C628D163dc500e3D24e99F905                   | 10    | 0         | 10         |         |
+| 0xBcebdEb8c6F1196b6F4E43eB64f7A578338A62fC                   | 10    | 0         | 10         |         |
+| 0x12bd2BF982AF2285512213e62544e79190699b4E                   | 10    | 0         | 10         |         |
+| 0xF6f12e247EBc52191e135d8b13f1A860DedDDB03                   | 10    | 0         | 10         |         |
+| 0x331049471525aE6C40F467AC722604EC1f26e00f                   | 10    | 0         | 10         |         |
+| 0x6d43079e1edd4C63e4697490459591cCA13fde9e                   | 10    | 0         | 10         |         |
+| 0x2DEE070c649fE206cC26B6D542d9879D018206F7                   | 10    | 0         | 10         |         |
+| 0x6F204e9D2807Dcfcd8aa2EC719e8E90aef17c614                   | 10    | 2         | 12         |         |
+| 0x51aAD148488d9EC7ebeA8C4deec9bde15194106B                   | 10    | 0         | 10         |         |
+| 0xeb8e909Ad1896544441e356216C46c3d3f569b7c                   | 10    | 0         | 10         |         |
+| 0x0aF0Ba04834504e09CB16be96dB438723da187be                   | 10    | 0         | 10         |         |
+| 0x6a6b4671EB57D8d9757B5d0a3bd1649b207Af3BA                   | 10    | 0         | 10         |         |
+| 0xaE1A0c5E981767C4394d633308E50d52E9d7CFC0                   | 10    | 0         | 10         |         |
+| 0x5e310FA896299101768A22b71f7BA2290675d4C1                   | 10    | 0         | 10         |         |
+| 0x93E8409b07721E2AC43792517F91c0D4Cdb16071                   | 10    | 2         | 12         |         |
+| 0x6346422D3De13bF8B259Ba8ddc0707D6C9F4DbA3                   | 10    | 2         | 12         |         |
+| 0xD49203387c8daC7c58a70D2698A4De49917f7D29                   | 10    | 0         | 10         |         |
+| 0xE5f1a143DB471408dA80baA806d7E4aB076E5192                   | 10    | 0         | 10         |         |
+| 0x05301B1545AD88552a5041B317f9cc7B58f73f4D                   | 10    | 0         | 10         |         |
+| 0xCAB5EA77a680A9FDD9E2d00638875F4D08726fCD                   | 10    | 0         | 10         |         |
+| 0xD59B76E436170DDC0FE8c14582B72037D862b4E6                   | 10    | 0         | 10         |         |
+| 0x19C8B3cCf4145fF22fa6EFa6b815a76a19409f69                   | 10    | 0         | 10         |         |
+| 0x3600eaF70d6A47D52c32E95bEFf22Db8040dDA1C                   | 10    | 0         | 10         |         |
+| 0x7B39DA33A1A98cd12d8D092040dbA4161461e832                   | 10    | 0         | 10         |         |
+| 0x6a45613AF61915D7462FfD2da3e5e901F06Ff8e2                   | 10    | 0         | 10         |         |
+| 0x582e8377F50363D509172Be18145D44848A47389                   | 10    | 0         | 10         |         |
+| 0xeb61C8b955eAbFea79A7e33bA7Aa15f82d351A20                   | 10    | 0         | 10         |         |
+| 0x771aB3d47ca01dd954f4c637F353d9bfb6209728                   | 10    | 0         | 10         |         |
+| 0x720F281668aa1942a447489B76f197D76bd3d18c                   | 10    | 0         | 10         |         |
+| 0x1FC2f01f1BD9027a8753b113a5b79BEBE24e994a                   | 10    | 0         | 10         |         |
+| 0xca09d87D3d56c29efF5db2BE764B3E1E3670C0ad                   | 10    | 0         | 10         |         |
+| 0x54dFfdf79d673d70A27cF90850c554f75f505D2D                   | 10    | 0         | 10         |         |
+| 0x9F669f7312eADd822Fa76fc6708F09175353ba68                   | 10    | 0         | 10         |         |
+| 0xE7C0764270C9e3e00D48ec15B83734f2ed3273aD                   | 10    | 0         | 10         |         |
+| 0x4D16cfd12abcAC6E00f677922B1b7b508DfA61cf                   | 10    | 0         | 10         |         |
+| 0x185dbC0C0074049BE30263c6c3aA58dE7B6DE685                   | 10    | 0         | 10         |         |
+| 0x2e6e81b5c66F2709E1c6550a60699615a4bF3Ab3                   | 10    | 0         | 10         |         |
+| 0xa9d42A9B7a8E377A3437343CAB6D0fc0967429cD                   | 10    | 0         | 10         |         |
+| 0x1E96EBEDD49cC0114c8A88c6886e073856B80727                   | 10    | 0         | 10         |         |
+| 0x16FCD6a2cBE6f6f2E315aC32b45380b5A862eDcc                   | 10    | 0         | 10         |         |
+| 0xe41Abfc7d923f725482F00aD772E2F0Eb66D1CE6                   | 10    | 0         | 10         |         |
+| 0x7fa3961d211Bd1ec3a90Cf133abd96606D3225C4                   | 10    | 0         | 10         |         |
+| 0x5c885E51313d1cC87CeEdbebc1113D2f15C89CA3                   | 10    | 0         | 10         |         |
+| 0x4D25375FBed7794726AEF5E8E92Cc3583e26Df80                   | 10    | 0         | 10         |         |
+| 0xbbb434d16f6396f854bdefacf89ffd30e1743658                   | 10    | 0         | 10         |         |
+| 0xc0aE0c1D2B42E4BA2aa766D4115C84a5E01A3363                   | 10    | 2         | 12         |         |
+| 0x6FAEdC19c932b84c72A576dE113EEC93256d0B0c                   | 10    | 0         | 10         |         |
+| 0x48158E4a8C77eB3067af9C43b6A6eC17E6432082                   | 10    | 0         | 10         |         |
+| 0x57738cb7877b2Dad404cfD1C2BcA15f7a136e13d                   | 10    | 0         | 10         |         |
+| 0xB7Dc4473899BC89D115568C681454FcDb9f9Dc56                   | 10    | 0         | 10         |         |
+| 0x0d4bf28dB885a2f4a4EDE6D2EEc956042e29853a                   | 10    | 0         | 10         |         |
+| 0xcd3D81a51B6c4d0aeF877d0121B59b10311fc0db                   | 10    | 0         | 10         |         |
+| 0x470F75E31e47Aae2496Be6B5C7e5965b088bF8c5                   | 10    | 0         | 10         |         |
+| 0xc8422e39c7e6Cf5D6AE2989729840b00FD44b832                   | 10    | 2         | 12         |         |
+| 0x16A9FAE4dCe6B36B5Ce4388FE03d0F54030128d5                   | 10    | 0         | 10         |         |
+| 0x0578dC925b71a7007a5F025CF922C3C82Ad301C9                   | 10    | 0         | 10         |         |
+| 0xfB7f60a93b4EB050b2616067010F8B2DC8fb0E63                   | 10    | 0         | 10         |         |
+| 0xadB4EeDB22A942a9Af48FE491E66fb6D7Cd10Fe9                   | 10    | 0         | 10         |         |
+| 0xe0Ce6F3C427bbF676F7328Bd07202E6311ce8F60                   | 10    | 0         | 10         |         |
+| 0x54852a6D9585266ADE94C46DA26417B31Eba4B11                   | 10    | 0         | 10         |         |
+| 0xD74D374e67f5c860B8d5b47F0f0Fa314D40F1a40                   | 10    | 0         | 10         |         |
+| 0x8c75535614869B5a325C29A5C655a6cE07b7893e                   | 10    | 0         | 10         |         |
+| 0x5C902321B38a9c531F6eADB3B63a460ac4C576b7                   | 10    | 0         | 10         |         |
+| 0xd31E30117dB05FA33eC3aa2b1E1B41293B809031                   | 10    | 0         | 10         |         |
+| 0x9520154CDacFFF03683a400763E623470b2B26c9                   | 10    | 0         | 10         |         |
+| 0x94bf4307BA227BfFa5C95Cb4fd7484529Bd964a4                   | 10    | 0         | 10         |         |
+| 0x3C54D2213D4108c10b24e541420A3Ba8bd4CB2F2                   | 10    | 0         | 10         |         |
+| 0xEEe2C0e68a400A39Ab481401394Cada2df9FaF05                   | 10    | 0         | 10         |         |
+| 0x7FD41bD5c4423f9dB527cB1cB3FF6661AEEC26B0                   | 10    | 0         | 10         |         |
+| 0x536985f430a9483CcCA67200DD06A8Ad1FfcE8de                   | 10    | 0         | 10         |         |
+| 0x70d33DEF99cE76E6369cE06435Ee5d53168D232c                   | 10    | 0         | 10         |         |
+| 0xcd65B4e3664F4aa50519039059a9900277e99dAe                   | 10    | 0         | 10         |         |
+| 0x609Ab408cB499eC098A4E2dFf716fbcC73091AD6                   | 10    | 0         | 10         |         |
+| 0x4702FC6F48026f06Dc4dE80aAf54bDa3B3dcf9C7                   | 10    | 0         | 10         |         |
+| 0xE46441D6fCA5601158D669954D12Cc8D06bDB173                   | 10    | 0         | 10         |         |
+| 0xb1E8d73aEdb1C0A432e0fBeA0FAD0dCbBB63214d                   | 10    | 0         | 10         |         |
+| 0x9859A3dA85b9E7fcaf1b00344eE7b54C06908F01                   | 10    | 0         | 10         |         |
+| 0xa6A53a907217a4965345f14A240948fc4E33017E                   | 10    | 0         | 10         |         |
+| 0x65a3bB44d45d8A6e90e3E16813DC8f0700963557                   | 10    | 12        | 22         |         |
+| 0x60727A3f3362a425975fA8faeEE121CE97EBea8d                   | 10    | 28        | 38         |         |
+| 0x829C6674082F146505A3c61aE352607B89148EEe                   | 10    | 0         | 10         |         |
+| 0x54277e0375da3D54325a45fA123A30b1BEC128a6                   | 10    | 4         | 14         |         |
+| 0x23F64DDBc2Ac442429f2460dd56c3Fc7a820bd33                   | 10    | 0         | 10         |         |
+| 0xaE3d035f25D1Eed51297B7e4F0fefd64a0eed0fc                   | 10    | 0         | 10         |         |
+| 0x5B97ec2700e8F65169798b503e57C3742b606722                   | 10    | 0         | 10         |         |
+| 0xeeE0cBD2366272ba089Fde58fb58cF7c3A125aeF                   | 10    | 0         | 10         |         |
+| 0x593B181B7942B46aC5f6d60Ef37680433d6a21F8                   | 10    | 0         | 10         |         |
+| 0xF04D0E9359992b1384C354dD0D8DE088502a11Ca                   | 10    | 0         | 10         |         |
+| 0xd5CD2341821b4321a6C110423940cB8dCCF6fc48                   | 10    | 0         | 10         |         |
+| 0x1E475a1cfD523BE03A3246E5085D1f9a05c98D3C                   | 10    | 0         | 10         |         |
+| 0xf30aD7f2DaCa7d0722e99AFff1b6F6C182086512                   | 10    | 0         | 10         |         |
+| 0x71B0F3A66B12b47F2cbEE6cd6FF4FfBE71A1c5e6                   | 10    | 32        | 42         |         |
+| 0x79E2fec150CA470401A9e79e05135C5a6E44444A                   | 10    | 0         | 10         |         |
+| 0xe6ca0cd98140251bA154946e6a23000c47953503                   | 10    | 0         | 10         |         |
+| 0x90Bd8a9F7B8b187FCc6C00e7A027684AA08bf38C                   | 10    | 0         | 10         |         |
+| 0x6c12fC4FD7DaCfC2A5A15ba6A6dEB2158066501f                   | 10    | 0         | 10         |         |
+| 0x027c8C9fc39B06510a865948303Bcf87784eB043                   | 10    | 0         | 10         |         |
+| 0x571B633cDB0f56262ab3d8be2Aea3De74ef2e351                   | 10    | 0         | 10         |         |
+| 0x395aA2A05b282028c40A2ea61A3e79cdd7f1347D                   | 10    | 0         | 10         |         |
+| 0x9c3e231992D04dF85866Fa44644c47cf78FeA3A7                   | 10    | 0         | 10         |         |
+| 0xE81ed5c6B1d1C0E4E8d1A619994BD577F4808370                   | 10    | 0         | 10         |         |
+| 0xa43a991596E9d8a8FD407A48d226914c952ac283                   | 10    | 0         | 10         |         |
+| 0xee83bAc578A32cFaC32253f7AE0f986Fe5a7F1A7                   | 10    | 0         | 10         |         |
+| 0x5d267f6c05B1e8906390218aF3e390a10a9897D7                   | 10    | 0         | 10         |         |
+| 0x85063Ebadb2EC868a97F63c15222C45836142a89                   | 10    | 0         | 10         |         |
+| 0x71fac5e747Bba512edE8f0F4ce2E88CA060bE8A1                   | 10    | 0         | 10         |         |
+| https://www.twitter.com/thaingo2011                          | 10    | 0         | 10         | Invalid |
+| 0xE7f0A9B92f8fDBfA38427b2865CD650dF8C20aFa                   | 10    | 20        | 30         |         |
+| 0xd5FbC119516F5680Df498d22ff535bE69205EBfd                   | 10    | 0         | 10         |         |
+| 0xb213531CDcF495875399dfda802d63632BbC01cD                   | 10    | 0         | 10         |         |
+| 0xBAAC4304795b86524Ff985e878C5F60e751b68e9                   | 10    | 0         | 10         |         |
+| 0x9e23BC00534568fE4cdC011dCc7497d248076554                   | 10    | 0         | 10         |         |
+| 0x102E87BFc9401FEEA5Eb71E776d16bBF15cfDe0b                   | 10    | 0         | 10         |         |
+| 0x68D9ffc927E19Eae04972F5B296274bAd51D053e                   | 10    | 0         | 10         |         |
+| 0x3e069c2331f429d76eb2cA8193785AcF08C9b0Ea                   | 10    | 0         | 10         |         |
+| 0x3051523AA664b50Cd7034F9F33De5A79Db789Bd2                   | 10    | 0         | 10         |         |
+| 0x299A5001F4cD06683EA8c04e4090482F9aD16531                   | 10    | 0         | 10         |         |
+| 0x13cA1E45562fe8467cB92e3EFe9130618AA8094a                   | 10    | 0         | 10         |         |
+| 0x42B478146c8cf57422DFbEd0512e394556121037                   | 10    | 2         | 12         |         |
+| 0x756085eD787A0E54AD13F956B2C1120754E27fe2                   | 10    | 0         | 10         |         |
+| 0x449cc9C3Be1098Ab690E865234fE8803584C9a13                   | 10    | 0         | 10         |         |
+| 0xeC2D5288C280b22c9423f4E56ec376c3E8cCF541                   | 10    | 0         | 10         |         |
+| 0x798967f2121301f70a753318c25421644D03d782                   | 10    | 0         | 10         |         |
+| 0x26E2A5f203A4E40b9BCfA879891eaF2d8727Bb8B                   | 10    | 0         | 10         |         |
+| 0x8D7E15F92345186e62Cc2b074DBF1768FF19db3e                   | 10    | 0         | 10         |         |
+| 0xBc251C63Af3D1df2f5Fa6Ab86A190de88030668a                   | 10    | 0         | 10         |         |
+| 0x2c3795E5CD8ac42fE83A90e07fEdcAD1097a31dA                   | 10    | 0         | 10         |         |
+| 0x572560Ea2dED8959d6ea9Ff2B61664cA60aF1E3A                   | 10    | 0         | 10         |         |
+| 0xB6f3777B9eD7a736CF42cE1a8AAcD3DD27Fdb6aC                   | 10    | 0         | 10         |         |
+| 0xa395FbD9e75B3b563717513E81db6dD0e69C6466                   | 10    | 0         | 10         |         |
+| 0x84F670aD053BD9f22227366898E22E9aCF07c242                   | 10    | 0         | 10         |         |
+| 0x14170a25Dc52D79710cB82eAFF647DC7fEa87e79                   | 10    | 4         | 14         |         |
+| 0xf5E1618723387476535Cfb18FF90044BeEA95B68                   | 10    | 0         | 10         |         |
+| 0xE18dc7fC0a1d0E54E659227793cA3AE6A3219427                   | 10    | 4         | 14         |         |
+| 0xf3A06674a851834229528fCE73b8F3013cc3De50                   | 10    | 0         | 10         |         |
+| 0x9BA4F5DD70005a17Bd2D49876c7305ab3b0e1cAe                   | 10    | 28        | 38         |         |
+| 0x15F4209FC7E57e213B34c71E61e479048D295179                   | 10    | 0         | 10         |         |
+| 0x52F0a94bF08AC149492256f03295b6cAEEEf156a                   | 10    | 0         | 10         |         |
+| 0x84b2A95A16459d1_5F3DF3E83D758b4bf8b5DB8                    | 10    | 0         | 10         | Invalid |
+| 0xC572ADD8dfC7aAFa24C2B13D92e3352733a547cB                   | 10    | 0         | 10         |         |
+| 0xE222B0f3276D32d6f724e3C1563Fc93B62176eFf                   | 10    | 0         | 10         |         |
+| 0xcD51267B9FCc14Dc14F7C777FC5CE28609eFCf86                   | 10    | 0         | 10         |         |
+| 0xf0C167AF75BF2e714D49818Ab731bD847a2d64F1                   | 10    | 0         | 10         |         |
+| 0xB15bA738135152166C619D97E9c353Ae6b4Cbfe9                   | 10    | 0         | 10         |         |
+| 0xb0d585098D0cF79303454F3eFF6349083E2BB3FC                   | 10    | 0         | 10         |         |
+| 0xe404e2Fe81Aa536f99408eDBA2b6809263703744                   | 10    | 0         | 10         |         |
+| 0x1ABC74E52361a77F7F5f705563610B82A3E51cE2                   | 10    | 0         | 10         |         |
+| 0x3a9b368f3dad5063ac468ec0abb6b60f02f6e46e                   | 10    | 0         | 10         |         |
+| 0x4Bc2730FbCff242003fbfeF7778637a61bC80eeb                   | 10    | 0         | 10         |         |
+| 0x8a203Ec6bd78E8A9C7dD25c9519842cB00a48175                   | 10    | 0         | 10         |         |
+| @hada_jayveer                                                | 10    | 0         | 10         | Invalid |
+| 0x5228B47e5FB4fF1E2Fd7CCd2fA19610a2fE18b05                   | 10    | 0         | 10         |         |
+| 0x69067307D24a35Fec1ba9F2D68E7A3A8afBC3929                   | 10    | 0         | 10         |         |
+| 0xfb6f7952986D3E592CF0B2C9C6Ca2C22CFc733eD                   | 10    | 0         | 10         |         |
+| 0x97685b3a8642ecc1BC4ad497885c37964FE5476a                   | 10    | 2         | 12         |         |
+| 0xD39950e502F2764f2E0757431d3461703C3D6E60                   | 10    | 0         | 10         |         |
+| 0x5f53e1D720dDAd3AaCa558466cf75B7Dacbae816                   | 10    | 0         | 10         |         |
+| 0x128B0168024DB77b6670401982Fe0f8C05BD1C49                   | 10    | 0         | 10         |         |
+| 0x34CB1F18a698b5213eFC05c101Ae3117d055AAbd                   | 10    | 0         | 10         |         |
+| 0xf5156435184F7311969359cA7a4C1c17cbdcba20                   | 10    | 0         | 10         |         |
+| 0xa7DC468234aEc3064577A91726dBd483f2B9b57f                   | 10    | 0         | 10         |         |
+| 0x2fceDeA83A8D87BD8cd0253dCa7D917ED14fF8E0                   | 10    | 0         | 10         |         |
+| 0xce5c6d9bDAC3f08c295bEfEe13f727Bf0F09Eeca                   | 10    | 0         | 10         |         |
+| 0xaC74C7a1669e8AbA944603C5eBe514D57F2D69B0                   | 10    | 4         | 14         |         |
+| 0x01B6D01AEa98d68587935f3F850D5d319939cbE4                   | 10    | 0         | 10         |         |
+| 0xd5A793d6deF9d1eF9E9AcfcF7DC4ce4B2d2A927c                   | 10    | 2         | 12         |         |
+| 0x48C3D5679cf36641E02FA409F61d436Cb25987DF                   | 10    | 0         | 10         |         |
+| 0x9eAA732B7a9b8dCf3f3FD82a809C17aBaa32cf88                   | 10    | 0         | 10         |         |
+| 0x26B9Fdd81d65E9f94d5e0C8372129f94E9048e31                   | 10    | 2         | 12         |         |
+| 0x6AD671e62Aa4D26f798cf7a6981e22AE6A865B9D                   | 10    | 0         | 10         |         |
+| 0x0F4C75abCEe4A063fA88aF804A23D6Ee7F58d06C                   | 10    | 0         | 10         |         |
+| 0x908801765996391094AA318c3139245339B714dA                   | 10    | 0         | 10         |         |
+| 0x42a8Edb93CE96024eddc114F787ca4C1E255f6Ef                   | 10    | 0         | 10         |         |
+| 0xeFCBe462FCf307F9Bab8D45854812243441465E2                   | 10    | 0         | 10         |         |
+| 0x1A64fF01b25cBC78AC4930B1538A7d0Ce17D080A                   | 10    | 0         | 10         |         |
+| 0x4FEd79509A293193064b923B8E386726B6625D78                   | 10    | 2         | 12         |         |
+| 0x844B6a918233832a0579F4d2972aa8115B14Ce38                   | 10    | 0         | 10         |         |
+| 0x8284c7d259171B9831A4E1435FC2d1375f557B0B                   | 10    | 0         | 10         |         |
+| 0x7F36505d3Fb83a7573E309CEc56e2F549f209d27                   | 10    | 0         | 10         |         |
+| 0xdDFbEB0EbC67A0fEB1f6FcffB77f84BC8cF88052                   | 10    | 0         | 10         |         |
+| 0xC55F9Fd817C744100276c6Cf49DDD43c11A66733                   | 10    | 0         | 10         |         |
+| 0x7476a316AC159d2937929412D50Aa9303751dab8                   | 10    | 0         | 10         |         |
+| 0x73a9e69C1F2B78C72676309445B7502B1a766763                   | 10    | 0         | 10         |         |
+| 0xEFb618961cF519D4d65bC85E02b89b72C4463D23                   | 10    | 0         | 10         |         |
+| 0xd1eA8351eD856b64048791B9C0a545C6B4b65314                   | 10    | 0         | 10         |         |
+| 0x3f12dD2ba014299cabf9357ACF89E3eAfAbbC6BE                   | 10    | 0         | 10         |         |
+| 0x613958DD926D5A0ee87bEca0Aae8dE0798657594                   | 10    | 40        | 50         |         |
+| 0x42750C5Ad44bF2c6596a242a6584E0E1Fb0c2E5a                   | 10    | 0         | 10         |         |
+| 0xc65c5848EafaE0FeC06055b88c2f16C270ED0ed6                   | 10    | 0         | 10         |         |
+| 0x5669cd5325c453c92E5864163730fc58AE71a8EC                   | 10    | 0         | 10         |         |
+| 0x499b6E8DFEF3C72cCF842a9eA1e58707783554ea                   | 10    | 0         | 10         |         |
+| 0x584d8965BC2Cb623F91B87bd4E94CDDC3F874C16                   | 10    | 0         | 10         |         |
+| 0x593bDe09C3BEb5F35E896830579512b167279e69                   | 10    | 0         | 10         |         |
+| https://www.twitter.com/ayeonkbae                            | 10    | 0         | 10         | Invalid |
+| 0x18B42b4653aa03691eB72dd09aF4e4421C50eF37                   | 10    | 0         | 10         |         |
+| 0x535d2A6C3445516e5F3c662D2df02Df1c697cC99                   | 10    | 0         | 10         |         |
+| 0x00c3B3930cD9252faF0c81EBD7D73fe287e06A36                   | 10    | 0         | 10         |         |
+| 0xbE3751e991058dBFe0CB15C9bFaa681c3f92ec60                   | 10    | 0         | 10         |         |
+| 0x393Cb7FB1bDbB9ae8b5e18a334889e6bcf128539                   | 10    | 0         | 10         |         |
+| 0x93690c93E0Ccbc41EBbE1FBAf5BC5CE226Feca4d                   | 10    | 0         | 10         |         |
+| 0xFB117a88E72D6980241C93D1341562336155e5bf                   | 10    | 0         | 10         |         |
+| 0x5364030b7E8b2276fC04b97beB71bD699A71C419                   | 10    | 0         | 10         |         |
+| 0x4A308F325cF894d860Ca1f63B693DdD0Ec5039C6                   | 10    | 0         | 10         |         |
+| 0xcDA63Dc0Ac9D736ED82b887C7E1061Fd6F6A1C89                   | 10    | 0         | 10         |         |
+| 0x129bC6416314d78b810E045FC1C0Db5C1310Eea9                   | 10    | 0         | 10         |         |
+| 0xdAff08468Cb6390Baa65A206B6D865c3BA680Ad3                   | 10    | 0         | 10         |         |
+| 0xc6471ba3da19c1A08add3d13E4B588575f36E498                   | 10    | 0         | 10         |         |
+| 0x1bF1fe947381309c95f581cf8Bb942ca494520D7                   | 10    | 0         | 10         |         |
+| 0x57BE292AfCc92c102e7425dE9B374C83952017d9                   | 10    | 0         | 10         |         |
+| 0xEf07B16F1A925EC2AFf2d6a47d6e901644DE0D4f                   | 10    | 0         | 10         |         |
+| 0xdF257139A0eB4fedfd9d2C6217B4F5Bc4AbBe470                   | 10    | 0         | 10         |         |
+| 0x201f3B8b17B30d9E184134D7b6a0d05d64C931B6                   | 10    | 0         | 10         |         |
+| 0x243B4A4666EF8F46D0ae58EBCe6A21D8e4e8e9Ae                   | 10    | 0         | 10         |         |
+| 0x735E737fcD0BB05d5A9CBD0479F010E0afd20957                   | 10    | 0         | 10         |         |
+| 0x548DD1842afb30a7a52A8130640DfcF6e6c96540                   | 10    | 0         | 10         |         |
+| 0xb8c33023D7ebf4d091746D3487bF79eBf00f043D                   | 10    | 0         | 10         |         |
+| 0xfede39ddd8f0fee8404c1c9c1bedd0a1130ef7e1                   | 10    | 0         | 10         |         |
+| 0x947442C399b2a2Cd27Dec01911ca425131B56503                   | 10    | 0         | 10         |         |
+| 0xbD75c0743a1c9787C0eCC30459503Da7994C3C73                   | 10    | 2         | 12         |         |
+| 0x4e30edc35BB07521505979AC3f11654c788fe424                   | 10    | 0         | 10         |         |
+| 0x13FadbC81cc8dfc08468fC50BcB195783cE976B1                   | 10    | 0         | 10         |         |
+| 0x88233045781425bCF485227199153C26e8Dd4d1f                   | 10    | 0         | 10         |         |
+| 0x0238bd882641e0c9A63382Ac586922D41e219716                   | 10    | 0         | 10         |         |
+| 0xeCBDF7E93E332e47CD6b16225421289464C8B1b8                   | 10    | 0         | 10         |         |
+| 0x90D7BE87115AeA0524865c1f9f0C54334A3b3992                   | 10    | 0         | 10         |         |
+| 0x6821618046b629e949e6A401eB16ACeB8Fa8eD35                   | 10    | 0         | 10         |         |
+| 0x2dC9b4F61F4bCa02E6C5479B1bB596A5CC4eFD3F                   | 10    | 0         | 10         |         |
+| 0xbf190824ec7749Dd162F789370c33Bc8026b14eF                   | 10    | 0         | 10         |         |
+| 0x580Cea8a2060689E67E19dfe202923045e72Dc07                   | 10    | 0         | 10         |         |
+| 0xDA5b94b6062c408F52d35559C1F8B985a0c8E638                   | 10    | 0         | 10         |         |
+| 0x10069F5D54C2A4A7f314ED228bE1E6EB928d6e60                   | 10    | 0         | 10         |         |
+| 0x3934D8C2b94f82a2874EcCC85eeA92B47e713cea                   | 10    | 34        | 44         |         |
+| 0xF98738d2078e781E4d4907cc43762572019452FA                   | 10    | 0         | 10         |         |
+| 0x32A93C358D0Df3349308bAd3d6393a0e51270920                   | 10    | 0         | 10         |         |
+| 0x35F218135753eD0573F8f558d75a56ca7eb71fa5                   | 10    | 0         | 10         |         |
+| 0x4D3a5f5346a847E0D8aBdD664c328e0b4ac36a31                   | 10    | 0         | 10         |         |
+| 0x21Fa0D65904798a6a534F6c3476e2809a43B45ce                   | 10    | 0         | 10         |         |
+| 0xa5c6cb378e8f30d707e68b0a4c3f2ab9b24237de                   | 10    | 0         | 10         |         |
+| 0xe002f7219F80f6ec61F96743115A511c758155B8                   | 10    | 0         | 10         |         |
+| 0xE80E80904a7737cd7d2e16ee081b38db38E2C6d6                   | 10    | 0         | 10         |         |
+| 0x3c63ede3DCce949E712A7609DFC9aa98e0647A37                   | 10    | 0         | 10         |         |
+| 0xca7fbc21c44da80cFbCA5B616D42b9DB6D33c2f4                   | 10    | 12        | 22         |         |
+| 0x314A9F8d561EEc6a68daE358b051AE7721d548E9                   | 10    | 0         | 10         |         |
+| 0x0c9260aF3dB1b5eBdfe444B9C45713F85F1C1a22                   | 10    | 0         | 10         |         |
+| 0x09906B8F03eA2Cb25a6C81C237C45F62007D3448                   | 10    | 0         | 10         |         |
+| 0xecc293947104720Ef4B2B15722b039A0Ab90BbfE                   | 10    | 0         | 10         |         |
+| 0x65A6CAb023ed9dd5d160e32825D45Bfa864aab65                   | 10    | 2         | 12         |         |
+| 0x295187F4AaB3d59383D73fC4fF6517C7E9Fd03Df                   | 10    | 40        | 50         |         |
+| 0xc636F9A0fb3b6f016A89ddd0BD120C6ee58A47E6                   | 10    | 2         | 12         |         |
+| 0x3c367e034237d7d661Bf5E2b9ECcacAB33381B64                   | 10    | 0         | 10         |         |
+| 0xA9d3Ddd203dd3cA13E261fE5e0Df43d1A014f59B                   | 10    | 0         | 10         |         |
+| 0xeB060e494945c8020983765a4AFe3B7e450B972E                   | 10    | 0         | 10         |         |
+| 0xc4195F4b1E7AA54DE8F536585F6b9eabbC23Ad9b                   | 10    | 0         | 10         |         |
+| 0x669BfA34E2d4D3350fc2a6C4ffc27848bAF4153B                   | 10    | 0         | 10         |         |
+| 0x9cc875C5e382a3b8c07ff89B3001687Be53a5A73                   | 10    | 0         | 10         |         |
+| 0x700bD88d6DAF37407039FAb71353DF51B9E1D4e0                   | 10    | 0         | 10         |         |
+| 0x5A9E9F97c4196D0c6A608EA213844595632D0037                   | 10    | 0         | 10         |         |
+| 0xb66daE7408EAf8A6E5844C2284A00732205bf419                   | 10    | 0         | 10         |         |
+| 0x51D4B3A9f78bcE44628b4536E2C1c7c0De9Ba8ef                   | 10    | 0         | 10         |         |
+| 0xD657Ba2F39EC1b9679ecC652b3dB4c33D858e453                   | 10    | 0         | 10         |         |
+| 0x40FFfDaeE1C76B1a13D6fB802AfDb324cfce380E                   | 10    | 14        | 24         |         |
+| 0xB2305bbdf10Fbf12c4c57C99b36De28cE79Bce5C                   | 10    | 0         | 10         |         |
+| 0x1A9246Ef07129D3a03A3f7340bb9bC4b6Cd42a1E                   | 10    | 0         | 10         |         |
+| 0x7f8bbe8E8Ff4BCaA97c015774B2FfE56Ae4c3D19                   | 10    | 2         | 12         |         |
+| 0xafea74C8E316fd3C5B2b02Bf6186ef05D7361cC2                   | 10    | 0         | 10         |         |
+| 0x965Cd12376E3cC17E894f0651DA8c9c4aFE0c60a                   | 10    | 0         | 10         |         |
+| 0xDDD67Ee8e730f930aBd68dBF290F744fc76cdeC9                   | 10    | 0         | 10         |         |
+| 0x2Ba243EF5Cff72eA821e9109D68286AddDFe0279                   | 10    | 6         | 16         |         |
+| 0x5a4d40b3D652bAb0B03bCFFd34A36144f2804Eb9                   | 10    | 8         | 18         |         |
+| 0x62C9552810c8F7357670e46F49006EeCC1c1A67C                   | 10    | 0         | 10         |         |
+| 0xb9aeFB0Fd159A733c8d8cD9D989cfb245396712F                   | 10    | 0         | 10         |         |
+| 0x1D6960de71d6dAa1F8CeAd092d6CC040461F2d75                   | 10    | 2         | 12         |         |
+| 0x549E150e0953C15420b92cA3ed9B292000A1c110                   | 10    | 0         | 10         |         |
+| 0x29CAb754aC8497f1a91f1cfE8A50560B06e0C4E8                   | 10    | 0         | 10         |         |
+| 0x0535f5D91F1F485072607f9aDEAeCFda99A6f9bD                   | 10    | 0         | 10         |         |
+| 0xa31a515dE43710cadADf65146956d4A8250F1C51                   | 10    | 0         | 10         |         |
+| 0x74a0a22917a6434043F6FBE5968EEC8a39c142d1                   | 10    | 2         | 12         |         |
+| 0x69c93573c657bddB1Fc1B26Ffd6822BA93735A08                   | 10    | 0         | 10         |         |
+| 0xd876F74E1f6D8372801e7b7b32bdeb891503a42a                   | 10    | 0         | 10         |         |
+| 0xeb3f8E615859c68Ece06EF87cFA6c46439Ace009                   | 10    | 0         | 10         |         |
+| 0xf0d4dfd0e116440F6665d6Da4008a66cfccdba45                   | 10    | 0         | 10         |         |
+| 0x96C281B011Ae206cCb61ac4c56A445D0aaf9b6dF                   | 10    | 0         | 10         |         |
+| 0x281778f8fcD98F95C3E47C9426dceE860E5B949B                   | 10    | 28        | 38         |         |
+| 0x9D85545ddF3Bb631b1103e4Fe993c51a8B57f8BC                   | 10    | 0         | 10         |         |
+| 0xb4be7b6550744fbfe088e326ce22cae13c894044                   | 10    | 18        | 28         |         |
+| 0x33968fd222ca83bb7a78D0B65B66E45C9754550e                   | 10    | 0         | 10         |         |
+| 0x9D2F582938d49a184b6c4743D13bAE1A6d6c20B8                   | 10    | 0         | 10         |         |
+| 0x15d3101639797708B0f121795d5d50c0b6ed5d21                   | 10    | 0         | 10         |         |
+| 0x1e3C2E8B3B96005ad8E5028401059E8621431B54                   | 10    | 0         | 10         |         |
+| 0x746016396eb5eA72cAf18b2771A11827b02f6038                   | 10    | 0         | 10         |         |
+| 0xE314eaeeaFba764b7A7687035dDDF7A54FcEBE91                   | 10    | 2         | 12         |         |
+| 0x7b329102fc8443d010c1653E956CE45F9a38EF11                   | 10    | 0         | 10         |         |
+| 0x88E211e9E2604219E6C2267f17ACFC4466c3c89D                   | 10    | 0         | 10         |         |
+| 0x6969619560F57A328D5e90B9ca4A16894d4025cE                   | 10    | 0         | 10         |         |
+| 0xdC08C8e4c5F7e80164d5dAD17e324d31179C57a7                   | 10    | 2         | 12         |         |
+| 0x3a2D2Ea4A182dA4b90D42b39A3e65ab6E42E9188                   | 10    | 0         | 10         |         |
+| 0x1072828400bde8e6797d75EDC9Dc2edaE58018bB                   | 10    | 0         | 10         |         |
+| 0xcBbF0141A3AB4bD08bDE229bebD971a0B7123C4A                   | 10    | 0         | 10         |         |
+| 0x74ef14097eE0BBD8e5E20D7cc42EdD4b8AD588ee                   | 10    | 0         | 10         |         |
+| 0x8437011e10d3E4198caEa5Ec4aBf4fa13d3C7F63                   | 10    | 0         | 10         |         |
+| 0xE868aE109454bfA3843ab3cf73eB8219bE132486                   | 10    | 2         | 12         |         |
+| 0xbE58124422Ab75fff68f3c56d95970202BF046A4                   | 10    | 6         | 16         |         |
+| 0x4831cc656be772d6da90c8497c9ff469e81cb986                   | 10    | 0         | 10         |         |
+| 0x03e7725Cdc108c9711eeD6A4e8750A0ee00e9fDE                   | 10    | 0         | 10         |         |
+| 0x6dB81Bf9833753acf86fF1950b83632c59b6bac5                   | 10    | 0         | 10         |         |
+| 0x15323AE74796A3343117E76b8fCA8b77fDBa9763                   | 10    | 0         | 10         |         |
+| 0x4244DA50dCABA16caC30574b9B0274e1D1323cf1                   | 10    | 0         | 10         |         |
+| 0x0E87477cd589C406a59C175b52c4Bcc6cD444296                   | 10    | 0         | 10         |         |
+| 0xbCF392Ae120f4C4f43490178A979A11f69641eEe                   | 10    | 0         | 10         |         |
+| 0x5A0B3D68D136d3E215c885aB6bDe4E9D6CEb0A26                   | 10    | 0         | 10         |         |
+| 0x6A575dD512b229ac3C8efaca6B06529f94450199                   | 10    | 0         | 10         |         |
+| 0xC272F976E3343f8b75d111321795cFE7812Dd37E                   | 10    | 0         | 10         |         |
+| 0x9A941eedcf92872B004243a5aDD6477d494dACD3                   | 10    | 2         | 12         |         |
+| 0x38CDA50557499B0B2B5ae21229098C3939d3c795                   | 10    | 0         | 10         |         |
+| 0xa42610c5a85feEd6b655f348ce2c421E3fCC5438                   | 10    | 0         | 10         |         |
+| 0x2d7E498cEA246Db9a0881C6980cea47bDA0a419d                   | 10    | 0         | 10         |         |
+| 0xe24538dA1783ca5BFaEAb312019fBa464A0c4521                   | 10    | 0         | 10         |         |
+| 0x5b652A50E2a54566d39624D746CdE2e5C31c855f                   | 10    | 2         | 12         |         |
+| 0xe9C1ef171B80877902f694F9488087946302db2f                   | 10    | 40        | 50         |         |
+| 0xB57f4e02FFBb0B455DE728167a3307D895Ce3c95                   | 10    | 6         | 16         |         |
+| 0x937b45fe83267f073530486b892a17251f940fa4                   | 10    | 0         | 10         |         |
+| 0xb56E807339c89D5ABf17cb5Cd1F9f391b8F3a436                   | 10    | 0         | 10         |         |
+| 0x6c159bE2468920aeb92f9655b330D1c61eEbaf09                   | 10    | 0         | 10         |         |
+| 0x6f3f711d14Da941E8180C00cb811D917c7906e34                   | 10    | 2         | 12         |         |
+| 0x346da4ea6B7044F70A5673fe8732f2bAE984313d                   | 10    | 0         | 10         |         |
+| 0x1982a38E87d72A8B5e96799D46cEE436650cEBbC                   | 10    | 0         | 10         |         |
+| 0x2A15F6d02E06566FD638fB567496c3AA6Fa71630                   | 10    | 0         | 10         |         |
+| 0x0a1e6eb33ccd95f9c093Eb95D28F745076fB2915                   | 10    | 0         | 10         |         |
+| 0x31B00f3DCcd491Bd91fCa1EA7F60b374cc130e13                   | 10    | 0         | 10         |         |
+| 0x6b8133E6b308e6Ca72C30527EF3a521e22FA3504                   | 10    | 0         | 10         |         |
+| 0x6ad8B197ff6697eAE2048995c53f0495DA0D3730                   | 10    | 0         | 10         |         |
+| 0xdDAb35Fc4d84763D6C98182155380D7bb0C4E1fE                   | 10    | 0         | 10         |         |
+| 0x311075E48254F6cb19B7d7eAc74389e7Fa11553f                   | 10    | 0         | 10         |         |
+| 0x9ae898CFDB121d21A28ca680e9b61b777358d6bD                   | 10    | 0         | 10         |         |
+| 0x56de1b20bd0D7F342629F987870829aA0FaFCec3                   | 10    | 0         | 10         |         |
+| 0x3dff99705C03D9894D015b81751B781bfdF4257f                   | 10    | 0         | 10         |         |
+| 0x34C65460e5371E0C8fe694D98F7aCFdC35f9A39d                   | 10    | 0         | 10         |         |
+| 0x21375798273aCab782624B14e7E45503987E121D                   | 10    | 0         | 10         |         |
+| 0xf923c16A65CF38e57eFEB3a426bF0717A3F18066                   | 10    | 0         | 10         |         |
+| 0xc456B77C10Bf40ca4443A279017d55fd29e236C1                   | 10    | 0         | 10         |         |
+| 0x58c56Fe35A647542cA097EBF5A06F056059616fa                   | 10    | 0         | 10         |         |
+| 0xf07D7aA80780EB4EAF7F15307A60Ba7921DBDB6e                   | 10    | 0         | 10         |         |
+| 0x0ed5219f8B421408b5141d23ed573be4a9a04308                   | 10    | 0         | 10         |         |
+| 0x671BB85CBF47861Ac90dD7fdE38a601F08e40026                   | 10    | 0         | 10         |         |
+| 0x3dFC0144762575bCCC4C77fDC4859428cEa09EC7                   | 10    | 0         | 10         |         |
+| 0xD0594BE4697d9c58563277Db4c297B071E2E9199                   | 10    | 2         | 12         |         |
+| 0xCB558a281A0a400bbe32298e17Fff94324f6fA61                   | 10    | 2         | 12         |         |
+| 0x2c65874325051A43Ed2a1cb1D040C989CDcFc002                   | 10    | 0         | 10         |         |
+| 0x653ab2269F4C05Ff6D333b450Cdc3Ba179870E01                   | 10    | 0         | 10         |         |
+| 0x2478235336956e9522052f358E16fA9b3d94f1e7                   | 10    | 0         | 10         |         |
+| 0x4e293A8539C8D35ba06565a39b115c1B45Cb31F2                   | 10    | 2         | 12         |         |
+| 0xadff756a4427d7cd5e9bbc1ef1431b66af18e4f8                   | 10    | 0         | 10         |         |
+| 0x157e34Ab69E3d9681274102a3497126136063437                   | 10    | 0         | 10         |         |
+| 0x4fe84f42BC427A6a5619074CBb02A9ACBE6164F9                   | 10    | 0         | 10         |         |
+| 0x17Ca4Eb422B95df82d11dAc7e487f0549b1C6E0f                   | 10    | 0         | 10         |         |
+| 0x0625cF3f6cAD9894002e5ca70a2CbCFD689439C9                   | 10    | 0         | 10         |         |
+| 0xD20F2017D5DF1C48cA43a4EBe44c991fc0828468                   | 10    | 0         | 10         |         |
+| 0xDcc44917F7B5767a968fb330e475Dd5ee7e6B721                   | 10    | 0         | 10         |         |
+| 0x049dCc79492e221bB1de166C3B2A1c213B300B30                   | 10    | 0         | 10         |         |
+| 0xc345c7CC149Cf4d685c7eF2B20a681d7C847468E                   | 10    | 0         | 10         |         |
+| 0x229770cC0b742D692553f9A37730BbdbaAe53DE2                   | 10    | 0         | 10         |         |
+| 0x93E6C829626DCd73f5f79b39b104e15381C907cA                   | 10    | 0         | 10         |         |
+| 0x558d6AA68218A7fA756612491847c4b08530B602                   | 10    | 0         | 10         |         |
+| 0x12398db9bDd9f21dd033181D40b766E596Fe6874                   | 10    | 0         | 10         |         |
+| 0xC651eAfEE8461f929656908389A642C6eD0e6432                   | 10    | 0         | 10         |         |
+| 0xa24472F913c90f5D55adf5c71B40D5b2BDd31C8c                   | 10    | 0         | 10         |         |
+| 0xD646175d7728B1f0e7bB712F3670534b4Da67a69                   | 10    | 0         | 10         |         |
+| 0x1336dE4771B7D6b6e98D4eC8C8FbFc69d5a91Bf0                   | 10    | 0         | 10         |         |
+| 0x162FfE5866c92cD90306828EADC535BE5639b507                   | 10    | 0         | 10         |         |
+| 0x97a6EA1AA9059547EE478146061F9547d769EE39                   | 10    | 0         | 10         |         |
+| 0x281b200e58a64CB679B1d5C7F22aC6662eEE7CFb                   | 10    | 0         | 10         |         |
+| 0x74ECa9AFA8460ac36E98Fe3A20839C554d03EC4E                   | 10    | 0         | 10         |         |
+| 0xfFaCd8629ABD085b1E4f8f401B5572407A1c4506                   | 10    | 0         | 10         |         |
+| 0xfa418D5c65317fa289C22f0B6B2DA673A190992e                   | 10    | 0         | 10         |         |
+| 0x1f0c5A563a4E4FfFf82F696870b9bC8DD08d3D02                   | 10    | 0         | 10         |         |
+| 0x6F3e84bb906b2aCC4A4107cfB5Ce60F65D65ed3F                   | 10    | 2         | 12         |         |
+| 0x79Ec121f99C401a2606f5bedDb27d09C1204c1b2                   | 10    | 2         | 12         |         |
+| 0xC02b7f0F7411DDFF02a7719035bbeB38177027d6                   | 10    | 0         | 10         |         |
+| 0xE0DAD52C8244D441dE1c651544D91339bE03Ff12                   | 10    | 0         | 10         |         |
+| 0x4c30B3b3e931012d88BD6a69307e75b04c3cCbf7                   | 10    | 0         | 10         |         |
+|                                                              | 10    | 0         | 10         | Invalid |
+| 0x186B3fe6f5b2253E84276285033b1B7307b564f1                   | 10    | 20        | 30         |         |
+| 0x308A27d213A0f65f1C587b8e1d54E8a1b02C880F                   | 10    | 0         | 10         |         |
+| 0x9d2eE25D260a0011739E0f62fd546B2b488A550f                   | 10    | 0         | 10         |         |
+| 0xFa9f85644F49dE84fE91183E182d6E7D97EC1799                   | 10    | 0         | 10         |         |
+| 0x8213543c2cA2Cf4f6553cA06f596135b30a5B7d9                   | 10    | 0         | 10         |         |
+| 0x179dD775A64aa3b273e75e6Cd0afF474299CbAC4                   | 10    | 0         | 10         |         |
+| 0x555a0987Cc150dE530fEa1ade7f14BC57d64E3A1                   | 10    | 2         | 12         |         |
+| 0xaEA5C5A4320979d9411B6c4e3ed37704d820D5Fa                   | 10    | 0         | 10         |         |
+| 0x8c39aCd36D1d3AC29Ee65d1545b13C0e0254A570                   | 10    | 0         | 10         |         |
+| 0xAB4B7b5F35C582Ca6CCA6C806FdCafe3D1219308                   | 10    | 0         | 10         |         |
+| 0xFBf78f03722c4a889c7a98ab138F9258eb29a67f                   | 10    | 0         | 10         |         |
+| 0xc2A3271a812EA6F2ce987fED149AC02359E077F2                   | 10    | 0         | 10         |         |
+| 0x49BaFB1945802Eb14b227e139960060Db964756A                   | 10    | 0         | 10         |         |
+| 0x82037d3C2aacd0e17E4140c2dEca6f9597ED981E                   | 10    | 0         | 10         |         |
+| 0x003cd6d401F7136c409C885C6E61A21a2Fb95150                   | 10    | 0         | 10         |         |
+| 0x19A9eaDa3a90c36934BdBD024Bf0b60EcddB702d                   | 10    | 0         | 10         |         |
+| 0x649084d896EA917D5c67dB38291a941268DE9740                   | 10    | 0         | 10         |         |
+| 0xD1eAfbB419C319AA7BCfe6DFa05F5AD4777D867b                   | 10    | 0         | 10         |         |
+| 0x34Fa85432fAfACe856e14384287c61A91F6D6d91                   | 10    | 0         | 10         |         |
+| 0x7dF263b76f67262444952c0bd44F5259e4672642                   | 10    | 0         | 10         |         |
+| 0x100892B9428aFf2a60c52a5353217D80B39cb196                   | 10    | 0         | 10         |         |
+| 0xa4e9b98D68a7533Db0764404144Db6A553197ca7                   | 10    | 0         | 10         |         |
+| 0xa51B16eeBd09105217a0522AE4c183F576D55C80                   | 10    | 0         | 10         |         |
+| 0x44439012D56bb40e4e969201ACae5117220Cbd0d                   | 10    | 0         | 10         |         |
+| 0xd0fcB5bFD88df3CeCEABE18d99139182B4491492                   | 10    | 0         | 10         |         |
+| 0xfC7bca67aa60836C54a0Ffa64E8cd1Ce1eb8aD83                   | 10    | 0         | 10         |         |
+| 0xEAC052c40e16731345Af53DFb7c941CDB07Fe6E7                   | 10    | 0         | 10         |         |
+| 0x4dF4Bf3049387C1eF920F01060364E0ae3E66FdB                   | 10    | 0         | 10         |         |
+| 0x10431675e53493A8C2909f842EF9bdaa8C4978Aa                   | 10    | 0         | 10         |         |
+| 0x8a6E2D81A7398a43181fcca6424B948b1c895E28                   | 10    | 2         | 12         |         |
+| 0xc3FAEBBA4056D8723E7F15d194c31208e729404B                   | 10    | 0         | 10         |         |
+| 0xAE84533Bf81DE80003ba3Ef5F4aCedbDD97DadDF                   | 10    | 0         | 10         |         |
+| 0x15Cd8Cda3Acc6B23761eB8e36827Eff3AA708068                   | 10    | 0         | 10         |         |
+| 0xe135990E7E1FAcc042F03e9aA2116c81b5A3FE5e                   | 10    | 0         | 10         |         |
+| 0x34949df7676bc46F6230A0aa221B24D111b5A7E9                   | 10    | 0         | 10         |         |
+| 0xde658A284Ad2567a5f7608C6CB7129f44FBd6cD0                   | 10    | 0         | 10         |         |
+| 0x8071692B1C5eFc41a75f8A9536BF2DDF7f09bb3b                   | 10    | 0         | 10         |         |
+| 0xC858cf443E2E384597040f81a3D72985C7328769                   | 10    | 0         | 10         |         |
+| 0x6f67925E349905C52b54f510af404f9E5b38da3b                   | 10    | 0         | 10         |         |
+| 0x9DeD8781A1D153e593F205462078455f8Ce9556f                   | 10    | 0         | 10         |         |
+| 0xAdd81eeC7364416DBA87342A4503Ab1D42347a83                   | 10    | 0         | 10         |         |
+| 0xD0d4AEFe5961D3956edaFf2334E2af52833e102D                   | 10    | 0         | 10         |         |
+| 0x7AD5399626cF8f799C32A1ef54268e5b630A51a8                   | 10    | 0         | 10         |         |
+| 0xEdB172f111f854040bACC89F5947698a835FccEa                   | 10    | 0         | 10         |         |
+| 0xf96C21bbe77640A51B3E2a489bCE4ff08d54B501                   | 10    | 2         | 12         |         |
+| 0x2dB34Be86d6fEd4Fbf590d5750F653EF30f6dED0                   | 10    | 6         | 16         |         |
+| 0x4008cE029a4002fD105Cb221A2453F530B94078a                   | 10    | 0         | 10         |         |
+| 0xA0f874a6D3b94Eb76885B0232B6439243BeF1B90                   | 10    | 0         | 10         |         |
+| 0x0A5481A3b982a759335d993C98920A1F660f65AD                   | 10    | 0         | 10         |         |
+| 0x9731FD7c96423E2089E5844139237a0FF552B110                   | 10    | 0         | 10         |         |
+| 0x141c72F4316cB8cc01A9eeF16e21F9665e37CE2c                   | 10    | 0         | 10         |         |
+| 0xb77FBba5efBaAD547c7B0201aCF4656dAD578CA5                   | 10    | 0         | 10         |         |
+| 0x21f3Ffb6178420A7A3115A0A83f730215410454F                   | 10    | 18        | 28         |         |
+| 0xAcaA8a7e3A4f3f9F6A573E04A25D2fF0278052e8                   | 10    | 0         | 10         |         |
+| 0x09abF9432dC98788Fd9f59E5CD84FcB5DC0b7Dc2                   | 10    | 0         | 10         |         |
+| 0xf9fbCfe2ffDCe9a36f58df8bff6D6dCAD0a0412D                   | 10    | 0         | 10         |         |
+| 0x4449fF98A71aF29198B6Aba55908b0d8bc09a7BD                   | 10    | 0         | 10         |         |
+| 0xF10f0337d769bfc9c3fC729F8c3C1BEEBcc37ecc                   | 10    | 0         | 10         |         |
+| 0x0B6075F16ef37A00905E17afeCbce7d091D928F7                   | 10    | 0         | 10         |         |
+| 0x0bC51a02d359883d3A94e5860b7F3d5f47cd29a3                   | 10    | 4         | 14         |         |
+| 0x876377485ad559487ae089c7d25eaeacbdc369ab                   | 10    | 0         | 10         |         |
+| 0xe00249Cf0bDf55E43096B0c5F646521105d55e42                   | 10    | 4         | 14         |         |
+| 0xa58DB7D9E9C3D371Bb109295253879da90E33Fc6                   | 10    | 2         | 12         |         |
+| 0x6466552758d539541879E2dbfA106AdFDA3f04bf                   | 10    | 0         | 10         |         |
+| 0x83A8F4E7f2C97d9Cd45D23Db221b1EA3EF4aae22                   | 10    | 0         | 10         |         |
+| 0x94E125eF3524BCab017fa527e5C63038448e926C                   | 10    | 4         | 14         |         |
+| 0xDEf9a570Ae771fb7F0C1C120Ad648C785E57Cf8b                   | 10    | 0         | 10         |         |
+| 0x702AE691523a468147a561240a3A6781D6d33527                   | 10    | 8         | 18         |         |
+| 0xa4F68DaF2fa5008b65C748C890fe5D39018C412C                   | 10    | 0         | 10         |         |
+| 0xCFC047607104edb81E6dA67F8B102fa9C919DCDA                   | 10    | 0         | 10         |         |
+| 0x7bcB2C5031b8a860F681B93bc124269b7703b858                   | 10    | 0         | 10         |         |
+| 0xdC5880B92AF5bDb34694B3e88527aE4fC6904Cc7                   | 10    | 0         | 10         |         |
+| 0xfbD6b5e458236051cF8EF8b041768Fd8031Ac777                   | 10    | 0         | 10         |         |
+| 0xE70c5efC2cC506aA3B7ffb96Db0a50D5B92b1118                   | 10    | 0         | 10         |         |
+| 0x7694086dd10469c791ECc5dbF7B67B13C83f54DD                   | 10    | 0         | 10         |         |
+| 0x01e112B7a98012C7A729823A102cb2F7C8248086                   | 10    | 0         | 10         |         |
+| 0xc74cEE2F782Bc257d197AC212082593757F22A6a                   | 10    | 0         | 10         |         |
+| 0x30CB6d101c8C18e58b807460f9d181706DC2dE1c                   | 10    | 0         | 10         |         |
+| 0xBe8A133d380d50743A39B7FA09Aa407a4439A992                   | 10    | 0         | 10         |         |
+| 0x6527f2ffd19e17f4197bd5bdb4964d6e6a09818e                   | 10    | 0         | 10         |         |
+| 0xAb43D9F856e2B1f87A20238B56cdce91D9455BD3                   | 10    | 0         | 10         |         |
+| 0x884c94376622cB59BD35bF50A634B99BB1D9A511                   | 10    | 0         | 10         |         |
+| 0xa2Eb48663f5e59B3A40Cda2B4a0255E59D34a81E                   | 10    | 0         | 10         |         |
+| 0x27ED5266Fd7aa5F48F0a02c1dE43cf2ba48Bb529                   | 10    | 18        | 28         |         |
+| 0xB1fdE0127BA3F09340da14D86D3c1573fD568d38                   | 10    | 0         | 10         |         |
+| 0xD90E2b692daeD62618a359985732F869C7Dcb16B                   | 10    | 4         | 14         |         |
+| 0x735b02F22A3dfa89666ca36D7104bd488Db96713                   | 10    | 0         | 10         |         |
+| 0x029cc45b8ba7073fF0314570DCF1a9229363900a                   | 10    | 0         | 10         |         |
+| 0x41290899bfe7e12de55a59B0966f1Fa0F48C52dc                   | 10    | 2         | 12         |         |
+| 0xd3f90069556d3ce3b8FAE6E071D91caE9AdfFC78                   | 10    | 0         | 10         |         |
+| 0xe13869dFA2cb2f81e6B863C1790E78aBe927cf50                   | 10    | 0         | 10         |         |
+| 0x6E06B9C5841FE58Ed098d7f2ccE49eE03eB241f7                   | 10    | 0         | 10         |         |
+| 0x58cB654325278633618e31A7B9DB9B4c5d6062fD                   | 10    | 0         | 10         |         |
+| 0x4059D8139Bd06E3147925b72838Ec5104C89AF79                   | 10    | 0         | 10         |         |
+| 0x4Cb4095D4D7626320080ba169C4084Ea5755eD8F                   | 10    | 0         | 10         |         |
+| 0xd78A30F70D6E208E12033B3bAC5c15dcB3b1f999                   | 10    | 0         | 10         |         |
+| 0x977f3abf787075bb3d332d7034fa58362cfb50e0                   | 10    | 0         | 10         |         |
+| 0xD27E19E5e4423Ee951b96C99b408f3483F67B605                   | 10    | 0         | 10         |         |
+| 0x7C5797f0595FAE1d7AEA831651Cfd395DD1Ae033                   | 10    | 0         | 10         |         |
+| 0x31E2bFCf84Ea11f3871594f7BA1a02BfEc229bc9                   | 10    | 0         | 10         |         |
+| 0xf88FA01ab5a62f6aaf58227e44eBda36897B1eE7                   | 10    | 0         | 10         |         |
+| 0x7b872Af81cfBa1feb4Da018496e865354FF8a24D                   | 10    | 0         | 10         |         |
+| 0xe3c1Bb2b358DDcb89a88152136f9aB38e989c70D                   | 10    | 6         | 16         |         |
+| 0x7F2A0b1511660A0D9a613B5Df1eBC6a95d429F77                   | 10    | 0         | 10         |         |
+| 0x80708017658465ea06DDEE0b6d6AeB168763aE06                   | 10    | 0         | 10         |         |
+| 0x233673cac6241d6A7AdDA93e03d6a00965466e64                   | 10    | 0         | 10         |         |
+| 0xaDaC3590E1573243Ba2db50176174B7Ab37297CB                   | 10    | 0         | 10         |         |
+| 0x8AfD3014AC818957fF2058603148c28d1556848b                   | 10    | 0         | 10         |         |
+| 0x2c9b8F7C457Cf931208311A6B06406CD2Df9DA11                   | 10    | 0         | 10         |         |
+| 0xdEBBEd32F2f99033b19fb07481D91b4b24F9565B                   | 10    | 0         | 10         |         |
+| 0xD9F893d15D035e70B81C64b9B660B3EE948bE31D                   | 10    | 0         | 10         |         |
+| 0x8a1f11478e4609aa81abff3fa22fcd0ff877da1c                   | 10    | 0         | 10         |         |
+| 0xb11B5860213646439A3e177aAB361d5AFE03D09D                   | 10    | 4         | 14         |         |
+| 0xfc3370aC9Af0B78891dd3bd316d61c2A2A4C69AC                   | 10    | 0         | 10         |         |
+| 0x9d6404Bce1234a013c6084C49E87e37669100E67                   | 10    | 0         | 10         |         |
+| 0x9E7B04997Db025C488aAF63bF22Aba39dEFc070b                   | 10    | 4         | 14         |         |
+| 0x4907f72927953C7F4bDcc859C3623888140843a8                   | 10    | 0         | 10         |         |
+| 0x653BfF4f8F3Fd4dFad3Ce6eCCb17CbbcBa674d73                   | 10    | 0         | 10         |         |
+| 0x40027d9Bb1B805fd18030Fd30C86C5B61F4DEFf3                   | 10    | 0         | 10         |         |
+| 0x2920846Ff534c4936A565189AFc922E19D8E3142                   | 10    | 0         | 10         |         |
+| 0xaB8BB4061602dF7892c59A27A38b34ac460fcECb                   | 10    | 0         | 10         |         |
+| 0xdBE6F401DA75C36cF76b4983FA388C84eC3B3f20                   | 10    | 0         | 10         |         |
+| 0xe6bD0F17ABb8BA8e44e5f4ed32Ed3177E621B459                   | 10    | 0         | 10         |         |
+| 0x73232E52E072cA928b9514760C18FD328579a4b3                   | 10    | 0         | 10         |         |
+| 0xBaa154D50602518c6164FD1c2056184E7CF989cc                   | 10    | 0         | 10         |         |
+| 0x63349C3EF262953E2Ac6F913cDDD948AFf91F44C                   | 10    | 0         | 10         |         |
+| 0x28743c80D4CEa085c21435c0161118049B96FEbA                   | 10    | 0         | 10         |         |
+| 0xe65425563d42c7CF34851D0f576F4B8084Bb072A                   | 10    | 0         | 10         |         |
+| 0xaed0b8c44e39843b532860D73099832F7627CBf8                   | 10    | 6         | 16         |         |
+| 0x1FFbD50cc2079a4A183F4053619B4803a93873c2                   | 10    | 0         | 10         |         |
+| 0xe4f1a77dC14b8EB1b9034816c745de8877dcF2B5                   | 10    | 0         | 10         |         |
+| 0x13BF65b6AC9D28B37837e0c2B1b6B0f35A7b10ea                   | 10    | 0         | 10         |         |
+| 0x9c0Dbc4cb75312B25A3469DbA0d453a81f030180                   | 10    | 0         | 10         |         |
+| 0x502A9864c2a8CC5438C5a57719870344Ef4C50c8                   | 10    | 0         | 10         |         |
+| 0xf15D88c0F340eaD3683fBE311C8107D313d077C5                   | 10    | 0         | 10         |         |
+| 0x0dE363101B1B37409438CF41692Ace39eA3c8522                   | 10    | 0         | 10         |         |
+| 0xd00a1881B7444802944c7FD2b64FCA7b3845e904                   | 10    | 0         | 10         |         |
+| 0xfcD1EcaCC8A553d199BAF7AB0eCb7Df5B8F9C722                   | 10    | 0         | 10         |         |
+| 0x2deD508695a35B0bE6391A2499Cf6943AD62C5C4                   | 10    | 2         | 12         |         |
+| 0x6ff1D320f868969c8b51eaf00C658e0F3562c695                   | 10    | 0         | 10         |         |
+| 0xFc483a19aaf42723c959Fa738767c3E8C44530E3                   | 10    | 0         | 10         |         |
+| 0x5eA0F683621bA9D4b8f09Ff376E33847192922f0                   | 10    | 0         | 10         |         |
+| 0xba4eF19fB18a054731d22f412c28d57B6f95032F                   | 10    | 0         | 10         |         |
+| 0x3cC0c773d1698e59af59fca2381e3d2DFb11ec1b                   | 10    | 0         | 10         |         |
+| 0x0d24Dd5E041c3527bb059Dcf508A87E7E6aC4D64                   | 10    | 0         | 10         |         |
+| 0x58B3b9405AE5e2030b7BDf940363F13610D44eE2                   | 10    | 0         | 10         |         |
+| 0x716C183906248f4507a8791040Ea138F091b9Eb6                   | 10    | 0         | 10         |         |
+| 0x36fCc9fEf1Bf90B74aeF419a334CdC8B8F9bFb10                   | 10    | 0         | 10         |         |
+| 0xb981d622c0f2e50fc3eac6b73c07f37a3671e8fe                   | 10    | 0         | 10         |         |
+| 0x4a43c8cdc029efB1934ee6BdA9F692658cB8Fe38                   | 10    | 0         | 10         |         |
+| 0xadff756a4427d7cd5e9bbc1ef1431b66af18e4f8                   | 10    | 0         | 10         |         |
+| 0x1C45E0E90E3d98A2B366e2bffEC300f088B20Cb0                   | 10    | 2         | 12         |         |
+| 0x6880F95b1ceEf4E8358968E23ce87EeE4f00e42e                   | 10    | 0         | 10         |         |
+| 0x54d2872639CDf6b781CF891B3F1507C4802cB44b                   | 10    | 0         | 10         |         |
+| 0x45eE9e89A7faE2C20C2B9274895855f293DeFB28                   | 10    | 0         | 10         |         |
+| 0x76edf7407fC9635192b983eF0a1548eDC8315Af5                   | 10    | 0         | 10         |         |
+| 0xA0BF6E01EeBD2277dD7F0B01bA1C3018820E550C                   | 10    | 0         | 10         |         |
+| 0xf89fBea9272EEcAA8Eab66e7eA9d5d2c6E7889f5                   | 10    | 0         | 10         |         |
+| 0xc6Eba3D73f74E68ebeed4d30D5e2651AF65F6a26                   | 10    | 0         | 10         |         |
+| 0x48778b33672a5eBC75627450c4914F4e1005B8c4                   | 10    | 0         | 10         |         |
+| 0x4595dAD5a57039721d4b11288C231A8ea1470ebF                   | 10    | 0         | 10         |         |
+| 0x857D0727C905Bb19AD071718d1c203F7632508Bb                   | 10    | 0         | 10         |         |
+| 0xAb41dB9470464C10ceD92C4653627e901111e8b3                   | 10    | 0         | 10         |         |
+| 0x106b839fcd9d5eAF1a7540428Df948970bce1ef0                   | 10    | 2         | 12         |         |
+| 0x433acAE899E0844A533725FD27634B01521Ec42e                   | 10    | 0         | 10         |         |
+| 0x9AadDA26C541bD9d70eDC861A151227E22cB3063                   | 10    | 0         | 10         |         |
+| 0xe3e28E90e49058aC2Bb8087d27D17f8B9Abec021                   | 10    | 0         | 10         |         |
+| 0x2EB33867E10470325DC83aDb0288947A24bB9E44                   | 10    | 0         | 10         |         |
+| 0xcE327E1065450BC80f9EBE68C883BB782DC16Dfe                   | 10    | 0         | 10         |         |
+| 0x6880d0b84138269C2912e50d9F5d784442F297F4                   | 10    | 0         | 10         |         |
+| 0x416C1df0998AaE55C7Fd1bdC83182A8697ff5098                   | 10    | 0         | 10         |         |
+| 0xdCf096750e591d54c959De1C010aA7aa78693CB9                   | 10    | 0         | 10         |         |
+| 0x620146106CBEEa7Eb060191D9c973Ecff9A6af42                   | 10    | 2         | 12         |         |
+| 0x2318415F0bD2d8844605e81afdd043b54AB0e7e7                   | 10    | 0         | 10         |         |
+| 0xa1634541a6Cdc5cE6d7D8EFa81FCca27211767E3                   | 10    | 0         | 10         |         |
+| 0x6027Ce6EA661Be27647EaAE28eba3ce7Df119a50                   | 10    | 0         | 10         |         |
+| 0x462797e039e4f36911f92C1e592ec9d407a9E4e6                   | 10    | 0         | 10         |         |
+| 0x3a8f5FEe039CC8E74E586afac881Bb8fa78B56B2                   | 10    | 0         | 10         |         |
+| 0x8fcA6b4af1f28a8acF92998352079B55Cd34e442                   | 10    | 0         | 10         |         |
+| 0xa0123723D5697731E02C74a0069D99BD32186eCB                   | 10    | 0         | 10         |         |
+| 0x4675fb9525DB345cC17808A2AFa77C6E77AA5DcD                   | 10    | 0         | 10         |         |
+| 0x61cCDCd55A5eDfd4138472a8a3acC9DdbAfB399d                   | 10    | 0         | 10         |         |
+| 0xCeC29930ac20027c63e004365Bb3E64df7ec7cF2                   | 10    | 0         | 10         |         |
+| 0xE5f6aE11932B80132fD937493cBEEba51Db74525                   | 10    | 0         | 10         |         |
+| 0x38e2e7A742CBF2b4Bbcf56Cf8c2Fd8E319DCb2ed                   | 10    | 0         | 10         |         |
+| 0x160e6D5D9a32C98Ddb266fccdf3DFf86e73aE3B7                   | 10    | 0         | 10         |         |
+| 0x8BeB6718Ccee3Bb73CB4Dee40A22EdA33AD3a654                   | 10    | 0         | 10         |         |
+| 0xF30A6900f9586aBd800f929FBC637D5115B2f03E                   | 10    | 0         | 10         |         |
+| 0xC3320970a8634aEf26373E7D67879a40646c41D2                   | 10    | 0         | 10         |         |
+| 0x61deF0746e8a4C379c7e577D73450De0953cc7Ce                   | 10    | 0         | 10         |         |
+| 0x323b140222cdEa8E9d5fF8b55404005eF1050eEd                   | 10    | 0         | 10         |         |
+| 0xFeDaFa9A994e235B46cF3d4ab2B144Aa378b0C26                   | 10    | 0         | 10         |         |
+| 0x135d2c9b2F058CFb6Fd4693D059D3a3Fc8D178Da                   | 10    | 0         | 10         |         |
+| 0x802DCFC2dF0cF38A6D75F6C1ABb2b48aeF696b72                   | 10    | 0         | 10         |         |
+| 0x1F1BbEB49920722685D032ef7346f5D700c9E1B7                   | 10    | 0         | 10         |         |
+| 0x02815b3C48c67f8C11259eaf69a0f45750141d0d                   | 10    | 0         | 10         |         |
+| 0x91a9f2d02Beb5F8cCFeEd13794477f0915C670C8                   | 10    | 2         | 12         |         |
+| 0x3A03c75d5Ce482e9F95CA07B57895dbDB810cf6F                   | 10    | 4         | 14         |         |
+| 0x93bCF054f8a784bfFa0813A175353493Fd4A484B                   | 10    | 0         | 10         |         |
+| 0xCeeAb8516d7A48Bf94c61387bECB7aa6F83955B6                   | 10    | 0         | 10         |         |
+| 0xc49F51AA9A5fe53A35154dFc6e02811fa010495c                   | 10    | 0         | 10         |         |
+| 0x19763A1Bd960046aCE1DBe0c320E4BDc21A01A3f                   | 10    | 0         | 10         |         |
+| 0x091A9bdA053F05c0bbf1fFC6f930C69282B93cBE                   | 10    | 0         | 10         |         |
+| 0xfa0082c9f453D46A17AE304586aEe019e9B8Df8f                   | 10    | 0         | 10         |         |
+| 0xA9Dc085e796f0Bcb0991AA01574116A746c4a5c9                   | 10    | 0         | 10         |         |
+| 0x3e7517a5E079b2A685ebb5eE47A645578B4D4472                   | 10    | 0         | 10         |         |
+| 195594232                                                    | 10    | 0         | 10         | Invalid |
+| 0xD779C31917cd687A07d13e6f7a25C78ee8590027                   | 10    | 0         | 10         |         |
+| 0x4BBA6a377b83EebFc25EE33d2e2A7481997566D1                   | 10    | 0         | 10         |         |
+| 0xf55d5a3d4C00E3E0FF8e9Cce38AFc471e912D8C6                   | 10    | 0         | 10         |         |
+| 0x0f3F64223385e11813b32E76e6D7d797d111956f                   | 10    | 0         | 10         |         |
+| 0xf844d9083b5a77901e2ea72ed24dBB20e469DC40                   | 10    | 0         | 10         |         |
+| 0x93650a6b28c1aB4F77e5F4dbF938B4B36AB8556E                   | 10    | 4         | 14         |         |
+| 0xA4c9F5d05BBAb8104996d79B1af824b84f4C7553                   | 10    | 0         | 10         |         |
+| 0x6e3ab33Fcb4585711883F5a5Fd0B8FaF11c0dd1b                   | 10    | 0         | 10         |         |
+| 0xe34Fe498c4074eAcA067FDE9c8fa5708Da6C9fc5                   | 10    | 0         | 10         |         |
+| 0xd5C4c41c6d1e40A1E2C1C2B70FF54f9d239d39d5                   | 10    | 0         | 10         |         |
+| 0xa3B84B37c77dB47833Faff00B8Af513172F45f62                   | 10    | 0         | 10         |         |
+| 0x09c71effCe549513acc63E0F698281Ae7AEF896D                   | 10    | 0         | 10         |         |
+| 0x656e6A28433FA8c512f87379aAa95c0Afa8B06Bd                   | 10    | 0         | 10         |         |
+| 0x2EF26B40991ab18bD8DdE57B680633c4040BBa89                   | 10    | 0         | 10         |         |
+| 0x3b4325CFb484E6c7361889A5Dc14B9779a6671A6                   | 10    | 6         | 16         |         |
+| 0x5D3c9091Ec3b96C652f4F4E5f0fa539AA2E82a66                   | 10    | 0         | 10         |         |
+| 0xf4ea25D719D90A5eb1C56101Ba947Ba09eA2eD36                   | 10    | 0         | 10         |         |
+| 0xE1F36e16EC84F8C2763E1070e53FAb1eAA1aDF49                   | 10    | 0         | 10         |         |
+| 0xd90551Dc7B6fB8Cc48ee46bc3B95Eaa80ED0Cc38                   | 10    | 0         | 10         |         |
+| 0x43AbA6743574B1bf0f6DebE15C040f1b89E0e979                   | 10    | 0         | 10         |         |
+| 0x8d7717dbd76d3206a321e03327fbe015531c126a                   | 10    | 0         | 10         |         |
+| 0xBEfbfc96592A4644f28F3A72FBE02A93Aa45A1A8                   | 10    | 0         | 10         |         |
+| 0x39F234A6Ef150346E887a036C4Ea1642E26e87ec                   | 10    | 4         | 14         |         |
+| 0x7390d7484f6Dd081393bf27891052Ef46236052a                   | 10    | 0         | 10         |         |
+| 0x76Cac956D368D51318243B81C8FF12317FEDe966                   | 10    | 0         | 10         |         |
+| 0xa6b8dF9d210414c268DaEc0977A4Ca94d75f3301                   | 10    | 0         | 10         |         |
+| 0x0d448498bbF3Cd4c8deC95ea114276dbBB656458                   | 10    | 0         | 10         |         |
+| 0x534564F38B92EfB274d0D1C9C6a070F0c04B9C53                   | 10    | 0         | 10         |         |
+| 0xA3a61Da6e80C19B1Ca162c85A27700935F88c682                   | 10    | 0         | 10         |         |
+| 0x508F1F583F3158094C3f491417279b5685972e5d                   | 10    | 0         | 10         |         |
+| 0x63Eebb35243BE42a0Ac86c4D7e2a83cA7F83F02d                   | 10    | 0         | 10         |         |
+| 0x17722e59B50e890e4AaDf12EdF4D38f30c96D4F3                   | 10    | 0         | 10         |         |
+| 0x158C104c9891E2D1f6CE85cDD665424E2f9b927F                   | 10    | 2         | 12         |         |
+| 0x8629c99aD4F66D59D6Fe4106b030Df95aDb85fB8                   | 10    | 0         | 10         |         |
+| 0x30125584bF9862d8B1C5f69e068FD25f906BcedC                   | 10    | 4         | 14         |         |
+| 0x3AbD91CfFe9DEb0a50b0557AD7b97dF207943365                   | 10    | 0         | 10         |         |
+| 0xa2b2d646e8ED11CabDaeD612f26c91cB68D706a3                   | 10    | 0         | 10         |         |
+| 0x6ea838a76443351A1C9Ba9C01E4183E88d414037                   | 10    | 0         | 10         |         |
+| 0x53B7c98105ad4ba171500beAec3fcb5fEa00067f                   | 10    | 0         | 10         |         |
+| 0xfCFa2E804A9fb18B0EA554dC6aA98E21E19dB54d                   | 10    | 0         | 10         |         |
+| 0x6D17aD6d608E14b84BA9B370759820AFAe7BaB14                   | 10    | 0         | 10         |         |
+| 0x44E9A67f1B00Abc21a0711b1257DD02353daCD2D                   | 10    | 0         | 10         |         |
+| 0x749492Df7A86f0dA735CcDa1e3DDB31286863D3d                   | 10    | 0         | 10         |         |
+| 0xD2dc1C7EcDB2784ce4fAC0A88a5fe983994ec7da                   | 10    | 0         | 10         |         |
+| 0x6361c4F100f1C99e736bb4EF06eb728b2c7D90b2                   | 10    | 0         | 10         |         |
+| 0xa16c604966D47a627e48b6D1c87d5748E7f26Db9                   | 10    | 0         | 10         |         |
+| 0xf480E70ead7BB407dFF83EB8Ea7c1B197e6DAaB2                   | 10    | 0         | 10         |         |
+| 0x9832Da7f9Ee944fc8910dA28B384Abd7e85C93B4                   | 10    | 0         | 10         |         |
+| 0x4B15Ea4f3BC7dFCFC62FBb374a445AAe1887CbE3                   | 10    | 0         | 10         |         |
+| 0x54cDD18ece44f7EF82b44b239989bfb0FD684966                   | 10    | 0         | 10         |         |
+| 0x68E52a57E5CdE24EC83B871508a758f05392993a                   | 10    | 0         | 10         |         |
+| 0x8a890d3da3baa1F47c7bfb133985D67C711Be93a                   | 10    | 0         | 10         |         |
+| 0x8915E0990Ba399A0D9Db90C610676A6c220041A4                   | 10    | 0         | 10         |         |
+| 0xebb4638d41BC7D8EA6F1a1bE89aE8d1427266d32                   | 10    | 0         | 10         |         |
+| 0x7999282cE01C97328e5C5584c508348720e70eDb                   | 10    | 0         | 10         |         |
+| 0x8d45F5FC4611eF78A124244407a6DC1BCdD87faF                   | 10    | 0         | 10         |         |
+| 0x3F1dd979E1C6B07e7A9d60A5BAa31C355Ce48Fb6                   | 10    | 0         | 10         |         |
+| 0xfBDcaAb21B3dA7afF53Ba9e2ab20c878BdAF0729                   | 10    | 0         | 10         |         |
+| 0xacD40cCAED033d984C85590DA0d240Ac4cDE68f4                   | 10    | 0         | 10         |         |
+| 0x3DCa991a6E817D3C5246e8Ae75b9351B9c5E724E                   | 10    | 40        | 50         |         |
+| 0x440F4425797a81c8A9bA3885Be10e17a1d22E659                   | 10    | 0         | 10         |         |
+| 0x6Cb4c5F6Ea9927Dc43cD0EE8E1DfED3618D23DdD                   | 10    | 0         | 10         |         |
+| 0x5F9028B0cC0D244579206A5f91B35DD8A352FFe0                   | 10    | 0         | 10         |         |
+| 0x4f64b3A8635Ba63De3Daea4eFf8A9Cc79462E311                   | 10    | 0         | 10         |         |
+| 0x89832FA1d623eC73FbFa8c3cE9aeE9ceB5Fe31e2                   | 10    | 0         | 10         |         |
+| 0x6b7b0Ff933429f1B8871356FAC8Ace30c3441685                   | 10    | 0         | 10         |         |
+| 0x8726A79153391b817C8f6c97d6b8E325e12aB867                   | 10    | 0         | 10         |         |
+| 0x7446c3D1b2d55Bb961C1458faeFbeD71ED105b43                   | 10    | 0         | 10         |         |
+| 0x2d220f1Fe17eA08E642A21F39Ad050B88196FA2B                   | 10    | 0         | 10         |         |
+| 0xCB66a36f5847f0f1B21aC0e39779172159b0e8fE                   | 10    | 0         | 10         |         |
+| 0x7cF6d8cc1a37E6bA6Dc22165b5C5655f99559fd4                   | 10    | 0         | 10         |         |
+| 0x53aB39d3fCe0d4bdc31B8031a36Fae911c8Dc801                   | 10    | 0         | 10         |         |
+| 0xBa86557892003a3Ec972A6aFaFAFa5EAad518FC1                   | 10    | 8         | 18         |         |
+| 0x84681a8D75E8081B9C586dE960ac8854e9eC19ff                   | 10    | 0         | 10         |         |
+| 0xcA9D458674F319Bdc6B9F9A0f358cd92Ccf5e96F                   | 10    | 0         | 10         |         |
+| 0xFe269c3Ca640D21998bfbD66Ad35bBF3402A8a93                   | 10    | 0         | 10         |         |
+| 0xccf67c07Ef76c523f295eB1a59b38aBe9cF52036                   | 10    | 0         | 10         |         |
+| 0x3528C3C2955c30CBC5ec4D15C1fa377EF5D2f562                   | 10    | 0         | 10         |         |
+| 0x1863e428962bbDFF3a4C6d491B06d4284F04BbC2                   | 10    | 0         | 10         |         |
+| 0x5998283c92828846f8ceC670AAC77D4Fa1b65A70                   | 10    | 0         | 10         |         |
+| 0xAcCC112e79B00c088CD45c3f2bA9e53a5E05C950                   | 10    | 0         | 10         |         |
+| 0x168Cdd9a4890be822810C6da5C94aCbE351Ae89c                   | 10    | 0         | 10         |         |
+| 0x87C7475E80fE021554EB89f7feCA919541eDaADc                   | 10    | 0         | 10         |         |
+| 0xfe6129D12977e6038eE01250Eb6683aC833DAbaD                   | 10    | 0         | 10         |         |
+| 0xdb908773b01a934E216C4A6cFF8ad6615Af6Ea51                   | 10    | 0         | 10         |         |
+| 0x6E93e3330633965715fB4E4e8e8A674cF479e3D9                   | 10    | 0         | 10         |         |
+| 0xD58A34a63Aff1193D7B8F6A9eC31Ad74A20F8ACB                   | 10    | 6         | 16         |         |
+| 0x66903CC3e4Dc3E8F370FA13aE77CDc164f973033                   | 10    | 0         | 10         |         |
+| 0xB25242D6dCb6Ea90D46037749119147B4c059DBd                   | 10    | 0         | 10         |         |
+| 0xbc84d47b8B205A318079c3CD511e1EB25E1956b9                   | 10    | 6         | 16         |         |
+| 0x0fEc28E5416fC3D6A21452600bAC46db3Cfbdb03                   | 10    | 0         | 10         |         |
+| 0x8aA33cBEcCa410d1bd07414797A60295942a97bb                   | 10    | 0         | 10         |         |
+| 0x5176Ba5050D0cafC74218a15Ed7771E1e7D03Cad                   | 10    | 0         | 10         |         |
+| 0x24fBeA704952Ea8989B6ba98419c7E8E81077321                   | 10    | 0         | 10         |         |
+| 0xadff756a4427d7cd5e9bbc1ef1431b66af18e4f8                   | 10    | 0         | 10         |         |
+| 0x468FeF8aa13a721DeD560558D3789ae5C1b04124                   | 10    | 6         | 16         |         |
+| 0x34345Eaaa6b7dcC3cd7bf433156a343e89C93a53                   | 10    | 0         | 10         |         |
+| 0xab4F61Cb330e83dA1fDBb4Fa42031aED1b5665E7                   | 10    | 0         | 10         |         |
+| 0x0fe64c512d0240D082D15d6B3b2c43A6669C868D                   | 10    | 0         | 10         |         |
+| 0xA2f19114C6120E0A90c499019ed72F4a12FaD3aD                   | 10    | 0         | 10         |         |
+| https://twitter.com/Duy31882630                              | 10    | 0         | 10         | Invalid |
+| 0x389C1A4867dB45B0bdaAaF8c5f31755ad9773Ec8                   | 10    | 0         | 10         |         |
+| 0x2b9d0c299d41b21c83A6eB057808Bc053038ed25                   | 10    | 0         | 10         |         |
+| 0x4f214d0d3eA48b8B9CfcAF4F009f0c275400423e                   | 10    | 0         | 10         |         |
+| 0x064c4f1D8B5aEc73d5b9C3d1B83aE6B1e70B91f5                   | 10    | 0         | 10         |         |
+| 0x0F595Bf5dE1F3b556B3dFb925CCe54C20CdB0a79                   | 10    | 0         | 10         |         |
+| 0x71B311FdA5949647B403554b107fE7D31F3fFA30                   | 10    | 0         | 10         |         |
+| 0x43E0F2654058a56A9Ba41B0D129ad2D0c294b8eC                   | 10    | 0         | 10         |         |
+| 0x94bf625A16e696cBb6aC776d498435782b37AF88                   | 10    | 0         | 10         |         |
+| 0x8D8223f42359bfed9b9c9a0E156e2BfaAFDFdd69                   | 10    | 0         | 10         |         |
+| 0x9c61063CE9C6148f6725Ef780206C56CC4aafcd0                   | 10    | 0         | 10         |         |
+| 0xd1bf1B2c3d033ba004FdCbD3a634105e18e3A34C                   | 10    | 0         | 10         |         |
+| 0x4e8Db7eeA79Dc151c78b47254f00E04D14842515                   | 10    | 0         | 10         |         |
+| 0xBf5AB7C23aFBC8d7f7A17aE16b3e0B76c5AC264E                   | 10    | 0         | 10         |         |
+| 0x7de28B55fD0f11812087e48D33e6B13c3Ec82DBa                   | 10    | 0         | 10         |         |
+| 0x47c2261c843cA8b21947a0FD41FC0B20e4B899e5                   | 10    | 0         | 10         |         |
+| 0x3B349568c930f338621CccC2Fc952f975498aAa8                   | 10    | 0         | 10         |         |
+| 0x297C75abE93F2271e26A2Df9cF5Fd50667946ce8                   | 10    | 40        | 50         |         |
+| 0x71E7665ef14264678FEA3A1FCD9f0947C922B399                   | 10    | 0         | 10         |         |
+| 0xC4592B723158210451DEf4609530fED6828Fe20C                   | 10    | 0         | 10         |         |
+| 0x23501d6a8bDF46a986fd5CE50e06923D6c74d653                   | 10    | 0         | 10         |         |
+| 0x99f8c0B566F17E70b73603eB993110227F3b321E                   | 10    | 0         | 10         |         |
+| 0x522ed1ac9cFA63fc8b26743d11a43B8Eb5490d53                   | 10    | 0         | 10         |         |
+| 0xef37107C5f288fe098D23267918f1Ac504f62Bfb                   | 10    | 0         | 10         |         |
+| 0x2fE5F217F9Ba3CaF99Ca1d81707f2c8FdB262D44                   | 10    | 0         | 10         |         |
+| 0x7A5b1fE5F6384fB3F8fC6aeb21Cb30f8EFb715c1                   | 10    | 0         | 10         |         |
+| 0x25b2046de7d2f50d9ce1ed74f744a6c049904dfa                   | 10    | 0         | 10         |         |
+| 0x75bBFD503B810EB3BDF30527EC6b0AE973ca5CD4                   | 10    | 0         | 10         |         |
+| 0xD322593a77FC8B0fC956747F71A024D76C980484                   | 10    | 0         | 10         |         |
+| 0xadff756a4427d7cd5e9bbc1ef1431b66af18e4f8                   | 10    | 0         | 10         |         |
+| 0x9Eb324418d47D685EceE180bd829700f8E892AcB                   | 10    | 0         | 10         |         |
+| 0xD6fB3FD271C3b87768d52B45983456bc962126ce                   | 10    | 2         | 12         |         |
+| 0x052207D847DB4f5DC691D773d5871E59202f218D                   | 10    | 0         | 10         |         |
+| 0xB8e5E0DF2300667189e2348cF4832CeCC6e4D2BC                   | 10    | 0         | 10         |         |
+| 0x2391baD61B3F055dbBaEbeA8112A4B9FF2F19F89                   | 10    | 0         | 10         |         |
+| 0x221109517f80Edf28Cee7e31034A9D6bc56134B9                   | 10    | 0         | 10         |         |
+| 0xed0843836e639e2016b2abf872b0f0178c55745f                   | 10    | 0         | 10         |         |
+| 0x9A4b36B647D2Bc57a3e74db3EDEe071af1261339                   | 10    | 2         | 12         |         |
+| 0x863377d696aD0454d5291E567B248EcfE6b69921                   | 10    | 0         | 10         |         |
+| 0x5D25357984634536676627017f3E00C7EbB7101b                   | 10    | 0         | 10         |         |
+| 0x4D779580155c2e16abF0F541043e28156914B113                   | 10    | 0         | 10         |         |
+| 0xbaAaAa1CB60fDBEE87abEE512e594eD286caFD21                   | 10    | 0         | 10         |         |
+| 0x9301937c42DE72351B9A505c0f789Cc2B51C17da                   | 10    | 0         | 10         |         |
+| 0xc117De1260481698da8aFEcC23E4ef57f07305Ca                   | 10    | 0         | 10         |         |
+| 0x5ea63FB22D7f886f459d5892980fAe66E34C1b53                   | 10    | 0         | 10         |         |
+| 0x9A8C45f61D966e7b7024Be735Ce24113490EBB38                   | 10    | 0         | 10         |         |
+| 0x6CC2FEC4Ed850b1B6f836EF72a1a566B0fBc92F8                   | 10    | 0         | 10         |         |
+| 0x630C9c0c19B19BDE1250c77351d66BBE2FDC70d5                   | 10    | 40        | 50         |         |
+| 0x560b55B651D4E650574C1e17Cc37E9A99DE28cF4                   | 10    | 0         | 10         |         |
+| 0x11ae84D3AEDB080665060AF3021535021b9b1CCC                   | 10    | 8         | 18         |         |
+| 0xA657F26cF393e61f76f49940a41595Cee45420Ce                   | 10    | 0         | 10         |         |
+| 0xfb580ECe85B5Df2b1489B0BC862b370caa8A14a2                   | 10    | 0         | 10         |         |
+| 0x05E4AF735500Ae7Eea10f77f0da6a331309B3eD1                   | 10    | 0         | 10         |         |
+| 0xD478064e0FAf68AA3a40A4a48546DA2268E28367                   | 10    | 0         | 10         |         |
+| 0xb092E726DB40AA6046ad03236473706898d211c2                   | 10    | 0         | 10         |         |
+| 0xFF5186E1857889004dC45ccbFdd4888d58e66D41                   | 10    | 10        | 20         |         |
+| 0x94F9DaE66951C9E584BED62aA9dFe617F3EDFD56                   | 10    | 0         | 10         |         |
+| 0xbA4d6189Cac69E146A0151A4ab72433F8b63B34C                   | 10    | 2         | 12         |         |
+| 0xe3c6147f077884337c356035ea3fb28296661eb5                   | 10    | 0         | 10         |         |
+|                                                              | 10    | 0         | 10         | Invalid |
+| 0x60702e0C64900f02D59Dc0d5C32BcE7A42203ba5                   | 10    | 0         | 10         |         |
+| 0x6c3Bb0d081Ad3Ad841283C71C02d6acc9b1994ba                   | 10    | 0         | 10         |         |
+| 0x0e3737547D6E8f2890670Ae50632671034362653                   | 10    | 0         | 10         |         |
+| 0x694e40fD84FCcC513C13bA7E9E83d3Dc8E87D1ad                   | 10    | 0         | 10         |         |
+| 0x10bf77a12Acf7c70702FFA177D9D0B52E940c57C                   | 10    | 0         | 10         |         |
+| 0xC40e81EdA5E256530C760a7A83EE430a3Acd67AA                   | 10    | 0         | 10         |         |
+| 0x880Fbd880CC56cf06f618523397b01c557e4aFe7                   | 10    | 0         | 10         |         |
+| 0xA13637316e84a8e59f167F5b7B48476741D20057                   | 10    | 0         | 10         |         |
+| 0x5a2fE48c96C490078757Bc11a159b64F13d89321                   | 10    | 0         | 10         |         |
+| 0xCaDc5a856C3B75780662c7fDb98bCaDCbd187a1F                   | 10    | 6         | 16         |         |
+| 0xE2DB5e3A04e7EFc21afaF7212F9EdCa94bDc9957                   | 10    | 0         | 10         |         |
+| 0x532b8D4A7Aae3848C184bebd963Ad267EAe7E31f                   | 10    | 0         | 10         |         |
+| 0x26B328B647a64b4BE5cA8739Ba334BC962E6632B                   | 10    | 0         | 10         |         |
+| 0x13E798d536269Fb0995745e079BE8aA7082623a0                   | 10    | 0         | 10         |         |
+| 0x635Ff4320c81c1ce0b46c4fE6154e8A4f4E45f5e                   | 10    | 0         | 10         |         |
+| 0x0fB086947065bef474050FAF756e20e1f0d79D80                   | 10    | 0         | 10         |         |
+| 0x0a610d80532474830F0De708aE1cDAB8F3813341                   | 10    | 18        | 28         |         |
+| 0x7Fd438b22a2Df43C7d8bFfd94AE590d3346EC972                   | 10    | 0         | 10         |         |
+| 0xB9e4478DdaF2175eA407Ca0068c5ba8161f43eB2                   | 10    | 2         | 12         |         |
+| 0xa200411355f33218f37bb123525c1880de83c944                   | 10    | 0         | 10         |         |
+| 0x467017704911420DEE3C6fAff105b6F634168362                   | 10    | 0         | 10         |         |
+| 0x290eC028c95bf11d5805Da35f345C00dE3ebc869                   | 10    | 0         | 10         |         |
+| 0x21082FbE66781b9c416dB83e216d6799481a4e28                   | 10    | 0         | 10         |         |
+| 0x81A2b6B079a54Af3601eEa2a0040d8331C948b12                   | 10    | 0         | 10         |         |
+| 0x80a8dED52D4aB6f2362Ea8EE52663e9841d315de                   | 10    | 0         | 10         |         |
+| 0x3aC70dFE157dAA93dA83091f1f741F0943119a85                   | 10    | 0         | 10         |         |
+| 0x8335714365be415FDe7Cd2Ac429570C200332405                   | 10    | 0         | 10         |         |
+| 0x75d21d8971d84Dd23Da5D723A3B46a3c770b70a2                   | 10    | 0         | 10         |         |
+| 0x4388E96071A70283C23895D8B17572626722134B                   | 10    | 2         | 12         |         |
+| 0x13E7a1315E963ae6F7dfB38501aC347AC759E7FA                   | 10    | 0         | 10         |         |
+| 0x0BAdD73A099E215374F90bfAf0C4Fae6C400F290                   | 10    | 0         | 10         |         |
+| 0x98020a33D40AE1D9521C1BB7f95A14a9AD41e717                   | 10    | 0         | 10         |         |
+| 0x31119205474E1EAe547c48710F9ef71624eB34f2                   | 10    | 8         | 18         |         |
+| 0x2EeDaF8fA71016f0e78dF95b467f887c9DA04C4a                   | 10    | 10        | 20         |         |
+| 0x747425fd4f7002c5Cb515614C196C6a30157ab53                   | 10    | 0         | 10         |         |
+| 0x75AE2004289283C470b4b39b295408a357d32eE9                   | 10    | 0         | 10         | Invalid |
+| 0x388A01cfF5623A5bA2C145C16E9Cf611Ca75BcB2                   | 10    | 0         | 10         |         |
+| 0x1c6Fb668149b064638D81988B0Ece31CAd50E3c6                   | 10    | 0         | 10         |         |
+| 0x632Fe2d60Fe33Fba113096F8580f9f199e7Ee700                   | 10    | 0         | 10         |         |
+| 0x50c1bFf72540ECBFfa9C55754CF7727F1e2CC27E                   | 10    | 2         | 12         |         |
+| 0xa83333B3D2d595a7B85a0280C538012f927bE837                   | 10    | 0         | 10         |         |
+| 0xA6db602bC30d16F9A67eaD2Ef490796fd0bF306f                   | 10    | 0         | 10         |         |
+| 0xB84f72016F8a7b5558d8Eb92da3033432f1e0fe3                   | 10    | 0         | 10         |         |
+| 0xc75259f12f5a263b7bbde23514f232cdccdfa42a                   | 10    | 0         | 10         |         |
+| 0xF9d2d6cB8859C420dCcd2A5631e39FA8B510d8cC                   | 10    | 0         | 10         |         |
+| 0x63369A7686fa9ab7B93e8ABb020C02606A396581                   | 10    | 0         | 10         |         |
+| 0xE2C4Ce6960B7951bE81886C5d0f148b869B54F93                   | 10    | 0         | 10         |         |
+| 0x5d08dB0b923CA243D87a99cA5097186d8310956D                   | 10    | 0         | 10         |         |
+| 0xedc41E0d9424e86Bef2EB4c146308A404861e1Eb                   | 10    | 0         | 10         |         |
+| 0xf7f02067336c40152Cd1C5c17b7F4e7274f40b4B                   | 10    | 0         | 10         |         |
+| @rajamahesa4                                                 | 10    | 0         | 10         | Invalid |
+| 0xf0b295c01b7223369aD0665e5FaE176A5C6Aa699                   | 10    | 0         | 10         |         |
+| 0xd837d225a8e0C14292DAbBAE1A56d08B4DEEAA42                   | 10    | 0         | 10         |         |
+| 0xEE4Eb7d8A0d0216daF2c7269A0410eF88dEbd4bC                   | 10    | 10        | 20         |         |
+| 0x99Ea56b627e2eda6F40C1D3459ED552558351c1A                   | 10    | 0         | 10         |         |
+| 0x72DE1B382b4b6D05128C7960963D645b9F4d6228                   | 10    | 2         | 12         |         |
+| 0xEe690a6C844e9A945Fbe057be679A8245B3f0Fdb                   | 10    | 0         | 10         |         |
+| 0x69fCe03c07d3b3C5e547cabEb2a781c979bbc8Da                   | 10    | 0         | 10         |         |
+| 0x04db547c0e8fa092B5aaAD96D9BD01346efF05f8                   | 10    | 0         | 10         |         |
+| 0xF7214be4b867592F9B1bdc4607dA4512c1208CcC                   | 10    | 0         | 10         |         |
+| 0xe316A4e8247f77Ae7e75E4810603DEb8d6d4215b                   | 10    | 0         | 10         |         |
+| 0xdeBb3AD56Bd328008cb497CD03425394B2748190                   | 10    | 20        | 30         |         |
+| 0x5403F4Fd481DdaDcE9F7B6585c228CD0236Fe1E3                   | 10    | 0         | 10         |         |
+| 0x3525Ae71a084b426E71AdB7CC9C6c60958015EC4                   | 10    | 2         | 12         |         |
+| https://twitter.com/Ojo_Diwoco/status/1425502524715388929?s=20 | 10    | 0         | 10         | Invalid |
+| 0x85aC0646d31d238dB7C22abE7adBCBc0CD2Ea458                   | 10    | 2         | 12         |         |
+| 0xFbdD5e05500EF4C1fDCf1f5460496CacA55c4Fb8                   | 10    | 0         | 10         |         |
+| 0xf745Cffa730C1Ca398059a5cdD37F10db2d096CA                   | 10    | 0         | 10         |         |
+| 0x3C4aaA9EF97C8FA2C6823257D28A242bb6E67C27                   | 10    | 0         | 10         |         |
+| 0x1e2Ddf3ef94eC08c000d154Bf96f59B44b625Ed1                   | 10    | 0         | 10         |         |
+| 0xA774B92751674d56A9d8d5a15fCA4338beAab03e                   | 10    | 0         | 10         |         |
+| 0xcE9caff81c2bb26f040EC934585408C5f293E7E9                   | 10    | 0         | 10         |         |
+| 0x26012bc21b82a874Fc917e0Ba40400b3644C62d7                   | 10    | 0         | 10         |         |
+| 0x407CA2e442C6b54F3d434fD9e0B954c81e862577                   | 10    | 0         | 10         |         |
+| 0x43492175Af94C7FB5C35848F341Cb27D08eF5146                   | 10    | 0         | 10         |         |
+| 0xC6e4E5440B037C4012d9A2000ea1cD02c962dA61                   | 10    | 0         | 10         |         |
+| 0xBB21D7E54925652E3250b225cc66DE2D42A5f0C4                   | 10    | 0         | 10         |         |
+| 0x451ca742d900d1A9702D71B3b65f6425E8EffF7E                   | 10    | 4         | 14         |         |
+| 0x2bdDb47d4298f59E48B9A018B1Bc2ce0534Bae6E                   | 10    | 12        | 22         |         |
+| 0x7E69C48a8A411f2C21a80fe3617AD95C46A47F6C                   | 10    | 4         | 14         |         |
+| 0x5eb4673330E8Fa18Aa721349c05767A313D97e25                   | 10    | 0         | 10         |         |
+| 0x7bbE934aA18f73fA3227436D87635478E997Aa2c                   | 10    | 0         | 10         |         |
+| 0x57a3b086445d49f555553251B2d7F0C88b4B8168                   | 10    | 0         | 10         |         |
+| 0x0D11CAf4E99C39ccD2eDca01dACD5DD17115536e                   | 10    | 0         | 10         |         |
+| 0x17Df844332fcd94223e9E7AfA79176F3bc843136                   | 10    | 0         | 10         |         |
+| 0x8bbfc4ab10ce0f5fa2ab4ee1526e1aa2c6c12fff                   | 10    | 0         | 10         |         |
+| 0x2De98Eb49630Af49E9b78Ae6A21A86baA84c48a7                   | 10    | 4         | 14         |         |
+| 0x61edBB3fe3d835b48a770fCBDedC1F988Dd53F82                   | 10    | 0         | 10         |         |
+| 0x0f57bD6C47b4E47bf581e7476ccB9C51abbA41Bc                   | 10    | 0         | 10         |         |
+| 0xA05d24792Ad553a8d1A16c1D9978aBFaE92d86ad                   | 10    | 0         | 10         |         |
+| 0xA3B9A540629beC564E736915204A0EABFA15BD53                   | 10    | 2         | 12         |         |
+| 0xbB7C8908F120FdD524033acEBCBf745eC69a1240                   | 10    | 0         | 10         |         |
+| 0x86D3E50DB9BC9e7477E8cdbeA3eED69936DD6d1a                   | 10    | 0         | 10         |         |
+| 0xA654610E63dbd330BfEbd513111e433206278571                   | 10    | 0         | 10         |         |
+| 0x147386beFF209c12ff917c329795E485b3b45F04                   | 10    | 2         | 12         |         |
+| 0x57d5a24Cc8B0CC2840b9B87eF3325c7B42218acb                   | 10    | 0         | 10         |         |
+| 0x57f954327c4027879893CBDd0c5B57Ba13FdaDbD                   | 10    | 0         | 10         |         |
+| 0x0E1cC0Daa5B23f563800f43A9f0fA2954156c01E                   | 10    | 2         | 12         |         |
+| 0x0c9aC323a5C72DF1F438bF2F4F7FC889A33eFa7B                   | 10    | 40        | 50         |         |
+| 0xB09165D0EE2e4e5CaA222FF38fd42f6Fb1C4776b                   | 10    | 0         | 10         |         |
+| 0x973171ea6FE13d8a54F643A3CeCD116125c8BD0C                   | 10    | 0         | 10         |         |
+| 0x4551CfC0f77cd488B9910Fb4620B38480f2CBD20                   | 10    | 2         | 12         |         |
+| 0xB5BbbD06ee592b74cD02Fe5e9B2530f19B96bd66                   | 10    | 8         | 18         |         |
+| 0xd6425cF70ca7283b8660B31F566f8F17b3e0B06C                   | 10    | 0         | 10         |         |
+| 0x2aBDAF43F8daBe835f640d534677241d6A46c944                   | 10    | 0         | 10         |         |
+| 0xD3fc54980574130b3D8e2A0A88E7B4d716C4562d                   | 10    | 0         | 10         |         |
+| 0xB37d38e6F886438528C854Deaabb11f9abEC3681                   | 10    | 8         | 18         |         |
+| 0x431cb2420d1b3eBA3E495503A81b60179cc37bab                   | 10    | 0         | 10         |         |
+| 0x99f695BC4874488EfE24eD92C43136917723a3d8                   | 10    | 0         | 10         |         |
+| 0x3c48Fb0db0306aE3Dc6960530553FeB13A60eC0d                   | 10    | 0         | 10         |         |
+| 0x474F36F1E0beE6cB19F58eC148E9061E9351653C                   | 10    | 0         | 10         |         |
+| 0x038Fb7d2f36DfF239eA1D543c3c4cd43FbC79dC9                   | 10    | 0         | 10         |         |
+| 0x75C835a2d0070bCA5397ac9BFb9CFBc7305dB0D8                   | 10    | 0         | 10         |         |
+| 0xFAe44B153CD6dC949473c5FD1d177A07D84e6DfC                   | 10    | 0         | 10         |         |
+| 0x52218fFaf1f69611c7dA711d03cf4f3A64fD7eab                   | 10    | 0         | 10         |         |
+| 0x32b5109a02fd97E6F0761699C61286c4B80901E6                   | 10    | 0         | 10         |         |
+| 0x35be9d2078f69b48ddb80E3186183c06c6f2612a                   | 10    | 0         | 10         |         |
+| 0xe9496B2EB4FdCDD924bD10113d20Be036E77475D                   | 10    | 0         | 10         |         |
+| 0x31Bc770F24a19BF0608bc60d119ed465769FCD0F                   | 10    | 0         | 10         |         |
+| 0x59480d6C34BE74FE21e30f3e7DCE0e2312858A2B                   | 10    | 0         | 10         |         |
+| 0xB52252481E809e911D807E3abC7451cb0Fa015c7                   | 10    | 0         | 10         |         |
+| 0x44E04c5946179907d2020F27499fD83E828F4481                   | 10    | 2         | 12         |         |
+| 0x10F6800d7870C0d609Cf96a645f900D55E0A31c5                   | 10    | 0         | 10         |         |
+| 0x8D2c486ebD160D3Ff49c9E808E273BA2F1568Cf4                   | 10    | 2         | 12         |         |
+| 0xa097D488277148ce9105ec8B538786312742d043                   | 10    | 0         | 10         |         |
+| 0x234b20151752F33247f4B026790E5841dc2B9E90                   | 10    | 0         | 10         |         |
+| 0xf15c6F6A66e778b441989E5da8b9675f78dD89d2                   | 10    | 0         | 10         |         |
+| 0x53a8a4e083c18F2d5F96BE160FDa17402AA8D23e                   | 10    | 0         | 10         |         |
+| 0xd31594289d7781e88491811aA114E4dBC753b2C5                   | 10    | 0         | 10         |         |
+| 0xf6c8D2A9F98c4B78d6626D50a08E99BEd91B5c1b                   | 10    | 0         | 10         |         |
+| 0x0E3Bc1310dF584846DdA3Bd3A09621ba87E712Ea                   | 10    | 0         | 10         |         |
+| 0xF21cF0cb9C05A6A4E2cC742B088d25CB957C58E5                   | 10    | 10        | 20         |         |
+| 0xF0080f0e2902bAE8A9cB47a0b9cD74e8566FEfdC                   | 10    | 0         | 10         |         |
+| 0x971d48dBbCF7337C285CfcDDbD9430aD2c266196                   | 10    | 0         | 10         |         |
+| 0xC2E173FA87f8B1c4d47Ba743e6cDb6313fE693AA                   | 10    | 2         | 12         |         |
+| https://twitter.com/Stella96998988                           | 10    | 24        | 34         | Invalid |
+| 0x8B7270AA38C7453bA0DEabb672e5A366404123C2                   | 10    | 0         | 10         |         |
+| 0x946f48c7310fA71531F189A4C120dd030928cC12                   | 10    | 0         | 10         |         |
+| 0xE716BD7687C7417Ca60Ca2D64a98f49356C4119d                   | 10    | 0         | 10         |         |
+| 0xDA7448FFa98A7A65A7051B30f9eD9bac02E8cc71                   | 10    | 0         | 10         |         |
+| 0xB06881bA4Fe2F30B56f1714496328772bD548329                   | 10    | 0         | 10         |         |
+| 0x4bd3697A2A6EC8B4Dc5D0D394017767471e4238A                   | 10    | 0         | 10         |         |
+| 0x202e5090673433601878beF4DFf0c6B393C39Ccf                   | 10    | 0         | 10         |         |
+| 0x230943b4769709EFD710c29a9dDA887e492d753E                   | 10    | 0         | 10         |         |
+| 0x15A67b71B2764e7C6D8ca3f12faC345cC3e0Cea0                   | 10    | 0         | 10         |         |
+| 0x54EBbe98960e2e30DC26be8D4279002d27ab1f96                   | 10    | 0         | 10         |         |
+| 0x62c90d2c07b3eb6a3089C40E63444791d4Af22A1                   | 10    | 18        | 28         |         |
+| 0x66773F240e6da22611c020D5994640D99B844A74                   | 10    | 0         | 10         |         |
+| 0x9E880A6C1e50e49005eA3f2Efac39faf1818805B                   | 10    | 0         | 10         |         |
+| 0x0fa28fB2b768Ecf3Ebed2d4e10625492D8468043                   | 10    | 0         | 10         |         |
+| 0x5A87Fb22B1e5ce9c33f40EbbD90321c0dD06D0ca                   | 10    | 0         | 10         |         |
+| 0x97aF5d4E524DE439314eB7fcf2C76fa79Fd3cc41                   | 10    | 0         | 10         |         |
+| 0x9E84FCa0D95c2d182e0f66DECB356d174974C118                   | 10    | 0         | 10         |         |
+| 0x1C77a87D7E5DD37F8EE9bB17d11D58E25abe22a1                   | 10    | 0         | 10         |         |
+| 0x8c499Cc1fEb516c30028C107ABF902cAc8DF8ada                   | 10    | 0         | 10         |         |
+| 0x6c6a96C4404b7B5BFB8868F6b16A5A3e48647912                   | 10    | 18        | 28         |         |
+| 0xf286c619EfB4d41336dFF19779fB5840B9C164Cb                   | 10    | 0         | 10         |         |
+| 0xFd5f4cd82168a97C80fF7D7cb818F312777C3ac2                   | 10    | 0         | 10         |         |
+| 0x046bd4c95687DBB28045BAb21d777735B519D40F                   | 10    | 2         | 12         |         |
+| 0xB17E4CA8216192575c3eB9b89A85c28c7DcBecC5                   | 10    | 6         | 16         |         |
+| 0x13D0e6c8D7F9cbdAd4A0021D4f5bd976c9e4EeAE                   | 10    | 2         | 12         |         |
+| 0x6b25FA27e93a2C4165B337CBf08CdE1CbC1157Ec                   | 10    | 0         | 10         |         |
+| 0xdD572E542c96B710f2752B630FE408cC1df658A5                   | 10    | 0         | 10         |         |
+| 0x832217D025A7b9116DecF4b1eAcF0557346819c4                   | 10    | 0         | 10         |         |
+| 0xadff756a4427d7cd5e9bbc1ef1431b66af18e4f8                   | 10    | 0         | 10         |         |
+| 0x3d652c4ef3733C1289Ec7c3F25Aa1a5Bc5606c39                   | 10    | 0         | 10         |         |
+| 0x98db5B21c79F29fF02E61b4d58d42872Bb755aA6                   | 10    | 0         | 10         |         |
+| 0x3D52F553f9DC84d9733ea2AD1422f03fa6Cdc0b1                   | 10    | 0         | 10         |         |
+| 0x42d7471bE82f9729a2E6A452B3E013193731Cf87                   | 10    | 0         | 10         |         |
+| 0x5ed3a66318CB258f0fD6f7203F0d7885e3767a8E                   | 10    | 0         | 10         |         |
+| 0xe99F30f67ddD1bb73A2b9C5Ba67D17EC096e4aCf                   | 10    | 0         | 10         |         |
+| 0x8932e50cd4EDb8002478296560aFF1afba7e9a0d                   | 10    | 0         | 10         |         |
+| 0xdb3a5A54dE19bad66905f927219b153F4992A358                   | 10    | 0         | 10         |         |
+| 0xa1B1C2378039567f57d4Ee6CFb25513A69295674                   | 10    | 0         | 10         |         |
+| 0x20D34e56938e8823d03a23c25e7F096d7a1db0f4                   | 10    | 0         | 10         |         |
+| 0x7a7e5FC69250483f34Ffb8888981fa793ec3b2dB                   | 10    | 0         | 10         |         |
+| 0x1eaee8915e29b0E617B059Fa3bdFa0c13241ae9D                   | 10    | 32        | 42         |         |
+| 0xd304B329C6091f555259EBcDa3Ab6516D3001F1c                   | 10    | 0         | 10         |         |
+| 0x969e16E9b40FA082798F923a4B344c4Ec1b88cEd                   | 10    | 0         | 10         |         |
+| 0xC963662126B72FA84906851f2240faD4efeF7c9f                   | 10    | 0         | 10         |         |
+| 0xA4a11713e8C11e19DedA5b395F548762F890011A                   | 10    | 0         | 10         |         |
+| 0x84026F904133bf541a0c2A9Fb697d74D7F21EcFc                   | 10    | 0         | 10         |         |
+| 0xc211861afDa1898D781f71fadabF4965D93B00ED                   | 10    | 0         | 10         |         |
+| 0x49c0DC5231fd998CD71764adE4cE5DDDcCce6E10                   | 10    | 0         | 10         |         |
+| 0xb98d19CD5AaA3852da3Ab32AD5C35Db284D01170                   | 10    | 0         | 10         |         |
+| 0x891384a04ba4C907b7C68A5754cdad17d5E0252B                   | 10    | 0         | 10         |         |
+| 0x7BAeA78A993bB25Df727682cd9C781D9EAba524f                   | 10    | 0         | 10         |         |
+| 0x4079a933Ee3cc2426800d18C265A974fcE20a45b                   | 10    | 0         | 10         |         |
+| 0xfb982189d3d48f221f6215ae38330478e9303e70                   | 10    | 0         | 10         |         |
+| 0xb848b343915842868Fe6056493a55C0a8444eEd5                   | 10    | 0         | 10         |         |
+| 0x88961fdF63C21c71292ABd7F9f8623fD6c479158                   | 10    | 4         | 14         |         |
+| 0x493ff01D089b138e6fb1C485413dce32aA84B0b7                   | 10    | 0         | 10         |         |
+| 0x7DC05E641A8f848A5D8dA2D7861b7e856e2E1e1b                   | 10    | 0         | 10         |         |
+| 0x6Db66e2C3069eb11351cbEC0473aBB17724273d6                   | 10    | 0         | 10         |         |
+| 0x13ff2c1bBeeD17578a09583C2CBC06E982Cacc11                   | 10    | 0         | 10         |         |
+| 0xF606c0d2B37b9d052BCC61A05c08cfB489bD930c                   | 10    | 0         | 10         |         |
+| 0x6A862376F8ACd94C03eAB26aB6d4cFc4Aa05432a                   | 10    | 0         | 10         |         |
+| 0xef50CaC44129b56272D4DF731c02D8985D53A247                   | 10    | 0         | 10         |         |
+| 0x6b16554cAA2ba1618744166154bf2ecCF767113a                   | 10    | 0         | 10         |         |
+| 0xca1dAbdfC706A4F6DE528FE99B624c2aeC787E9A                   | 10    | 0         | 10         |         |
+| 0x62e9e09B47B1e5341f1BFb2F4f318ad6FaBfdE56                   | 10    | 0         | 10         |         |
+| 0xFE3712e6DA19B379addee9D93177e0E67eEb7D66                   | 10    | 0         | 10         |         |
+| 0xA5fDBE99251B4d39B5f4b75154dd1eb434aAB52b                   | 10    | 0         | 10         |         |
+| 0x109C2c106C57151c36e162bd9c43967b34d2f8Ee                   | 10    | 0         | 10         |         |
+| 0xE21Acc118AF2A65B55A3c30DA9020A582C867d3F                   | 10    | 0         | 10         |         |
+| 0xC1307e901565A2E40423179CE9eE26239ee269Ff                   | 10    | 0         | 10         |         |
+| 0xC3CAa17abf2526a64Dead8436f82f9CB13580409                   | 10    | 10        | 20         |         |
+| 0x79A1BD0aBc3dDF18b4BA5eFCDd13a119D89379Fd                   | 10    | 0         | 10         |         |
+| 0x64154bbB9798Ed75B005c73998fA0A23b5ea8DbA                   | 10    | 0         | 10         |         |
+| 0x52EA8Bef45D0d8e8B083fBDeFDd6214Fd69839B2                   | 10    | 0         | 10         |         |
+| 0x4AF048A4A29Eb77c320b7c88C171D87C47fF2e7A                   | 10    | 0         | 10         |         |
+| 0x1d075cB2C720fff6265de8F07f82301664C6A67B                   | 10    | 0         | 10         |         |
+| 0x0e640EB45aadF0604ffb5561359C621f4D8F0947                   | 10    | 0         | 10         |         |
+| 0xca8B8823Bfc87F16C511A1BC89df3C2afB6f31ED                   | 10    | 4         | 14         |         |
+| 0x26256b63F8F823690A56dBCE5b531f1B88c03447                   | 10    | 0         | 10         |         |
+| 0xF111Fa86A5E010e9a68726dA52429ea7d53C6D45                   | 10    | 0         | 10         |         |
+| 0x0D071bb825dA3919D7454f67E5f17472c0f647Ca                   | 10    | 0         | 10         |         |
+| 0xB0d2bC8d13d20F7b6B23D937D2640d141Ca35dD1                   | 10    | 0         | 10         |         |
+| 0x2e60a7e805fC44663Da70c0E4690C4386aB98F36                   | 10    | 0         | 10         |         |
+| 0x3467d240F5FFbcB6f4389CeF6a9ce18a7C99D331                   | 10    | 0         | 10         |         |
+| 0xD0B9013C429E4113CB88cd3c70152C1ec75fbee5                   | 10    | 0         | 10         |         |
+| 0xf2a8B8a1189FD57a9EF1079bE05EAe4A59Fd9C33                   | 10    | 0         | 10         |         |
+| 0xc3A5151D8e9c6044847677bFa2890dE452dC5A64                   | 10    | 0         | 10         |         |
+| 0xD15e43b3A06c42958a5b98DA82Eaefa3bd97D6EF                   | 10    | 0         | 10         |         |
+| 0xc673CCFe4110B58a212707001bC967a45e99E171                   | 10    | 0         | 10         |         |
+| 0xEF02298606599a9dC603A905ac07c7eEEc437e70                   | 10    | 0         | 10         |         |
+| 0x94E8E48FFd76971bE7907cfE2b44E768243e42a6                   | 10    | 0         | 10         |         |
+| 0xCeA08F7377Ace4Fff145c4380e856D49a6f93A85                   | 10    | 0         | 10         |         |
+| 0x31285B04082de3427813651A05DAe14cF25FB259                   | 10    | 0         | 10         |         |
+| 0xdAa01df47b0D8112682431FaA3DB4a7359d04DB4                   | 10    | 0         | 10         |         |
+| 0x25b44E85Dc605C6e3E1beEbD5c43E8DCC7Feef5D                   | 10    | 0         | 10         |         |
+| 0x3C382f71AcE68BFeD13BF8cBAC1Bb6ECf0834e4d                   | 10    | 0         | 10         |         |
+| 0x36818cee4251A6ace5e4D3176dd408b2eFb31d38                   | 10    | 0         | 10         |         |
+| 0xe0069253a84D9D5d4a33C9c6014c0A055f503B8f                   | 10    | 0         | 10         |         |
+| 0xC539A94F7eb460dC7B962E5E4cEc436b173f1B19                   | 10    | 0         | 10         |         |
+| 0x8EbdD4EA538fc5a219425D641D7EEeA2d3aF836D                   | 10    | 2         | 12         |         |
+| 0x5E5FAfe50317d6D0c9e4F9fAA6B47dbd01f89670                   | 10    | 0         | 10         |         |
+| 0x09eaDf04856530b0293dA7109CEBc92ebf8D7Cb2                   | 10    | 0         | 10         |         |
+| 0x7BC02C2e04BAE6b205b5937Ee95dd0a3DE6ee6a3                   | 10    | 0         | 10         |         |
+| 0xD977E0B34106e678104Fa76dc97e53eEd1BA5F74                   | 10    | 0         | 10         |         |
+| 0x6ceb42b644837c2cD3F840532266201C3542a900                   | 10    | 0         | 10         |         |
+| 0x472DE30321bAB6c2E8f8d0F0A0B349B650576D04                   | 10    | 0         | 10         |         |
+| 0xB18f9bC7A60EC441704E4680C62aBf32b61949fd                   | 10    | 0         | 10         |         |
+| 0xD5F4583311dC47e3d5e63BC3316Eb16355B687fA                   | 10    | 0         | 10         |         |
+| 0x140e4007AC2Fae75E6828F14C3891bdA423f69B5                   | 10    | 0         | 10         |         |
+| 0x2Ad2700DBF79Bc4524A3B098050E7E21B9a48e94                   | 10    | 0         | 10         |         |
+| 0x1D3DC784Edea64C05c447B0CeCbD87CF28603a50                   | 10    | 0         | 10         |         |
+| 0x8F98B5A4a95a6d134536F1968539Bc1C226Da2E9                   | 10    | 0         | 10         |         |
+| 0xf947A9e39f978FF00e0aF3723C9Df09Bee66816C                   | 10    | 0         | 10         |         |
+| 0xAEb9F18Cf6468df643832b2632b2f75B7B3B2D28                   | 10    | 0         | 10         |         |
+| https://twitter.com/SmallFi80937191                          | 10    | 0         | 10         | Invalid |
+| 0x131ca046fCD45d289d99d211DD7C9E3C09F98455                   | 10    | 0         | 10         |         |
+| 0x30a3b4AC10a63C1A36e804fe45Ecef9D8b8755E6                   | 10    | 0         | 10         |         |
+| 0x451A5Abfb9Ac993fA54e1c727Ae7D011196d82Cb                   | 10    | 2         | 12         |         |
+| 0xE847ae4560cee68dC6c58Ed7F9f85f4EB8153B10                   | 10    | 0         | 10         |         |
+| 0x165b2F880a8A3dc50a1Ffcb56e70c01B81e2FC5E                   | 10    | 0         | 10         |         |
+| 0x2327937B930818b157dD51D20eEa5C5450173170                   | 10    | 0         | 10         |         |
+| 0xEFfedBF8FF4E13E079B5b3a3E5DD8B6bFD17760d                   | 10    | 0         | 10         |         |
+| 0xA18c5076858357c8b96aCa0F473d8B00AbC588C3                   | 10    | 0         | 10         |         |
+| 0x48248a1b91c272B1Ee45c22Cf7bf99a390695398                   | 10    | 0         | 10         |         |
+| 0x3E64322AC7b5583E6a9736175Bb6f63B6a42318E                   | 10    | 0         | 10         |         |
+| 0x1d6B3225A6996d693EEC61CdCea8B1a0229bcC22                   | 10    | 0         | 10         |         |
+| 0x440DE8b4E2ae9C63cB1C22C9eDD32Db11De86113                   | 10    | 0         | 10         |         |
+| 0xBA4FaEeA7Ee39f34753638360893925730B0a441                   | 10    | 0         | 10         |         |
+| 0x201793c91A0ac7b0F23664009F1A96d1B382E71E                   | 10    | 0         | 10         |         |
+| 0x9049457EdD2AB8c2Ad424E2b50ED48756d2eEE7c                   | 10    | 0         | 10         |         |
+| 0x5AFed8dCaC7AB414D821624F2764f5D98792b3f6                   | 10    | 0         | 10         |         |
+| 0x37295BB051427377046F1aF61226E62dC4E4A2DA                   | 10    | 0         | 10         |         |
+| 0x98E139271AB5a981314406961ed5093902309743                   | 10    | 40        | 50         |         |
+| 0xCfF11F9B64e3d0B2eBDE481D57B57733F5112e27                   | 10    | 2         | 12         |         |
+| 0x88C368696E86250b5D6D0fb61050D6Bb82554aBe                   | 10    | 0         | 10         |         |
+| 0x9cf7d6D2F8436a7Ec2C673726f551C5528c00333                   | 10    | 0         | 10         |         |
+| 0x38a4d578a2fe6aB8e7f96d989c0e0238B155A7ba                   | 10    | 0         | 10         |         |
+| 0xe0eB1eA82F44f4c84161a586D24110a082B84806                   | 10    | 0         | 10         |         |
+| 0x347b37a49e88667a3E72EfcCf65B921BC2a5335d                   | 10    | 4         | 14         |         |
+| 0x54dA93e938A019c457d81AE13C39291cFD95BED9                   | 10    | 0         | 10         |         |
+| 0x856f67E2D7032661B6a0983a4747038FbF08ec14                   | 10    | 2         | 12         |         |
+| 0xeb8dEC99221D45b101904a616fdd00e94aC40a7f                   | 10    | 0         | 10         |         |
+| 0xa13b6D9c76279a873EA8d6C10113708669d1ec0F                   | 10    | 0         | 10         |         |
+| 0xa6e42406CbF336688D5261F766bd54d3652e5DAe                   | 10    | 0         | 10         |         |
+| 0xEdAc58e337914A496fDF7321C9Eba29C8Cc61B15                   | 10    | 12        | 22         |         |
+| 0x121a74721f51805676035B56ACBF5d6A955C29Ff                   | 10    | 0         | 10         |         |
+| 0x9A4a387aD1C18aF0655d1bE003E9Ca910183F500                   | 10    | 0         | 10         |         |
+| 0xdF9926524962441381cdbd18051B7D0803E8A4F6                   | 10    | 0         | 10         |         |
+| 0x342569b986136C540834B217B0361F6666425B47                   | 10    | 2         | 12         |         |
+| 0x7aEd382d6F5A9F69D1aE2513139296eE52Da9438                   | 10    | 0         | 10         |         |
+| 0xa5DfFae6a43F0d661B69fdC35B2CDB8777878735                   | 10    | 0         | 10         |         |
+| 0xc6Fc9075E719CbA71037d56d354E2dB62bFca7fe                   | 10    | 0         | 10         |         |
+| 0x6CC653797Ee7D8B222398B06108b472ccE1eD496                   | 10    | 0         | 10         |         |
+| 0xf560a066f587374fDb9Fafda83315E863A1803d5                   | 10    | 0         | 10         |         |
+| 0x2cA74FE9587AAB04D0f9fbdDE6D9C581ac3a5F9a                   | 10    | 0         | 10         |         |
+| 0xC1C88c4b8031193663E24c8436588cC8285053bA                   | 10    | 0         | 10         |         |
+| 0x70723a76ad8Ca6F88200B255F3E249bd937ed6E3                   | 10    | 0         | 10         |         |
+| 0xC486737e2EE896d5F2e99d97485139B21Bf1F8b4                   | 10    | 0         | 10         |         |
+| 0x327f2b01223f9E55079C898Dd148330aA802B8c3                   | 10    | 0         | 10         |         |
+| 0xEbE030e494B45289641Ca468Ffa391E3070c571b                   | 10    | 0         | 10         |         |
+| 0x9bebD3FE2F9fB4955716DBC2B5b3d1CfAf13b876                   | 10    | 0         | 10         |         |
+| 0xa898ABe978F2DEd3224Fe3421ca995a0ba1235d9                   | 10    | 0         | 10         |         |
+| 0xfbFa0c8f8A9A16B0cE2f8Ce218C3Eda3496e9020                   | 10    | 0         | 10         |         |
+| 0x3e0e5d4255D4137ca4913A8A3048748cB8775922                   | 10    | 0         | 10         |         |
+| 0x9A30e26deE409D181CfA062cc8EfA66309d7ACeb                   | 10    | 0         | 10         |         |
+| 0xd7249b40e368402eb86bd6Eb30F77d44Cd496564                   | 10    | 0         | 10         |         |
+| 0x58FA767B74feA4c75AE68dFC59e36778746AaD2A                   | 10    | 0         | 10         |         |
+| 0x48B2779E7915Fdba7757F636C5f8f3B170D28d06                   | 10    | 0         | 10         |         |
+| 0x6B593F330D179EDC0a4f940037D13c35bD5871be                   | 10    | 2         | 12         |         |
+| 0x79f0E5f7AC4D0b4b0ef092c2744E4aDdD05dcC6C                   | 10    | 0         | 10         |         |
+| 0x5950cb38333EbA5E394B6c551B344C27A7472573                   | 10    | 0         | 10         |         |
+| 0xF257274C2F3D50a697F9989219C43C2f7f5aB858                   | 10    | 0         | 10         |         |
+| 0x9e44f4Bc13bB3E7047b9ddF91b685b84Fcdc42e7                   | 10    | 0         | 10         |         |
+| 0x4Bb350A4D5EC3FeC4C0c95355BcBCB342E8B294E                   | 10    | 0         | 10         |         |
+| 0x41b2DDf9dA45458E1967619E468A367092041D01                   | 10    | 0         | 10         |         |
+| 0xfD9f8f64020873BC29FC8B71154f3FBc19082748                   | 10    | 6         | 16         |         |
+| 0x704C4f54164b1714Af46b5Bc5A274C852d6A1a52                   | 10    | 0         | 10         |         |
+| 0x551098Db16652Db2E1Fd719AcC00A0D1BDe657F7                   | 10    | 0         | 10         |         |
+| 0x26f2e5F85a74F6e554EAeECd95F3eb2227a296C3                   | 10    | 2         | 12         |         |
+| 0xD5a5945bCa0f3521eF620Ea4C8a26B8b0ffe17c3                   | 10    | 0         | 10         |         |
+| 0xa0f69be167bA26b625f73F1E7Ed66aEAC4617223                   | 10    | 0         | 10         |         |
+| 0xf1cEb6bD617150a4c29Dea0d575A5a010D6A4c9F                   | 10    | 0         | 10         |         |
+| 0x89D3c42Bf4d9Dee85ab96C185f9412DDa44ED94c                   | 10    | 2         | 12         |         |
+| 0x78662bec600d791392adeD86458835aA0ABc58C1                   | 10    | 0         | 10         |         |
+| 0x47da9435f9a3cDbBedC53CC56E2c97A1ED4faF61                   | 10    | 0         | 10         |         |
+| 0xbF0bBbeD38554498C1e84cfe34C2e9B9c191a75a                   | 10    | 0         | 10         |         |
+| 0x438c2B52D45D91C08633FD9a8bD6C332D03778f3                   | 10    | 0         | 10         |         |
+| 0xAC805ece0c3571Eb793D3B5256c4744cef87BcE2                   | 10    | 14        | 24         |         |
+| 0x370b28B66FEa4A4C929754aCf36EF855366c450E                   | 10    | 16        | 26         |         |
+| 0x2cD3384494B8F1bC4f6330983d9302D90701915a                   | 10    | 2         | 12         |         |
+| 0x0d7e959B5934e37952C8464Ac44Ad0614F3dA4E2                   | 10    | 2         | 12         |         |
+| 0x18a6F531a4B3fee8f0ea63f8DE8aef265f498e2e                   | 10    | 0         | 10         |         |
+| 0x957e63Bed54d7956C378BeE97228aAc1a12B81ff                   | 10    | 0         | 10         |         |
+| 0x8dD7A121d85152f10DB3829Cc99116BD8ba07a2b                   | 10    | 0         | 10         |         |
+| 0x97ACd50c29b87553ec81eE5Cd0F76e3FE1bf0915                   | 10    | 4         | 14         |         |
+| 0xDE04b562CBD39109935691eBde2f18D2729cCD0a                   | 10    | 0         | 10         |         |
+| 0x017345A6bbb720FD1609b02DA47393b112561471                   | 10    | 2         | 12         |         |
+| 0x3B9A342fF5FfDb25e3bA247F5c1B0B64D71a94f2                   | 10    | 0         | 10         |         |
+| 0xe3dF123Df3A8156574BeDC24Da44930030760240                   | 10    | 0         | 10         |         |
+| 0x495fD7F6020dE6aE903B33ab451ACfbC7c1e8090                   | 10    | 2         | 12         |         |
+| 0xF30B9daea92e7C6782521ab4dA2C01728c9E9144                   | 10    | 0         | 10         |         |
+| 0x62A7e08ad1be6282e37d663c7079005787c07Ed9                   | 10    | 0         | 10         |         |
+| 0x07F888d19d0fa04847C226666dAD1A79AEc2Ae39                   | 10    | 0         | 10         |         |
+| 0x16eabeA154987fe9F33060ca3Fdeb083B024ee07                   | 10    | 0         | 10         |         |
+| 0x9491B1D0c56764d3376Ba16aaa5b81b07BB07494                   | 10    | 0         | 10         |         |
+| 0x2c09b668076Eb0a65f1aF09Ef00A0503e492bA96                   | 10    | 0         | 10         |         |
+| 0xaAa4A6B225C56b57bd1C89A412909CaFdEe5549E                   | 10    | 4         | 14         |         |
+| 0x1051f5c41dD9D124744B0AE197f5fFc899B7aCcB                   | 10    | 0         | 10         |         |
+| 0x166Fc24e83C5f9440eFaa64Df82290824Bb09998                   | 10    | 0         | 10         |         |
+| 0xCF7dC28D838F05ED3ca12b0cF289972E72f2aC6E                   | 10    | 0         | 10         |         |
+| 0xd5a92E969AB29FAf691D42474DA1618D05F731D1                   | 10    | 0         | 10         |         |
+| 0xaf7D06f62639D039915d491788551eC3b99002fE                   | 10    | 0         | 10         |         |
+| 0x435b66c40ee364a0E9910Cd8281Ae2Ce398187e4                   | 10    | 0         | 10         |         |
+| 0x15Cd8Cda3Acc6B23761eB8e36827Eff3AA708068                   | 10    | 0         | 10         |         |
+| 0xD19327541B4dCbEDFc852d0f70e0C8d6de9Ff486                   | 10    | 0         | 10         |         |
+| 0x6dC2CD55a5D0A320ee1eD4D3CD586e37dC724654                   | 10    | 0         | 10         |         |
+| 0xE1c71d8CF3d4ebFcD02569B6D30244C39c7568a8                   | 10    | 0         | 10         |         |
+| 0xA81F7AA5026AcA780d63Bb46DA71CA1f394C5c6F                   | 10    | 0         | 10         |         |
+| 0xbdd09E851190deF3C36eBE966C737AeEe7Cb690d                   | 10    | 0         | 10         |         |
+| 0x0dfe64033088043dA242A949AD86c6bb34fB8dAB                   | 10    | 0         | 10         |         |
+| 0xFcB6f9D0fde06860c0346FF09f3D51F612823b01                   | 10    | 0         | 10         |         |
+| 0xCA5ADC1778655A9A2D79A6e8d882C0621825aA88                   | 10    | 0         | 10         |         |
+| 0xcD82411ebb63E04BeeB7F1915eB47796B2Fea900                   | 10    | 0         | 10         |         |
+| 0x0938b18340cB402268e5B2C102A7aE197c0D9217                   | 10    | 0         | 10         |         |
+| 0x431827599784A8A8DaB85C5c29d2aBF93676C06c                   | 10    | 0         | 10         |         |
+| 0x9B1032B588681c990F1fc08015e17f0620f033a2                   | 10    | 0         | 10         |         |
+| 0xDBd485C800143bE9bF67E199C576432D16c44d9D                   | 10    | 0         | 10         |         |
+| 0xCeC4527C42E0916eE80Ec82e69aCf39c29fF06b0                   | 10    | 0         | 10         |         |
+| 0xd47f59Ed8d4E889363A79a56fEDf64223609E29f                   | 10    | 40        | 50         |         |
+| 0x8F52c839b18eC92C9f367272030632aDe53897C2                   | 10    | 8         | 18         |         |
+| 0x2DDd4441C95f38415e7cBB23E89CB686177Cb6BF                   | 10    | 0         | 10         |         |
+| 0x3FCe5a6370bc3380eCF811df560fce577B496550                   | 10    | 0         | 10         |         |
+| 0x1eB59f720858353899138Ceb523276DAe8B929CE                   | 10    | 0         | 10         |         |
+| 0x6e3300835f731A887909C444ee25BCdBD1525110                   | 10    | 0         | 10         |         |
+| 0x1b94E1C952446f22bae20DC1e96F5927735cF8b7                   | 10    | 0         | 10         |         |
+| 0x5108484244913BDd6e8Ae51219D23f21cfbb099f                   | 10    | 0         | 10         |         |
+| 0x6aa1420E73c495F3529D8BD236b2856d11915144                   | 10    | 0         | 10         |         |
+| 0xcdA3937451d3D028ad03C0b3600058F5608b4352                   | 10    | 0         | 10         |         |
+| 0x8D240E8a9ed78C74Fe2bb60A90607DE82EE6ef27                   | 10    | 0         | 10         |         |
+| 0x1B1AA1813aA6AD943931B458297204075079Cf88                   | 10    | 2         | 12         |         |
+| 0x449210871614fB1922Dd1e21D9331366EB2b9E23                   | 10    | 0         | 10         |         |
+| 0x32519B04cC56f93ba9221732a55BD2B8acF5db45                   | 10    | 0         | 10         |         |
+| 0xaA144A3b0911bF83418f067F6E5a497Bc212367D                   | 10    | 2         | 12         |         |
+| 0x238cf91aEdDF67952AddB7ac54CdeAA73CC035E4                   | 10    | 0         | 10         |         |
+| 0xD598a2113a70aff191B4e71AFa56052a41c9b9dD                   | 10    | 16        | 26         |         |
+| 0x0643d288e6b6D929e68B7410F9E2fd84B776B515                   | 10    | 0         | 10         |         |
+| 0x04321f7112259e65309afcbb5387f20c350022ee                   | 10    | 0         | 10         |         |
+| 0xdf4a1A0D45Bd3c59e40587c6626CebAE2e588cBf                   | 10    | 0         | 10         |         |
+| 0xc03dC9ac2f511EE966980b24f5b3D17a255550B4                   | 10    | 0         | 10         |         |
+| 0xC0b907bafC8e05c4Ad56942Df46d23B78BE49dae                   | 10    | 0         | 10         |         |
+| 0x58b510D6Af7b6abb51225d103e89e166bB5Df544                   | 10    | 0         | 10         |         |
+| 0x17EfB27E5d8814D44f70d3b50D166Ea345647328                   | 10    | 0         | 10         |         |
+| 0x0d7Ac1cfaC50e060976e0bdbC8db5aF7448b6F89                   | 10    | 8         | 18         |         |
+| 0xc28D5FeD653705a766898356fe0c4fE303DCDACD                   | 10    | 4         | 14         |         |
+| 0x2fae2B3024F29cB05c4cAfBd7E7612493eac0002                   | 10    | 0         | 10         |         |
+| 0x23868bdF972ac9132cB84efe667Aa87B444D1708                   | 10    | 0         | 10         |         |
+| 0xEf11f63754A7Dad95FA4d4F4eCFF92e54600daAD                   | 10    | 0         | 10         |         |
+| 0x2cc29c17485516004cf5772895d8e9ec55b329fa                   | 10    | 0         | 10         |         |
+| 0x7Cae8B0119FA019aB99dDF96860CFa823335d11c                   | 10    | 0         | 10         |         |
+| 0xD88B0ffc8Ee1B75891F85021F611F9e4ca35C1eF                   | 10    | 4         | 14         |         |
+| 0x5f1c01904D5f39A6413dF0eEAd1Ea736F6A50DDA                   | 10    | 0         | 10         |         |
+| 0x02f385146205D19f0Ef4f7a2742ae241b787BC8F                   | 10    | 40        | 50         |         |
+| 0xB02306d71bfDe6F46D2DD293C1837379D06142aE                   | 10    | 0         | 10         |         |
+| 0x1433E4aD40C5520b4B950F35131Fa88043CcF532                   | 10    | 0         | 10         |         |
+| 0xa235054EeA31B2A303FE64a27772c42325451271                   | 10    | 0         | 10         |         |
+| 0x644372D5Bdb5A24a1Ae4c9ec25b47f35bc9A5b36                   | 10    | 0         | 10         |         |
+| 0xb74bC912ab16E5a0c53Bb57A5B0BEFf153Cf527f                   | 10    | 0         | 10         |         |
+| 0x51fcf5fAA42968fF3de5c06103c5aFDe2e9BF690                   | 10    | 0         | 10         |         |
+| 0x3439c4e2cdc91aF2Ac1B95eb176023d77F51DDBD                   | 10    | 0         | 10         |         |
+| 0xc302f58cc7bbaffd753a5c9d526cb069e5cd4392                   | 10    | 0         | 10         |         |
+| 0x6C4EFd19eA161e65af67e83871C06CF28027f29a                   | 10    | 0         | 10         |         |
+| 0x99617328045f0362216a63ce7B0f90a74F6c2793                   | 10    | 0         | 10         |         |
+| 0x37F76F6C1454C213C3f4323316ADAeB4a80dC9A1                   | 10    | 0         | 10         |         |
+| 0xf3937B2e18136d2d2dE7f0Cc7ba1eb2ebbC19B01                   | 10    | 0         | 10         |         |
+| 0x4525bb96D23Db01458aC529BE71b05b5523B88A0                   | 10    | 0         | 10         |         |
+| 0x992b6fd0462AbdD3a7bDb0CfC2d72A011A6c7082                   | 10    | 0         | 10         |         |
+| 0xBD371C5c50fFa2C9EA2F79745da0f3C23593D906                   | 10    | 0         | 10         |         |
+| 0x58d3643CEd2C319bA32F6260Af97cFc7Ae5e1784                   | 10    | 2         | 12         |         |
+| 0xd761Aed6fD443a17A8Db8ea56Ab45ec14Aa43571                   | 10    | 0         | 10         |         |
+| 0x09514E0d3e91Cd55Cd182A7053A8c54AFc1085ad                   | 10    | 0         | 10         |         |
+| 0xe4E1F8Fd4a886094C51Ee2Ee138d1178E11e8AeF                   | 10    | 0         | 10         |         |
+| 0xd7f434bEcE923e5032d203798686891cD2055e2F                   | 10    | 24        | 34         |         |
+| 0x4100eB7c1466d56768db0A26131944925aFEb15b                   | 10    | 0         | 10         |         |
+| 0x67d84a05727a391a80ed52dd074bac21d5331d2f                   | 10    | 0         | 10         |         |
+| 0x401C13F61Bde515517cE0cbF0cAd8e73A8EaB55F                   | 10    | 0         | 10         |         |
+| 0xcb7d6C5C1E1090343c5f004F088f5EE4BA548436                   | 10    | 0         | 10         |         |
+| 0x0321Ae8b2189336EDc874bdBecBEA6f805B568D7                   | 10    | 0         | 10         |         |
+| 0xaB777273Dffbb6163AfBaD1219E550CFc561ef4e                   | 10    | 0         | 10         |         |
+| 0xdf2939706CF04497D7b5bcB4448A5F5aFc863534                   | 10    | 0         | 10         |         |
+| 0xE17a15b2790C2Ea33a588e81399eC56EcA266a31                   | 10    | 0         | 10         |         |
+| 0x5D242cdf79a8724918f2E4C6312196b9e5C839c4                   | 10    | 0         | 10         |         |
+| 0xf7E925e1370C260aa12735A3b726a3F8ee749D08                   | 10    | 0         | 10         |         |
+| 0xadff756a4427d7cd5e9bbc1ef1431b66af18e4f8                   | 10    | 0         | 10         |         |
+| 0x300b283139f049cc323200Fd0F011Be053705093                   | 10    | 0         | 10         |         |
+| 0x39840876D527B3d474743AF0d8b5A3E0d7F741d3                   | 10    | 22        | 32         |         |
+| 0x515691c872962D0CC779Fd4E336a1071e7c54292                   | 10    | 0         | 10         |         |
+| 0x02480670cBEa3e0a468F224598f36F52e1D560a7                   | 10    | 0         | 10         |         |
+| 0x8E73D23FB622982f25816a4474A50A6386536615                   | 10    | 0         | 10         |         |
+| 0x01521f06C55526a7fFf11236B9a4ea65986bc1b3                   | 10    | 4         | 14         |         |
+| 0x6102D0c7423B53F47833E26A6511bD6BC1726b00                   | 10    | 0         | 10         |         |
+| 0x7FeD88C0AFA49202f52A418d13Fe3237f412157E                   | 10    | 0         | 10         |         |
+| 0x581523dE1ff9Aded2Da2447F36a98636f0F567B5                   | 10    | 2         | 12         |         |
+| 0xfE8174c80F387048483b899F99aa37891dC80d58                   | 10    | 0         | 10         |         |
+| 0x3459A8582d6D46214B15BC97311bdc90Cf2888C1                   | 10    | 0         | 10         |         |
+| 0xE9a970F851fead62801b358370C1d204E01b6dB7                   | 10    | 0         | 10         |         |
+| 0x3a45c6f19ad935b74c5d351b2dc6491ddcd318c5                   | 10    | 0         | 10         |         |
+| 0xc3475400dc54e0BC6bfdc5FA269Fe9c8ECeb7E89                   | 10    | 0         | 10         |         |
+| 0xb7940d48Bf4E767d1CCe23f862564a8799eDBb64                   | 10    | 0         | 10         |         |
+| 0x973676599DdA7D0D7cD515b95cBB79F2D7f2D615                   | 10    | 0         | 10         |         |
+| 0xBB73D5ad06F4169a52c42F1d3c647b870ec3612F                   | 10    | 0         | 10         |         |
+| 0xE5ca8f32feE6d75ABF1168f51c4cE66c44F79629                   | 10    | 0         | 10         |         |
+| 0x1671eD8696f8475D9DCd25AF45E972b60F1Eb434                   | 10    | 16        | 26         |         |
+| 0x0e7ca745c97bc1eaedfaec216c66be6da2ca8a59                   | 10    | 0         | 10         |         |
+| 0xF445d442F737aCc979aEA02924A0DfBea660C146                   | 10    | 2         | 12         |         |
+| 0xC0F86AE66b33F7a30F7E981f0E9F75Ac60798853                   | 10    | 0         | 10         |         |
+| 0x03c3649c90C1C0Bc7E402023f71e8e8523F2987F                   | 10    | 0         | 10         |         |
+| 0xd0e4c5166cdba06F8850b8b979A442E23f0a11D0                   | 10    | 0         | 10         |         |
+| 0xb4EFD29796a6b5F040569fB2b2D981c96E9c4496                   | 10    | 0         | 10         |         |
+| 0x625157014F943DA8b8D08C2416DADdcA91795365                   | 10    | 2         | 12         |         |
+| 0xC59dB6bDce453fbd21e7B2Ab6669fe94A24F0985                   | 10    | 0         | 10         |         |
+| 0xee08f48a5565442611EfE9f4bf8c50121aDDd577                   | 10    | 0         | 10         |         |
+| 0x7A7420466BCcA23B194933fD3191937Ca3559997                   | 10    | 0         | 10         |         |
+| 0x7629d90974571CA614569F82dE126f2D4752a69d                   | 10    | 0         | 10         |         |
+| 0x2CE2628fC24a1a3E2259045F5FF95C6097091e34                   | 10    | 0         | 10         |         |
+| 0x7Aa3E5E92f9a5b5816cE1902c80c4F562245f8e6                   | 10    | 0         | 10         |         |
+| 0xBe4eA4655aBD1181C7cC5868efA97aA3f6DEC194                   | 10    | 0         | 10         |         |
+| 0x5fA75eF5AF6dB3Ae5D8b83c122C105500622442F                   | 10    | 0         | 10         |         |
+| 0x838A4ed9A72CE04D1fAc9CA0Cf42eF9cD94228bf                   | 10    | 0         | 10         |         |
+| 0x7Eda10bbCfAbCA6A1f63e7D16b520cEc6C281b7C                   | 10    | 4         | 14         |         |
+| 0xBEb5945917BF57d657373376439E4702564A1fA5                   | 10    | 4         | 14         |         |
+| 0x72D30622d76ED19DE73a60EDBe7DA41f20B54fB3                   | 10    | 0         | 10         |         |
+| 0x9280b1738d73d6c2D455877ba237C67560f8a534                   | 10    | 0         | 10         |         |
+| 0x979e5528B6BF7258491ac6f77eecA2F007677ff8                   | 10    | 0         | 10         |         |
+| 0x245e6E12637Adc7Ae7F2a294a8586F6F0FC37222                   | 10    | 0         | 10         |         |
+| 0x884b2629Ec25605Da3a447B96cC6bf15E3507D3a                   | 10    | 0         | 10         |         |
+| 0xc4d68346A6182D0a1473f4B2fefAfDa495047382                   | 10    | 2         | 12         |         |
+| 0x3106761Eff27B6b1A5F7706a2cF51ae04F273C20                   | 10    | 0         | 10         |         |
+| 0x25E4b64795b47f4a10a8a1efD59f40944c64e772                   | 10    | 2         | 12         |         |
+| 0xB07a238b7e9D2BE79cc4770b22E895124C218d53                   | 10    | 0         | 10         |         |
+| 0xB6286287795d244f1aae88f94dc56bBDbd813D74                   | 10    | 0         | 10         |         |
+| 0x1029335e454c27Ac18969292e2b807588A8d2a0f                   | 10    | 0         | 10         |         |
+| 0x7860b2c6dde657146eB0815867e6e23891F23249                   | 10    | 0         | 10         |         |
+| 0xef320d764df018d6ed46d629969cfadf56850caa                   | 10    | 0         | 10         |         |
+| 0x81BD63De441712d55feb1Cd448ea5A6F5FE87a61                   | 10    | 0         | 10         |         |
+| 0xAC657D4F4894F6272e2B96b73614BC68afFdA294                   | 10    | 0         | 10         |         |
+| 0x43d06a847Ae3257F7B0ad59e0B7D94e4D9550B34                   | 10    | 0         | 10         |         |
+| 0x0f32e27778668eD2a2D85BdF7cAceB2A13A10BEe                   | 10    | 0         | 10         |         |
+| 0x63415b0d260267B9Dd76510c866aD00ff33ecbFC                   | 10    | 0         | 10         |         |
+| 0x9F9b671FBB56552b7AC219E0c5FC5539E581102E                   | 10    | 0         | 10         |         |
+| 0xAd13C84D436775B0B92DDdc8Bf2Bf5099F6caf11                   | 10    | 0         | 10         |         |
+| 0x6808138032ddFbd9be87031E51b01C49d96EDD05                   | 10    | 0         | 10         |         |
+| 0x690Dad745bB698a6F37A4Ec8D4e99F95c44E5cc3                   | 10    | 12        | 22         |         |
+| 0xb40A6276B1EE63c58F5DFDdaA74e9E21FEe14d66                   | 10    | 0         | 10         |         |
+| 0x62bCF5E33C4223Be052519Ed034AbaE9b3486109                   | 10    | 0         | 10         |         |
+| 0x5c7325F882c257248c1815aB53F26DA7C39899a0                   | 10    | 0         | 10         |         |
+| 0xeaa7fFF1d38DE3056482F20dB66748136EaBD410                   | 10    | 0         | 10         |         |
+| 0xe2F550EfCcee1987337EE4556cf6D7E4edEe257C                   | 10    | 0         | 10         |         |
+| 0x53e778FFb4dc49C59E10FD9Dc5BaD62224417BDF                   | 10    | 10        | 20         |         |
+| 0xC87B02F063089EcDD4b7C172F42d43242474F1D4                   | 10    | 0         | 10         |         |
+| 0xd7256eC6E670F7E42088A1A0D4efAB82ffa86749                   | 10    | 0         | 10         |         |
+| 0x62FFD1Ca8A93DAAAB8E99B23a4869E41198A3D72                   | 10    | 0         | 10         |         |
+| 0xfD0326ABdeA62d94d4936c826d6e6C0C81F6Dc16                   | 10    | 0         | 10         |         |
+| 0xCEf8Ed853c39A2B7C801B025952948729d9A0176                   | 10    | 0         | 10         |         |
+| 0x8bfEb8175bd7c676e549e2BB618291e6123a885c                   | 10    | 0         | 10         |         |
+| 0xe7DAdEe0273E65cD470EAc42bd01859988428515                   | 10    | 0         | 10         |         |
+| 0x5AE947A0A481738fD74048F604d26B234D84Bc27                   | 10    | 0         | 10         |         |
+| 0x38E1f6C09951D5D1F31622aD647edA6B507BC4ba                   | 10    | 0         | 10         |         |
+| 0x8375fe44276e8fdB965eC1d0162895c57617Ce11                   | 10    | 0         | 10         |         |
+| 0x5cE580427Bb9Ba0196A29A74D413372A0Ca93c04                   | 10    | 0         | 10         |         |
+| 0x5b73100602B948AE21ba4Bf1A72aac15E468B72D                   | 10    | 0         | 10         |         |
+| 0x6aC012B88036B1C70b48Af3c823065121Af2f943                   | 10    | 0         | 10         |         |
+| 0x5Bf3656B09285314CB6dd30418e864a8fC1155cA                   | 10    | 0         | 10         |         |
+| 0x1d29F1116F0Be97F99e0Bdc18befc10cD1Cb8B8f                   | 10    | 0         | 10         |         |
+| 0xd47adBA198c5c76cef69c8D91cc2A7279bc79511                   | 10    | 10        | 20         |         |
+| 0x1459aD75f3a1Bf7D424F0CD2577B2BEfc2EF2749                   | 10    | 0         | 10         |         |
+| 0x21bb450C812A434c742Fc7DA0a99f8D622B02Bb1                   | 10    | 0         | 10         |         |
+| 0xc35459C0De3858e963F8a193182BF852655f3366                   | 10    | 0         | 10         |         |
+| 0xED242dd0d2068F80Faea70aeefe93BD45fdd31CF                   | 10    | 0         | 10         |         |
+| 0x8764750A7F65C6Fcce3AE84fDdF27641A125a2FC                   | 10    | 0         | 10         |         |
+| 0x50e5295fd3fa83459f5822e578449aeb04828c47                   | 10    | 0         | 10         |         |
+| 0x579458dc74afC6dF03F03CB4478f392F9E40F43b                   | 10    | 0         | 10         |         |
+| 0x435481cCa2d2E2828214A97E53468b66aD42A860                   | 10    | 0         | 10         |         |
+| 0xC911635e052D7b242C733E22Fe2e26cBc06aaeF4                   | 10    | 2         | 12         |         |
+| 0x74011890cBaf57D5eA0687a288b83ffcA3bAA8a1                   | 10    | 0         | 10         |         |
+| 0x071aafBeDF4D19c2482321123C8c75CfbE86E81E                   | 10    | 2         | 12         |         |
+| 0x52C84f86028aaA91fBDb3FCe58FFb906bba540ba                   | 10    | 0         | 10         |         |
+| 0x993028302684D9b6ED78caa717426267A40e763B                   | 10    | 0         | 10         |         |
+| 0xD228233eF28f3cF0e1ACd6Caa92F6DC0F1f7D536                   | 10    | 0         | 10         |         |
+| 0xF9F4802D1Af52503C0AC6C82cD64D530aaE018F9                   | 10    | 0         | 10         |         |
+| 0xf904d88D205665596ee6B4639fB58A0B8C0976Bc                   | 10    | 0         | 10         |         |
+| 0xd9cEcd2E0a26fB987dE6551c0B47aD09828d22F1                   | 10    | 0         | 10         |         |
+| 0x1CC6Caf59779148dFEf0bc4F664E1E6706F64A72                   | 10    | 0         | 10         |         |
+| 0xda22BE20cb55e6445240FEBa4F99931fccC4a086                   | 10    | 0         | 10         |         |
+| 0x440F4870948eA584927716eDEA7D53216dB6CD58                   | 10    | 0         | 10         |         |
+| 0x54DFEA698C4Ef3147F2b0d8C81c39808439DC0AC                   | 10    | 0         | 10         |         |
+| 0xAEB22853336A13d388EC2d3A36AD944888920FE2                   | 10    | 0         | 10         |         |
+| 0x45583EdB42F8D8d995d7171e3bf3261Cd5F91357                   | 10    | 0         | 10         |         |
+| 0x22276A4C37b16c1Cda32f9282F403aeF263b28F7                   | 10    | 40        | 50         |         |
+| 0x531E35523f4C81B813c18279fc72799Eb26d0AD2                   | 10    | 2         | 12         |         |
+| 0x90fd09177b91C4301AfAa77F0062c35d433ceE6f                   | 10    | 0         | 10         |         |
+| 0xAE3630e6911edaB039061C766cd4114402A2AeCe                   | 10    | 0         | 10         |         |
+| 0x32e62884358E9650B2B0dd898840A83c91BF4B3B                   | 10    | 2         | 12         |         |
+| 0x439762ad0a8A549303DAe3E30899405174ab59aA                   | 10    | 0         | 10         |         |
+| 0xCB6EdA5d6A6d6ee08a7ed86aD1Bb3d244cbaA904                   | 10    | 0         | 10         |         |
+| 0x2817abbAA611F0FEB0B51163713D0e2188CC8791                   | 10    | 0         | 10         |         |
+| 0xeC0924a52CCBb2Df95980C832bCf8a56A666F715                   | 10    | 0         | 10         |         |
+| 0x7fC800a0D368d2cFDE08AFfBe33be62aB2A1649c                   | 10    | 0         | 10         |         |
+| 0x7A224cCf6b769e5654e91E084E8bb7c74dFb4Fde                   | 10    | 0         | 10         |         |
+| 0xA5eD80C26239bc05b146e5d0f92a4812aCda5802                   | 10    | 0         | 10         |         |
+| 0xE1537c138dA21D52Ba153A5421ccfFd8c8368233                   | 10    | 0         | 10         |         |
+| 0x417Fe0A2bFf53BA50C6DAB044F68Cff7c96b299D                   | 10    | 0         | 10         |         |
+| 0x40829e2c45a96c4bb5fF62C123A9FB5e4a48AAa3                   | 10    | 0         | 10         |         |
+| 0x1F7C49151f147e9Fa9182dECDeC0F9De59435B7a                   | 10    | 0         | 10         |         |
+| 0xf71cB6e8A48B66e85151d64671F36D7B35F9337c                   | 10    | 0         | 10         |         |
+| 0xe4c3eEb3De4d3D57D912E9E150dFd1fE0BD487e7                   | 10    | 0         | 10         |         |
+| 0x51D31DD19e638b12f754F0070889bca279BB06ee                   | 10    | 0         | 10         |         |
+| 0xaAb24939f12E2c809e47B58636819ed335273234                   | 10    | 0         | 10         |         |
+| 0x2825800FDc52f5FE88eF0350622cD4cD43F0C5e6                   | 10    | 0         | 10         |         |
+| 0x8060B97F107307C764E1EA20ac895973B87b3a29                   | 10    | 0         | 10         |         |
+| 0x1C325Ad018d5b2FdF18Fd8b0a4cDecea5ADD594b                   | 10    | 0         | 10         |         |
+| 0x8d7ad48ca92267F6221f467751224a91e67436e2                   | 10    | 2         | 12         |         |
+| 0xeA7438F4030A898D77Bb5EbB6416572E205d47AF                   | 10    | 0         | 10         |         |
+| 0x31bCee7F85356d6B6245dAEb9F518AA337D6E111                   | 10    | 0         | 10         |         |
+| 0xCfAa6460eeb34d4DEdCf35729CE2e8C5aaD85F51                   | 10    | 0         | 10         |         |
+| 0x439A6419c740457865De4207d23eD72BC11Fbe23                   | 10    | 0         | 10         |         |
+| 0x3c22aE407414F424CBb9490D92e58DcF8Ef93b0C                   | 10    | 0         | 10         |         |
+| 0x212712aDb8Ebf2a08ee3587cf311EaF7Aa0849eb                   | 10    | 0         | 10         |         |
+| 0x4b5e19d9199B70B4d7EB574b8b292E3CEb8844DB                   | 10    | 0         | 10         |         |
+| 0xB5696d5A7a42771a65130d03F7e48BFb0fa07ED9                   | 10    | 0         | 10         |         |
+| 0x90C93b20951B75EEE79bae7b0E2d23d1A63248A3                   | 10    | 0         | 10         |         |
+| 0x72BDDA95A1DB857f951E5701Af5d17d227e97A3C                   | 10    | 0         | 10         |         |
+| 0x5Fb8aDb18e35f9F644366D260fB0BFcA317431A9                   | 10    | 0         | 10         |         |
+| 0x064fEe5cb2aAe184a2674ef4230dD87948d07B7d                   | 10    | 0         | 10         |         |
+| 0x5c59930d4c5863A6dede16Fa58646d50040f9666                   | 10    | 0         | 10         |         |
+| 0xb01e3c06920453f51F1c6404fc2dF2f69890fF0c                   | 10    | 0         | 10         |         |
+| 0x7841Be0ab2de7797A96816Ef068420A6f758d40e                   | 10    | 0         | 10         |         |
+| 0x9D3b95174aC04931cAA96400D2997eb717A59004                   | 10    | 0         | 10         |         |
+| 0xa3fAC33971A9694A6ca9Acb11055327658c019a7                   | 10    | 0         | 10         |         |
+| 0xDe1270F52Fb3FA24e15358391EFDb913B2B3C119                   | 10    | 0         | 10         |         |
+| 0x06a565C9EeFc675d93bbEF54494d9F8576285E5E                   | 10    | 0         | 10         |         |
+| 0x92f535d27a6f795aE5E7993dce7cd6eA2dE90D97                   | 10    | 0         | 10         |         |
+| 0x31dBD81baF79965A02F442405CAF56F22229048d                   | 10    | 0         | 10         |         |
+| 0xcfF4b42ed0935C5e319fb1975E756683d7F809ac                   | 10    | 0         | 10         |         |
+| 0xFE2035858AdA413690007d988400F8D0ef672145                   | 10    | 0         | 10         |         |
+| 0x4286235F118dE1552F9afd99DAF0D640c04cA140                   | 10    | 18        | 28         |         |
+| 0x85334259aA2209f9c32aBf949Ba71bD7E2a268A5                   | 10    | 0         | 10         |         |
+| 0x0A9D0B5fb3B909d16406924dD4E0c4D2c4f2236A                   | 10    | 0         | 10         |         |
+| 0xD7F61ab24a3d489D28FEDD72F44a7f54a1E4E07F                   | 10    | 0         | 10         |         |
+| 0x72Ad15527c64092961DdFCaB8f00E65Af7D141bB                   | 10    | 0         | 10         |         |
+| 0xB557986Ca5E0f01E954A9Cef3cdbe02E66651183                   | 10    | 0         | 10         |         |
+| 0xc5A13BeA58b65878867AbE355106536F039eF4Ab                   | 10    | 0         | 10         |         |
+| 0x38461d53fe32b736B3016a6a0C18cB607d5fAD7D                   | 10    | 0         | 10         |         |
+| 0x06026e82c7e8b3896808219A2D41C12E4ca92691                   | 10    | 40        | 50         |         |
+| 0xaf41bFf00CE8c65D565baFb3c13f75606cC4629e                   | 10    | 0         | 10         |         |
+| 0xa46a8cD9dA0f967365677A1f3F96ad9a583a7e14                   | 10    | 0         | 10         |         |
+| 0xb3874b0CbbAfda98F0323c9300F70D492Ca1b9Bf                   | 10    | 0         | 10         |         |
+| 0xf1dB761b80dEeeB574E53B3bfB54aadb1D004393                   | 10    | 0         | 10         |         |
+| 0x07e3170Ef935bf5C5D6a07f0C4722AfDb9e66895                   | 10    | 0         | 10         |         |
+| 0xa37e7099B216E142EA2138B53cA84aed9DA45985                   | 10    | 0         | 10         |         |
+| 0xe40c89367808Dd56F557976761355d65A062d178                   | 10    | 0         | 10         |         |
+| 0x53AB47565B77B209b62710c7915139cA5f7A21Bf                   | 10    | 0         | 10         |         |
+| 0x00bf2d529bA18281b24C4B265042Ce7db8119863                   | 10    | 0         | 10         |         |
+| 0x049cfe6d74c07381fe3e1c40c86a246962cc6e5d                   | 10    | 0         | 10         |         |
+| 0x693E6CA955d557Eab5D761EA62179911f85EeFb8                   | 10    | 0         | 10         |         |
+| 0x4D998Ed53a9A4BFEB5c825A480CBa9e52FB353D1                   | 10    | 0         | 10         |         |
+| 0x63A6E9c09a613659780293b7eCdA17A8703898eE                   | 10    | 0         | 10         |         |
+| 0x9a05f913c027a3E4cc6d9b9Bc6dFC86C3e87b2F4                   | 10    | 0         | 10         |         |
+| 0x0b919470E27C9d40059f0adea1B700F466A0bBC3                   | 10    | 0         | 10         |         |
+| 0x5Ee8AEe3a75D371558F49ee10E64F6fEeADF7af7                   | 10    | 0         | 10         |         |
+| 0x6533691E60317ed14A83b9127d9cbda7E617d9B9                   | 10    | 0         | 10         |         |
+| 0x7ba7A1a9306e207a7e4a06b033BD9bD9095E41af                   | 10    | 0         | 10         |         |
+| 0x4B1EFE5D628eBd8ef94A7c41ca24295207a98444                   | 10    | 0         | 10         |         |
+| 0x8c49A34F8fa8e2b5eBD748394b8685E0275e657d                   | 10    | 0         | 10         |         |
+| 0x631c161AeD9902b102704e9c1a9f4c4E7CE886a3                   | 10    | 0         | 10         |         |
+| 0x34BD7837A989e2E07e4B575229fa0c732810707b                   | 10    | 0         | 10         |         |
+| 0xC281D49ce08167c1789741BfF0DF73B0B0FA1F62                   | 10    | 0         | 10         |         |
+| 0x80E3ea2791B38E891d5eF6E37AC1414a375eF166                   | 10    | 0         | 10         |         |
+| 0xDBAf24BBCdcD8D64dCa486f87EfCC36AE0768854                   | 10    | 0         | 10         |         |
+| 0xb468A8f63c5BDbb7b97b62542bDeC60cB3bB1574                   | 10    | 0         | 10         |         |
+| 0x31498926197573d7Fe6Dd3c00d629D6808405775                   | 10    | 0         | 10         |         |
+| 0x878e5F96BeB9C656b8b10A7DCF77DC4804efAac5                   | 10    | 10        | 20         |         |
+| 0x4EFe51a63ceb95B229c28B4517b5E172EFa44369                   | 10    | 0         | 10         |         |
+| 0xAAF09a849c1F749559Ef80622bC2507D7DdbB2Ec                   | 10    | 0         | 10         |         |
+| 0x8ddFEB9DC6D598E68401B101c2Cf1531974BbA1d                   | 10    | 0         | 10         |         |
+| 0x0ab4b24E7fcEfD435CFC80B32220daA3C959DA09                   | 10    | 0         | 10         |         |
+| 0x76625fa2eC7E36A05cc028163d4C39CF796daa6c                   | 10    | 0         | 10         |         |
+| 0x613f9B92Ed6e17bd1f2B61A0Ad039A7C70e7c8fb                   | 10    | 0         | 10         |         |
+| 0xE636b44a0bbaCc7fB675ac8eBAA010Ff50cdF8f7                   | 10    | 0         | 10         |         |
+| 0xAD795117Bdd70E9fa607B390b74bb6D9fc4Ef55D                   | 10    | 0         | 10         |         |
+| 0x513d9b690e797bE9b19B9d1677feA1FF478B9654                   | 10    | 0         | 10         |         |
+| 0xEf8Ec01812A4F632FF9819152586BB1Cf62902dc                   | 10    | 0         | 10         |         |
+| 0x0805503Bdc27368ea136Cb93F710511C5de7F5E9                   | 10    | 0         | 10         |         |
+| 0x2813C9d97e17E73a862c46438ab894C3e6c9576B                   | 10    | 0         | 10         |         |
+| 0xd6dC3772CC7A339fBF22A6EF8530adC37edd9032                   | 10    | 4         | 14         |         |
+| 0xA36e16224b1c5f1538b4E3f279D86b712aF39bd2                   | 10    | 12        | 22         |         |
+| 0x9C8c2ef6b83c2a6f241253589a415888899ff1f4                   | 10    | 2         | 12         |         |
+| 0xEe836ddc8544731Aaf441Fff126458F7c6DaE523                   | 10    | 0         | 10         |         |
+| 0x88c846e8C51271390822aaD661F9fB33d9229783                   | 10    | 0         | 10         |         |
+| 0x5879E317b4B748686211e3973c19457Be7529345                   | 10    | 4         | 14         |         |
+| 0xE5B90370049076eC43E3CbC7dD73EC195018422c                   | 10    | 0         | 10         |         |
+| 0xda372BcDAB016A8f0E57ACcb0d518BF5234E1A3F                   | 10    | 0         | 10         |         |
+| 0x5bB724D6da1ACaA9B685019a881302aD2b52939b                   | 10    | 0         | 10         |         |
+| 0x205332Ff0d24ED9FE1c2C0794fc9FB7d12771937                   | 10    | 0         | 10         |         |
+| 0x6ccCD9e3d065a031dEFcCd79591e0aF6D4509712                   | 10    | 0         | 10         |         |
+| 0xAB4B7b5F35C582Ca6CCA6C806FdCafe3D1219308                   | 10    | 2         | 12         |         |
+| 0xf8E573861fDe5603F004726D4bb71943d69cac6A                   | 10    | 0         | 10         |         |
+| 0x79bE17d16D579424cbDd490cf4Fe6CFA63625f6F                   | 10    | 8         | 18         |         |
+| 0xe997ce17102ab8270Ff5E07A979BC98049EAaC2f                   | 10    | 8         | 18         |         |
+| 0xf36530140F033F2A9865b7057CC4FC8F31Dc1bDc                   | 10    | 2         | 12         |         |
+| 0x6Ce501f34080f0CA3F41Fda0b9a7a8f15Bd6df4a                   | 10    | 0         | 10         |         |
+| 0x965Fe2C77FCaFee1af5bf48A1ab8297DCD040E32                   | 10    | 0         | 10         |         |
+| 0xb4145172dca2523b0FbA7E4288f92073A49727fd                   | 10    | 0         | 10         |         |
+| 0x611f6DE58994CE9a4420094b5a0Dc3ae38a5f247                   | 10    | 0         | 10         |         |
+| 0xD8C052CdDA51F409f95fEf1E8923C4e68ebbd2eC                   | 10    | 0         | 10         |         |
+| 0x04A60C92c059ccCb75CD6DFaEA05639BD8D2540e                   | 10    | 0         | 10         |         |
+| 0x8eD032eC172d57FD9F0739188876187b6A80a335                   | 10    | 0         | 10         |         |
+| 0x899B789676b745514C57604390CDcb9AB8C88e5f                   | 10    | 0         | 10         |         |
+| 0x21B478433dcCa821D58123a67dBddCCfFDdb3223                   | 10    | 0         | 10         |         |
+| 0x3025119B4aE3A9Ec9C386130316c2f7215182FF0                   | 10    | 0         | 10         |         |
+| 0x9fbd6e8a29B3C947B5B1dDB85620db878D37Cc0A                   | 10    | 0         | 10         |         |
+| 0x6130b5a91e45eDe9B727913e594e42876999Ff87                   | 10    | 0         | 10         |         |
+| 0x372AC60731A627D0513Fd826a2CB484F90132e1A                   | 10    | 0         | 10         |         |
+| 0xD1d5a30B75BEEc1BbA536F7774944507EACa5bE1                   | 10    | 0         | 10         |         |
+| 0x2eB15f47f10A0CDbAae76F6b04E1020622762D11                   | 10    | 0         | 10         |         |
+| 0x06bA0501EBC77fD28C0f62aF88f874eeF010511A                   | 10    | 0         | 10         |         |
+| 0xDAbf9117ddaA993CfDa7FEC3bfEb02a2445327C3                   | 10    | 0         | 10         |         |
+| 0x92FCc25929aEF5B37828f73a09c60c4e13ec0dB4                   | 10    | 0         | 10         |         |
+| 0x303C2B04E9d0D72C788c46Bd4404f15a16418F4E                   | 10    | 0         | 10         |         |
+| 0x6E5aF02458484260F1B6d47346f496236924D1af                   | 10    | 0         | 10         |         |
+| 0x2E33f66920CD8257c373280d9d1C65C7dfAC5376                   | 10    | 0         | 10         |         |
+| 0x00743411f3621dAc95B79bAEa1F42d4D5129683F                   | 10    | 0         | 10         |         |
+| 0x7A4a8A6A100f50ECf81e23497159e8d0Df4dFd75                   | 10    | 0         | 10         |         |
+| 0x282C3bD43511604773441B264d837462d23990E9                   | 10    | 0         | 10         |         |
+| 0xCe3Ad6eb1507A103B3858d8c11544dB19345c19c                   | 10    | 2         | 12         |         |
+| 0x2C8acfAEd72c160AE32062E98d17B0a5B8605967                   | 10    | 0         | 10         |         |
+| 0x595879e8d7E91878C2fDFaC7Fe8Ffa291Ba78d20                   | 10    | 6         | 16         |         |
+| 0x0C10154A4307bfFA2F5399716E5Ab9797d238ACf                   | 10    | 0         | 10         |         |
+| 0xca85b972A4D6471C950ef4cFBD83A87Eb3a7dfdB                   | 10    | 0         | 10         |         |
+| 0xF763087D7360bbB0183f4560D4C0466e4D92422F                   | 10    | 0         | 10         |         |
+| 0x22bF77941d50e42d8B24Bc4146c07aBfe6e81802                   | 10    | 0         | 10         |         |
+| 0x9e450B920151BA18D1cCEd9F3B91855bd7B628c0                   | 10    | 0         | 10         |         |
+| 0x1914D1Bba87EFAEc0d4Eb4dd794143E0eE086A8D                   | 10    | 0         | 10         |         |
+| 0xDE4Fb0a9A6550E076AbF934527ef067dc9e5C588                   | 10    | 2         | 12         |         |
+| 0x10b76cFc2aFf05Eac5950262322E737fD599F4C8                   | 10    | 0         | 10         |         |
+| 0x8777591ecfc0fEFf39f476B19f1D94194E61E37A                   | 10    | 0         | 10         |         |
+| 0x333e8d8B8879820A8385bE5DcEF87a60B4af6839                   | 10    | 0         | 10         |         |
+| 0xEb15Dc19cDf544C6803cfdA0b80E0FC133AEcC54                   | 10    | 0         | 10         |         |
+| 0xa623D5B7C5A5C04135e493f87dE8D4B4d802f422                   | 10    | 0         | 10         |         |
+| 0x1650D10Dd93bBaF1b5DA8bFa898a84B1C70cB80D                   | 10    | 0         | 10         |         |
+| 0x374DD56428cf81EC85056a9a0a7D0C0a2478706A                   | 10    | 0         | 10         |         |
+| 0xaF984918fCDf6c1F29251c4C2b60820D4f9e4cCf                   | 10    | 0         | 10         |         |
+| 0x69287d2E91536d00B5082Bf9DD968F653bf5B9DC                   | 10    | 0         | 10         |         |
+| 0xC3B899Fa3F8d90b92f4b07dF88ecd569BE2876EA                   | 10    | 0         | 10         |         |
+| 0x4083c22Edd2814c9274985ac49158aB25DA16Fd5                   | 10    | 0         | 10         |         |
+| 0xE18bEbB76899fE1B1C12e48B95e7E36e929B4eD9                   | 10    | 0         | 10         |         |
+| 0x58d4983F41dc9FAEF440FDb1f049892B02Da1045                   | 10    | 0         | 10         |         |
+| 0x6B84Ed454800Eb0eA4bAfbdb1F4524Af1c7de38B                   | 10    | 0         | 10         |         |
+| 0x4fd568b1d7F931D06d4F3Cd4b6d2e5Fb925Ef55D                   | 10    | 0         | 10         |         |
+| 0x2e1Ff2E504c5c89e02b1e9568EFf630C5042c24E                   | 10    | 0         | 10         |         |
+| 0x74A98679289cfF47E6D38d04E04EfeF7bDA293F7                   | 10    | 0         | 10         |         |
+| 0x334b81DE5795cb9D0c74F07e8FCFb1C55b34d227                   | 10    | 0         | 10         |         |
+| 0x881def7B2B35C7D3256Dc9541f1800D6ABDC10a7                   | 10    | 0         | 10         |         |
+| 0x51E74845d8C5fF9F0e006b45e0D2dF6a41a7BC5E                   | 10    | 0         | 10         |         |
+| 0x3db9052E9eea89735038E24aAE47801e0CCaD663                   | 10    | 0         | 10         |         |
+| 0x6536b1250aECF6ce6FF89a10584d5370AE98Da64                   | 10    | 0         | 10         |         |
+| 0xB6e5ED796F3D827c458fef8De6D0a2Cb708d09aD                   | 10    | 0         | 10         |         |
+| 0x3C7B11f84F89b2Ef686478f71373BBB51dD55b7F                   | 10    | 0         | 10         |         |
+| 0x4385CBF4Df4dfc3c25a00bC1b0f0068939698633                   | 10    | 0         | 10         |         |
+| 0x0bEB887AD0800b6f470bb07D96385899af4862E1                   | 10    | 0         | 10         |         |
+| 0xF9e29Ae02e93B9f0A6fe3Dea2409433B4A935208                   | 10    | 0         | 10         |         |
+| 0xF2E7983513e0b5F8CEc1e6247Ce6B76b4ded1859                   | 10    | 0         | 10         |         |
+| 0xB6381D62f577bbcf8AFc88612daFeBC06b807AD6                   | 10    | 0         | 10         |         |
+|                                                              | 10    | 0         | 10         | Invalid |
+| 0x7F5c1d7b804a1Ea58D274e95e03AbE788DcAA926                   | 10    | 0         | 10         |         |
+| 0xc977A4aAfDa13FcCab269C4638adb66Ca16D2444                   | 10    | 0         | 10         |         |
+| 0xa2C1244E41ff8FCeE5410266878202F414d2aD24                   | 10    | 0         | 10         |         |
+| 0x798b19B9432aA22E155Ac8938D72899695Aa0B57                   | 10    | 0         | 10         |         |
+| 0x6A3398EE0374115c37adC34AF538aD9F32Cb2a70                   | 10    | 0         | 10         |         |
+| 0xd6E892F98CD167dA81cfBf1f8b8aE6b80f96742A                   | 10    | 0         | 10         |         |
+| 0x7b9Dae2F3999eF5946994FefB6205d1B6b6a384F                   | 10    | 0         | 10         |         |
+| 0x9B857F2F25b6a91282aA78EdfC391A2486a6003B                   | 10    | 0         | 10         |         |
+| 0x295573BE3d18BDd6c8E54B1484c43FBb6a60F975                   | 10    | 0         | 10         |         |
+| 0x9B8D4daF5C5A31F65868960E7Bc8CeF1360d40E6                   | 10    | 0         | 10         |         |
+| 0x87306992A511b383B4E42e21F25eC9b38F391AF6                   | 10    | 0         | 10         |         |
+| 0xd64224A48B4A090A95187f321D85Aee05Ef78200                   | 10    | 0         | 10         |         |
+| 0x171C76f3Ced7a233B5b99FEEf0E33c346d9A30F8                   | 10    | 0         | 10         |         |
+| 0xc80285d26e05dEf4A8d0afCA20BA7b17D43a1ED5                   | 10    | 2         | 12         |         |
+| 0xF076317B19535696Fdc4aee79b12F5Ac30dfdA93                   | 10    | 40        | 50         |         |
+| 0x57C8e3c3B603417E9e807FaCdF7e62f4E3cc87cb                   | 10    | 0         | 10         |         |
+| 0x0c4B2EF0De46D5F263dA785E3cBEB986A82984CE                   | 10    | 0         | 10         |         |
+| 0xadff756a4427d7cd5e9bbc1ef1431b66af18e4f8                   | 10    | 0         | 10         |         |
+| 0xadff756a4427d7cd5e9bbc1ef1431b66af18e4f8                   | 10    | 0         | 10         |         |
+| 0x3E143eE18BD7B89e7A2cAE1588b0338B13d2320d                   | 10    | 0         | 10         |         |
+| 0xc99Ca932C93C886769465adc016C7188622F59bF                   | 10    | 0         | 10         |         |
+| 0x634d53F1417D77fb7fe64DFD2f9F3D708924Ef53                   | 10    | 0         | 10         |         |
+| 0x66d2C7f31a9be9A0c639c18a5C380A11F814DB9f                   | 10    | 0         | 10         |         |
+| 0x6bF32F05438a6E28fd7C11F6f9d8315AA234d4f3                   | 10    | 0         | 10         |         |
+| 0x415073D7d909596509e08dCE8ceF5642309384FD                   | 10    | 0         | 10         |         |
+| 0xD9a083980C1BD9441f0931312Ff05cDeB60f0cf0                   | 10    | 0         | 10         |         |
+| 0xFAa1A78C03716Cad3dc729aeFC88f899F46a15be                   | 10    | 0         | 10         |         |
+| 0x217e1BFC4aE71d2469EbabdD8b80aaA0Ebbda211                   | 10    | 0         | 10         |         |
+| 0x2Ae91000F3B51a78613646f5Ade1C74950769b1b                   | 10    | 0         | 10         |         |
+| 0x7473677d439ac82F2B33832EBd4ba0b612DA01B2                   | 10    | 0         | 10         |         |
+| 0xa59616336CC5f4dcB3B3A14Ce75c01F4412372DB                   | 10    | 2         | 12         |         |
+| 0xfea3CD996391A436189b7328caF00C0C08fe685C                   | 10    | 0         | 10         |         |
+| 0xc8C58CF1B0FD4FE65c2f2052C27d224bc58A0BE3                   | 10    | 0         | 10         |         |
+| 0xF217402efA536aC01B75bAc59BE0a393c808a932                   | 10    | 8         | 18         |         |
+| 0x2b383a841638bdD5F471AfDD5cf12C25e8aDe287                   | 10    | 0         | 10         |         |
+| 0x24A78d8c1510bFbDD7aFA3E4df146BB21D26b2CF                   | 10    | 4         | 14         |         |
+| 0xe555eDed11211494e9000cB0c901ae01AE4B151B                   | 10    | 0         | 10         |         |
+| 0x8aB04dC1e96b8AFA1ef81C770cE6fD7276eA6C01                   | 10    | 0         | 10         |         |
+| 0xadff756a4427d7cd5e9bbc1ef1431b66af18e4f8                   | 10    | 0         | 10         |         |
+| 0xF95DeA550B580bD24FbCb6bd3edA6f2219270d88                   | 10    | 0         | 10         |         |
+| 0xBd148C89dDb0158143ECb2b1EeE59Df11444F646                   | 10    | 0         | 10         |         |
+| 0x549b49DCEb62C4D0dD1f54a37Bff9d4B12A2d88e                   | 10    | 0         | 10         |         |
+| 0x45Bd72588B416f202A00Ee29FaCB8e2059b27Ad2                   | 10    | 0         | 10         |         |
+| 0x85249B385834e4Fc3e0101e231f80Cad1dF8BC86                   | 10    | 0         | 10         |         |
+| 0x2468E4292d566Bdc8B7E854CbFF18d7516560294                   | 10    | 0         | 10         |         |
+| 0x1ea865ACF307B568Cc253B078d697f750f20B110                   | 10    | 0         | 10         |         |
+| 0x96e58C1570ab0EEC6e294BF215da17F57df7156d                   | 10    | 0         | 10         |         |
+| 0xadff756a4427d7cd5e9bbc1ef1431b66af18e4f8                   | 10    | 0         | 10         |         |
+| 0x6B3eaf2B9356Bc68792Ae8Ff66ADC068F919a6D6                   | 10    | 4         | 14         |         |
+| 0x026aEa763B3852CE60ADB454565b908a7fBD1C00                   | 10    | 0         | 10         |         |
+| 0x04e93B1FC4291f263F996D5DfC6461e6477767DF                   | 10    | 0         | 10         |         |
+| 0x4038aCcbC52C0fefBdfEBc6D9D62FD0af1F61954                   | 10    | 0         | 10         |         |
+| 0xa131dd131cC223d662bC3403924689ACEE663773                   | 10    | 2         | 12         |         |
+| 0x2034C79de412eC7DbbCb12dba04523b297Ae28e2                   | 10    | 0         | 10         |         |
+| 0xdD8331dA8e74250516bAdbcB0aA47aA8a8E01cFB                   | 10    | 0         | 10         |         |
+| 0xd177B2aeC42D9fc25b5249e7dD7e6dA1c67ff566                   | 10    | 0         | 10         |         |
+| 0xBc4C4c99862Ad744E965d24EE76e60107d6Fb0b1                   | 10    | 0         | 10         |         |
+| 0xc9B42F21eD990dF817CEC6a6A9126805B0C0295a                   | 10    | 0         | 10         |         |
+| 0x75B61111763E0e3790d616750E1556787507d03A                   | 10    | 0         | 10         |         |
+| 0x1c7Ce5E886E401f106Fa92Ce68bFeF20B3ABe779                   | 10    | 0         | 10         |         |
+| 0x359873E96ce5641dB598b25A85675A5e329F4437                   | 10    | 0         | 10         |         |
+| 0xA22f5feaD7511AC800242c905649A09f293Ae2b6                   | 10    | 0         | 10         |         |
+| 0x95c018fdCE4d7bD435d9Ec2136491bF40e3d8294                   | 10    | 0         | 10         |         |
+| 0xB719b5f0cafFFb4609056B154DD34a03Fad5F813                   | 10    | 0         | 10         |         |
+| 0x8507855cD4D27E8F17A7A4868BBD0D4F9CBF7068                   | 10    | 0         | 10         |         |
+| 0x8063F169BFEE2250Bb42Ffb0FCa97850b7989954                   | 10    | 0         | 10         |         |
+| 0x70242D809C3F1FF9bB750CCdDA6fFEe5358d89A8                   | 10    | 0         | 10         |         |
+| 0x09FaF2874DECA727c4BCc539eE978022CAdE1685                   | 10    | 2         | 12         |         |
+| 0x7f6A4c63230037f04FeB47385aA2a80DA588A939                   | 10    | 0         | 10         |         |
+| 0xac420e4a8999B2b6866CA8ABb870d6C658FeD8aD                   | 10    | 0         | 10         |         |
+| 0x4DAD31Cf251D7a2203E3A70EB915E7D83EbC9Ee3                   | 10    | 0         | 10         |         |
+| 0xd97688abA800dfd716Ed5DAbb56EeC051a79E573                   | 10    | 0         | 10         |         |
+| 0xD8770fa52e3d7d8b4077949ABcD2eD4a253D4c66                   | 10    | 0         | 10         |         |
+| 0x117751C580180113DEBa2353f379BeCe6F62bE85                   | 10    | 0         | 10         |         |
+| 0xd5D4e0F4509a2Be660D7Cda4Ad4D34dBb2E3a7bb                   | 10    | 0         | 10         |         |
+| 0xadff756a4427d7cd5e9bbc1ef1431b66af18e4f8                   | 10    | 0         | 10         |         |
+| 0x7336AEd31748b4852f2a1a11d4EcF4558Fc49b3e                   | 10    | 0         | 10         |         |
+| 0x0C8c18d4dDedD2EEF954aEd565B224167D2D5718                   | 10    | 0         | 10         |         |
+| 0xC35143490B1a98d235d8BDF09A3E92d0f46Effd4                   | 10    | 0         | 10         |         |
+| 0x8B3382F3B8517F846f41b6A2d90900645b833A61                   | 10    | 0         | 10         |         |
+| 0x3ECd83bF4260aEcc1d42c90d07E3A179E6db608e                   | 10    | 0         | 10         |         |
+| 0xE7418D91A6666a58D3D098698C21D191ba36ED2c                   | 10    | 0         | 10         |         |
+| 0x578884B9E3a5A6eDeEcd73Af87C77C8305DBeb01                   | 10    | 0         | 10         |         |
+| 0xDeb159C61801071D22429594aAE3373F8a95DFF0                   | 10    | 0         | 10         |         |
+| 0x06D2349Fadaa89AA7B9760FB2E9c59b7DF67cEC6                   | 10    | 0         | 10         |         |
+| 0xAa0B66a8564D82e9A40371fBe76E04e672506dFB                   | 10    | 0         | 10         |         |
+| 0x82931170a147eF27Fa0654Df43FE3A4e8EE523Ff                   | 10    | 0         | 10         |         |
+| 0x96ef9932f97884cbB90E513654Aa9df80d2FaC0d                   | 10    | 10        | 20         |         |
+| 0x5F4cC3e779AbC09931aa66eF4c9Ed3DF0657182D                   | 10    | 0         | 10         |         |
+| 0xD4D6133832911eE0E944B3D43e5455c5aCdABbea                   | 10    | 8         | 18         |         |
+| 0x98Abe23290Ff8EaA2C4Fc320aB5bE0900a93AC9B                   | 10    | 0         | 10         |         |
+| 0x782E62893F0579A80B3599d70d3981ce2737cDa6                   | 10    | 0         | 10         |         |
+| 0x2C7ddfD8901350a015fbAEdb48adc2De86d82Fc0                   | 10    | 0         | 10         |         |
+| 0x345E23c32D378dcD3e9953acF27B62b5421ef671                   | 10    | 0         | 10         |         |
+| 0x9310Fc79eaf4193751Dd2892956b0aFf5789eE89                   | 10    | 0         | 10         |         |
+| 0xFC5DE2386378873BAFEB324EA6bD9A679f6f2295                   | 10    | 0         | 10         |         |
+| 0xEB081698F4667278824af9F438D32C0A0CF066FC                   | 10    | 0         | 10         |         |
+| 0xbCDb3A9D77b3C21b72690dc30cb5747c7c4a0C13                   | 10    | 0         | 10         |         |
+| 0xd00809171438C6c2ac81B673b1496b7A1990F2dB                   | 10    | 0         | 10         |         |
+| 0x352c6cc138a69e0b23634d9058C9Fe6607575Fb0                   | 10    | 2         | 12         |         |
+| 0x3C9E0D2fD03D0D05c91Fa9d5Eb5c6D57B62e47ae                   | 10    | 0         | 10         |         |
+| 0x95d5D4F2a77d46f2d746A1400d4E5df996760e45                   | 10    | 0         | 10         |         |
+| 0xcb66D3631CA8Ffc86Ad6b96Dd7Ce7F16391c1FC9                   | 10    | 0         | 10         |         |
+| 0x5935b9e2009AB7C3300A2B7195f8eEE4DFA07dCD                   | 10    | 0         | 10         |         |
+| 0x8F86fEacC2849cE7206Efe4B8353B53cEb312a88                   | 10    | 0         | 10         |         |
+| 0x356191Dc52a804dE27BC0Fc871dc032a1626Bab6                   | 10    | 0         | 10         |         |
+| 0x3e57116f7FbFecD80D9fcCCD3939Cc45abed7C32                   | 10    | 0         | 10         |         |
+| 0x4459eA4A5c8c71743Ab51bAfd54EA3992014c453                   | 10    | 0         | 10         |         |
+| 0xAd964c6689C53FDe3a05dA5C38C18eC4a9aA1D39                   | 10    | 0         | 10         |         |
+| 0x9390cD24EA35D77b455D224E8c23Bd0241Fc9c37                   | 10    | 0         | 10         |         |
+| 0x426E5CF7803f1aeD2f9446c3FA3721954B98DC87                   | 10    | 4         | 14         |         |
+| 0xFf71c4edc3F6537d513e689A4Af5F90CbBbeB406                   | 10    | 0         | 10         |         |
+| 0xcefd49D717cB1653F4E5c11Ba21d2ead344276b8                   | 10    | 0         | 10         |         |
+| 0x28694C3f37ea77f8b19de62F77CDa861f410dAC0                   | 10    | 0         | 10         |         |
+| 0xb2856cf116564cB13f86780C235759BaFb399769                   | 10    | 0         | 10         |         |
+| 0xFf412C3aD1b95605885cc0eD9a0A393837a235BB                   | 10    | 2         | 12         |         |
+| 0x74c8E5201aaB5251f9222d22f5a7d14782A3f4d1                   | 10    | 0         | 10         |         |
+| 0x33f99915138143a1301A277c0E896AAE2959Ca7E                   | 10    | 0         | 10         |         |
+| 0xB0D4ed09EAbf199f24D6b315338dfD874Ab5Ef6d                   | 10    | 0         | 10         |         |
+| 0x0Ced3C5D9ddD0a224848564e8cD9661Eaf3Ca685                   | 10    | 0         | 10         |         |
+| 0x542485Da5E5D7793287176C6159a620d4E720952                   | 10    | 0         | 10         |         |
+| 0x4e73D0C374C21774D339477cA33658A24f57a8C9                   | 10    | 2         | 12         |         |
+| 0x8F20138497c9A97f5842e24a3beB0d23bFdf8e32                   | 10    | 8         | 18         |         |
+| 0xDbc89477486471128cDa29b9D936785eCA8F6404                   | 10    | 0         | 10         |         |
+| 0xf990D30D32C29Bd67de690684255a71d24Ba68F1                   | 10    | 0         | 10         |         |
+| 0x871FDEeD0E1e951A22b436C8FCaBc132502604cc                   | 10    | 0         | 10         |         |
+| 0x0e07e8DDa9aB550E2a1CB990Da31fD0470BCD6Aa                   | 10    | 0         | 10         |         |
+| 0x3026aC78993862836790550232334dbC90a64BD7                   | 10    | 0         | 10         |         |
+| 0xB4e4B1ABe50Cc1d2CD776158063a060164598669                   | 10    | 2         | 12         |         |
+| 0x917319C29f9dBe3a4b4bD547049fE087416F9fD4                   | 10    | 0         | 10         |         |
+| 0xE44919782289718464154DCb82e914219f4F3131                   | 10    | 0         | 10         |         |
+| 0x8Ef69bac5D6779C187668Ac7DBDAD7E99Dc192b9                   | 10    | 0         | 10         |         |
+| 0x68dDf4DbdC3CeaE33DFaA5Adcc759b485C6D6a55                   | 10    | 0         | 10         |         |
+| 0x22FeE89Fed6f3f3F5876c2F0dFC24c01D9eb85Ed                   | 10    | 0         | 10         |         |
+| 0x70AD3E4963C00650f093499249Fa7D9FFA1510Ee                   | 10    | 0         | 10         |         |
+| 0x5Af55cD85c38FE1E4D82FBC355971f51B33463b0                   | 10    | 0         | 10         |         |
+| 0xC62c0b92C2Bc20a4afB96C433fa73dE8dE004dd0                   | 10    | 0         | 10         |         |
+| 0xa741138710b212581E7C7F3c171Ff3A3F3dc9546                   | 10    | 0         | 10         |         |
+| 0xeEd71D7d1033bfd0E4614e45382541175c0CAb95                   | 10    | 0         | 10         |         |
+| 0x8A88f00B2D88f834E83D5c3564B7d1e88443e28F                   | 10    | 0         | 10         |         |
+| 0xe0363bE694fF8dba1022Ae8e9670C6d771C14Fb7                   | 10    | 0         | 10         |         |
+| 0xdc535D00be4dA9Bb769a27d3597e9ab1a46F38ae                   | 10    | 0         | 10         |         |
+| 0x76d18Ed8ECf957a58bd3A0f3f43F06199796B130                   | 10    | 0         | 10         |         |
+| 0x0540ED2d576504B70B88d4A9d4Bf96573b5087A7                   | 10    | 0         | 10         |         |
+| 0x7d73ABe1bD1979B2dDB3a35817725331f31002ED                   | 10    | 0         | 10         |         |
+| 0x1aDB0dA4bd3e604F5eF33577fbe649bD560448a1                   | 10    | 0         | 10         |         |
+| 0x432ce759a9Fd0D954484c141d6036E6F3F2B4F78                   | 10    | 0         | 10         |         |
+| 0x452De4ee8ee95e67D42e124AFBF56b1e4907b240                   | 10    | 0         | 10         |         |
+| 0xd70f1b1Da1ddE7b72c7bDF74929b49eDA887e0c2                   | 10    | 0         | 10         |         |
+| 0xF5cbdE1A1ab1609A35Cd339f568e001896f6B03a                   | 10    | 0         | 10         |         |
+| 0xCF5113E7E8a8BD2e75AFeb4d8525C5AF22745E42                   | 10    | 0         | 10         |         |
+| 0x623A2D713b62348E93799939f1DDb91c2f981323                   | 10    | 0         | 10         |         |
+| 0x0b538E8C7DE2fD525F2457276EAA8420e9dd7906                   | 10    | 0         | 10         |         |
+| 0x81C70C1f3913cfE0dF06f9859fDD6Ca8dB646Cc8                   | 10    | 0         | 10         |         |
+| 0x0d02B0c1aD8Ca906b6F170278D54B2667b5C87cC                   | 10    | 0         | 10         |         |
+| 0xCC129cA313646b200679cC200c1399C406391583                   | 10    | 0         | 10         |         |
+| 0xC03960606Ce365Ca5CEE24922dB661736fEF7765                   | 10    | 0         | 10         |         |
+| 0x9b631813BB889F634603293bDCF0a66876b6E6dC                   | 10    | 2         | 12         |         |
+| 0x062f3692004C77cF8cCC8ECe7d680eC505E8fc0B                   | 10    | 0         | 10         |         |
+| 0x8A969DD891d9Fea45d8ffd3096BAE0f200F0F65D                   | 10    | 0         | 10         |         |
+| 0x12375f7658Ec0A3C94f272692a843956689AfA6e                   | 10    | 4         | 14         |         |
+| 0xF8af70457103CD3e34e912d383Da22bdbb5d58B0                   | 10    | 0         | 10         |         |
+| 0xA2e070A28834B7eF78a896EcCcC10ee3C86EfF31                   | 10    | 0         | 10         |         |
+| 0x45659420A9088501B48Ae13b040F297037CC650d                   | 10    | 0         | 10         |         |
+| 0xF0B18703F3d65aD5369e7ade15D86C75477794CA                   | 10    | 0         | 10         |         |
+| 0x5b4c3B493B5aFF540e8269BE8b31FaDfbd960855                   | 10    | 0         | 10         |         |
+| 0xA0e88db092cC46a77cc78dEDA45AcD563827eDfB                   | 10    | 0         | 10         |         |
+| 0x5B4f08533aaFa7eb2E05F3BA434C180246F03397                   | 10    | 0         | 10         |         |
+| 0xD6F43e394216aC9B82Bd99604Bd38D66d4C7DB57                   | 10    | 0         | 10         |         |
+| 0x0aFB25b4F4B888e8Ec6167695a133c9eaf5cb64e                   | 10    | 0         | 10         |         |
+| 0x0857b56535D7E79b2B4c875A36771812718179CB                   | 10    | 0         | 10         |         |
+| 0x0963c09Cb5d3cE06962F15930d86EBd424203fE5                   | 10    | 0         | 10         |         |
+| 0x238EB3933f59D785b0974089FDF059b750B5C00d                   | 10    | 0         | 10         |         |
+| 0x1BE4f920D61102082A1fc22DbCEaE0D4e732Ea16                   | 10    | 0         | 10         |         |
+| 0xadff756a4427d7cd5e9bbc1ef1431b66af18e4f8                   | 10    | 0         | 10         |         |
+| 0xb896d9bf28828c981ef2a83e2a9560cb692e7f0c                   | 10    | 0         | 10         |         |
+| 0x5C7C424d716Bf2FBb24cAf7c6Ab0187CFb7B7865                   | 10    | 22        | 32         |         |
+| 0xaa5F71A880421b47910ccA1D82704c50c7b1cF99                   | 10    | 0         | 10         |         |
+| 0x155d7010B8aB8001921a84b89d888b5b020bf052                   | 10    | 0         | 10         |         |
+| 0xfEDC12D1Bfc0adBCAc9d3ADA136B7048bdb74D44                   | 10    | 0         | 10         |         |
+| 0x867AC638a84C35B5962405a0e099cc7e8012D206                   | 10    | 0         | 10         |         |
+| 0x2f0626d793138723C71532CB006111819012d920                   | 10    | 0         | 10         |         |
+| 0x04e304c5dc85e676318384165096d577b4b64c74                   | 10    | 0         | 10         |         |
+| 0x39A76f8EdbFcd828704A3C6BfB658408eFFd5c50                   | 10    | 0         | 10         |         |
+| 0xc1a54A2D4276248CA981AD3E77c4Aa973ddbEdcb                   | 10    | 0         | 10         |         |
+| 0x31b61Ef0ae529a1b5a80Cb721b5D88F9b8E441c4                   | 10    | 0         | 10         |         |
+| 0x53951cE972e37AEDd1D053Ac9Bad363B98F35b76                   | 10    | 0         | 10         |         |
+| 0x6A998038F5854BdA2e9748c0CC3e729FE19E8C7c                   | 10    | 0         | 10         |         |
+| 0x9b85a4E2A113c7d82eA387fFC55fE518b6FebDA1                   | 10    | 0         | 10         |         |
+| 0x3C5Cf28E610b5AFb1688560E80cAf0233bf6688f                   | 10    | 0         | 10         |         |
+| 0xFc1efaFFb81a0c3cc841d0833a45eB51417402a0                   | 10    | 0         | 10         |         |
+| 0xEF86FB69194E89004b87e6f0999A8e7003C66982                   | 10    | 0         | 10         |         |
+| 0xa2260BdfA59084fD0c3bC921001BeaD3d6D83860                   | 10    | 0         | 10         |         |
+| 0x6f1a58A3d0CB89698E0aBeEFE09ae6A6a29Afef5                   | 10    | 0         | 10         |         |
+| 0x1C56c343026a151B691877546a30e60d45820c90                   | 10    | 0         | 10         |         |
+| 0xadff756a4427d7cd5e9bbc1ef1431b66af18e4f8                   | 10    | 0         | 10         |         |
+| 0x6379f191C10B0433ffc831A6d64e774222A3829b                   | 10    | 40        | 50         |         |
+| 0xa223B9dbA912155ba85AAa85F9507e8770E416B9                   | 10    | 0         | 10         |         |
+| 0x00C0c43eaBF6CdecbF4F192495edB12A3E547378                   | 10    | 0         | 10         |         |
+| 0x2309D77f49cD4c5D4E673246BB37E4A0921f174e                   | 10    | 2         | 12         |         |
+| 0x90D5984a5983eD42005d48F0658eb678F7607DAC                   | 10    | 2         | 12         |         |
+| 0xcA714338fe4512F27e183266c03B4034a9728483                   | 10    | 2         | 12         |         |
+| 0x3a2068D5C901915815643B759B868BAc383A4994                   | 10    | 0         | 10         |         |
+| 0x2C259ACda18a925fB7879fcb71FdF77A37760aF4                   | 10    | 0         | 10         |         |
+| 0x3B67eAFe88b5D56648AD0a67A9d0C34B0259788F                   | 10    | 0         | 10         |         |
+| 0x1A0466536136960638ab54599b9e9584fDd50cF6                   | 10    | 2         | 12         |         |
+| 0xA05eB0bc75FF6c084322eaf8D449DE71547a0E05                   | 10    | 0         | 10         |         |
+| 0x1eA13Be618C9a292518dB485b71EEdD655C164a4                   | 10    | 2         | 12         |         |
+| 0x9502f612eE4C7490EC3D55C2621Ee62C25344f35                   | 10    | 6         | 16         |         |
+| 0xCdA17939F611cF31A054d0E605c9b1742074Aa65                   | 10    | 0         | 10         |         |
+| 0x9083a2169eE8D671A8A6eDdb4c52C7e32b5D2FC5                   | 10    | 0         | 10         |         |
+| 0x80d15863F37A239DFb6f29853a8Df0E83c73180F                   | 10    | 0         | 10         |         |
+| 0xf7d41846485948AE7A5A0513F5E1009a114EdF89                   | 10    | 0         | 10         |         |
+| 0xd06479a8faaE36324A9b6Ee23C2FA7b52EA35dbE                   | 10    | 0         | 10         |         |
+| 0x47E0Ab3748328B0eE441A2E466962032be6fABa9                   | 10    | 8         | 18         |         |
+| 0xD1948715c47EC823ff6a798D78580059664E8AdF                   | 10    | 0         | 10         |         |
+| 0x0aA2eE4674980C8447f3f7190501d8A7e4137632                   | 10    | 0         | 10         |         |
+| 0xf063442ecccc02b41bFF304E70052db07eF2fCbB                   | 10    | 0         | 10         |         |
+| 0x2a86F334C4E1471aA32C8A1615469BfB14a0cA2a                   | 10    | 0         | 10         |         |
+| 0x979b145491A4D818913b56Fd07426e8090b26944                   | 10    | 0         | 10         |         |
+| 0x89EA8Ab8b3868fAF7142b7ce44683DDA01fAd44C                   | 10    | 2         | 12         |         |
+| 0xa8aEEbAf63C0DDaB439E5b1849b0a641Ff743938                   | 10    | 0         | 10         |         |
+| 0x96061D06D77Ff7eA362e7845A5e6f99929bc6550                   | 10    | 0         | 10         |         |
+| 0x93987597C9bB5413afd526969a6FE0b28d16a27C                   | 10    | 2         | 12         |         |
+| 0x046d000753a57AB99DF78ae0C4F7D7d9208fFc93                   | 10    | 0         | 10         |         |
+| 0xA8D658D03af2f4eaDB7Ccec0bA9617b07A7cAd84                   | 10    | 0         | 10         |         |
+| 0x341718f9D9a9f7b6A870CA8150C11C38C9A6Eab0                   | 10    | 0         | 10         |         |
+| 0xCf7c5a631343bA2a8B072bFb2614D5e3581c01b2                   | 10    | 0         | 10         |         |
+| 0x517Ec7fB89cFCd6F361982385d4d6065331bc689                   | 10    | 0         | 10         |         |
+| 0xd46e5431adE1bA417d356E165f44Df7C1209Bf4e                   | 10    | 0         | 10         |         |
+| 0xE209fa40B79cf4386412c04B1B2A8552297D7C55                   | 10    | 0         | 10         |         |
+| 0x185C90Da9771725D76aa79FaB17cC504fdd18b47                   | 10    | 0         | 10         |         |
+| 0x8a9b3ED2467d3F6B607D224e64E757A28c0eaDd8                   | 10    | 0         | 10         |         |
+| 0xe94B93cb0726EDA3207a0A46BC34EB7C34D1eDCe                   | 10    | 0         | 10         |         |
+| 0x78e387730c63879DFc527b97818CB1BEC7b06e2C                   | 10    | 0         | 10         |         |
+| 0xcE8e0E0f5f40AF2de954ECFE2cbf0C38e30E0E73                   | 10    | 0         | 10         |         |
+| 0x22F6E173EE638eAC5Ef235A750990e049b9Cc62A                   | 10    | 40        | 50         |         |
+| 0x2a1a65b74821592E3c23e06e74Ff03588Ea1262c                   | 10    | 0         | 10         |         |
+| 0x1398665aAb8027320344bF1563C8aE684F82346b                   | 10    | 0         | 10         |         |
+| 0xF174b942E5eE54bB747CDD4DEE788478a92DBDDa                   | 10    | 0         | 10         |         |
+| 0xF8594f328d6C15aA1d19E130160316A49207f855                   | 10    | 0         | 10         |         |
+| 0x8C1B69acc3b26Fa7344b4eE73C4e6652740a271f                   | 10    | 0         | 10         |         |
+| 0x7a2b787057d42463F466D621344730317c3c32FB                   | 10    | 0         | 10         |         |
