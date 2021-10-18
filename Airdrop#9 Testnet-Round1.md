@@ -1,0 +1,103 @@
+##### Theme: DNFT Protocol Testnet Airdrop（2021.10.18）
+
+##### Activity Link:https://medium.com/dnft-protocol/dnft-protocol-testnet-application-airdrop-83159458bd0c
+
+##### Address Type: Ethereum
+
+##### Winner List
+
+| Address                                    | DNF Amount |
+| ------------------------------------------ | ---------- |
+| 0x2dF61E1CEF99ae1b8Af7471357c846C5E2e623eD | 500        |
+| 0xcf44ee7E78518aB44d9395BBA247aC013E0Ca238 | 500        |
+| 0x7154c49FFDf2Cb6A180E8d7D110FC31a1979722A | 500        |
+| 0xcA75928E3F6485c344073400f56dC708F84f2498 | 500        |
+| 0x6B9ABD495AE9c7d878F2e29fEaeAD3c86B45a7a9 | 500        |
+| 0x95a72E79Cd5145D30b6BA9D2e35E01daf6257B   | 500        |
+| 0x53CE838d63763Cf6272B22EbB8C56feff775d983 | 500        |
+| 0x32BaD48b136c8794Ae2484cb2dF9a242FAd6C9Dc | 500        |
+| 0x67f6d0F49F43a48D5f5A755AF95c72b5186d9f   | 500        |
+| 0xd6B28c6e0dfa65C974363f0a9f8AB634eD313b6C | 500        |
+| 0x797dd6960d9d65b95509e832fe0f9594a85d5608 | 10         |
+| 0x0e6ac93915888524411c43545289580a439c2d   | 10         |
+| 0x03aa6be4d4a8d9ea1623148eb9813e8ddd75fece | 10         |
+| 0xe72d929ae69360a2b9ece4b57b314f0af9417740 | 10         |
+| 0x2aaf22f86e77fb9b3713e719634c71ae35829e2e | 10         |
+| 0x972ce2a5930b3c0d1e70ca71d8955efac80985dc | 10         |
+| 0xb74322c188846a222512b2e8f98b187bc5f5497b | 10         |
+| 0xe6eccb5be6fc935dc47902a30b3c65d87d66b6af | 10         |
+| 0x98f9ec09d83f4debcbe90174bb076ea064fd58ea | 10         |
+| 0x2972b6fa2238aec27a3d15d067357d0fb3673114 | 10         |
+| 0x129fe656c639a458906e9d72a67b099dd7a58986 | 10         |
+| 0x040315cd634d9d92ad3d56c874cc946d86c55bf3 | 10         |
+| 0x37f7ef7f3121d49f768f152ffaaeed99fcff832c | 10         |
+| 0x99224b0f90c212cd1a879db845777329a2f0b5f4 | 10         |
+| 0x77bc136f72d6d63e941884c39ea37dffbeeff9   | 10         |
+| 0x01181354f3293ca7Cf10dCA7b2fdE24d28CEA441 | 10         |
+| 0x3cd7101e8274aa3395a0da8f16ec00789b4e9aed | 10         |
+| 0x7d58f1d1907a343bf349ae09967f4d61813b1b8e | 10         |
+| 0x2373d26cfedd1c67ee7907d5f9d13784156c8ea0 | 10         |
+| 0x1adeb29b9d005c067372bd14bfbad971437daf63 | 10         |
+| 0xec5beb264d0b7bb0a3a1a686050f3b00ed8f33de | 10         |
+| 0x9d1636d5b11fbcaf4806bea6610777c382591c43 | 10         |
+| 0xAA7D3b64000e77cc12416d9D91b78151E909BcC3 | 10         |
+| 0xc6f1c9312ed4d0e01b58be4d38bd2f30762bf32e | 10         |
+| 0x7b108e8fd1dc56bb4ceb6a8d6be66c9caffb75f7 | 10         |
+| 0x92c7e3fc4831784c9fefe3c9929444fb7a16e870 | 10         |
+| 0x1beb1a929e64fb0c421f4ffa22b14ef3c672354e | 10         |
+| 0xec3ebd59f4f4a9face0ccf5091f75a9426d10864 | 10         |
+| 0x768d2feb1ebdd1ecc0e31da76d52e0340cb0b3ad | 10         |
+| 0x8d510380a1eff43d24967398be9bb36a7b348fc0 | 10         |
+| 0x51c292a34334a8f03651cf19b292da9ee4bfadef | 10         |
+| 0xb07d09ce58a31b8b12516db8fb72db07db7f3ffd | 10         |
+| 0x792f327b585aedb3133d3d7050bd58d275676ab3 | 10         |
+| 0xef6b761d5e92cb3ffc16ef14423cb8e0b88b31cd | 10         |
+| 0x7bbfb2285e3fcd12790448c973d3054fd80bcdc0 | 10         |
+| 0x1dfe010cba2549ef30ed508c91eeebef861cee0c | 10         |
+| 0x70aef56b70091b99605a6ebc618676faec0004   | 10         |
+| 0xf2926afac71cd1572dbf9416364f733b65ab     | 10         |
+| 0x292558e3c64333984876F9fdF335be269Df8cBC7 | 10         |
+| 0xc179c4eba333fe0a3ea679d87433eb795871210d | 10         |
+| 0x27a7192e8995e92e1088f612113685749574e22b | 10         |
+| 0x4b5b058641a7f103a73be5a8fcacb2de6ffcd378 | 10         |
+| 0x48387a5518f1c69ed92eb95d89975c4a4d6ba8   | 10         |
+| 0xa3cb75bc5aa06d30c7fc603cbe28a31669370751 | 10         |
+| 0x3baf67ffddb84b3fda33cbbb58baf48699b48427 | 10         |
+| 0xe4d45c1d6d0eb01673979d943bcdca1c2589e3c8 | 10         |
+| 0xce556323051e9d68da8e2db95d7f930066f5a54e | 10         |
+| 0x2db6ed41bf50d423b18049952c10dce0e2b7b0   | 10         |
+| 0x98C24DcF7B9276986bfB78E9bde3A49C7E934B65 | 10         |
+| 0xaa0a0e215074377e60ae51721e1f2ca94f6638   | 10         |
+| 0xc044229c7fadad1b96c5008257012b36fb4316ee | 10         |
+| 0xd13e33c8ccc8f59fc69c7d5605466a3059b9ca0d | 10         |
+| 0xa605d1de36525aae6107331c187324bb2fe0f454 | 10         |
+| 0xDa1166879Fd6C311dF435e9C5DD9D718Cc0c0aAB | 10         |
+| 0x8231613df21ea07cf2e26603b006b44c9ebed736 | 10         |
+| 0xabeeda849fd97cd539e624a8c94ab2f5173989f2 | 10         |
+| 0xDc677780b11476DB678fee7613A2Cd2D82Cb5674 | 10         |
+| 0x389e489c43f5055689c37d549d02c844b4fafe09 | 10         |
+| 0xa0676edd171904f489d7e76b554e11e0167397c3 | 10         |
+| 0xb722bcdf6f7aa75eb487af23e3a631d04141a053 | 10         |
+| 0xb0c5f742802f54fbe21c52eb89ee752facc056   | 10         |
+| 0x304b3baf0f3e18c76b6d3ef51b00b7eb86ed1bd3 | 10         |
+| 0x065dc2fbdcbd3a9d09dd516ac39136eaca2353e9 | 10         |
+| 0xefaf50ce6d02769d318a3c46ac0840f3bde9180c | 10         |
+| 0x30826c6e3e0d00b58c23f0471144cc2366544fa6 | 10         |
+| 0x3dd2a596124fc00616861ad56ba4c3e3364e7ec6 | 10         |
+| 0x6efd8b21f3f41563778c4a31581e6b445b1879   | 10         |
+| 0x51ec88e2176ed972b114ab4d3d99d2896252ff   | 10         |
+| 0x5396e9ce66238b5a9a3c2a1ec00b84b4f99f4a75 | 10         |
+| 0xa0778cd151098f15b555b5bbea7d60bc025a48b1 | 10         |
+| 0x8ecb489feb482eeca6dd5d1eb837aca69d7522   | 10         |
+| 0x137ef9f9cb1ec8a09d90cbb3de4a4bd78837c9   | 10         |
+| 0x2f3ef031e96ad4a9e906f659084269ba3c5cbf   | 10         |
+| 0xd8b6153c60908d66c953ac7af22cb03aa1ce38   | 10         |
+| 0x0bfdf9774cd4fcfe95c69e7507303006f7e1caf5 | 10         |
+| 0xcc3dff059186dd7f7df9c759602f06fa8100f370 | 10         |
+| 0xabb08909b79af91f68783b38473e77c0edbb69bf | 10         |
+| 0x140e7CFc112498D59D37eD532ef368FE3eA6D8   | 10         |
+| 0x4fa5f41c3d90527cec19a6b3bb84afb885baf1   | 10         |
+| 0x5ba7f0ae8bc85889e1527b5a3cbea9d98de6a9eb | 10         |
+| 0xd8a415f15d41ebe85f0de0e28e0f31794cd685c4 | 10         |
+| 0xe41b248d3c847c70340a60c82a789b8212ad59b9 | 10         |
+| 0xca9449b5c065ea5dcaf9110e8e9f8d8f28c15fc1 | 10         |
