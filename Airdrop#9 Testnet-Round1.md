@@ -6,7 +6,7 @@
 
 ##### Winner List
 
-| Address                                    | DNF Amount |
+| Address winner                                   | DNF Amount |
 | ------------------------------------------ | ---------- |
 | 0x2dF61E1CEF99ae1b8Af7471357c846C5E2e623eD | 500        |
 | 0xcf44ee7E78518aB44d9395BBA247aC013E0Ca238 | 500        |
